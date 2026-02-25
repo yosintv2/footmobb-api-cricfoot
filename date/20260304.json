@@ -6,7 +6,14 @@
         "league_id": 17,
         "league": "Premier League",
         "venue": "Vitality Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "Peacock"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14023941,
@@ -15,7 +22,14 @@
         "league_id": 17,
         "league": "Premier League",
         "venue": "Hill Dickinson Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "Peacock"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14023982,
@@ -105,7 +119,20 @@
         "league_id": 329,
         "league": "Copa del Rey",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Andorra",
+                "channels": [
+                    "TVE La 1"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "TVE La 1"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15496190,
@@ -119,10 +146,10 @@
     {
         "match_id": 15253550,
         "kickoff": 1772575200,
-        "fixture": "Winner C3 vs Carabobo",
+        "fixture": "Club Sporting Cristal vs Carabobo",
         "league_id": 384,
         "league": "CONMEBOL Libertadores, Qualification",
-        "venue": "TBA",
+        "venue": "Estadio Alberto Gallardo",
         "tv_channels": []
     },
     {
@@ -321,7 +348,14 @@
         "league_id": 336,
         "league": "Ta\u00e7a de Portugal",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Portugal",
+                "channels": [
+                    "RTP 1"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15190971,
@@ -876,15 +910,6 @@
         "match_id": 15569902,
         "kickoff": 1772568000,
         "fixture": "Doncaster Rovers vs Stockport County",
-        "league_id": 334,
-        "league": "EFL Trophy, Knockout stage",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15615536,
-        "kickoff": 1772652600,
-        "fixture": "Luton Town vs Northampton Town",
         "league_id": 334,
         "league": "EFL Trophy, Knockout stage",
         "venue": "TBA",
@@ -1575,6 +1600,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 15605734,
+        "kickoff": 1772647200,
+        "fixture": "TSV Steinbach Haiger vs Kickers Offenbach",
+        "league_id": 1079,
+        "league": "Regionalliga Southwest",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 14968482,
         "kickoff": 1772560800,
         "fixture": "Bayern M\u00fcnchen II vs FC Augsburg II",
@@ -1953,18 +1987,18 @@
         "tv_channels": []
     },
     {
-        "match_id": 14324639,
-        "kickoff": 1772629200,
-        "fixture": "FK Arsimi 1973 vs Tikve\u0161 Kavadarci",
+        "match_id": 14324646,
+        "kickoff": 1772542800,
+        "fixture": "KF Shkupi vs Bashkimi 1947",
         "league_id": 199,
         "league": "1. MFL",
         "venue": "TBA",
         "tv_channels": []
     },
     {
-        "match_id": 14324646,
+        "match_id": 14324639,
         "kickoff": 1772629200,
-        "fixture": "KF Shkupi vs Bashkimi 1947",
+        "fixture": "FK Arsimi 1973 vs Tikve\u0161 Kavadarci",
         "league_id": 199,
         "league": "1. MFL",
         "venue": "TBA",
@@ -1983,6 +2017,15 @@
         "match_id": 15399598,
         "kickoff": 1772567100,
         "fixture": "Glentoran FC vs Carrick Rangers",
+        "league_id": 200,
+        "league": "Premiership",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15621585,
+        "kickoff": 1772653500,
+        "fixture": "Portadown FC vs Cliftonville FC",
         "league_id": 200,
         "league": "Premiership",
         "venue": "TBA",
@@ -2062,7 +2105,7 @@
     },
     {
         "match_id": 15273903,
-        "kickoff": 1772647200,
+        "kickoff": 1772640000,
         "fixture": "SC Braga U23 vs Benfica U23",
         "league_id": 11341,
         "league": "U23 Championship, Championship Round",
@@ -2314,11 +2357,20 @@
     },
     {
         "match_id": 15158653,
-        "kickoff": 1772636400,
+        "kickoff": 1772553600,
         "fixture": "Dynamo Kyiv vs Inhulets Petrove",
         "league_id": 312,
         "league": "Ukraine Cup",
         "venue": "Valeriy Lobanovskyi",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15158654,
+        "kickoff": 1772631000,
+        "fixture": "LNZ Cherkasy vs Bukovyna Chernivtsi",
+        "league_id": 312,
+        "league": "Ukraine Cup",
+        "venue": "Tsentralnyi Stadium",
         "tv_channels": []
     },
     {
@@ -2328,15 +2380,6 @@
         "league_id": 312,
         "league": "Ukraine Cup",
         "venue": "Chernigiv-Arena",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15158654,
-        "kickoff": 1772636400,
-        "fixture": "LNZ Cherkasy vs Bukovyna Chernivtsi",
-        "league_id": 312,
-        "league": "Ukraine Cup",
-        "venue": "Tsentralnyi Stadium",
         "tv_channels": []
     },
     {
