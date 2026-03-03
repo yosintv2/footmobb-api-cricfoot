@@ -6,7 +6,14 @@
         "league_id": 7,
         "league": "UEFA Champions League, Knockout stage",
         "venue": "Rams Park Stadyumu",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "HBO Max"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15631361,
@@ -15,7 +22,14 @@
         "league_id": 7,
         "league": "UEFA Champions League, Knockout stage",
         "venue": "New Balance Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "HBO Max"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15631356,
@@ -24,7 +38,14 @@
         "league_id": 7,
         "league": "UEFA Champions League, Knockout stage",
         "venue": "Riyadh Air Metropolitano",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "HBO Max"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15631347,
@@ -33,7 +54,15 @@
         "league_id": 7,
         "league": "UEFA Champions League, Knockout stage",
         "venue": "St James' Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "HBO Max",
+                    "SBT"
+                ]
+            }
+        ]
     },
     {
         "match_id": 13981699,
@@ -60,7 +89,15 @@
         "league_id": 384,
         "league": "CONMEBOL Libertadores, Qualification",
         "venue": "Est\u00e1dio Nilton Santos",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "ESPN",
+                    "Disney+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14288816,
@@ -78,7 +115,14 @@
         "league_id": 325,
         "league": "Brasileir\u00e3o Betano",
         "venue": "Est\u00e1dio Jos\u00e9 Maria de Campos Maia",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Premiere"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14109829,
@@ -123,7 +167,21 @@
         "league_id": 19,
         "league": "FA Cup",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Discovery+",
+                    "TNT Sports 1"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Discovery+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15479160,
@@ -600,7 +658,14 @@
         "league_id": 406,
         "league": "Liga 1, Apertura",
         "venue": "Estadio Alejandro Villanueva",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Peru",
+                "channels": [
+                    "Liga 1 Max"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14065049,
@@ -657,6 +722,24 @@
         "tv_channels": []
     },
     {
+        "match_id": 15530886,
+        "kickoff": 1773163800,
+        "fixture": "Al Bataeh vs Ajman",
+        "league_id": 971,
+        "league": "Pro League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15652376,
+        "kickoff": 1773163800,
+        "fixture": "Al-Dhafra vs Al-Jazira",
+        "league_id": 971,
+        "league": "Pro League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 14117860,
         "kickoff": 1773169200,
         "fixture": "Jong KRC Genk U23 vs Club NXT U23",
@@ -702,12 +785,39 @@
         "tv_channels": []
     },
     {
+        "match_id": 15269994,
+        "kickoff": 1773174600,
+        "fixture": "Newell's Old Boys vs Platense",
+        "league_id": 155,
+        "league": "Liga Profesional de F\u00fatbol, Apertura",
+        "venue": "Estadio Marcelo Bielsa",
+        "tv_channels": []
+    },
+    {
         "match_id": 15270005,
         "kickoff": 1773182700,
         "fixture": "CA Independiente vs Club Atl\u00e9tico Uni\u00f3n de Santa Fe",
         "league_id": 155,
         "league": "Liga Profesional de F\u00fatbol, Apertura",
         "venue": "Libertadores de America",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15269992,
+        "kickoff": 1773182700,
+        "fixture": "Tigre vs V\u00e9lez Sarsfield",
+        "league_id": 155,
+        "league": "Liga Profesional de F\u00fatbol, Apertura",
+        "venue": "Estadio Jose Dellagiovanna",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15270014,
+        "kickoff": 1773190800,
+        "fixture": "Sarmiento vs Racing Club",
+        "league_id": 155,
+        "league": "Liga Profesional de F\u00fatbol, Apertura",
+        "venue": "Estadio Eva Per\u00f3n",
         "tv_channels": []
     },
     {
@@ -1274,6 +1384,15 @@
         "fixture": "Mar\u00edtimo U23 vs Portimonense U23",
         "league_id": 11341,
         "league": "U23 Championship, Relegation Round",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15645564,
+        "kickoff": 1773068400,
+        "fixture": "ASA T\u00e2rgu Mure\u015f vs Chindia T\u00e2rgovi\u0219te",
+        "league_id": 562,
+        "league": "Liga II",
         "venue": "TBA",
         "tv_channels": []
     },
