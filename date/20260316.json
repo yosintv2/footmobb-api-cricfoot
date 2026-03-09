@@ -10,8 +10,14 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN 4"
+                    "ESPN 4",
+                    "Disney+"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Peacock"
                 ]
             }
         ]
@@ -60,6 +66,21 @@
                 "country": "Brazil",
                 "channels": [
                     "Disney+"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Sky Sports Ultra HDR",
+                    "Sky Sports Premier League",
+                    "Sky Sports Main Event"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Sky Sports Premier League",
+                    "Sky Sports Main Event"
                 ]
             }
         ]
@@ -134,6 +155,20 @@
                 "channels": [
                     "Disney+"
                 ]
+            },
+            {
+                "country": "Italy",
+                "channels": [
+                    "NOW",
+                    "Sky Sport Calcio"
+                ]
+            },
+            {
+                "country": "San Marino",
+                "channels": [
+                    "NOW",
+                    "Sky Sport Calcio"
+                ]
             }
         ]
     },
@@ -148,8 +183,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN"
                 ]
             }
         ]
@@ -190,8 +225,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN 2"
+                    "ESPN 2",
+                    "Disney+"
                 ]
             }
         ]
@@ -292,9 +327,9 @@
             {
                 "country": "Brazil",
                 "channels": [
+                    "Prime Video",
                     "YouTube - Caz\u00e9TV",
-                    "OneFootball",
-                    "Prime Video"
+                    "OneFootball"
                 ]
             },
             {
@@ -334,8 +369,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "YouTube - Caz\u00e9TV",
-                    "Prime Video"
+                    "Prime Video",
+                    "YouTube - Caz\u00e9TV"
                 ]
             },
             {
@@ -375,8 +410,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "YouTube - Caz\u00e9TV",
-                    "Prime Video"
+                    "Prime Video",
+                    "YouTube - Caz\u00e9TV"
                 ]
             },
             {
@@ -416,8 +451,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "YouTube - Caz\u00e9TV",
-                    "Prime Video"
+                    "Prime Video",
+                    "YouTube - Caz\u00e9TV"
                 ]
             },
             {
@@ -457,8 +492,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "YouTube - Caz\u00e9TV",
-                    "Prime Video"
+                    "Prime Video",
+                    "YouTube - Caz\u00e9TV"
                 ]
             },
             {
@@ -741,7 +776,28 @@
         "league_id": 36,
         "league": "Scottish Premiership",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Sky Sports Football",
+                    "Sky Sports Main Event"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Sky Sports Football",
+                    "Sky Sports Main Event"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "CBS Sports Network"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14035294,
@@ -750,7 +806,26 @@
         "league_id": 36,
         "league": "Scottish Premiership",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Premier Sports 1 HD"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports 1 HD"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "CBS Sports Network"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15270028,
@@ -790,8 +865,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN 3"
+                    "ESPN 3",
+                    "Disney+"
                 ]
             }
         ]
@@ -807,8 +882,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN 4"
+                    "ESPN 4",
+                    "Disney+"
                 ]
             }
         ]
@@ -1093,7 +1168,14 @@
         "league_id": 53,
         "league": "Serie B",
         "venue": "Stadio Comunale di Chiavari",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Italy",
+                "channels": [
+                    "LaB Channel - Prime Video"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14317600,
@@ -1228,6 +1310,24 @@
         "league_id": 136,
         "league": "A-League Men",
         "venue": "Allianz Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15689968,
+        "kickoff": 1773581400,
+        "fixture": "Red Bull Salzburg vs SK Rapid Wien",
+        "league_id": 45,
+        "league": "Austrian Bundesliga, Championship Round",
+        "venue": "Red Bull Arena",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15689970,
+        "kickoff": 1773590400,
+        "fixture": "FK Austria Wien vs SK Sturm Graz",
+        "league_id": 45,
+        "league": "Austrian Bundesliga, Championship Round",
+        "venue": "Generali Arena",
         "tv_channels": []
     },
     {
@@ -1448,7 +1548,7 @@
     },
     {
         "match_id": 15502474,
-        "kickoff": 1773615600,
+        "kickoff": 1773597600,
         "fixture": "Mushuc Runa SC vs Macar\u00e1",
         "league_id": 240,
         "league": "LigaPro Serie A, Primera Etapa",
@@ -1633,6 +1733,24 @@
         "league_id": 406,
         "league": "Liga 1, Apertura",
         "venue": "Estadio Inca Garcilaso de la Vega",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15689838,
+        "kickoff": 1773579600,
+        "fixture": "UTA Arad vs FC Hermannstadt",
+        "league_id": 152,
+        "league": "SuperLiga, Relegation round",
+        "venue": "Stadionul Francisc von Neumann",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15689839,
+        "kickoff": 1773675000,
+        "fixture": "FC Boto\u0219ani vs AFC Unirea 04 Slobozia",
+        "league_id": 152,
+        "league": "SuperLiga, Relegation round",
+        "venue": "Stadionul Municipal",
         "tv_channels": []
     },
     {
@@ -1852,33 +1970,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 15603903,
-        "kickoff": 1773599400,
-        "fixture": "Al Shamal SC vs Al Duhail",
-        "league_id": 825,
-        "league": "Stars League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15603899,
-        "kickoff": 1773599400,
-        "fixture": "Al-Arabi SC vs Al-Sadd",
-        "league_id": 825,
-        "league": "Stars League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15603905,
-        "kickoff": 1773685800,
-        "fixture": "Al-Gharafa vs Al-Ahli Doha",
-        "league_id": 825,
-        "league": "Stars League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 15217106,
         "kickoff": 1773572400,
         "fixture": "True Bangkok United vs Port FC",
@@ -1952,8 +2043,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN"
                 ]
             }
         ]
@@ -2010,7 +2101,20 @@
         "league_id": 10640,
         "league": "Serie A Femminile",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Bermuda",
+                "channels": [
+                    "Fox Soccer Plus"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Fox Soccer Plus"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14287053,
@@ -2243,6 +2347,15 @@
         "fixture": "Arsenal Dzerzhinsk vs Slavia Mozyr",
         "league_id": 578,
         "league": "Belarus Cup",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15690346,
+        "kickoff": 1773604800,
+        "fixture": "Botafogo-PB vs Sousa EC",
+        "league_id": 10295,
+        "league": "Paraibano, Mata-mata",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -2856,7 +2969,20 @@
         "league_id": 11447,
         "league": "Serie C, Group B",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Italy",
+                "channels": [
+                    "NOW"
+                ]
+            },
+            {
+                "country": "San Marino",
+                "channels": [
+                    "NOW"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14303568,
@@ -3498,18 +3624,18 @@
         "tv_channels": []
     },
     {
-        "match_id": 14349102,
+        "match_id": 14263461,
         "kickoff": 1773586800,
-        "fixture": "Portimonense Sporting Clube vs LGC Moncarapachense",
+        "fixture": "SU Sintrense vs Com\u00e9rcio e Ind\u00fastria",
         "league_id": 10093,
         "league": "Campeonato de Portugal, Group D",
         "venue": "TBA",
         "tv_channels": []
     },
     {
-        "match_id": 14263461,
-        "kickoff": 1773586800,
-        "fixture": "SU Sintrense vs Com\u00e9rcio e Ind\u00fastria",
+        "match_id": 14349102,
+        "kickoff": 1773601200,
+        "fixture": "Portimonense Sporting Clube vs LGC Moncarapachense",
         "league_id": 10093,
         "league": "Campeonato de Portugal, Group D",
         "venue": "TBA",
