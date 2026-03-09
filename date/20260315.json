@@ -10,8 +10,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
                 ]
             }
         ]
@@ -43,8 +43,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
                 ]
             },
             {
@@ -62,7 +62,8 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "Sky Sports Main Event"
+                    "Sky Sports Main Event",
+                    "Sky Sports Ultra HDR"
                 ]
             },
             {
@@ -91,15 +92,16 @@
                 "country": "Ireland",
                 "channels": [
                     "Sky Sports Premier League",
-                    "Sky Sports Main Event"
+                    "Sky Sports Main Event",
+                    "Sky Sports Ultra HDR"
                 ]
             },
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "Sky Sports Ultra HDR",
                     "Sky Sports Premier League",
-                    "Sky Sports Main Event"
+                    "Sky Sports Main Event",
+                    "Sky Sports Ultra HDR"
                 ]
             }
         ]
@@ -115,8 +117,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
                 ]
             }
         ]
@@ -243,20 +245,22 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
+                    "YouTube - Caz\u00e9TV",
                     "Prime Video",
-                    "YouTube - Caz\u00e9TV"
+                    "Disney+"
                 ]
             },
             {
                 "country": "Italy",
                 "channels": [
+                    "Sky Sport Calcio",
                     "NOW"
                 ]
             },
             {
                 "country": "San Marino",
                 "channels": [
+                    "Sky Sport Calcio",
                     "NOW"
                 ]
             },
@@ -349,8 +353,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
                 ]
             }
         ]
@@ -557,9 +561,9 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Prime Video",
                     "YouTube - Caz\u00e9TV",
-                    "OneFootball"
+                    "OneFootball",
+                    "Prime Video"
                 ]
             },
             {
@@ -695,9 +699,9 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Prime Video",
                     "YouTube - Caz\u00e9TV",
-                    "OneFootball"
+                    "OneFootball",
+                    "Prime Video"
                 ]
             },
             {
@@ -737,8 +741,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Prime Video",
-                    "YouTube - Caz\u00e9TV"
+                    "YouTube - Caz\u00e9TV",
+                    "Prime Video"
                 ]
             },
             {
@@ -778,8 +782,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Prime Video",
-                    "YouTube - Caz\u00e9TV"
+                    "YouTube - Caz\u00e9TV",
+                    "Prime Video"
                 ]
             },
             {
@@ -819,8 +823,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Prime Video",
-                    "YouTube - Caz\u00e9TV"
+                    "YouTube - Caz\u00e9TV",
+                    "Prime Video"
                 ]
             },
             {
@@ -860,8 +864,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Prime Video",
-                    "YouTube - Caz\u00e9TV"
+                    "YouTube - Caz\u00e9TV",
+                    "Prime Video"
                 ]
             },
             {
@@ -901,8 +905,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Prime Video",
-                    "YouTube - Caz\u00e9TV"
+                    "YouTube - Caz\u00e9TV",
+                    "Prime Video"
                 ]
             },
             {
@@ -942,8 +946,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Prime Video",
-                    "YouTube - Caz\u00e9TV"
+                    "YouTube - Caz\u00e9TV",
+                    "Prime Video"
                 ]
             },
             {
@@ -983,8 +987,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Prime Video",
-                    "YouTube - Caz\u00e9TV"
+                    "YouTube - Caz\u00e9TV",
+                    "Prime Video"
                 ]
             },
             {
@@ -1129,7 +1133,20 @@
         "league_id": 37,
         "league": "VriendenLoterij Eredivisie",
         "venue": "Johan Cruijff Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Premier Sports 1 HD"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports 1 HD"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14053709,
@@ -1203,9 +1220,21 @@
                 ]
             },
             {
+                "country": "Ireland",
+                "channels": [
+                    "Premier Sports 2 HD"
+                ]
+            },
+            {
                 "country": "Spain",
                 "channels": [
                     "Prime Video"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports 2 HD"
                 ]
             },
             {
@@ -1502,7 +1531,20 @@
         "league_id": 36,
         "league": "Scottish Premiership",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Sky Sports Football"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Sky Sports Football"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14035298,
@@ -1578,8 +1620,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN 3",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN 3"
                 ]
             }
         ]
@@ -1644,6 +1686,15 @@
         "league_id": 11620,
         "league": "Liga MX, Clausura",
         "venue": "Estadio Olimpico Universitario",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15238984,
+        "kickoff": 1773615600,
+        "fixture": "Tigres UANL vs Quer\u00e9taro FC",
+        "league_id": 11620,
+        "league": "Liga MX, Clausura",
+        "venue": "Estadio Universitario (UANL)",
         "tv_channels": []
     },
     {
@@ -1764,6 +1815,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 15566232,
+        "kickoff": 1773608400,
+        "fixture": "Esp\u00e9rance Tunis vs Al Ahly FC",
+        "league_id": 1054,
+        "league": "CAF Champions League, Knockout stage",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 15137899,
         "kickoff": 1773507600,
         "fixture": "Toronto FC vs New York Red Bulls",
@@ -1779,7 +1839,14 @@
         "league_id": 242,
         "league": "MLS",
         "venue": "Mercedes-Benz Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "Fox"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15137908,
@@ -1788,7 +1855,14 @@
         "league_id": 242,
         "league": "MLS",
         "venue": "Lower.com Field",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "Fox Sports 1"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15137903,
@@ -1909,22 +1983,22 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
                 ]
             },
             {
                 "country": "Ireland",
                 "channels": [
-                    "Sky Sports Football",
-                    "Sky Sports Main Event"
+                    "Sky Sports Main Event",
+                    "Sky Sports Football"
                 ]
             },
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "Sky Sports Football",
-                    "Sky Sports Main Event"
+                    "Sky Sports Main Event",
+                    "Sky Sports Football"
                 ]
             }
         ]
@@ -3072,15 +3146,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 15502477,
-        "kickoff": 1773630000,
-        "fixture": "T\u00e9cnico Universitario vs Libertad",
-        "league_id": 240,
-        "league": "LigaPro Serie A, Primera Etapa",
-        "venue": "Estadio Bellavista",
-        "tv_channels": []
-    },
-    {
         "match_id": 15502471,
         "kickoff": 1773634500,
         "fixture": "Guayaquil City vs Barcelona SC Guayaquil",
@@ -3208,8 +3273,8 @@
             {
                 "country": "Peru",
                 "channels": [
-                    "Liga 1 Max",
-                    "Liga 1 Play"
+                    "Liga 1 Play",
+                    "Liga 1 Max"
                 ]
             }
         ]
@@ -3225,8 +3290,8 @@
             {
                 "country": "Peru",
                 "channels": [
-                    "Liga 1 Max",
-                    "Liga 1 Play"
+                    "Liga 1 Play",
+                    "Liga 1 Max"
                 ]
             }
         ]
@@ -3242,8 +3307,8 @@
             {
                 "country": "Peru",
                 "channels": [
-                    "Liga 1 Max",
-                    "Liga 1 Play"
+                    "Liga 1 Play",
+                    "Liga 1 Max"
                 ]
             }
         ]
@@ -3259,8 +3324,8 @@
             {
                 "country": "Peru",
                 "channels": [
-                    "Liga 1 Max",
-                    "Liga 1 Play"
+                    "Liga 1 Play",
+                    "Liga 1 Max"
                 ]
             }
         ]
@@ -3829,8 +3894,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "ESPN 3",
-                    "Disney+"
+                    "Disney+",
+                    "ESPN 3"
                 ]
             }
         ]
@@ -4062,8 +4127,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
                 ]
             }
         ]
@@ -5852,7 +5917,7 @@
     },
     {
         "match_id": 15542962,
-        "kickoff": 1773576000,
+        "kickoff": 1773581400,
         "fixture": "Borneo FC Samarinda vs Persib Bandung",
         "league_id": 1015,
         "league": "Indonesia Super League",
@@ -7198,7 +7263,22 @@
         "league_id": 207,
         "league": "League One",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "BBC Alba",
+                    "BBC iPlayer"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "BBC Alba",
+                    "BBC iPlayer"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14035804,
