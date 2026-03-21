@@ -16,14 +16,20 @@
             {
                 "country": "Andorra",
                 "channels": [
-                    "Disney+ Premium",
-                    "L'\u00c9quipe"
+                    "L'\u00c9quipe",
+                    "Disney+ Premium"
                 ]
             },
             {
                 "country": "Angola",
                 "channels": [
                     "ESPN Africa"
+                ]
+            },
+            {
+                "country": "Argentina",
+                "channels": [
+                    "ESPN 2 Sur"
                 ]
             },
             {
@@ -59,6 +65,7 @@
             {
                 "country": "Bolivia, Plurinational State of",
                 "channels": [
+                    "ESPN 2 Sur",
                     "Disney+ Premium Chile"
                 ]
             },
@@ -113,6 +120,7 @@
             {
                 "country": "Chile",
                 "channels": [
+                    "ESPN 2 Sur",
                     "Disney+ Premium Chile"
                 ]
             },
@@ -138,6 +146,12 @@
                 "country": "C\u00f4te d'Ivoire",
                 "channels": [
                     "ESPN Africa"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "ESPN 2 Sur"
                 ]
             },
             {
@@ -185,8 +199,8 @@
             {
                 "country": "France",
                 "channels": [
-                    "Disney+ Premium",
-                    "L'\u00c9quipe"
+                    "L'\u00c9quipe",
+                    "Disney+ Premium"
                 ]
             },
             {
@@ -342,9 +356,9 @@
             {
                 "country": "Malaysia",
                 "channels": [
-                    "beIN Sports 1 Malaysia",
                     "beIN Sports Connect Malaysia",
-                    "sooka"
+                    "sooka",
+                    "beIN Sports 1 Malaysia"
                 ]
             },
             {
@@ -380,8 +394,8 @@
             {
                 "country": "Monaco",
                 "channels": [
-                    "Disney+ Premium",
-                    "L'\u00c9quipe"
+                    "L'\u00c9quipe",
+                    "Disney+ Premium"
                 ]
             },
             {
@@ -439,9 +453,16 @@
                 ]
             },
             {
+                "country": "Paraguay",
+                "channels": [
+                    "ESPN 2 Sur"
+                ]
+            },
+            {
                 "country": "Peru",
                 "channels": [
-                    "Disney+ Premium Chile"
+                    "Disney+ Premium Chile",
+                    "ESPN 2 Sur"
                 ]
             },
             {
@@ -591,13 +612,20 @@
             {
                 "country": "United States",
                 "channels": [
-                    "ESPN Deportes"
+                    "ESPN Deportes",
+                    "CBS Sports Network"
                 ]
             },
             {
                 "country": "United States Minor Outlying Islands",
                 "channels": [
                     "ESPN Deportes"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "ESPN 2 Sur"
                 ]
             },
             {
@@ -653,6 +681,12 @@
                 ]
             },
             {
+                "country": "Argentina",
+                "channels": [
+                    "ESPN 2 Sur"
+                ]
+            },
+            {
                 "country": "Armenia",
                 "channels": [
                     "Disney+ Premium"
@@ -661,8 +695,8 @@
             {
                 "country": "Austria",
                 "channels": [
-                    "Disney+ Premium",
-                    "ORF Sport +"
+                    "ORF Sport +",
+                    "Disney+ Premium"
                 ]
             },
             {
@@ -686,6 +720,7 @@
             {
                 "country": "Bolivia, Plurinational State of",
                 "channels": [
+                    "ESPN 2 Sur",
                     "Disney+ Premium Chile"
                 ]
             },
@@ -740,6 +775,7 @@
             {
                 "country": "Chile",
                 "channels": [
+                    "ESPN 2 Sur",
                     "Disney+ Premium Chile"
                 ]
             },
@@ -765,6 +801,12 @@
                 "country": "C\u00f4te d'Ivoire",
                 "channels": [
                     "ESPN Africa"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "ESPN 2 Sur"
                 ]
             },
             {
@@ -890,10 +932,10 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "Disney+ Premium",
-                    "BBC iPlayer",
+                    "BBC Sport Web",
                     "BBC Two",
-                    "BBC Sport Web"
+                    "BBC iPlayer",
+                    "Disney+ Premium"
                 ]
             },
             {
@@ -971,9 +1013,9 @@
             {
                 "country": "Malaysia",
                 "channels": [
-                    "beIN Sports 1 Malaysia",
                     "beIN Sports Connect Malaysia",
-                    "sooka"
+                    "sooka",
+                    "beIN Sports 1 Malaysia"
                 ]
             },
             {
@@ -1033,8 +1075,8 @@
             {
                 "country": "Netherlands",
                 "channels": [
-                    "Disney+ Premium",
-                    "BBC Two"
+                    "BBC Two",
+                    "Disney+ Premium"
                 ]
             },
             {
@@ -1068,9 +1110,16 @@
                 ]
             },
             {
+                "country": "Paraguay",
+                "channels": [
+                    "ESPN 2 Sur"
+                ]
+            },
+            {
                 "country": "Peru",
                 "channels": [
-                    "Disney+ Premium Chile"
+                    "Disney+ Premium Chile",
+                    "ESPN 2 Sur"
                 ]
             },
             {
@@ -1221,22 +1270,29 @@
             {
                 "country": "United Kingdom",
                 "channels": [
+                    "BBC Sport Web",
                     "BBC Two",
-                    "Disney+ Premium",
                     "BBC iPlayer",
-                    "BBC Sport Web"
+                    "Disney+ Premium"
                 ]
             },
             {
                 "country": "United States",
                 "channels": [
-                    "ESPN Deportes"
+                    "ESPN Deportes",
+                    "CBS Sports Network"
                 ]
             },
             {
                 "country": "United States Minor Outlying Islands",
                 "channels": [
                     "ESPN Deportes"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "ESPN 2 Sur"
                 ]
             },
             {
@@ -1471,7 +1527,14 @@
         "league_id": 1690,
         "league": "NWSL",
         "venue": "Snapdragon Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "CBS Sports Network"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15662769,
@@ -1543,7 +1606,110 @@
         "league_id": 1024,
         "league": "Copa Argentina",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "El Salvador",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Panama",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Puerto Rico",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Venezuela, Bolivarian Republic of",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15329654,
@@ -1552,7 +1718,110 @@
         "league_id": 1024,
         "league": "Copa Argentina",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "El Salvador",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Panama",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Puerto Rico",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            },
+            {
+                "country": "Venezuela, Bolivarian Republic of",
+                "channels": [
+                    "TyC Sports Internacional"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15759535,
@@ -1904,18 +2173,18 @@
         "tv_channels": []
     },
     {
-        "match_id": 15217265,
+        "match_id": 15217225,
         "kickoff": 1774432800,
-        "fixture": "Ukraine U19 vs Ireland U19",
+        "fixture": "Kazakhstan U19 vs Romania U19",
         "league_id": 748,
         "league": "U19 UEFA European Championship, Elite round Gr. 5",
         "venue": "TBA",
         "tv_channels": []
     },
     {
-        "match_id": 15217225,
-        "kickoff": 1774450800,
-        "fixture": "Kazakhstan U19 vs Romania U19",
+        "match_id": 15217265,
+        "kickoff": 1774432800,
+        "fixture": "Ukraine U19 vs Ireland U19",
         "league_id": 748,
         "league": "U19 UEFA European Championship, Elite round Gr. 5",
         "venue": "TBA",
