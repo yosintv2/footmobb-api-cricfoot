@@ -667,7 +667,14 @@
         "league_id": 1690,
         "league": "NWSL",
         "venue": "Centennial Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "CBS"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15388442,
@@ -676,7 +683,14 @@
         "league_id": 1690,
         "league": "NWSL",
         "venue": "Providence Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "CBS"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15388444,
@@ -1190,6 +1204,42 @@
         "match_id": 15756808,
         "kickoff": 1774810800,
         "fixture": "Juazeirense vs AO Itabaiana",
+        "league_id": 1596,
+        "league": "Copa do Nordeste",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15846626,
+        "kickoff": 1774814400,
+        "fixture": "ABC vs Sport Recife",
+        "league_id": 1596,
+        "league": "Copa do Nordeste",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15846624,
+        "kickoff": 1774814400,
+        "fixture": "Confian\u00e7a vs Fluminense-PI",
+        "league_id": 1596,
+        "league": "Copa do Nordeste",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15846625,
+        "kickoff": 1774814400,
+        "fixture": "Piau\u00ed EC vs Sousa EC",
+        "league_id": 1596,
+        "league": "Copa do Nordeste",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15846627,
+        "kickoff": 1774819800,
+        "fixture": "Botafogo-PB vs ASA",
         "league_id": 1596,
         "league": "Copa do Nordeste",
         "venue": "TBA",
@@ -1895,7 +1945,20 @@
         "league_id": 193,
         "league": "First Division",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOI TV"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "LOI TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14302824,

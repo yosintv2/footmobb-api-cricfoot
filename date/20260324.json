@@ -357,9 +357,9 @@
             {
                 "country": "Malaysia",
                 "channels": [
-                    "sooka",
+                    "beIN Sports Connect Malaysia",
                     "beIN Sports 1 Malaysia",
-                    "beIN Sports Connect Malaysia"
+                    "sooka"
                 ]
             },
             {
@@ -462,8 +462,8 @@
             {
                 "country": "Peru",
                 "channels": [
-                    "ESPN 2 Sur",
-                    "Disney+ Premium Chile"
+                    "Disney+ Premium Chile",
+                    "ESPN 2 Sur"
                 ]
             },
             {
@@ -613,8 +613,8 @@
             {
                 "country": "United States",
                 "channels": [
-                    "CBS Sports Network",
-                    "ESPN Deportes"
+                    "ESPN Deportes",
+                    "CBS Sports Network"
                 ]
             },
             {
@@ -736,6 +736,12 @@
                 "country": "Botswana",
                 "channels": [
                     "ESPN Africa"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "channels": [
+                    "ESPN"
                 ]
             },
             {
@@ -935,10 +941,10 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "BBC Sport Web",
-                    "BBC iPlayer",
+                    "Disney+ Premium",
                     "BBC Two",
-                    "Disney+ Premium"
+                    "BBC Sport Web",
+                    "BBC iPlayer"
                 ]
             },
             {
@@ -1016,9 +1022,9 @@
             {
                 "country": "Malaysia",
                 "channels": [
-                    "sooka",
+                    "beIN Sports Connect Malaysia",
                     "beIN Sports 1 Malaysia",
-                    "beIN Sports Connect Malaysia"
+                    "sooka"
                 ]
             },
             {
@@ -1121,8 +1127,8 @@
             {
                 "country": "Peru",
                 "channels": [
-                    "ESPN 2 Sur",
-                    "Disney+ Premium Chile"
+                    "Disney+ Premium Chile",
+                    "ESPN 2 Sur"
                 ]
             },
             {
@@ -1274,17 +1280,17 @@
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "BBC Sport Web",
                     "BBC iPlayer",
-                    "BBC Two",
-                    "Disney+ Premium"
+                    "Disney+ Premium",
+                    "BBC Sport Web",
+                    "BBC Two"
                 ]
             },
             {
                 "country": "United States",
                 "channels": [
-                    "CBS Sports Network",
-                    "ESPN Deportes"
+                    "ESPN Deportes",
+                    "CBS Sports Network"
                 ]
             },
             {
@@ -1334,10 +1340,16 @@
         "venue": "Estadio Ciudad de La Plata",
         "tv_channels": [
             {
+                "country": "Argentina",
+                "channels": [
+                    "ESPN Premium"
+                ]
+            },
+            {
                 "country": "Bolivia, Plurinational State of",
                 "channels": [
-                    "TyC Sports Internacional",
-                    "Disney+ Premium Chile"
+                    "Disney+ Premium Chile",
+                    "TyC Sports Internacional"
                 ]
             },
             {
@@ -1349,8 +1361,8 @@
             {
                 "country": "Chile",
                 "channels": [
-                    "TyC Sports Internacional",
-                    "Disney+ Premium Chile"
+                    "Disney+ Premium Chile",
+                    "TyC Sports Internacional"
                 ]
             },
             {
@@ -1416,8 +1428,8 @@
             {
                 "country": "Peru",
                 "channels": [
-                    "TyC Sports Internacional",
-                    "Disney+ Premium Chile"
+                    "Disney+ Premium Chile",
+                    "TyC Sports Internacional"
                 ]
             },
             {
@@ -1573,6 +1585,12 @@
                 ]
             },
             {
+                "country": "Bosnia and Herzegovina",
+                "channels": [
+                    "Arena Sport Premium 2"
+                ]
+            },
+            {
                 "country": "Chile",
                 "channels": [
                     "Disney+ Premium Chile"
@@ -1585,6 +1603,12 @@
                 ]
             },
             {
+                "country": "North Macedonia",
+                "channels": [
+                    "Arena Sport Premium 2"
+                ]
+            },
+            {
                 "country": "Peru",
                 "channels": [
                     "Disney+ Premium Chile"
@@ -1594,6 +1618,12 @@
                 "country": "Romania",
                 "channels": [
                     "Prima Play"
+                ]
+            },
+            {
+                "country": "Serbia",
+                "channels": [
+                    "Arena Sport Premium 2"
                 ]
             },
             {
@@ -2095,11 +2125,11 @@
             {
                 "country": "Romania",
                 "channels": [
-                    "Digi Sport 1",
-                    "Orange TV Go",
-                    "Prima Sport 1",
                     "Digi Online",
-                    "Prima Play"
+                    "Digi Sport 1",
+                    "Prima Play",
+                    "Prima Sport 1",
+                    "Orange TV Go"
                 ]
             }
         ]
@@ -2115,16 +2145,16 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "discovery+ App",
                     "TNT Sports 3",
-                    "Discovery+"
+                    "Discovery+",
+                    "discovery+ App"
                 ]
             },
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "discovery+ App",
-                    "Discovery+"
+                    "Discovery+",
+                    "discovery+ App"
                 ]
             }
         ]
@@ -2194,6 +2224,12 @@
                 ]
             },
             {
+                "country": "Spain",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
                 "country": "Sweden",
                 "channels": [
                     "Viaplay"
@@ -2220,7 +2256,14 @@
         "league_id": 1127,
         "league": "Liga F Moeve",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Spain",
+                "channels": [
+                    "DAZN"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15554575,
@@ -2419,15 +2462,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 15217225,
-        "kickoff": 1774432800,
-        "fixture": "Kazakhstan U19 vs Romania U19",
-        "league_id": 748,
-        "league": "U19 UEFA European Championship, Elite round Gr. 5",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 15217265,
         "kickoff": 1774432800,
         "fixture": "Ukraine U19 vs Ireland U19",
@@ -2510,13 +2544,15 @@
             {
                 "country": "Italy",
                 "channels": [
-                    "NOW"
+                    "NOW",
+                    "Sky Sport Calcio"
                 ]
             },
             {
                 "country": "San Marino",
                 "channels": [
-                    "NOW"
+                    "NOW",
+                    "Sky Sport Calcio"
                 ]
             }
         ]
