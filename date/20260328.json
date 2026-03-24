@@ -291,8 +291,8 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "Sky Sports Main Event",
-                    "Sky Sports Football"
+                    "Sky Sports Football",
+                    "Sky Sports Main Event"
                 ]
             },
             {
@@ -429,8 +429,8 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "TNT Sports 2",
-                    "Discovery+"
+                    "Discovery+",
+                    "TNT Sports 2"
                 ]
             },
             {
@@ -711,7 +711,8 @@
             {
                 "country": "Ghana",
                 "channels": [
-                    "GTV Sports+"
+                    "GTV Sports+",
+                    "GTV"
                 ]
             },
             {
@@ -821,8 +822,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN 3"
+                    "ESPN 3",
+                    "Disney+"
                 ]
             },
             {
@@ -856,8 +857,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
                 ]
             },
             {
@@ -938,8 +939,8 @@
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "STV Player",
                     "ITVX",
+                    "STV Player",
                     "ITV"
                 ]
             },
@@ -1103,8 +1104,8 @@
             {
                 "country": "Ecuador",
                 "channels": [
-                    "Canal del Futbol",
-                    "ECDF App"
+                    "ECDF App",
+                    "Canal del Futbol"
                 ]
             },
             {
@@ -1134,9 +1135,9 @@
             {
                 "country": "Peru",
                 "channels": [
-                    "M+ Deportes",
+                    "ATV",
                     "Am\u00e9rica Televisi\u00f3n",
-                    "ATV"
+                    "M+ Deportes"
                 ]
             }
         ]
@@ -1189,8 +1190,8 @@
             {
                 "country": "Brazil",
                 "channels": [
-                    "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
                 ]
             },
             {
@@ -1461,9 +1462,9 @@
             {
                 "country": "Ireland",
                 "channels": [
+                    "BBC One",
                     "BBC Sport Web",
-                    "BBC iPlayer",
-                    "BBC One"
+                    "BBC iPlayer"
                 ]
             },
             {
@@ -1481,9 +1482,9 @@
             {
                 "country": "United Kingdom",
                 "channels": [
+                    "BBC One",
                     "BBC Sport Web",
-                    "BBC iPlayer",
-                    "BBC One"
+                    "BBC iPlayer"
                 ]
             }
         ]
@@ -1499,8 +1500,8 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "Sky Sports Main Event",
-                    "Sky Sports Football"
+                    "Sky Sports Football",
+                    "Sky Sports Main Event"
                 ]
             },
             {
@@ -1573,7 +1574,14 @@
         "league_id": 1139,
         "league": "Premi\u00e8re Ligue, F\u00e9minine",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "France",
+                "channels": [
+                    "Canal+ Foot"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14194072,
@@ -1865,6 +1873,12 @@
         "league": "Copa Argentina",
         "venue": "TBA",
         "tv_channels": [
+            {
+                "country": "Argentina",
+                "channels": [
+                    "TyC Sports"
+                ]
+            },
             {
                 "country": "Bolivia, Plurinational State of",
                 "channels": [
@@ -2240,7 +2254,7 @@
         "fixture": "CRB vs Vit\u00f3ria",
         "league_id": 1596,
         "league": "Copa do Nordeste",
-        "venue": "TBA",
+        "venue": "Est\u00e1dio Rei Pel\u00e9",
         "tv_channels": []
     },
     {
@@ -2249,7 +2263,7 @@
         "fixture": "Maranh\u00e3o AC vs Ferrovi\u00e1rio",
         "league_id": 1596,
         "league": "Copa do Nordeste",
-        "venue": "TBA",
+        "venue": "Est\u00e1dio Governador Jo\u00e3o Castelo",
         "tv_channels": []
     },
     {
@@ -2258,7 +2272,7 @@
         "fixture": "Retr\u00f4 vs Cear\u00e1",
         "league_id": 1596,
         "league": "Copa do Nordeste",
-        "venue": "TBA",
+        "venue": "Arena de Pernambuco",
         "tv_channels": []
     },
     {
@@ -2267,7 +2281,7 @@
         "fixture": "Fortaleza vs Imperatriz",
         "league_id": 1596,
         "league": "Copa do Nordeste",
-        "venue": "TBA",
+        "venue": "Est\u00e1dio Presidente Vargas",
         "tv_channels": []
     },
     {
@@ -2657,8 +2671,8 @@
             {
                 "country": "Germany",
                 "channels": [
-                    "Joyn",
-                    "ProSieben MAXX"
+                    "ProSieben MAXX",
+                    "Joyn"
                 ]
             },
             {
@@ -3987,16 +4001,16 @@
             {
                 "country": "Ireland",
                 "channels": [
+                    "BBC Alba",
                     "BBC Sport Web",
-                    "BBC iPlayer",
-                    "BBC Alba"
+                    "BBC iPlayer"
                 ]
             },
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "BBC Sport Web",
                     "BBC iPlayer",
+                    "BBC Sport Web",
                     "BBC Alba"
                 ]
             }
