@@ -77,9 +77,9 @@
       "id": 21152600
     },
     "away": {
-      "fractionalValue": "37/20",
-      "expected": 35,
-      "actual": 31,
+      "fractionalValue": "2/1",
+      "expected": 33,
+      "actual": 41,
       "id": 21152601
     }
   },
@@ -530,8 +530,8 @@
   },
   "14283279": {
     "home": {
-      "fractionalValue": "17/100",
-      "expected": 85,
+      "fractionalValue": "19/100",
+      "expected": 84,
       "actual": 82,
       "id": 21168911
     },
@@ -1003,16 +1003,11 @@
     }
   },
   "14035635": {
-    "home": {
-      "fractionalValue": "31/10",
-      "expected": 24,
-      "actual": 1,
-      "id": 21241930
-    },
+    "home": null,
     "away": {
-      "fractionalValue": "73/100",
-      "expected": 58,
-      "actual": 30,
+      "fractionalValue": "7/10",
+      "expected": 59,
+      "actual": 29,
       "id": 21117568
     }
   },
@@ -1329,10 +1324,10 @@
   },
   "15598098": {
     "home": {
-      "fractionalValue": "9/20",
-      "expected": 69,
-      "actual": 40,
-      "id": 21216367
+      "fractionalValue": "1/2",
+      "expected": 67,
+      "actual": 1,
+      "id": 21251875
     },
     "away": null
   },
@@ -1347,15 +1342,15 @@
   },
   "15403820": {
     "home": {
-      "fractionalValue": "23/20",
-      "expected": 47,
-      "actual": 36,
+      "fractionalValue": "11/10",
+      "expected": 48,
+      "actual": 50,
       "id": 21230558
     },
     "away": {
-      "fractionalValue": "2/1",
-      "expected": 33,
-      "actual": 26,
+      "fractionalValue": "21/10",
+      "expected": 32,
+      "actual": 32,
       "id": 21230559
     }
   },
@@ -2214,6 +2209,29 @@
       "expected": 23,
       "actual": 23,
       "id": 21246700
+    }
+  },
+  "15224860": {
+    "home": {
+      "fractionalValue": "27/100",
+      "expected": 79,
+      "actual": 80,
+      "id": 21251114
+    },
+    "away": null
+  },
+  "14489950": {
+    "home": {
+      "fractionalValue": "4/6",
+      "expected": 60,
+      "actual": 70,
+      "id": 21250797
+    },
+    "away": {
+      "fractionalValue": "9/2",
+      "expected": 18,
+      "actual": 1,
+      "id": 21250798
     }
   }
 }

@@ -119,23 +119,23 @@
       "id": 21152600
     },
     "away": {
-      "fractionalValue": "37/20",
-      "expected": 35,
-      "actual": 31,
+      "fractionalValue": "2/1",
+      "expected": 33,
+      "actual": 41,
       "id": 21152601
     }
   },
   "15367405": {
     "home": {
-      "fractionalValue": "19/20",
-      "expected": 51,
-      "actual": 46,
+      "fractionalValue": "3/4",
+      "expected": 57,
+      "actual": 47,
       "id": 21183255
     },
     "away": {
-      "fractionalValue": "16/5",
-      "expected": 24,
-      "actual": 29,
+      "fractionalValue": "15/4",
+      "expected": 21,
+      "actual": 27,
       "id": 21183256
     }
   },
@@ -438,9 +438,9 @@
   },
   "15794173": {
     "home": {
-      "fractionalValue": "17/100",
-      "expected": 86,
-      "actual": 83,
+      "fractionalValue": "7/50",
+      "expected": 87,
+      "actual": 88,
       "id": 21170655
     },
     "away": null
@@ -604,8 +604,8 @@
   },
   "14283279": {
     "home": {
-      "fractionalValue": "17/100",
-      "expected": 85,
+      "fractionalValue": "19/100",
+      "expected": 84,
       "actual": 82,
       "id": 21168911
     },
@@ -655,9 +655,9 @@
   },
   "15275490": {
     "home": {
-      "fractionalValue": "19/25",
-      "expected": 57,
-      "actual": 82,
+      "fractionalValue": "79/100",
+      "expected": 56,
+      "actual": 73,
       "id": 21153455
     },
     "away": null
@@ -1132,15 +1132,15 @@
   },
   "15400137": {
     "home": {
-      "fractionalValue": "9/10",
-      "expected": 53,
-      "actual": 53,
+      "fractionalValue": "3/4",
+      "expected": 57,
+      "actual": 75,
       "id": 21183474
     },
     "away": {
-      "fractionalValue": "29/10",
-      "expected": 26,
-      "actual": 14,
+      "fractionalValue": "10/3",
+      "expected": 23,
+      "actual": 8,
       "id": 21183475
     }
   },
@@ -1214,16 +1214,11 @@
     "away": null
   },
   "14035635": {
-    "home": {
-      "fractionalValue": "31/10",
-      "expected": 24,
-      "actual": 1,
-      "id": 21241930
-    },
+    "home": null,
     "away": {
-      "fractionalValue": "73/100",
-      "expected": 58,
-      "actual": 30,
+      "fractionalValue": "7/10",
+      "expected": 59,
+      "actual": 29,
       "id": 21117568
     }
   },
@@ -1558,10 +1553,10 @@
   },
   "15598098": {
     "home": {
-      "fractionalValue": "9/20",
-      "expected": 69,
-      "actual": 40,
-      "id": 21216367
+      "fractionalValue": "1/2",
+      "expected": 67,
+      "actual": 1,
+      "id": 21251875
     },
     "away": null
   },
@@ -1599,15 +1594,15 @@
   },
   "15403820": {
     "home": {
-      "fractionalValue": "23/20",
-      "expected": 47,
-      "actual": 36,
+      "fractionalValue": "11/10",
+      "expected": 48,
+      "actual": 50,
       "id": 21230558
     },
     "away": {
-      "fractionalValue": "2/1",
-      "expected": 33,
-      "actual": 26,
+      "fractionalValue": "21/10",
+      "expected": 32,
+      "actual": 32,
       "id": 21230559
     }
   },
@@ -2447,6 +2442,29 @@
       "expected": 57,
       "actual": 70,
       "id": 21245908
+    }
+  },
+  "15224860": {
+    "home": {
+      "fractionalValue": "27/100",
+      "expected": 79,
+      "actual": 80,
+      "id": 21251114
+    },
+    "away": null
+  },
+  "14489950": {
+    "home": {
+      "fractionalValue": "4/6",
+      "expected": 60,
+      "actual": 70,
+      "id": 21250797
+    },
+    "away": {
+      "fractionalValue": "9/2",
+      "expected": 18,
+      "actual": 1,
+      "id": 21250798
     }
   }
 }
