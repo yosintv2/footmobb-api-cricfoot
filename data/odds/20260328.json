@@ -2808,15 +2808,15 @@
   },
   "15840665": {
     "home": {
-      "fractionalValue": "19/20",
-      "expected": 51,
-      "actual": 17,
+      "fractionalValue": "1/1",
+      "expected": 50,
+      "actual": 43,
       "id": 21258112
     },
     "away": {
-      "fractionalValue": "12/5",
-      "expected": 29,
-      "actual": 38,
+      "fractionalValue": "23/10",
+      "expected": 30,
+      "actual": 36,
       "id": 21258113
     }
   },
@@ -2936,6 +2936,20 @@
       "expected": 33,
       "actual": 42,
       "id": 21281216
+    }
+  },
+  "15274999": {
+    "home": {
+      "fractionalValue": "11/10",
+      "expected": 48,
+      "actual": 20,
+      "id": 21286874
+    },
+    "away": {
+      "fractionalValue": "9/5",
+      "expected": 36,
+      "actual": 29,
+      "id": 21286875
     }
   }
 }
