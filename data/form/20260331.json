@@ -46,8 +46,8 @@
       "form": [
         "L",
         "L",
-        "L",
         "W",
+        "L",
         "L"
       ]
     },
@@ -1635,7 +1635,7 @@
   },
   "15224865": {
     "homeTeam": {
-      "position": 4,
+      "position": 3,
       "value": "1",
       "form": [
         "D",
@@ -1678,10 +1678,11 @@
       ]
     },
     "awayTeam": {
-      "position": 2,
-      "value": "1",
+      "position": 1,
+      "value": "4",
       "form": [
-        "D"
+        "D",
+        "W"
       ]
     },
     "label": "Pts"
@@ -1695,10 +1696,11 @@
       ]
     },
     "awayTeam": {
-      "position": 1,
+      "position": 2,
       "value": "3",
       "form": [
-        "W"
+        "W",
+        "L"
       ]
     },
     "label": "Pts"
