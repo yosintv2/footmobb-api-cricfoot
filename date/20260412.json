@@ -101,7 +101,22 @@
         "league_id": 17,
         "league": "Premier League",
         "venue": "Stamford Bridge",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Sky Sports Premier League",
+                    "Sky Sports Main Event"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Sky Sports Premier League",
+                    "Sky Sports Main Event"
+                ]
+            }
+        ]
     },
     {
         "match_id": 13981735,
@@ -294,7 +309,26 @@
         "league_id": 8,
         "league": "LaLiga",
         "venue": "San Mam\u00e9s",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Andorra",
+                "channels": [
+                    "Teledeporte"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "Teledeporte"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "channels": [
+                    "Teledeporte"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14167965,
@@ -488,32 +522,32 @@
             {
                 "country": "Burkina Faso",
                 "channels": [
-                    "Canal+ Sport 2",
                     "DStv Now",
-                    "SuperSport GOtv Football"
+                    "SuperSport GOtv Football",
+                    "Canal+ Sport 2"
                 ]
             },
             {
                 "country": "Burundi",
                 "channels": [
-                    "Canal+ Sport 2",
                     "DStv Now",
-                    "SuperSport GOtv Football"
+                    "SuperSport GOtv Football",
+                    "Canal+ Sport 2"
                 ]
             },
             {
                 "country": "Cabo Verde",
                 "channels": [
-                    "Canal+ Sport 2",
                     "DStv Now",
+                    "Canal+ Sport 2",
                     "SuperSport GOtv Football"
                 ]
             },
             {
                 "country": "Cameroon",
                 "channels": [
-                    "Canal+ Sport 2",
                     "DStv Now",
+                    "Canal+ Sport 2",
                     "SuperSport GOtv Football"
                 ]
             },
@@ -527,9 +561,9 @@
             {
                 "country": "Chad",
                 "channels": [
-                    "Canal+ Sport 2",
                     "DStv Now",
-                    "SuperSport GOtv Football"
+                    "SuperSport GOtv Football",
+                    "Canal+ Sport 2"
                 ]
             },
             {
@@ -541,40 +575,40 @@
             {
                 "country": "Congo",
                 "channels": [
-                    "Canal+ Sport 2",
                     "DStv Now",
+                    "Canal+ Sport 2",
                     "SuperSport GOtv Football"
                 ]
             },
             {
                 "country": "Congo, The Democratic Republic of the",
                 "channels": [
-                    "Canal+ Sport 2",
                     "DStv Now",
+                    "Canal+ Sport 2",
                     "SuperSport GOtv Football"
                 ]
             },
             {
                 "country": "C\u00f4te d'Ivoire",
                 "channels": [
-                    "Canal+ Sport 2",
                     "DStv Now",
-                    "SuperSport GOtv Football"
+                    "SuperSport GOtv Football",
+                    "Canal+ Sport 2"
                 ]
             },
             {
                 "country": "Djibouti",
                 "channels": [
-                    "Canal+ Sport 2",
                     "DStv Now",
+                    "Canal+ Sport 2",
                     "SuperSport GOtv Football"
                 ]
             },
             {
                 "country": "Equatorial Guinea",
                 "channels": [
-                    "Canal+ Sport 2",
                     "DStv Now",
+                    "Canal+ Sport 2",
                     "SuperSport GOtv Football"
                 ]
             },
@@ -602,41 +636,41 @@
             {
                 "country": "Gabon",
                 "channels": [
-                    "Canal+ Sport 2",
                     "DStv Now",
-                    "SuperSport GOtv Football"
+                    "SuperSport GOtv Football",
+                    "Canal+ Sport 2"
                 ]
             },
             {
                 "country": "Gambia",
                 "channels": [
-                    "Canal+ Sport 2",
                     "DStv Now",
-                    "SuperSport GOtv Football"
+                    "SuperSport GOtv Football",
+                    "Canal+ Sport 2"
                 ]
             },
             {
                 "country": "Ghana",
                 "channels": [
-                    "Canal+ Sport 2",
                     "DStv Now",
-                    "SuperSport GOtv Football"
+                    "SuperSport GOtv Football",
+                    "Canal+ Sport 2"
                 ]
             },
             {
                 "country": "Guinea",
                 "channels": [
-                    "Canal+ Sport 2",
                     "DStv Now",
-                    "SuperSport GOtv Football"
+                    "SuperSport GOtv Football",
+                    "Canal+ Sport 2"
                 ]
             },
             {
                 "country": "Guinea-Bissau",
                 "channels": [
-                    "Canal+ Sport 2",
                     "DStv Now",
-                    "SuperSport GOtv Football"
+                    "SuperSport GOtv Football",
+                    "Canal+ Sport 2"
                 ]
             },
             {
@@ -677,16 +711,16 @@
             {
                 "country": "Mali",
                 "channels": [
-                    "Canal+ Sport 2",
                     "DStv Now",
-                    "SuperSport GOtv Football"
+                    "SuperSport GOtv Football",
+                    "Canal+ Sport 2"
                 ]
             },
             {
                 "country": "Mauritania",
                 "channels": [
-                    "Canal+ Sport 2",
                     "DStv Now",
+                    "Canal+ Sport 2",
                     "SuperSport GOtv Football"
                 ]
             },
@@ -720,17 +754,17 @@
             {
                 "country": "Niger",
                 "channels": [
-                    "Canal+ Sport 2",
                     "DStv Now",
+                    "Canal+ Sport 2",
                     "SuperSport GOtv Football"
                 ]
             },
             {
                 "country": "Nigeria",
                 "channels": [
-                    "Canal+ Sport 2",
                     "DStv Now",
-                    "SuperSport GOtv Football"
+                    "SuperSport GOtv Football",
+                    "Canal+ Sport 2"
                 ]
             },
             {
@@ -755,8 +789,8 @@
             {
                 "country": "Senegal",
                 "channels": [
-                    "Canal+ Sport 2",
                     "DStv Now",
+                    "Canal+ Sport 2",
                     "SuperSport GOtv Football"
                 ]
             },
@@ -770,8 +804,8 @@
             {
                 "country": "Sierra Leone",
                 "channels": [
-                    "Canal+ Sport 2",
                     "DStv Now",
+                    "Canal+ Sport 2",
                     "SuperSport GOtv Football"
                 ]
             },
@@ -810,9 +844,9 @@
             {
                 "country": "Togo",
                 "channels": [
-                    "Canal+ Sport 2",
                     "DStv Now",
-                    "SuperSport GOtv Football"
+                    "SuperSport GOtv Football",
+                    "Canal+ Sport 2"
                 ]
             },
             {
@@ -1188,9 +1222,9 @@
             {
                 "country": "Brazil",
                 "channels": [
+                    "R7",
                     "YouTube - Caz\u00e9TV",
-                    "Record",
-                    "R7"
+                    "Record"
                 ]
             }
         ]
@@ -1247,7 +1281,14 @@
         "league_id": 238,
         "league": "Liga Portugal Betclic",
         "venue": "Est\u00e1dio da Luz",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Portugal",
+                "channels": [
+                    "Benfica TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14288851,
@@ -1917,15 +1958,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 14109872,
-        "kickoff": 1776006000,
-        "fixture": "Be\u015fikta\u015f JK vs Antalyaspor",
-        "league_id": 52,
-        "league": "Trendyol S\u00fcper Lig",
-        "venue": "T\u00fcpra\u015f Stadyumu",
-        "tv_channels": []
-    },
-    {
         "match_id": 14109879,
         "kickoff": 1776013200,
         "fixture": "Galatasaray vs Kocaelispor",
@@ -2566,7 +2598,22 @@
         "league_id": 18,
         "league": "Championship",
         "venue": "St. Andrew's @ Knighthead Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Sky Sports Football",
+                    "Sky Sports Main Event"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Sky Sports Football",
+                    "Sky Sports Main Event"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14083540,
@@ -2885,7 +2932,20 @@
         "league_id": 53,
         "league": "Serie B",
         "venue": "Mapei Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Bermuda",
+                "channels": [
+                    "Fox Soccer Plus"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Fox Soccer Plus"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14064765,
@@ -3452,6 +3512,15 @@
         "league_id": 202,
         "league": "Ekstraklasa",
         "venue": "Marshal Jozef Pilsudski Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 13981990,
+        "kickoff": 1775997900,
+        "fixture": "Motor Lublin vs Rak\u00f3w Cz\u0119stochowa",
+        "league_id": 202,
+        "league": "Ekstraklasa",
+        "venue": "Arena Lublin",
         "tv_channels": []
     },
     {
@@ -4577,7 +4646,20 @@
         "league_id": 13470,
         "league": "Canadian Premier League",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Bermuda",
+                "channels": [
+                    "Fox Soccer Plus"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Fox Soccer Plus"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15502796,
@@ -4586,7 +4668,14 @@
         "league_id": 13470,
         "league": "Canadian Premier League",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "Fox Sports 2"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15285694,
@@ -4815,7 +4904,7 @@
     },
     {
         "match_id": 15285383,
-        "kickoff": 1775957400,
+        "kickoff": 1775955600,
         "fixture": "Spokane Velocity FC vs Richmond Kickers",
         "league_id": 13362,
         "league": "USL, League One",
@@ -4910,7 +4999,20 @@
         "league_id": 334,
         "league": "EFL Trophy, Knockout stage",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Sky Sports Football"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Sky Sports Football"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15372950,
@@ -5183,15 +5285,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 15275530,
-        "kickoff": 1775937600,
-        "fixture": "Trist\u00e1n Su\u00e1rez vs Atl\u00e9tico de Rafaela",
-        "league_id": 703,
-        "league": "Primera B Nacional",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 15275520,
         "kickoff": 1775944800,
         "fixture": "Club Atletico Col\u00f3n vs Racing de C\u00f3rdoba",
@@ -5411,15 +5504,6 @@
         "match_id": 14115561,
         "kickoff": 1775919600,
         "fixture": "FK Radnik Bijeljina vs FK \u017deljezni\u010dar",
-        "league_id": 222,
-        "league": "WWIN Liga BiH",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 14115560,
-        "kickoff": 1775919600,
-        "fixture": "FK Rudar Prijedor vs FK Borac Banja Luka",
         "league_id": 222,
         "league": "WWIN Liga BiH",
         "venue": "TBA",
@@ -6152,6 +6236,15 @@
         "league_id": 173,
         "league": "National League",
         "venue": "Crown Oil Arena",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15432339,
+        "kickoff": 1775907000,
+        "fixture": "FC Kuressaare vs Harju Jalgpallikool",
+        "league_id": 178,
+        "league": "Premium Liiga",
+        "venue": "TBA",
         "tv_channels": []
     },
     {
@@ -8087,7 +8180,14 @@
         "league_id": 17101,
         "league": "Liga 3, Promotion Round",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Portugal",
+                "channels": [
+                    "Canal 11"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15444605,
@@ -8405,6 +8505,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 15852529,
+        "kickoff": 1775908800,
+        "fixture": "Chayka Peschanokopskoye vs Enisey Krasnoyarsk",
+        "league_id": 204,
+        "league": "First League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 15852521,
         "kickoff": 1775912400,
         "fixture": "Chernomorets Novorossijsk vs Spartak Kostroma",
@@ -8417,15 +8526,6 @@
         "match_id": 15852524,
         "kickoff": 1775916000,
         "fixture": "Chelyabinsk vs SKA-Khabarovsk",
-        "league_id": 204,
-        "league": "First League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15852529,
-        "kickoff": 1775919600,
-        "fixture": "Chayka Peschanokopskoye vs Enisey Krasnoyarsk",
         "league_id": 204,
         "league": "First League",
         "venue": "TBA",
@@ -9221,7 +9321,14 @@
         "league_id": 852,
         "league": "International Friendly Games, Women",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "TNT"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15617780,
