@@ -7,13 +7,18 @@ from curl_cffi.requests import AsyncSession
 
 SOURCE_NAME = "YoSinTV_Ultra_Engine"
 
+# Cache channel names to reduce API requests
 channel_cache = {}
 
 
 def cleanup_old_files():
     """
-    Keep only yesterday, today and next 5 days JSON files.
-    Delete everything else.
+    Keep only:
+    Yesterday (-1)
+    Today (0)
+    Next 12 days (+1 to +12)
+
+    Total = 14 JSON files
     """
 
     if not os.path.exists("date"):
@@ -22,7 +27,7 @@ def cleanup_old_files():
 
     keep_files = set()
 
-    for offset in range(-1, 6):
+    for offset in range(-1, 13):
         d = datetime.now() + timedelta(days=offset)
         keep_files.add(d.strftime("%Y%m%d") + ".json")
 
@@ -36,7 +41,10 @@ def cleanup_old_files():
 
 
 async def get_channel_name(session, channel_id):
-    """Fetch channel name with caching."""
+    """
+    Resolve channel ID into channel name.
+    Uses cache to avoid duplicate API calls.
+    """
 
     if channel_id in channel_cache:
         return channel_cache[channel_id]
@@ -67,6 +75,10 @@ async def get_channel_name(session, channel_id):
 
 
 async def get_tv_data(session, match_id):
+    """
+    Fetch country-specific TV broadcasters.
+    """
+
     tv_url = (
         f"https://api.sofascore1.com/api/v1/tv/event/"
         f"{match_id}/country-channels"
@@ -89,11 +101,11 @@ async def get_tv_data(session, match_id):
         for country_code, channel_ids in country_channels.items():
 
             try:
-                full_country = (
-                    pycountry.countries.get(alpha_2=country_code).name
-                )
+                country = pycountry.countries.get(
+                    alpha_2=country_code
+                ).name
             except Exception:
-                full_country = country_code
+                country = country_code
 
             tasks = [
                 get_channel_name(session, cid)
@@ -112,7 +124,7 @@ async def get_tv_data(session, match_id):
             )
 
             broadcasters.append({
-                "country": full_country,
+                "country": country,
                 "channels": clean_names if clean_names else ["TBA"]
             })
 
@@ -126,6 +138,9 @@ async def get_tv_data(session, match_id):
 
 
 async def fetch_match_details(session, match_id):
+    """
+    Fetch fixture details + TV information.
+    """
 
     event_url = (
         f"https://api.sofascore1.com/api/v1/event/{match_id}"
@@ -180,6 +195,9 @@ async def fetch_match_details(session, match_id):
 
 
 async def process_day(session, days_offset):
+    """
+    Process one day's fixtures.
+    """
 
     target_date = datetime.now() + timedelta(days=days_offset)
 
@@ -201,10 +219,13 @@ async def process_day(session, days_offset):
         )
 
         if resp.status_code != 200:
-            print(f"Failed {date_query}")
+            print(f"Failed schedule fetch: {date_query}")
             return
 
         events = resp.json().get("events", [])
+
+        if not events:
+            print(f"No events found: {date_query}")
 
         tasks = [
             fetch_match_details(session, event["id"])
@@ -241,17 +262,23 @@ async def process_day(session, days_offset):
         )
 
     except Exception as e:
-        print(f"Error {date_query}: {e}")
+        print(f"Error processing {date_query}: {e}")
 
 
 async def main():
 
+    # Delete old files first
     cleanup_old_files()
 
     async with AsyncSession() as session:
 
-        for offset in range(-1, 6):
+        # Yesterday through next 12 days
+        # Total = 14 files
+        for offset in range(-1, 13):
+
             await process_day(session, offset)
+
+            # Small delay to reduce rate-limit risk
             await asyncio.sleep(2)
 
 
