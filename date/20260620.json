@@ -2539,6 +2539,13 @@
                 ]
             },
             {
+                "country": "Peru",
+                "channels": [
+                    "América TVGO",
+                    "DIRECTV Sports"
+                ]
+            },
+            {
                 "country": "Rwanda",
                 "channels": [
                     "Sporty TV App",
@@ -5865,7 +5872,14 @@
         "league_id": 13363,
         "league": "USL Championship",
         "venue": "Cashman Field",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "CBS Sports Network"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15285707,
@@ -6710,6 +6724,24 @@
         "fixture": "Piteå IF vs AFC Eskilstuna",
         "league_id": 11617,
         "league": "Ettan, Norra",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 16286166,
+        "kickoff": 1781886600,
+        "fixture": "Rapid Wien II vs SV Oberwart",
+        "league_id": 853,
+        "league": "Club Friendly Games",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 16286165,
+        "kickoff": 1781946000,
+        "fixture": "FC Zlín vs FC Petržalka 1898",
+        "league_id": 853,
+        "league": "Club Friendly Games",
         "venue": "TBA",
         "tv_channels": []
     }
