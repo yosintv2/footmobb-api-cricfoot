@@ -178,6 +178,14 @@
         "venue": "AT&T Stadium",
         "tv_channels": [
             {
+                "country": "Argentina",
+                "channels": [
+                    "TV Pública",
+                    "Telefe",
+                    "TyC Sports"
+                ]
+            },
+            {
                 "country": "Burundi",
                 "channels": [
                     "Sporty TV App"
@@ -266,15 +274,43 @@
         "venue": "Hard Rock Stadium",
         "tv_channels": [
             {
+                "country": "Andorra",
+                "channels": [
+                    "RTVE.es",
+                    "TVE La 1"
+                ]
+            },
+            {
+                "country": "Austria",
+                "channels": [
+                    "ZDF"
+                ]
+            },
+            {
                 "country": "Burundi",
                 "channels": [
                     "Sporty TV App"
                 ]
             },
             {
+                "country": "Chile",
+                "channels": [
+                    "Chilevision"
+                ]
+            },
+            {
                 "country": "Congo",
                 "channels": [
                     "Sporty TV App"
+                ]
+            },
+            {
+                "country": "Germany",
+                "channels": [
+                    "Fußball.TV1",
+                    "Magenta TV",
+                    "ZDF",
+                    "ZDF Livestream"
                 ]
             },
             {
@@ -308,9 +344,21 @@
                 ]
             },
             {
+                "country": "Netherlands",
+                "channels": [
+                    "ZDF"
+                ]
+            },
+            {
                 "country": "Nigeria",
                 "channels": [
                     "Sporty TV App"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "channels": [
+                    "RTP 1"
                 ]
             },
             {
@@ -332,6 +380,20 @@
                 ]
             },
             {
+                "country": "Spain",
+                "channels": [
+                    "RTVE.es",
+                    "TVE La 1",
+                    "ZDF"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "channels": [
+                    "ZDF"
+                ]
+            },
+            {
                 "country": "Tanzania, United Republic of",
                 "channels": [
                     "Sporty TV App"
@@ -341,6 +403,12 @@
                 "country": "Uganda",
                 "channels": [
                     "Sporty TV App"
+                ]
+            },
+            {
+                "country": "Venezuela, Bolivarian Republic of",
+                "channels": [
+                    "TELEVEN"
                 ]
             }
         ]
@@ -363,6 +431,12 @@
                 "country": "Congo",
                 "channels": [
                     "Sporty TV App"
+                ]
+            },
+            {
+                "country": "Germany",
+                "channels": [
+                    "Magenta TV"
                 ]
             },
             {
@@ -442,6 +516,12 @@
         "venue": "Lincoln Financial Field",
         "tv_channels": [
             {
+                "country": "Austria",
+                "channels": [
+                    "ZDF"
+                ]
+            },
+            {
                 "country": "Burundi",
                 "channels": [
                     "Sporty TV App"
@@ -451,6 +531,14 @@
                 "country": "Congo",
                 "channels": [
                     "Sporty TV App"
+                ]
+            },
+            {
+                "country": "Germany",
+                "channels": [
+                    "Magenta TV",
+                    "ZDF",
+                    "ZDF Livestream"
                 ]
             },
             {
@@ -478,6 +566,12 @@
                 ]
             },
             {
+                "country": "Netherlands",
+                "channels": [
+                    "ZDF"
+                ]
+            },
+            {
                 "country": "Nigeria",
                 "channels": [
                     "Sporty TV App"
@@ -502,6 +596,18 @@
                 ]
             },
             {
+                "country": "Spain",
+                "channels": [
+                    "ZDF"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "channels": [
+                    "ZDF"
+                ]
+            },
+            {
                 "country": "Tanzania, United Republic of",
                 "channels": [
                     "Sporty TV App"
@@ -511,6 +617,12 @@
                 "country": "Uganda",
                 "channels": [
                     "Sporty TV App"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Peacock"
                 ]
             }
         ]
@@ -536,6 +648,13 @@
                 ]
             },
             {
+                "country": "Germany",
+                "channels": [
+                    "Fußball.TV1",
+                    "Magenta TV"
+                ]
+            },
+            {
                 "country": "Ghana",
                 "channels": [
                     "Sporty TV App"
@@ -545,6 +664,12 @@
                 "country": "Guinea",
                 "channels": [
                     "Sporty TV App"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "ITV"
                 ]
             },
             {
@@ -593,6 +718,12 @@
                 "country": "Uganda",
                 "channels": [
                     "Sporty TV App"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "ITV"
                 ]
             }
         ]
@@ -1183,24 +1314,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 16340380,
-        "kickoff": 1782586800,
-        "fixture": "América-RN vs Fluminense-PI",
-        "league_id": 10326,
-        "league": "Brasileirão Série D, Knockout Stage",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 16340356,
-        "kickoff": 1782586800,
-        "fixture": "Capital CF vs AA Aparecidense",
-        "league_id": 10326,
-        "league": "Brasileirão Série D, Knockout Stage",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 16340357,
         "kickoff": 1782586800,
         "fixture": "Piauí EC vs Maguary",
@@ -1237,6 +1350,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 16340356,
+        "kickoff": 1782590400,
+        "fixture": "Capital CF vs AA Aparecidense",
+        "league_id": 10326,
+        "league": "Brasileirão Série D, Knockout Stage",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 16340359,
         "kickoff": 1782590400,
         "fixture": "Sergipe vs ASA",
@@ -1258,6 +1380,15 @@
         "match_id": 16340355,
         "kickoff": 1782590400,
         "fixture": "Águia de Marabá FC vs Parnahyba SC",
+        "league_id": 10326,
+        "league": "Brasileirão Série D, Knockout Stage",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 16340380,
+        "kickoff": 1782594000,
+        "fixture": "América-RN vs Fluminense-PI",
         "league_id": 10326,
         "league": "Brasileirão Série D, Knockout Stage",
         "venue": "TBA",
