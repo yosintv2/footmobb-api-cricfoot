@@ -428,6 +428,7 @@
                 "country": "Germany",
                 "channels": [
                     "Fußball.TV1",
+                    "Joyn",
                     "Magenta TV",
                     "ZDF",
                     "ZDF Livestream"
@@ -688,6 +689,7 @@
             {
                 "country": "Germany",
                 "channels": [
+                    "Joyn",
                     "Magenta TV",
                     "ZDF",
                     "ZDF Livestream"
@@ -899,15 +901,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 15526157,
-        "kickoff": 1782655200,
-        "fixture": "Juventude vs Ceará",
-        "league_id": 390,
-        "league": "Brasileirão Série B",
-        "venue": "Estádio Alfredo Jaconi",
-        "tv_channels": []
-    },
-    {
         "match_id": 15526150,
         "kickoff": 1782673200,
         "fixture": "Athletic Club vs Avaí",
@@ -923,6 +916,15 @@
         "league_id": 390,
         "league": "Brasileirão Série B",
         "venue": "Estádio Antônio Accioly",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15526157,
+        "kickoff": 1782673200,
+        "fixture": "Juventude vs Ceará",
+        "league_id": 390,
+        "league": "Brasileirão Série B",
+        "venue": "Estádio Alfredo Jaconi",
         "tv_channels": []
     },
     {
@@ -1022,7 +1024,14 @@
         "league_id": 13470,
         "league": "Canadian Premier League",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "Fox Sports 2"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15421052,
@@ -1313,15 +1322,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 16340356,
-        "kickoff": 1782586800,
-        "fixture": "Capital CF vs AA Aparecidense",
-        "league_id": 10326,
-        "league": "Brasileirão Série D, Knockout Stage",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 16340357,
         "kickoff": 1782586800,
         "fixture": "Piauí EC vs Maguary",
@@ -1352,6 +1352,15 @@
         "match_id": 16340358,
         "kickoff": 1782590400,
         "fixture": "CSA vs Lagarto FC",
+        "league_id": 10326,
+        "league": "Brasileirão Série D, Knockout Stage",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 16340356,
+        "kickoff": 1782590400,
+        "fixture": "Capital CF vs AA Aparecidense",
         "league_id": 10326,
         "league": "Brasileirão Série D, Knockout Stage",
         "venue": "TBA",
@@ -1755,7 +1764,9 @@
             {
                 "country": "Germany",
                 "channels": [
-                    "DAZN"
+                    "DAZN",
+                    "Sportdigital FUSSBALL",
+                    "Sportdigital+"
                 ]
             }
         ]
@@ -1803,7 +1814,14 @@
         "league_id": 41,
         "league": "Veikkausliiga",
         "venue": "Tammela Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Germany",
+                "channels": [
+                    "OneFootball Deutschland"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15272774,
@@ -1812,7 +1830,14 @@
         "league_id": 41,
         "league": "Veikkausliiga",
         "venue": "Bolt Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Germany",
+                "channels": [
+                    "OneFootball Deutschland"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15272775,
@@ -1821,7 +1846,14 @@
         "league_id": 41,
         "league": "Veikkausliiga",
         "venue": "Wiklof Holding Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Germany",
+                "channels": [
+                    "OneFootball Deutschland"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15272776,
@@ -1830,7 +1862,14 @@
         "league_id": 41,
         "league": "Veikkausliiga",
         "venue": "Mustapekka Areena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Germany",
+                "channels": [
+                    "OneFootball Deutschland"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15272777,
@@ -1839,7 +1878,14 @@
         "league_id": 41,
         "league": "Veikkausliiga",
         "venue": "Veritas Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Germany",
+                "channels": [
+                    "OneFootball Deutschland"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15272778,
@@ -1848,7 +1894,14 @@
         "league_id": 41,
         "league": "Veikkausliiga",
         "venue": "Raatti Stadion",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Germany",
+                "channels": [
+                    "OneFootball Deutschland"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15341261,
@@ -1978,7 +2031,7 @@
     },
     {
         "match_id": 15635627,
-        "kickoff": 1782658800,
+        "kickoff": 1782655200,
         "fixture": "FK Zhenys vs Astana",
         "league_id": 682,
         "league": "Premier League",

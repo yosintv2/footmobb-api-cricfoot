@@ -328,15 +328,6 @@
         ]
     },
     {
-        "match_id": 15526157,
-        "kickoff": 1782655200,
-        "fixture": "Juventude vs Ceará",
-        "league_id": 390,
-        "league": "Brasileirão Série B",
-        "venue": "Estádio Alfredo Jaconi",
-        "tv_channels": []
-    },
-    {
         "match_id": 15526150,
         "kickoff": 1782673200,
         "fixture": "Athletic Club vs Avaí",
@@ -352,6 +343,15 @@
         "league_id": 390,
         "league": "Brasileirão Série B",
         "venue": "Estádio Antônio Accioly",
+        "tv_channels": []
+    },
+    {
+        "match_id": 15526157,
+        "kickoff": 1782673200,
+        "fixture": "Juventude vs Ceará",
+        "league_id": 390,
+        "league": "Brasileirão Série B",
+        "venue": "Estádio Alfredo Jaconi",
         "tv_channels": []
     },
     {
@@ -397,7 +397,14 @@
         "league_id": 13470,
         "league": "Canadian Premier League",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "Fox Sports 2"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15421051,
@@ -770,7 +777,9 @@
             {
                 "country": "Germany",
                 "channels": [
-                    "DAZN"
+                    "DAZN",
+                    "Sportdigital FUSSBALL",
+                    "Sportdigital+"
                 ]
             }
         ]
@@ -894,7 +903,7 @@
     },
     {
         "match_id": 15635627,
-        "kickoff": 1782658800,
+        "kickoff": 1782655200,
         "fixture": "FK Zhenys vs Astana",
         "league_id": 682,
         "league": "Premier League",
