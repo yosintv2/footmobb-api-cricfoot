@@ -11974,7 +11974,7 @@
         "fixture": "Coquimbo Unido vs Deportes Limache",
         "league_id": 1221,
         "league": "Copa Chile, Group A",
-        "venue": "TBA",
+        "venue": "Estadio Francisco Sanchez Rumoroso",
         "tv_channels": [
             {
                 "country": "Brazil",
@@ -11996,7 +11996,7 @@
         "fixture": "Everton de Viña del Mar vs Universidad Católica",
         "league_id": 1221,
         "league": "Copa Chile, Group B",
-        "venue": "TBA",
+        "venue": "Sausalito",
         "tv_channels": [
             {
                 "country": "Brazil",
@@ -12007,7 +12007,8 @@
             {
                 "country": "Chile",
                 "channels": [
-                    "TNT SPORTS Premium"
+                    "TNT SPORTS Premium",
+                    "max chile"
                 ]
             }
         ]
@@ -12018,12 +12019,19 @@
         "fixture": "Palestino vs Audax Italiano",
         "league_id": 1221,
         "league": "Copa Chile, Group G",
-        "venue": "TBA",
+        "venue": "Municipal de La Cisterna",
         "tv_channels": [
             {
                 "country": "Brazil",
                 "channels": [
                     "Betano"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "TNT Sports Chile",
+                    "max chile"
                 ]
             }
         ]
@@ -12399,9 +12407,27 @@
         ]
     },
     {
+        "match_id": 16376923,
+        "kickoff": 1782231300,
+        "fixture": "KF Shkëndija vs HNK Hajduk Split",
+        "league_id": 853,
+        "league": "Club Friendly Games",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 16379346,
         "kickoff": 1782239400,
         "fixture": "Penybont vs Trethomas Bluebirds",
+        "league_id": 853,
+        "league": "Club Friendly Games",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 16376595,
+        "kickoff": 1782290700,
+        "fixture": "Dukla Banská Bystrica vs 1. FC Tatran Prešov",
         "league_id": 853,
         "league": "Club Friendly Games",
         "venue": "TBA",

@@ -399,6 +399,12 @@
         "venue": "TBA",
         "tv_channels": [
             {
+                "country": "Canada",
+                "channels": [
+                    "OneSoccer"
+                ]
+            },
+            {
                 "country": "United States",
                 "channels": [
                     "Fox Sports 2"
@@ -820,7 +826,33 @@
         "league_id": 258,
         "league": "U19 European Championship, Group A",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Andorra",
+                "channels": [
+                    "RTVE Play"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "BBC iPlayer",
+                    "S4C Online"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "RTVE Play"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "BBC iPlayer"
+                ]
+            }
+        ]
     },
     {
         "match_id": 16029639,
@@ -865,7 +897,15 @@
         "league_id": 695,
         "league": "U19 UEFA European Championship, Women, Group B",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Germany",
+                "channels": [
+                    "Sportdigital FUSSBALL",
+                    "Sportdigital+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 16078327,
@@ -874,7 +914,15 @@
         "league_id": 695,
         "league": "U19 UEFA European Championship, Women, Group B",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Germany",
+                "channels": [
+                    "Sportdigital FUSSBALL",
+                    "Sportdigital+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15341263,
@@ -883,7 +931,14 @@
         "league_id": 55,
         "league": "Ykkosliiga",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Finland",
+                "channels": [
+                    "Ruutu+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15426852,
@@ -1090,7 +1145,14 @@
         "league_id": 46,
         "league": "Superettan",
         "venue": "PlatinumCars Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Sweden",
+                "channels": [
+                    "TV4 Sportkanalen"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15271273,
