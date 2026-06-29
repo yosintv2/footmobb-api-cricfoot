@@ -3,7 +3,7 @@
         "match_id": 5769428,
         "kickoff": 1783264500,
         "fixture": "Rapid Wien vs Rapid Bucuresti",
-        "league_id": 915708,
+        "league_id": 489,
         "league": "Club Friendlies",
         "venue": "Forstenlechner Arena Perg",
         "tv_channels": []
@@ -12,16 +12,24 @@
         "match_id": 5496018,
         "kickoff": 1783296000,
         "fixture": "Deportes Limache vs San Marcos",
-        "league_id": 920442,
+        "league_id": 9091,
         "league": "Cup Grp. A",
         "venue": "Estadio Municipal Lucio Fariña Fernández",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Chile",
+                "channels": [
+                    "HBO MAX",
+                    "TNT Sports Premium"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5496040,
         "kickoff": 1783269000,
         "fixture": "La Serena vs Antofagasta",
-        "league_id": 920444,
+        "league_id": 9091,
         "league": "Cup Grp. C",
         "venue": "Estadio La Portada",
         "tv_channels": []
@@ -30,7 +38,7 @@
         "match_id": 5496039,
         "kickoff": 1783278000,
         "fixture": "Cobresal vs Cobreloa",
-        "league_id": 920444,
+        "league_id": 9091,
         "league": "Cup Grp. C",
         "venue": "Estadio El Cobre Codelco Salvador",
         "tv_channels": []
@@ -39,7 +47,7 @@
         "match_id": 5496056,
         "kickoff": 1783269000,
         "fixture": "Santiago Wanderers vs Universidad de Chile",
-        "league_id": 920445,
+        "league_id": 9091,
         "league": "Cup Grp. D",
         "venue": "Estadio Elías Figueroa Brander",
         "tv_channels": [
@@ -56,7 +64,7 @@
         "match_id": 5496070,
         "kickoff": 1783287000,
         "fixture": "Union Espanola vs O'Higgins",
-        "league_id": 920446,
+        "league_id": 9091,
         "league": "Cup Grp. E",
         "venue": "Estadio Santa Laura-Universidad SEK",
         "tv_channels": [
@@ -73,7 +81,7 @@
         "match_id": 5496078,
         "kickoff": 1783278000,
         "fixture": "Ñublense vs Curico Unido",
-        "league_id": 920448,
+        "league_id": 9091,
         "league": "Cup Grp. F",
         "venue": "Estadio Bicentenario Municipal Nelson Oyarzún",
         "tv_channels": [
@@ -90,7 +98,7 @@
         "match_id": 5496079,
         "kickoff": 1783278000,
         "fixture": "Universidad de Concepcion vs Rangers",
-        "league_id": 920448,
+        "league_id": 9091,
         "league": "Cup Grp. F",
         "venue": "Estadio Municipal Alcaldesa Ester Roa Rebolledo",
         "tv_channels": []
@@ -99,7 +107,7 @@
         "match_id": 5496087,
         "kickoff": 1783281600,
         "fixture": "Deportes Santa Cruz vs Audax Italiano",
-        "league_id": 920450,
+        "league_id": 9091,
         "league": "Cup Grp. G",
         "venue": "Estadio Municipal Joaquín Muñoz García",
         "tv_channels": [
@@ -139,7 +147,7 @@
         "match_id": 5496104,
         "kickoff": 1783278000,
         "fixture": "Puerto Montt vs Huachipato",
-        "league_id": 920451,
+        "league_id": 9091,
         "league": "Cup Grp. H",
         "venue": "Estadio Bicentenario de Chinquihue",
         "tv_channels": []
@@ -157,7 +165,7 @@
         "match_id": 5161549,
         "kickoff": 1783267200,
         "fixture": "Boston Legacy FC (W) vs Bay FC (W)",
-        "league_id": 920228,
+        "league_id": 9134,
         "league": "NWSL",
         "venue": "Centreville Bank Stadium",
         "tv_channels": [
@@ -214,7 +222,7 @@
         "match_id": 5161550,
         "kickoff": 1783285200,
         "fixture": "Chicago Stars (W) vs Utah Royals (W)",
-        "league_id": 920228,
+        "league_id": 9134,
         "league": "NWSL",
         "venue": "Northwestern Medicine Field at Martin Stadium",
         "tv_channels": [
@@ -261,7 +269,7 @@
         "match_id": 5161551,
         "kickoff": 1783292400,
         "fixture": "Portland Thorns (W) vs Racing Louisville (W)",
-        "league_id": 920228,
+        "league_id": 9134,
         "league": "NWSL",
         "venue": "Providence Park",
         "tv_channels": [
@@ -307,7 +315,7 @@
         "match_id": 5204165,
         "kickoff": 1783263600,
         "fixture": "Kaisar Kyzylorda vs Irtysh Pavlodar",
-        "league_id": 922739,
+        "league_id": 225,
         "league": "Premier League",
         "venue": "TBA",
         "tv_channels": []
@@ -316,7 +324,7 @@
         "match_id": 5204168,
         "kickoff": 1783263600,
         "fixture": "Ordabasy Shymkent vs Ulytau",
-        "league_id": 922739,
+        "league_id": 225,
         "league": "Premier League",
         "venue": "TBA",
         "tv_channels": []
@@ -325,7 +333,7 @@
         "match_id": 5829255,
         "kickoff": 1783270800,
         "fixture": "Fenix vs Huracan FC",
-        "league_id": 922761,
+        "league_id": 9122,
         "league": "Segunda Division",
         "venue": "TBA",
         "tv_channels": []
@@ -334,7 +342,7 @@
         "match_id": 5829256,
         "kickoff": 1783281600,
         "fixture": "Tacuarembo FC vs Cerrito",
-        "league_id": 922761,
+        "league_id": 9122,
         "league": "Segunda Division",
         "venue": "TBA",
         "tv_channels": []
@@ -343,7 +351,7 @@
         "match_id": 5829257,
         "kickoff": 1783292400,
         "fixture": "Colon vs Uruguay Montevideo",
-        "league_id": 922761,
+        "league_id": 9122,
         "league": "Segunda Division",
         "venue": "TBA",
         "tv_channels": []
@@ -352,7 +360,7 @@
         "match_id": 5829258,
         "kickoff": 1783371600,
         "fixture": "Miramar Misiones vs Atenas",
-        "league_id": 922761,
+        "league_id": 9122,
         "league": "Segunda Division",
         "venue": "TBA",
         "tv_channels": []
@@ -361,7 +369,7 @@
         "match_id": 5827447,
         "kickoff": 1783263600,
         "fixture": "Dacia Buiucani vs Real Sireti",
-        "league_id": 936986,
+        "league_id": 231,
         "league": "Super Liga",
         "venue": "TBA",
         "tv_channels": []
@@ -370,7 +378,7 @@
         "match_id": 5827448,
         "kickoff": 1783270800,
         "fixture": "Zimbru vs FC Balti",
-        "league_id": 936986,
+        "league_id": 231,
         "league": "Super Liga",
         "venue": "TBA",
         "tv_channels": []
@@ -379,7 +387,7 @@
         "match_id": 5344665,
         "kickoff": 1783263600,
         "fixture": "Serbia U19 vs Croatia U19",
-        "league_id": 927005,
+        "league_id": 287,
         "league": "EURO U19 Grp. B",
         "venue": "The Oval",
         "tv_channels": [
@@ -409,7 +417,7 @@
         "match_id": 5344666,
         "kickoff": 1783263600,
         "fixture": "Ukraine U19 vs Italy U19",
-        "league_id": 927005,
+        "league_id": 287,
         "league": "EURO U19 Grp. B",
         "venue": "Nantporth Stadium",
         "tv_channels": [
@@ -475,7 +483,7 @@
         "match_id": 4653846,
         "kickoff": 1783281600,
         "fixture": "Brazil/Japan vs Ivory Coast/Norway",
-        "league_id": 894789,
+        "league_id": 77,
         "league": "World Cup",
         "venue": "New York New Jersey Stadium",
         "tv_channels": [
@@ -536,7 +544,7 @@
         "match_id": 4653847,
         "kickoff": 1783296000,
         "fixture": "Mexico/Ecuador vs England/DR Congo",
-        "league_id": 894789,
+        "league_id": 77,
         "league": "World Cup",
         "venue": "Mexico City Stadium",
         "tv_channels": [
@@ -599,7 +607,7 @@
         "match_id": 4653844,
         "kickoff": 1783364400,
         "fixture": "Portugal/Croatia vs Spain/Austria",
-        "league_id": 894789,
+        "league_id": 77,
         "league": "World Cup",
         "venue": "Dallas Stadium",
         "tv_channels": [
@@ -661,7 +669,7 @@
         "match_id": 5238325,
         "kickoff": 1783281600,
         "fixture": "Defensores de Belgrano de Villa Ramallo vs Atletico Escobar",
-        "league_id": 923718,
+        "league_id": 9213,
         "league": "Federal A Zona A",
         "venue": "TBA",
         "tv_channels": []
@@ -670,7 +678,7 @@
         "match_id": 5238326,
         "kickoff": 1783281600,
         "fixture": "Douglas Haig vs Sportivo Las Parejas",
-        "league_id": 923718,
+        "league_id": 9213,
         "league": "Federal A Zona A",
         "venue": "TBA",
         "tv_channels": []
@@ -679,7 +687,7 @@
         "match_id": 5238324,
         "kickoff": 1783281600,
         "fixture": "Gimnasia y Esgrima de Chivilcoy vs El Linqueno",
-        "league_id": 923718,
+        "league_id": 9213,
         "league": "Federal A Zona A",
         "venue": "TBA",
         "tv_channels": []
@@ -688,7 +696,7 @@
         "match_id": 5238327,
         "kickoff": 1783281600,
         "fixture": "Gimnasia y Esgrima de Concepcion vs 9 de Julio Rafaela",
-        "league_id": 923718,
+        "league_id": 9213,
         "league": "Federal A Zona A",
         "venue": "TBA",
         "tv_channels": []
@@ -697,7 +705,7 @@
         "match_id": 5238328,
         "kickoff": 1783281600,
         "fixture": "Sportivo Belgrano vs Independiente Chivilcoy",
-        "league_id": 923718,
+        "league_id": 9213,
         "league": "Federal A Zona A",
         "venue": "TBA",
         "tv_channels": []
@@ -706,7 +714,7 @@
         "match_id": 5238403,
         "kickoff": 1783281600,
         "fixture": "Boca Unidos vs Sarmiento de Resistencia",
-        "league_id": 923719,
+        "league_id": 9213,
         "league": "Federal A Zona B",
         "venue": "TBA",
         "tv_channels": []
@@ -715,7 +723,7 @@
         "match_id": 5238404,
         "kickoff": 1783281600,
         "fixture": "Defensores de Vilelas vs Sarmiento de La Banda",
-        "league_id": 923719,
+        "league_id": 9213,
         "league": "Federal A Zona B",
         "venue": "TBA",
         "tv_channels": []
@@ -724,7 +732,7 @@
         "match_id": 5238405,
         "kickoff": 1783281600,
         "fixture": "San Martin de Formosa vs Juventud Antoniana",
-        "league_id": 923719,
+        "league_id": 9213,
         "league": "Federal A Zona B",
         "venue": "TBA",
         "tv_channels": []
@@ -733,7 +741,7 @@
         "match_id": 5238406,
         "kickoff": 1783281600,
         "fixture": "Tucuman Central vs Sol de America Formosa",
-        "league_id": 923719,
+        "league_id": 9213,
         "league": "Federal A Zona B",
         "venue": "TBA",
         "tv_channels": []
@@ -742,7 +750,7 @@
         "match_id": 5238476,
         "kickoff": 1783281600,
         "fixture": "Club Cipolletti vs Argentino Monte Maiz",
-        "league_id": 923720,
+        "league_id": 9213,
         "league": "Federal A Zona C",
         "venue": "TBA",
         "tv_channels": []
@@ -751,7 +759,7 @@
         "match_id": 5238477,
         "kickoff": 1783281600,
         "fixture": "Huracan Las Heras vs Costa Brava",
-        "league_id": 923720,
+        "league_id": 9213,
         "league": "Federal A Zona C",
         "venue": "TBA",
         "tv_channels": []
@@ -760,7 +768,7 @@
         "match_id": 5238478,
         "kickoff": 1783281600,
         "fixture": "San Martin Mendoza vs Deportivo Rincon",
-        "league_id": 923720,
+        "league_id": 9213,
         "league": "Federal A Zona C",
         "venue": "TBA",
         "tv_channels": []
@@ -769,7 +777,7 @@
         "match_id": 5238475,
         "kickoff": 1783281600,
         "fixture": "Sportivo Atenas vs Fundacion Amigos",
-        "league_id": 923720,
+        "league_id": 9213,
         "league": "Federal A Zona C",
         "venue": "TBA",
         "tv_channels": []
@@ -778,7 +786,7 @@
         "match_id": 5238548,
         "kickoff": 1783281600,
         "fixture": "CA Alvarado vs Germinal",
-        "league_id": 923721,
+        "league_id": 9213,
         "league": "Federal A Zona D",
         "venue": "TBA",
         "tv_channels": []
@@ -787,7 +795,7 @@
         "match_id": 5238549,
         "kickoff": 1783281600,
         "fixture": "Guillermo Brown vs Circulo Deportivo",
-        "league_id": 923721,
+        "league_id": 9213,
         "league": "Federal A Zona D",
         "venue": "TBA",
         "tv_channels": []
@@ -796,7 +804,7 @@
         "match_id": 5238550,
         "kickoff": 1783281600,
         "fixture": "Olimpo vs Villa Mitre",
-        "league_id": 923721,
+        "league_id": 9213,
         "league": "Federal A Zona D",
         "venue": "TBA",
         "tv_channels": []
@@ -805,7 +813,7 @@
         "match_id": 5238551,
         "kickoff": 1783281600,
         "fixture": "Sol de Mayo vs Kimberley",
-        "league_id": 923721,
+        "league_id": 9213,
         "league": "Federal A Zona D",
         "venue": "TBA",
         "tv_channels": []
@@ -831,7 +839,7 @@
         "match_id": 5113355,
         "kickoff": 1783274400,
         "fixture": "Club Atlético Estudiantes vs Racing de Cordoba",
-        "league_id": 916553,
+        "league_id": 8965,
         "league": "Primera Nacional",
         "venue": "Estadio Ciudad de Caseros",
         "tv_channels": [
@@ -991,7 +999,7 @@
         "match_id": 5113361,
         "kickoff": 1783274400,
         "fixture": "Deportivo Madryn vs Colon",
-        "league_id": 916553,
+        "league_id": 8965,
         "league": "Primera Nacional",
         "venue": "Estadio Abel Sastre",
         "tv_channels": [
@@ -1151,7 +1159,7 @@
         "match_id": 5113362,
         "kickoff": 1783276200,
         "fixture": "Ferro Carril Oeste vs San Telmo",
-        "league_id": 916553,
+        "league_id": 8965,
         "league": "Primera Nacional",
         "venue": "Estadio Arquitecto Ricardo Etcheverry",
         "tv_channels": [
@@ -1311,7 +1319,7 @@
         "match_id": 5112990,
         "kickoff": 1783276200,
         "fixture": "Patronato de Parana vs San Martin de Tucuman",
-        "league_id": 916553,
+        "league_id": 8965,
         "league": "Primera Nacional",
         "venue": "Estadio Presbítero Bartolomé Grella",
         "tv_channels": [
@@ -1471,7 +1479,7 @@
         "match_id": 5113358,
         "kickoff": 1783278000,
         "fixture": "CA Chaco For Ever vs Acassuso",
-        "league_id": 916553,
+        "league_id": 8965,
         "league": "Primera Nacional",
         "venue": "Estadio Juan Alberto García",
         "tv_channels": [
@@ -1631,7 +1639,7 @@
         "match_id": 5112988,
         "kickoff": 1783278000,
         "fixture": "CA Ferrocarril Midland vs Gimnasia Jujuy",
-        "league_id": 916553,
+        "league_id": 8965,
         "league": "Primera Nacional",
         "venue": "Estadio Ferrocarril Midland",
         "tv_channels": [
@@ -1791,7 +1799,7 @@
         "match_id": 5113356,
         "kickoff": 1783278000,
         "fixture": "Club Atletico Mitre vs All Boys",
-        "league_id": 916553,
+        "league_id": 8965,
         "league": "Primera Nacional",
         "venue": "Estadio Aurinegro",
         "tv_channels": [
@@ -1951,7 +1959,7 @@
         "match_id": 5112992,
         "kickoff": 1783278000,
         "fixture": "San Martin San Juan vs Chacarita Juniors",
-        "league_id": 916553,
+        "league_id": 8965,
         "league": "Primera Nacional",
         "venue": "Estadio Ingeniero Hilario Sánchez",
         "tv_channels": [
@@ -2111,7 +2119,7 @@
         "match_id": 5113357,
         "kickoff": 1783279800,
         "fixture": "Central Norte vs CA San Miguel",
-        "league_id": 916553,
+        "league_id": 8965,
         "league": "Primera Nacional",
         "venue": "Estadio Padre Ernesto Martearena",
         "tv_channels": [
@@ -2271,7 +2279,7 @@
         "match_id": 5112987,
         "kickoff": 1783279800,
         "fixture": "Deportivo Maipu vs Agropecuario",
-        "league_id": 916553,
+        "league_id": 8965,
         "league": "Primera Nacional",
         "venue": "Estadio Omar Higinio Sperdutti",
         "tv_channels": [
@@ -2431,7 +2439,7 @@
         "match_id": 5163719,
         "kickoff": 1783265400,
         "fixture": "MP vs Haka",
-        "league_id": 920261,
+        "league_id": 251,
         "league": "Ykkosliiga",
         "venue": "Mikkelin urheilupuisto",
         "tv_channels": [
@@ -2447,7 +2455,7 @@
         "match_id": 5215454,
         "kickoff": 1783263600,
         "fixture": "Belshina Bobruisk vs Baranovichi",
-        "league_id": 923169,
+        "league_id": 263,
         "league": "Premier League",
         "venue": "Spartak Stadion, Babruisk",
         "tv_channels": []
@@ -2456,7 +2464,7 @@
         "match_id": 5215460,
         "kickoff": 1783274100,
         "fixture": "Torpedo Zhodino vs Isloch",
-        "league_id": 923169,
+        "league_id": 263,
         "league": "Premier League",
         "venue": "Torpedo Stadium, Zhodino",
         "tv_channels": []
@@ -2512,6 +2520,12 @@
                 ]
             },
             {
+                "country": "Costa Rica",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
                 "country": "Dominican Republic",
                 "channels": [
                     "OneFootball"
@@ -2519,6 +2533,18 @@
             },
             {
                 "country": "Ecuador",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Honduras",
                 "channels": [
                     "OneFootball"
                 ]
@@ -2537,6 +2563,12 @@
             },
             {
                 "country": "Mexico",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Nicaragua",
                 "channels": [
                     "OneFootball"
                 ]
@@ -2648,7 +2680,37 @@
                 ]
             },
             {
+                "country": "Colombia",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
                 "country": "Dominican Republic",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Honduras",
                 "channels": [
                     "OneFootball"
                 ]
@@ -2666,6 +2728,18 @@
                 ]
             },
             {
+                "country": "Mexico",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
                 "country": "Panama",
                 "channels": [
                     "OneFootball"
@@ -2673,6 +2747,12 @@
             },
             {
                 "country": "Paraguay",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Peru",
                 "channels": [
                     "OneFootball"
                 ]
@@ -2760,7 +2840,31 @@
                 ]
             },
             {
+                "country": "Chile",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
                 "country": "Dominican Republic",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Honduras",
                 "channels": [
                     "OneFootball"
                 ]
@@ -2778,7 +2882,25 @@
                 ]
             },
             {
+                "country": "Nicaragua",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Panama",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
                 "country": "Paraguay",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Peru",
                 "channels": [
                     "OneFootball"
                 ]
@@ -2815,6 +2937,12 @@
             },
             {
                 "country": "Uruguay",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Venezuela, Bolivarian Republic of",
                 "channels": [
                     "OneFootball"
                 ]
@@ -2860,7 +2988,31 @@
                 ]
             },
             {
+                "country": "Chile",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
                 "country": "Dominican Republic",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Honduras",
                 "channels": [
                     "OneFootball"
                 ]
@@ -2878,7 +3030,25 @@
                 ]
             },
             {
+                "country": "Nicaragua",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Panama",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
                 "country": "Paraguay",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Peru",
                 "channels": [
                     "OneFootball"
                 ]
@@ -2918,6 +3088,12 @@
                 "channels": [
                     "OneFootball"
                 ]
+            },
+            {
+                "country": "Venezuela, Bolivarian Republic of",
+                "channels": [
+                    "OneFootball"
+                ]
             }
         ]
     },
@@ -2949,6 +3125,266 @@
             },
             {
                 "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Panama",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Poland",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Slovakia",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Venezuela, Bolivarian Republic of",
+                "channels": [
+                    "OneFootball"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 1000007632,
+        "kickoff": 1783296000,
+        "fixture": "Huntsville City FC vs Chicago Fire FC II",
+        "league_id": 10282,
+        "league": "MLS Next Pro",
+        "venue": "Wicks Family Field at Joe Davis Stadium",
+        "tv_channels": [
+            {
+                "country": "Argentina",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Australia",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Austria",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Poland",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Slovakia",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Venezuela, Bolivarian Republic of",
+                "channels": [
+                    "OneFootball"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 1000007633,
+        "kickoff": 1783297800,
+        "fixture": "Austin FC II vs Colorado Rapids 2",
+        "league_id": 10282,
+        "league": "MLS Next Pro",
+        "venue": "Parmer Field at St. David’s Performance Center",
+        "tv_channels": [
+            {
+                "country": "Argentina",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Australia",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Austria",
                 "channels": [
                     "OneFootball"
                 ]
@@ -3022,12 +3458,12 @@
         ]
     },
     {
-        "match_id": 1000007632,
-        "kickoff": 1783296000,
-        "fixture": "Huntsville City FC vs Chicago Fire FC II",
+        "match_id": 1000007626,
+        "kickoff": 1783299600,
+        "fixture": "Los Angeles FC II vs Real Monarchs SLC",
         "league_id": 10282,
         "league": "MLS Next Pro",
-        "venue": "Wicks Family Field at Joe Davis Stadium",
+        "venue": "Rawlinson Stadium",
         "tv_channels": [
             {
                 "country": "Argentina",
@@ -3043,6 +3479,18 @@
             },
             {
                 "country": "Austria",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
                 "channels": [
                     "OneFootball"
                 ]
@@ -3094,131 +3542,9 @@
                 "channels": [
                     "OneFootball"
                 ]
-            }
-        ]
-    },
-    {
-        "match_id": 1000007633,
-        "kickoff": 1783297800,
-        "fixture": "Austin FC II vs Colorado Rapids 2",
-        "league_id": 10282,
-        "league": "MLS Next Pro",
-        "venue": "Parmer Field at St. David’s Performance Center",
-        "tv_channels": [
-            {
-                "country": "Australia",
-                "channels": [
-                    "OneFootball"
-                ]
             },
             {
-                "country": "Austria",
-                "channels": [
-                    "OneFootball"
-                ]
-            },
-            {
-                "country": "Ireland",
-                "channels": [
-                    "OneFootball"
-                ]
-            },
-            {
-                "country": "Japan",
-                "channels": [
-                    "OneFootball"
-                ]
-            },
-            {
-                "country": "Poland",
-                "channels": [
-                    "OneFootball"
-                ]
-            },
-            {
-                "country": "Portugal",
-                "channels": [
-                    "OneFootball"
-                ]
-            },
-            {
-                "country": "Slovakia",
-                "channels": [
-                    "OneFootball"
-                ]
-            },
-            {
-                "country": "Spain",
-                "channels": [
-                    "OneFootball"
-                ]
-            },
-            {
-                "country": "Switzerland",
-                "channels": [
-                    "OneFootball"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 1000007626,
-        "kickoff": 1783299600,
-        "fixture": "Los Angeles FC II vs Real Monarchs SLC",
-        "league_id": 10282,
-        "league": "MLS Next Pro",
-        "venue": "Rawlinson Stadium",
-        "tv_channels": [
-            {
-                "country": "Australia",
-                "channels": [
-                    "OneFootball"
-                ]
-            },
-            {
-                "country": "Austria",
-                "channels": [
-                    "OneFootball"
-                ]
-            },
-            {
-                "country": "Ireland",
-                "channels": [
-                    "OneFootball"
-                ]
-            },
-            {
-                "country": "Japan",
-                "channels": [
-                    "OneFootball"
-                ]
-            },
-            {
-                "country": "Poland",
-                "channels": [
-                    "OneFootball"
-                ]
-            },
-            {
-                "country": "Portugal",
-                "channels": [
-                    "OneFootball"
-                ]
-            },
-            {
-                "country": "Slovakia",
-                "channels": [
-                    "OneFootball"
-                ]
-            },
-            {
-                "country": "Spain",
-                "channels": [
-                    "OneFootball"
-                ]
-            },
-            {
-                "country": "Switzerland",
+                "country": "Uruguay",
                 "channels": [
                     "OneFootball"
                 ]
@@ -3253,6 +3579,12 @@
             },
             {
                 "country": "Japan",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Paraguay",
                 "channels": [
                     "OneFootball"
                 ]
@@ -3318,7 +3650,8 @@
             {
                 "country": "Canada",
                 "channels": [
-                    "OneSoccer"
+                    "OneSoccer",
+                    "TSN4"
                 ]
             },
             {
