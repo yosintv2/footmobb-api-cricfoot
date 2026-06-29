@@ -312,7 +312,14 @@
         "league_id": 77,
         "league": "World Cup",
         "venue": "Boston Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "FOX Sports"
+                ]
+            }
+        ]
     },
     {
         "match_id": 4653853,
