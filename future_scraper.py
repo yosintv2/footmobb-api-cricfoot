@@ -97,7 +97,7 @@ async def get_fotmob_schedule(session, date_str):
                 "away_name": m["away"]["name"],
                 "away_id": m["away"]["id"],
                 "league": league_name,
-                "league_id": m.get("leagueId", league.get("id", 0)),
+                "league_id": league.get("primaryId") or league.get("id", 0),
             })
 
     return matches

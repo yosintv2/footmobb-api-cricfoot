@@ -66,7 +66,7 @@ def run():
                 "kickoff": timestamp,
                 "fixture": f"{m['home']['name']} vs {m['away']['name']}",
                 "league": league_name,
-                "league_id": m.get("leagueId", league.get("id", 0)),
+                "league_id": league.get("primaryId") or league.get("id", 0),
             })
 
     if not results:
