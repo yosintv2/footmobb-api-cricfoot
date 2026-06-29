@@ -222,14 +222,7 @@
         "league_id": 9137,
         "league": "China League",
         "venue": "TBA",
-        "tv_channels": [
-            {
-                "country": "China",
-                "channels": [
-                    "Migu"
-                ]
-            }
-        ]
+        "tv_channels": []
     },
     {
         "match_id": 5207142,
@@ -679,14 +672,7 @@
         "league_id": 225,
         "league": "Premier League",
         "venue": "TBA",
-        "tv_channels": [
-            {
-                "country": "China",
-                "channels": [
-                    "Migu"
-                ]
-            }
-        ]
+        "tv_channels": []
     },
     {
         "match_id": 5204156,
@@ -2155,14 +2141,7 @@
         "league_id": 120,
         "league": "Super League",
         "venue": "Qingdao West Coast University City Stadium",
-        "tv_channels": [
-            {
-                "country": "China",
-                "channels": [
-                    "Migu"
-                ]
-            }
-        ]
+        "tv_channels": []
     },
     {
         "match_id": 5186532,
@@ -2171,14 +2150,7 @@
         "league_id": 120,
         "league": "Super League",
         "venue": "Dalian Suoyuwan Football Stadium",
-        "tv_channels": [
-            {
-                "country": "China",
-                "channels": [
-                    "Migu"
-                ]
-            }
-        ]
+        "tv_channels": []
     },
     {
         "match_id": 5774039,
@@ -2681,14 +2653,7 @@
         "league_id": 8971,
         "league": "Serie C",
         "venue": "Estádio Orlando Scarpelli",
-        "tv_channels": [
-            {
-                "country": "Brazil",
-                "channels": [
-                    "SportyNet"
-                ]
-            }
-        ]
+        "tv_channels": []
     },
     {
         "match_id": 1000015002,
@@ -3968,9 +3933,13 @@
             {
                 "country": "Switzerland",
                 "channels": [
+                    "Blue Sport",
                     "DAZN",
+                    "DFB TV",
                     "OneFootball PPV",
-                    "Sportdigital Fussball"
+                    "RTL+ Plus",
+                    "Sportdigital Fussball",
+                    "Sunrise TV"
                 ]
             }
         ]

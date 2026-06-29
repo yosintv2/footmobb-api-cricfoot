@@ -153,15 +153,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5820948,
-        "kickoff": 1783267200,
-        "fixture": "Douglas Hall (W) vs Dundalk U23 (W)",
-        "league_id": 10307,
-        "league": "FAI Women's Cup",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 5161549,
         "kickoff": 1783267200,
         "fixture": "Boston Legacy FC (W) vs Bay FC (W)",
@@ -422,6 +413,7 @@
                 "country": "Germany",
                 "channels": [
                     "OneFootball Deutschland",
+                    "Sportdigital FUSSBALL2",
                     "Sportdigital+"
                 ]
             },
@@ -477,7 +469,9 @@
             {
                 "country": "Switzerland",
                 "channels": [
-                    "Sportdigital Fussball"
+                    "Blue Sport",
+                    "Sportdigital Fussball",
+                    "Sunrise TV"
                 ]
             },
             {
@@ -4025,6 +4019,8 @@
             {
                 "country": "United States",
                 "channels": [
+                    "FOX One",
+                    "FOX Sports",
                     "FOX Sports 2",
                     "Fubo Sports"
                 ]
@@ -4048,6 +4044,8 @@
             {
                 "country": "United States",
                 "channels": [
+                    "FOX One",
+                    "FOX Sports",
                     "FOX Sports 2",
                     "Fubo Sports"
                 ]
@@ -4230,7 +4228,37 @@
                 ]
             },
             {
+                "country": "Austria",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
                 "country": "Japan",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Poland",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Slovakia",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Switzerland",
                 "channels": [
                     "OneFootball PPV"
                 ]

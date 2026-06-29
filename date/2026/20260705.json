@@ -227,7 +227,7 @@
     },
     {
         "match_id": 5820948,
-        "kickoff": 1783267200,
+        "kickoff": 1783256400,
         "fixture": "Douglas Hall (W) vs Dundalk U23 (W)",
         "league_id": 10307,
         "league": "FAI Women's Cup",
@@ -940,6 +940,12 @@
                 ]
             },
             {
+                "country": "Canada",
+                "channels": [
+                    "RDS"
+                ]
+            },
+            {
                 "country": "China",
                 "channels": [
                     "CCTV-5",
@@ -1026,6 +1032,12 @@
                 "country": "Iceland",
                 "channels": [
                     "RUV 2"
+                ]
+            },
+            {
+                "country": "India",
+                "channels": [
+                    "Unite8 Sports 1"
                 ]
             },
             {
@@ -6711,6 +6723,8 @@
             {
                 "country": "United States",
                 "channels": [
+                    "FOX One",
+                    "FOX Sports",
                     "FOX Sports 2",
                     "Fubo Sports"
                 ]
@@ -6750,18 +6764,12 @@
         "fixture": "Delfin vs Emelec",
         "league_id": 246,
         "league": "Serie A",
-        "venue": "TBA",
+        "venue": "Estadio Jocay",
         "tv_channels": [
             {
                 "country": "Ecuador",
                 "channels": [
                     "Zapping Sports + Plus"
-                ]
-            },
-            {
-                "country": "Spain",
-                "channels": [
-                    "Zapping Internacional"
                 ]
             }
         ]
@@ -7557,6 +7565,7 @@
                 "country": "Germany",
                 "channels": [
                     "OneFootball Deutschland",
+                    "Sportdigital FUSSBALL2",
                     "Sportdigital+"
                 ]
             },
@@ -7612,7 +7621,9 @@
             {
                 "country": "Switzerland",
                 "channels": [
-                    "Sportdigital Fussball"
+                    "Blue Sport",
+                    "Sportdigital Fussball",
+                    "Sunrise TV"
                 ]
             },
             {

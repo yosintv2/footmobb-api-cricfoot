@@ -53,7 +53,7 @@
             {
                 "country": "Austria",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "ORF 1"
                 ]
             },
             {
@@ -699,7 +699,7 @@
             {
                 "country": "Austria",
                 "channels": [
-                    "Noch zu bestätigen"
+                    "ORF 1"
                 ]
             },
             {
@@ -1264,7 +1264,6 @@
             {
                 "country": "United States",
                 "channels": [
-                    "ESPN Deportes",
                     "FOX One",
                     "FOX Sports",
                     "FOX Sports 1",
@@ -2373,6 +2372,7 @@
                 "country": "Norway",
                 "channels": [
                     "SVT1",
+                    "TV 2 Direkte",
                     "TV 2 Play (NO)"
                 ]
             },
@@ -2794,8 +2794,11 @@
             {
                 "country": "Switzerland",
                 "channels": [
+                    "Blue Sport",
                     "OneFootball PPV",
-                    "Sportdigital Fussball"
+                    "Sportdigital Fussball",
+                    "Sunrise TV",
+                    "TDP"
                 ]
             }
         ]
@@ -2846,9 +2849,11 @@
             {
                 "country": "Switzerland",
                 "channels": [
+                    "Blue Sport",
                     "DAZN",
                     "OneFootball PPV",
-                    "Sportdigital Fussball"
+                    "Sportdigital Fussball",
+                    "Sunrise TV"
                 ]
             },
             {
@@ -2875,6 +2880,12 @@
                     "Sportdigital Fussball",
                     "Sportdigital+ App",
                     "Sportdigital.de"
+                ]
+            },
+            {
+                "country": "France",
+                "channels": [
+                    "la chaine L'Équipe"
                 ]
             },
             {
@@ -2905,8 +2916,10 @@
             {
                 "country": "Switzerland",
                 "channels": [
+                    "Blue Sport",
                     "OneFootball PPV",
-                    "Sportdigital Fussball"
+                    "Sportdigital Fussball",
+                    "Sunrise TV"
                 ]
             }
         ]
@@ -3246,15 +3259,6 @@
         ]
     },
     {
-        "match_id": 5105190,
-        "kickoff": 1783008000,
-        "fixture": "Lyn vs Åsane",
-        "league_id": 203,
-        "league": "1. Divisjon",
-        "venue": "Bislett Stadion",
-        "tv_channels": []
-    },
-    {
         "match_id": 5856873,
         "kickoff": 1783008000,
         "fixture": "Niroye Zamini vs Pars Jonoubi",
@@ -3280,6 +3284,22 @@
         "league": "Ykkonen",
         "venue": "TBA",
         "tv_channels": []
+    },
+    {
+        "match_id": 5105190,
+        "kickoff": 1783008000,
+        "fixture": "Lyn vs Åsane",
+        "league_id": 203,
+        "league": "1. Divisjon",
+        "venue": "Bislett Stadion",
+        "tv_channels": [
+            {
+                "country": "Norway",
+                "channels": [
+                    "TV 2 Play (NO)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5225672,
