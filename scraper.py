@@ -45,7 +45,6 @@ def run():
 
     for league in data.get("leagues", []):
         league_name = league.get("name", "Unknown")
-        league_id = league.get("id", 0)
 
         for m in league.get("matches", []):
             utc_str = m.get("status", {}).get("utcTime") or ""
@@ -67,7 +66,7 @@ def run():
                 "kickoff": timestamp,
                 "fixture": f"{m['home']['name']} vs {m['away']['name']}",
                 "league": league_name,
-                "league_id": league_id,
+                "league_id": m.get("leagueId", league.get("id", 0)),
             })
 
     if not results:

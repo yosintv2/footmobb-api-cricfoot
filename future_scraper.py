@@ -73,7 +73,6 @@ async def get_fotmob_schedule(session, date_str):
     matches = []
     for league in data.get("leagues", []):
         league_name = league.get("name", "Unknown")
-        league_id = league.get("id", 0)
 
         for m in league.get("matches", []):
             utc_str = m.get("status", {}).get("utcTime") or ""
@@ -98,7 +97,7 @@ async def get_fotmob_schedule(session, date_str):
                 "away_name": m["away"]["name"],
                 "away_id": m["away"]["id"],
                 "league": league_name,
-                "league_id": league_id,
+                "league_id": m.get("leagueId", league.get("id", 0)),
             })
 
     return matches
