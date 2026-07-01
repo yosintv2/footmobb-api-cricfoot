@@ -482,7 +482,7 @@
             <div class="panel-pane active" id="pane-schedule">
                 <div class="json-header" style="margin-top:8px">
                     <div>
-                        <div class="json-title">ESPN Cricket <span class="count" id="matchCount">0</span></div>
+                        <div class="json-title">Cricket Fixtures <span class="count" id="matchCount">0</span></div>
                     </div>
                     <div style="display:flex;gap:6px">
                         <button class="clear-btn" onclick="clearSchedule()">Clear</button>
@@ -496,7 +496,7 @@
             <div class="panel-pane" id="pane-raw">
                 <div class="json-header" style="margin-top:8px">
                     <div>
-                        <div class="json-title">Raw ESPN API Response</div>
+                        <div class="json-title">Raw API Response</div>
                     </div>
                     <button class="copy-btn" onclick="copyRaw()">Copy</button>
                 </div>
@@ -525,8 +525,7 @@
 <div id="toast">Copied!</div>
 
 <script>
-    const NDTV_BASE = 'https://sports.ndtv.com/multisportsapi/?methodtype=3&client=2656770267&sport=1&league=0&timezone=0530&language=en&widget=sidefiltercricketSports';
-    const LOCAL_JSON = './cricket-data.json';
+    const DATA_URL = 'https://yosintv2.github.io/footmobb/cricket-data.json';
 
     const TOP_TIER_TEAMS = [
         'india', 'australia', 'england', 'new zealand', 'south africa',
@@ -547,185 +546,68 @@
     let currentDate = new Date();
     let activeLeagueFilter = null;
 
-    // ── Data fetching ────────────────────────────────────────────────────────
-    // Priority: local cricket-data.json (GitHub Actions cache) → direct NDTV → CORS proxies
-
-    function buildNDTVUrl() {
-        const now = new Date();
-        const today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
-        const sel  = new Date(currentDate.getFullYear(), currentDate.getMonth(), currentDate.getDate());
-        const diff = Math.round((sel - today) / 86400000);
-        const gs   = diff < 0 ? 3 : 2;   // completed for past, upcoming for today/future
-        return `${NDTV_BASE}&gamestate=${gs}`;
-    }
-
+    // GitHub Pages serves with CORS headers — direct fetch works
     async function fetchData() {
-        // 1. Try local pre-fetched JSON (no CORS, fastest)
+        const url = DATA_URL + '?_=' + Date.now();
         try {
-            const r = await fetch(LOCAL_JSON + '?_=' + Date.now(), { cache: 'no-store' });
+            const r = await fetch(url, { cache: 'no-store' });
             if (r.ok) {
                 const d = await r.json();
-                if (d && typeof d === 'object' && Object.keys(d).length > 0) {
-                    setStatus('Loaded from cache');
+                if (d && Array.isArray(d.matches)) {
+                    setStatus('Loaded from GitHub');
                     return d;
                 }
             }
         } catch (_) {}
 
-        // 2. Direct NDTV (works from browser; blocked in curl)
-        // 3. CORS proxy fallbacks
-        const ndtvUrl = buildNDTVUrl();
-        const attempts = [
-            () => fetch(ndtvUrl, { cache: 'no-store' }),
-            () => fetch(`https://api.allorigins.win/raw?url=${encodeURIComponent(ndtvUrl)}`, { cache: 'no-store' }),
-            () => fetch(`https://corsproxy.io/?${encodeURIComponent(ndtvUrl)}`, { cache: 'no-store' }),
-            () => fetch(`https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(ndtvUrl)}`, { cache: 'no-store' }),
-        ];
-
-        for (const attempt of attempts) {
+        // Fallback: CORS proxies in case GitHub Pages is unreachable
+        for (const proxy of [
+            `https://api.allorigins.win/raw?url=${encodeURIComponent(DATA_URL)}`,
+            `https://corsproxy.io/?${encodeURIComponent(DATA_URL)}`,
+        ]) {
             try {
-                const r = await attempt();
+                const r = await fetch(proxy, { cache: 'no-store' });
                 if (!r.ok) continue;
                 const d = await r.json();
-                if (d && typeof d === 'object') return d;
+                if (d && Array.isArray(d.matches)) return d;
             } catch (_) { continue; }
         }
-        throw new Error('All fetch attempts failed — run GitHub Action to pre-fetch data');
+        throw new Error('Failed to load cricket data — check GitHub Actions workflow');
     }
 
-    // ── NDTV response auto-detection ─────────────────────────────────────────
-    // NDTV wraps matches differently per endpoint; we search recursively.
-
-    function looksLikeMatch(obj) {
-        if (!obj || typeof obj !== 'object' || Array.isArray(obj)) return false;
-        const keys = Object.keys(obj).join(' ').toLowerCase();
-        return (keys.match(/t1|team1|home/) && keys.match(/t2|team2|away/)) ||
-               keys.includes('t1nm') || keys.includes('home_team');
-    }
-
-    function findMatchArray(node, depth) {
-        depth = depth || 0;
-        if (depth > 6) return null;
-        if (Array.isArray(node) && node.length > 0 && looksLikeMatch(node[0])) return node;
-        if (typeof node === 'object' && node !== null && !Array.isArray(node)) {
-            for (const val of Object.values(node)) {
-                const found = findMatchArray(val, depth + 1);
-                if (found) return found;
-            }
-        }
-        return null;
-    }
-
-    function pick(obj) {
-        // pick(item, key1, key2, ...) → first non-empty value
-        const item = obj[0];
-        const keys = Array.prototype.slice.call(arguments, 1);
-        for (const k of keys) {
-            if (item[k] !== undefined && item[k] !== null && item[k] !== '') return item[k];
-        }
-        return '';
-    }
-
-    function dig(item, ...path) {
-        return path.reduce((o, k) => (o != null ? o[k] : ''), item) || '';
-    }
-
-    function parseNDTVDate(s) {
-        if (!s) return '';
-        s = String(s).trim();
-        // NDTV returns "YYYY-MM-DD HH:mm:ss" in IST (timezone=0530 in URL)
-        let d = new Date(s.replace(' ', 'T') + '+05:30');
-        if (!isNaN(d.getTime())) return d.toISOString();
-        d = new Date(s);
-        if (!isNaN(d.getTime())) return d.toISOString();
-        return '';
-    }
-
-    function extractGameState(item) {
-        const gs = item.gs ?? item.game_state ?? item.gamestate ?? item.state ?? item.status_id ?? '';
-        const n = parseInt(gs);
-        if (n === 1 || gs === 'live') return 'in';
-        if (n === 3 || gs === 'completed' || gs === 'result') return 'post';
+    // Infer live/post/pre from start time + match duration
+    function inferStatus(startISO, durationDays) {
+        if (!startISO) return 'pre';
+        const now = Date.now();
+        const start = new Date(startISO).getTime();
+        const end = start + (durationDays || 1) * 24 * 3600 * 1000;
+        if (now >= start && now <= end) return 'in';
+        if (now > end) return 'post';
         return 'pre';
     }
 
+    // Data is already in our format — just add status fields
     function transformData(data) {
-        // The JSON has three keys: upcoming, live, completed — each is a raw NDTV response
-        // Try each bucket; merge all matches, dedup by event_id
-        const buckets = [];
-        if (data.upcoming) buckets.push({ raw: data.upcoming, defaultStatus: 'pre' });
-        if (data.live)     buckets.push({ raw: data.live,     defaultStatus: 'in' });
-        if (data.completed)buckets.push({ raw: data.completed,defaultStatus: 'post' });
-        // Fallback: treat whole data as single response
-        if (!buckets.length) buckets.push({ raw: data, defaultStatus: 'pre' });
-
-        const seen = new Set();
-        const matches = [];
-
-        for (const { raw, defaultStatus } of buckets) {
-            const items = findMatchArray(raw) || [];
-
-            for (const item of items) {
-                const t1name = [item].reduce((v, o) =>
-                    v || o.t1nm || o.team1_name || o.home_team ||
-                    dig(o, 'team_1', 'name') || dig(o, 'teams', 0, 'name') ||
-                    dig(o, 't1', 'nm') || dig(o, 'home', 'name'), '');
-
-                const t2name = [item].reduce((v, o) =>
-                    v || o.t2nm || o.team2_name || o.away_team ||
-                    dig(o, 'team_2', 'name') || dig(o, 'teams', 1, 'name') ||
-                    dig(o, 't2', 'nm') || dig(o, 'away', 'name'), '');
-
-                if (!t1name || !t2name) continue;
-
-                const t1logo = item.t1lg || item.team1_logo || item.home_logo ||
-                    dig(item, 'team_1', 'logo') || dig(item, 'team_1', 'img') ||
-                    dig(item, 'teams', 0, 'logo') || '';
-
-                const t2logo = item.t2lg || item.team2_logo || item.away_logo ||
-                    dig(item, 'team_2', 'logo') || dig(item, 'team_2', 'img') ||
-                    dig(item, 'teams', 1, 'logo') || '';
-
-                const league = item.lnm || item.series_name || item.league_name ||
-                    item.tournament || item.competition || item.series || item.league ||
-                    dig(item, 'series', 'name') || dig(item, 'league', 'name') || 'Cricket';
-
-                const rawDate = item.stdt || item.start_date || item.datetime ||
-                    item.date || item.match_date || item.start_datetime ||
-                    item.utc_datetime || item.start_time || '';
-
-                const start = parseNDTVDate(rawDate);
-
-                const eventId = String(
-                    item.gid || item.game_id || item.id || item.match_id || item.event_id ||
-                    Math.random().toString(36).substr(2, 9)
-                );
-
-                if (seen.has(eventId)) continue;
-                seen.add(eventId);
-
-                const status = extractGameState(item) || defaultStatus;
-                const statusDesc = item.msc || item.match_status || item.status_desc ||
-                    item.result || item.ms || item.description || '';
-
-                const t1slug = t1name.toLowerCase().replace(/\s+/g, '');
-
-                matches.push({
-                    team1: t1name,
-                    team2: t2name,
-                    team1_logo: t1logo,
-                    team2_logo: t2logo,
-                    league,
-                    start,
-                    duration: 5,
-                    details_url: `https://web.getemoji.online/?yosintv=${t1slug}`,
-                    streaming_url: `https://cdn.singhs.com.np/${t1slug}.json`,
-                    event_id: eventId,
-                    status,
-                    statusDesc,
-                });
-            }
-        }
+        const matches = (data.matches || []).map(m => {
+            const status = inferStatus(m.start, m.duration);
+            return {
+                team1:         m.team1        || 'TBD',
+                team2:         m.team2        || 'TBD',
+                team1_logo:    m.team1_logo   || '',
+                team2_logo:    m.team2_logo   || '',
+                league:        m.league       || 'Cricket',
+                start:         m.start        || '',
+                duration:      m.duration     || 1,
+                details_url:   m.details_url  || '',
+                streaming_url: m.streaming_url|| '',
+                event_id:      String(m.event_id ?? ''),
+                cricket_data:  m.cricket_data || null,
+                status,
+                statusDesc: status === 'post' ? 'Match Over'
+                          : status === 'in'   ? 'Live Now'
+                          : 'Scheduled',
+            };
+        });
         return { matches };
     }
 
@@ -825,62 +707,6 @@
         t.textContent = msg;
         t.classList.add('show');
         setTimeout(() => t.classList.remove('show'), 2000);
-    }
-
-    function getDuration(matchType) {
-        if (!matchType) return 5;
-        const t = matchType.toLowerCase();
-        if (t === 'test') return 10;
-        if (t === 'odi') return 8;
-        return 5;
-    }
-
-    function getLeagueName(item) {
-        // CricAPI name format: "Team1 vs Team2, Series/Match Description"
-        const name = item.name || '';
-        const commaIdx = name.indexOf(',');
-        if (commaIdx > -1) return name.substring(commaIdx + 2).trim() || 'Other';
-        return 'Other';
-    }
-
-    function transformData(data) {
-        const matches = [];
-        const items = data.data || [];
-
-        for (const item of items) {
-            const teamInfo = item.teamInfo || [];
-            const teams = item.teams || [];
-
-            const t1 = teamInfo[0] || {};
-            const t2 = teamInfo[1] || {};
-
-            const t1name = (t1.name || teams[0] || '').toLowerCase().replace(/\s+/g, '');
-            const t2name = (t2.name || teams[1] || '').toLowerCase().replace(/\s+/g, '');
-
-            let status = 'pre';
-            if (item.matchStarted && !item.matchEnded) status = 'in';
-            if (item.matchEnded) status = 'post';
-
-            // dateTimeGMT from CricAPI has no timezone suffix — treat as UTC
-            let startISO = item.dateTimeGMT || '';
-            if (startISO && !startISO.endsWith('Z') && !startISO.includes('+')) startISO += 'Z';
-
-            matches.push({
-                team1: t1.name || teams[0] || '',
-                team2: t2.name || teams[1] || '',
-                team1_logo: t1.img || '',
-                team2_logo: t2.img || '',
-                league: getLeagueName(item),
-                start: startISO,
-                duration: getDuration(item.matchType),
-                details_url: `https://web.getemoji.online/?yosintv=${t1name}`,
-                streaming_url: `https://cdn.singhs.com.np/${t1name}.json`,
-                event_id: item.id || '',
-                status: status,
-                statusDesc: item.status || '',
-            });
-        }
-        return { matches };
     }
 
     async function loadMatches() {
