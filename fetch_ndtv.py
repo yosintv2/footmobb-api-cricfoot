@@ -53,11 +53,10 @@ def fetch_gamestate(gs_value):
 
 
 def team_slug(name):
-    """Lowercase with hyphens — used in logo/detail/stream URLs."""
+    """Lowercase, no spaces or punctuation — used in logo/detail/stream URLs."""
     if not name:
         return "unknown"
-    slug = re.sub(r"[^\w\s-]", "", name.strip().lower())
-    return re.sub(r"\s+", "-", slug)
+    return re.sub(r"[^a-z0-9]", "", name.strip().lower())
 
 
 def logo_url(name):
