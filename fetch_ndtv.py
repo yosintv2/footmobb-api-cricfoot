@@ -53,14 +53,34 @@ def fetch_gamestate(gs_value):
 
 
 def team_slug(name):
-    """Lowercase, no spaces or punctuation — used in logo/detail/stream URLs."""
+    """Lowercase, no spaces or punctuation — used in details_url / streaming_url."""
     if not name:
         return "unknown"
     return re.sub(r"[^a-z0-9]", "", name.strip().lower())
 
 
+def country_slug(name):
+    """
+    Extract base country name for logo URL.
+    Strips: Women, Men, Girls, Boys, Under-XX, U19, A (A-team), XI.
+    e.g. 'England Women Under-19' → 'england'
+         'West Indies Women'      → 'westindies'
+         'South Africa A'         → 'southafrica'
+    """
+    if not name:
+        return "unknown"
+    # Strip from the first suffix keyword onwards
+    cleaned = re.sub(
+        r"\s+(women|men|girls|boys|under[\s\-]?\d+|u[\s\-]?\d+|xi)\b.*$",
+        "", name.strip(), flags=re.IGNORECASE,
+    )
+    # Strip trailing standalone ' A' (A-team)
+    cleaned = re.sub(r"\s+a$", "", cleaned.strip(), flags=re.IGNORECASE)
+    return re.sub(r"[^a-z0-9]", "", cleaned.strip().lower())
+
+
 def logo_url(name):
-    return f"https://aimages.willow.tv/teamLogos/{team_slug(name)}.png"
+    return f"https://aimages.willow.tv/teamLogos/{country_slug(name)}.png"
 
 
 def parse_start_utc(s):
