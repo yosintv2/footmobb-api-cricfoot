@@ -308,16 +308,28 @@
     {
         "match_id": 4653851,
         "kickoff": 1783627200,
-        "fixture": "Winner EF 1 vs Canada/Morocco",
+        "fixture": "Paraguay/France vs Canada/Morocco",
         "league_id": 77,
         "league": "World Cup",
         "venue": "Boston Stadium",
         "tv_channels": [
             {
+                "country": "Germany",
+                "channels": [
+                    "MagentaTV"
+                ]
+            },
+            {
                 "country": "Ireland",
                 "channels": [
                     "RTÉ Player",
                     "RTÉ2"
+                ]
+            },
+            {
+                "country": "Montenegro",
+                "channels": [
+                    "beIN SPORTS CONNECT"
                 ]
             },
             {
@@ -511,7 +523,15 @@
         "league_id": 126,
         "league": "Premier Division",
         "venue": "Waterford Regional Sports Centre",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Virgin Media Play",
+                    "Virgin Media Three"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5215464,

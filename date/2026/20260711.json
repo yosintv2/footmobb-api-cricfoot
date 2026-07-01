@@ -812,7 +812,15 @@
         "league_id": 126,
         "league": "Premier Division",
         "venue": "Waterford Regional Sports Centre",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Virgin Media Play",
+                    "Virgin Media Three"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5100932,

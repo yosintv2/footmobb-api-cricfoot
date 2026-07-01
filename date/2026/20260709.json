@@ -303,7 +303,16 @@
         "league_id": 8972,
         "league": "USL Championship",
         "venue": "Trinity Health Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "ESPN Select",
+                    "ESPN Unlimited",
+                    "WWAX"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5109829,
@@ -393,7 +402,15 @@
         "league_id": 9296,
         "league": "USL League One",
         "venue": "Hinchliffe Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "ESPN Select",
+                    "ESPN Unlimited"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5109452,
@@ -402,7 +419,15 @@
         "league_id": 9296,
         "league": "USL League One",
         "venue": "GE Vernova Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "ESPN Select",
+                    "ESPN Unlimited"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000016173,
@@ -470,16 +495,28 @@
     {
         "match_id": 4653851,
         "kickoff": 1783627200,
-        "fixture": "Winner EF 1 vs Canada/Morocco",
+        "fixture": "Paraguay/France vs Canada/Morocco",
         "league_id": 77,
         "league": "World Cup",
         "venue": "Boston Stadium",
         "tv_channels": [
             {
+                "country": "Germany",
+                "channels": [
+                    "MagentaTV"
+                ]
+            },
+            {
                 "country": "Ireland",
                 "channels": [
                     "RTÉ Player",
                     "RTÉ2"
+                ]
+            },
+            {
+                "country": "Montenegro",
+                "channels": [
+                    "beIN SPORTS CONNECT"
                 ]
             },
             {
