@@ -180,6 +180,42 @@
         "tv_channels": []
     },
     {
+        "match_id": 5887477,
+        "kickoff": 1783098000,
+        "fixture": "SC Heerenveen vs De Graafschap",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "Sportpark De Meine",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5887479,
+        "kickoff": 1783104300,
+        "fixture": "Dartford vs Charlton",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "Princes Park",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5879928,
+        "kickoff": 1783155600,
+        "fixture": "PSV Eindhoven vs Royal Antwerp",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5879933,
+        "kickoff": 1783155600,
+        "fixture": "Salzburg vs Górnik Zabrze",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5781320,
         "kickoff": 1783159200,
         "fixture": "Lyngby vs B 93",
@@ -234,12 +270,57 @@
         "tv_channels": []
     },
     {
+        "match_id": 5880212,
+        "kickoff": 1783166400,
+        "fixture": "Anderlecht vs Boulogne",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5880126,
+        "kickoff": 1783166400,
+        "fixture": "Club Brugge vs Kortrijk",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5880141,
+        "kickoff": 1783166400,
+        "fixture": "FC Twente vs Aberdeen",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5869711,
         "kickoff": 1783166400,
         "fixture": "Linfield vs Kilmarnock",
         "league_id": 489,
         "league": "Club Friendlies",
         "venue": "Clearer Twist National Stadium at Windsor Park",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5880146,
+        "kickoff": 1783166400,
+        "fixture": "Vendsyssel FF vs KFUM",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5880156,
+        "kickoff": 1783168200,
+        "fixture": "FC Dordrecht vs Feyenoord",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "TBA",
         "tv_channels": []
     },
     {
@@ -279,6 +360,24 @@
         "tv_channels": []
     },
     {
+        "match_id": 5880229,
+        "kickoff": 1783173600,
+        "fixture": "AZ Alkmaar vs Gent",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5880232,
+        "kickoff": 1783173600,
+        "fixture": "Bodø/Glimt vs Start",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5765429,
         "kickoff": 1783173600,
         "fixture": "FC Giessen vs Elversberg",
@@ -288,9 +387,45 @@
         "tv_channels": []
     },
     {
-        "match_id": 5874660,
+        "match_id": 5880240,
         "kickoff": 1783173600,
+        "fixture": "FC Halifax Town vs Sheff Utd",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5880243,
+        "kickoff": 1783173600,
+        "fixture": "RCS Verlaine vs Standard Liege",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5880138,
+        "kickoff": 1783173600,
+        "fixture": "Spartak vs Krylya Sovetov",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5874660,
+        "kickoff": 1783177200,
         "fixture": "Panathinaikos vs Ajax",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5880591,
+        "kickoff": 1783180800,
+        "fixture": "Dundee FC vs Maccabi Haifa",
         "league_id": 489,
         "league": "Club Friendlies",
         "venue": "TBA",
@@ -1033,6 +1168,7 @@
                 "country": "Albania",
                 "channels": [
                     "Klani IM",
+                    "Super Sport 2 HD",
                     "SuperSport Digitalb",
                     "TV Klan"
                 ]
@@ -1100,8 +1236,11 @@
                 "country": "Belgium",
                 "channels": [
                     "La Une (RTBF)",
+                    "Proximus",
                     "RTBF Auvio",
+                    "RTBF Auvio Direct",
                     "Sporza",
+                    "Tipik",
                     "VRT 1"
                 ]
             },
@@ -1297,12 +1436,14 @@
             {
                 "country": "Hungary",
                 "channels": [
-                    "M4 Sport"
+                    "M4 Sport",
+                    "M4 Sports"
                 ]
             },
             {
                 "country": "Iceland",
                 "channels": [
+                    "RUV",
                     "RUV 2"
                 ]
             },
@@ -1408,6 +1549,7 @@
             {
                 "country": "Mongolia",
                 "channels": [
+                    "ARENA SPORT PREMIUM 1",
                     "Arena 1 Premium",
                     "Arena Cloud",
                     "TVCG 1"
@@ -1462,6 +1604,7 @@
             {
                 "country": "North Macedonia",
                 "channels": [
+                    "ARENA SPORT PREMIUM 1",
                     "Arena 1 Premium",
                     "Arena Cloud"
                 ]
@@ -1551,6 +1694,7 @@
             {
                 "country": "Serbia",
                 "channels": [
+                    "ARENA SPORT PREMIUM 1",
                     "Arena 1 Premium",
                     "Arena Cloud",
                     "RTS 1"
@@ -1627,6 +1771,7 @@
                 "country": "Türkiye",
                 "channels": [
                     "Digiturk",
+                    "Digiturk Play",
                     "TRT 1",
                     "tabii"
                 ]
@@ -2283,6 +2428,7 @@
                     "Play SRF",
                     "RSI La 2",
                     "RTS 2",
+                    "Rai 1",
                     "SRF Sport",
                     "SRF zwei"
                 ]
@@ -3913,6 +4059,12 @@
                 ]
             },
             {
+                "country": "India",
+                "channels": [
+                    "Unite8 Sports 2"
+                ]
+            },
+            {
                 "country": "Indonesia",
                 "channels": [
                     "Fola Play",
@@ -3940,7 +4092,8 @@
             {
                 "country": "Italy",
                 "channels": [
-                    "DAZN Italia"
+                    "DAZN Italia",
+                    "Rai 1"
                 ]
             },
             {
@@ -4191,6 +4344,7 @@
             {
                 "country": "Switzerland",
                 "channels": [
+                    "M6 Suisse",
                     "Play SRF",
                     "RSI La 2",
                     "RTS 2",
@@ -5519,7 +5673,164 @@
         "league_id": 215,
         "league": "Besta deildin",
         "venue": "Kaplakrikavöllur",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Argentina",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Australia",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Austria",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Panama",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Poland",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Slovakia",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Venezuela, Bolivarian Republic of",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5225674,
@@ -6530,45 +6841,18 @@
         "tv_channels": []
     },
     {
-        "match_id": 5829252,
-        "kickoff": 1783184400,
-        "fixture": "Rentistas vs Paysandu",
-        "league_id": 9122,
-        "league": "Segunda Division",
+        "match_id": 5238477,
+        "kickoff": 1783189800,
+        "fixture": "Huracan Las Heras vs Costa Brava",
+        "league_id": 9213,
+        "league": "Federal A Zona C",
         "venue": "TBA",
         "tv_channels": []
     },
     {
-        "match_id": 5829253,
-        "kickoff": 1783195200,
-        "fixture": "Plaza Colonia vs La Luz",
-        "league_id": 9122,
-        "league": "Segunda Division",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5827445,
-        "kickoff": 1783177200,
-        "fixture": "Politehnica UTM vs FC Sheriff",
-        "league_id": 231,
-        "league": "Super Liga",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5827446,
-        "kickoff": 1783184400,
-        "fixture": "CS Petrocub vs FC Milsami Orhei",
-        "league_id": 231,
-        "league": "Super Liga",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5113917,
+        "match_id": 5113919,
         "kickoff": 1783180800,
-        "fixture": "Deportivo Merlo vs Villa Dalmine",
+        "fixture": "CASD Camioneros vs CD UAI Urquiza",
         "league_id": 9213,
         "league": "Primera B Metropolitana",
         "venue": "TBA",
@@ -6886,9 +7170,9 @@
         ]
     },
     {
-        "match_id": 5113919,
+        "match_id": 5113915,
         "kickoff": 1783188000,
-        "fixture": "CASD Camioneros vs CD UAI Urquiza",
+        "fixture": "Comunicaciones vs Arsenal Sarandi",
         "league_id": 9213,
         "league": "Primera B Metropolitana",
         "venue": "TBA",
@@ -7046,9 +7330,9 @@
         ]
     },
     {
-        "match_id": 5113915,
+        "match_id": 5113917,
         "kickoff": 1783188000,
-        "fixture": "Comunicaciones vs Arsenal Sarandi",
+        "fixture": "Deportivo Merlo vs Villa Dalmine",
         "league_id": 9213,
         "league": "Primera B Metropolitana",
         "venue": "TBA",
@@ -8326,166 +8610,6 @@
         ]
     },
     {
-        "match_id": 5113359,
-        "kickoff": 1783189800,
-        "fixture": "Ciudad de Bolivar vs Godoy Cruz",
-        "league_id": 8965,
-        "league": "Primera Nacional",
-        "venue": "Estadio Municipal Eva Perón",
-        "tv_channels": [
-            {
-                "country": "Argentina",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Australia",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Austria",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Bolivia, Plurinational State of",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Chile",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Colombia",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Costa Rica",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Dominican Republic",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Ecuador",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Guatemala",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Honduras",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Ireland",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Japan",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Mexico",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Nicaragua",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Panama",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Paraguay",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Peru",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Poland",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Portugal",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Slovakia",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Spain",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Switzerland",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Uruguay",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Venezuela, Bolivarian Republic of",
-                "channels": [
-                    "LPF Play"
-                ]
-            }
-        ]
-    },
-    {
         "match_id": 5112989,
         "kickoff": 1783189800,
         "fixture": "Nueva Chicago vs Atletico Guemes",
@@ -8806,6 +8930,166 @@
         ]
     },
     {
+        "match_id": 5113359,
+        "kickoff": 1783191600,
+        "fixture": "Ciudad de Bolivar vs Godoy Cruz",
+        "league_id": 8965,
+        "league": "Primera Nacional",
+        "venue": "Estadio Municipal Eva Perón",
+        "tv_channels": [
+            {
+                "country": "Argentina",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Australia",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Austria",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Panama",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Poland",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Slovakia",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Venezuela, Bolivarian Republic of",
+                "channels": [
+                    "LPF Play"
+                ]
+            }
+        ]
+    },
+    {
         "match_id": 5112991,
         "kickoff": 1783198800,
         "fixture": "Quilmes vs Atlanta",
@@ -8964,6 +9248,42 @@
                 ]
             }
         ]
+    },
+    {
+        "match_id": 5829252,
+        "kickoff": 1783184400,
+        "fixture": "Rentistas vs Paysandu",
+        "league_id": 9122,
+        "league": "Segunda Division",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5829253,
+        "kickoff": 1783195200,
+        "fixture": "Plaza Colonia vs La Luz",
+        "league_id": 9122,
+        "league": "Segunda Division",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5827445,
+        "kickoff": 1783177200,
+        "fixture": "Politehnica UTM vs FC Sheriff",
+        "league_id": 231,
+        "league": "Super Liga",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5827446,
+        "kickoff": 1783184400,
+        "fixture": "CS Petrocub vs FC Milsami Orhei",
+        "league_id": 231,
+        "league": "Super Liga",
+        "venue": "TBA",
+        "tv_channels": []
     },
     {
         "match_id": 1000009184,

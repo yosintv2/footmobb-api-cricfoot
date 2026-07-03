@@ -374,6 +374,12 @@
         "venue": "Los Angeles Stadium",
         "tv_channels": [
             {
+                "country": "Finland",
+                "channels": [
+                    "MTV3"
+                ]
+            },
+            {
                 "country": "Germany",
                 "channels": [
                     "MagentaTV"
@@ -393,9 +399,28 @@
                 ]
             },
             {
+                "country": "Norway",
+                "channels": [
+                    "SVT1"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "channels": [
+                    "SVT Play",
+                    "SVT1"
+                ]
+            },
+            {
                 "country": "United States",
                 "channels": [
-                    "FOX Sports"
+                    "FOX",
+                    "FOX One",
+                    "FOX Sports",
+                    "FOX Sports 4K",
+                    "Fubo Sports",
+                    "Peacock ES",
+                    "Telemundo"
                 ]
             }
         ]
@@ -488,7 +513,14 @@
         "league_id": 218,
         "league": "First Division",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOITV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5101235,
@@ -497,7 +529,14 @@
         "league_id": 218,
         "league": "First Division",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOITV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5101236,
@@ -506,7 +545,14 @@
         "league_id": 218,
         "league": "First Division",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOITV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5101237,
@@ -515,7 +561,14 @@
         "league_id": 218,
         "league": "First Division",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOITV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5101238,
@@ -524,7 +577,14 @@
         "league_id": 218,
         "league": "First Division",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOITV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5163720,
@@ -533,7 +593,14 @@
         "league_id": 251,
         "league": "Ykkosliiga",
         "venue": "Arto Tolsa Areena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Finland",
+                "channels": [
+                    "Ruutu+ Urheilu"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5163721,
@@ -542,7 +609,14 @@
         "league_id": 251,
         "league": "Ykkosliiga",
         "venue": "Markku.fi Areena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Finland",
+                "channels": [
+                    "Ruutu+ Urheilu"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5100931,
@@ -593,7 +667,14 @@
         "league_id": 51,
         "league": "Veikkausliiga",
         "venue": "Lemonsoft stadion",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Finland",
+                "channels": [
+                    "Ruutu+ Urheilu"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000007914,

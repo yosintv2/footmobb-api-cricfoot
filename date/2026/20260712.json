@@ -446,6 +446,24 @@
         ]
     },
     {
+        "match_id": 5888339,
+        "kickoff": 1783792800,
+        "fixture": "Danubio vs Nacional",
+        "league_id": 161,
+        "league": "Liga AUF Uruguaya Intermedio Grp. B",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5888340,
+        "kickoff": 1783803600,
+        "fixture": "Montevideo Wanderers vs Progreso",
+        "league_id": 161,
+        "league": "Liga AUF Uruguaya Intermedio Grp. B",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5161556,
         "kickoff": 1783809000,
         "fixture": "North Carolina Courage (W) vs Washington Spirit (W)",
@@ -470,7 +488,15 @@
         "league_id": 9134,
         "league": "NWSL",
         "venue": "Seattle Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "HBO Max (UK)",
+                    "TNT Sports 2"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5204172,
@@ -777,10 +803,22 @@
         "venue": "Miami Stadium",
         "tv_channels": [
             {
+                "country": "Germany",
+                "channels": [
+                    "MagentaTV"
+                ]
+            },
+            {
                 "country": "Ireland",
                 "channels": [
                     "RTÉ Player",
                     "RTÉ2"
+                ]
+            },
+            {
+                "country": "Montenegro",
+                "channels": [
+                    "beIN SPORTS CONNECT"
                 ]
             },
             {
@@ -798,7 +836,21 @@
         "league_id": 77,
         "league": "World Cup",
         "venue": "Kansas City Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "RTÉ Player",
+                    "RTÉ2"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "FOX Sports"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5113925,
@@ -1320,7 +1372,14 @@
         "league_id": 59,
         "league": "Eliteserien",
         "venue": "Romssa Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Norway",
+                "channels": [
+                    "TV 2 Play (NO)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5104940,
@@ -1737,8 +1796,26 @@
         "tv_channels": []
     },
     {
-        "match_id": 5803516,
+        "match_id": 5888328,
         "kickoff": 1783868400,
+        "fixture": "Liverpool FC vs Cerro",
+        "league_id": 161,
+        "league": "Liga AUF Uruguaya Intermedio Grp. A",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5888329,
+        "kickoff": 1783879200,
+        "fixture": "Boston River vs Central Espanol",
+        "league_id": 161,
+        "league": "Liga AUF Uruguaya Intermedio Grp. A",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5803516,
+        "kickoff": 1783877400,
         "fixture": "Universitatea Craiova vs Universitatea Cluj",
         "league_id": 192,
         "league": "Super Cup",

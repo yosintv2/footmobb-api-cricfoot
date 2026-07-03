@@ -99,13 +99,48 @@
         "tv_channels": []
     },
     {
+        "match_id": 5888328,
+        "kickoff": 1783868400,
+        "fixture": "Liverpool FC vs Cerro",
+        "league_id": 161,
+        "league": "Liga AUF Uruguaya Intermedio Grp. A",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5888329,
+        "kickoff": 1783879200,
+        "fixture": "Boston River vs Central Espanol",
+        "league_id": 161,
+        "league": "Liga AUF Uruguaya Intermedio Grp. A",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5888330,
+        "kickoff": 1783891800,
+        "fixture": "Racing vs Peñarol",
+        "league_id": 161,
+        "league": "Liga AUF Uruguaya Intermedio Grp. A",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5161558,
         "kickoff": 1783886400,
         "fixture": "Seattle Reign FC (W) vs Portland Thorns (W)",
         "league_id": 9134,
         "league": "NWSL",
         "venue": "Seattle Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "HBO Max (UK)",
+                    "TNT Sports 2"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5161559,
@@ -118,7 +153,7 @@
     },
     {
         "match_id": 5803516,
-        "kickoff": 1783868400,
+        "kickoff": 1783877400,
         "fixture": "Universitatea Craiova vs Universitatea Cluj",
         "league_id": 192,
         "league": "Super Cup",

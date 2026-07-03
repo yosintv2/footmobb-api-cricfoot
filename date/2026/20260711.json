@@ -54,6 +54,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 5880213,
+        "kickoff": 1783764000,
+        "fixture": "Anderlecht vs NEC Nijmegen",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5769578,
         "kickoff": 1783764000,
         "fixture": "Basel vs Winterthur",
@@ -469,6 +478,42 @@
         "tv_channels": []
     },
     {
+        "match_id": 5888337,
+        "kickoff": 1783720800,
+        "fixture": "Deportivo Maldonado vs Albion",
+        "league_id": 161,
+        "league": "Liga AUF Uruguaya Intermedio Grp. B",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5888338,
+        "kickoff": 1783774800,
+        "fixture": "CA Juventud Colonia vs Torque",
+        "league_id": 161,
+        "league": "Liga AUF Uruguaya Intermedio Grp. B",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5888339,
+        "kickoff": 1783792800,
+        "fixture": "Danubio vs Nacional",
+        "league_id": 161,
+        "league": "Liga AUF Uruguaya Intermedio Grp. B",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5888340,
+        "kickoff": 1783803600,
+        "fixture": "Montevideo Wanderers vs Progreso",
+        "league_id": 161,
+        "league": "Liga AUF Uruguaya Intermedio Grp. B",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5161554,
         "kickoff": 1783728000,
         "fixture": "Boston Legacy FC (W) vs Chicago Stars (W)",
@@ -610,6 +655,12 @@
         "venue": "Los Angeles Stadium",
         "tv_channels": [
             {
+                "country": "Finland",
+                "channels": [
+                    "MTV3"
+                ]
+            },
+            {
                 "country": "Germany",
                 "channels": [
                     "MagentaTV"
@@ -629,9 +680,28 @@
                 ]
             },
             {
+                "country": "Norway",
+                "channels": [
+                    "SVT1"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "channels": [
+                    "SVT Play",
+                    "SVT1"
+                ]
+            },
+            {
                 "country": "United States",
                 "channels": [
-                    "FOX Sports"
+                    "FOX",
+                    "FOX One",
+                    "FOX Sports",
+                    "FOX Sports 4K",
+                    "Fubo Sports",
+                    "Peacock ES",
+                    "Telemundo"
                 ]
             }
         ]
@@ -645,10 +715,22 @@
         "venue": "Miami Stadium",
         "tv_channels": [
             {
+                "country": "Germany",
+                "channels": [
+                    "MagentaTV"
+                ]
+            },
+            {
                 "country": "Ireland",
                 "channels": [
                     "RTÉ Player",
                     "RTÉ2"
+                ]
+            },
+            {
+                "country": "Montenegro",
+                "channels": [
+                    "beIN SPORTS CONNECT"
                 ]
             },
             {
@@ -756,7 +838,14 @@
         "league_id": 218,
         "league": "First Division",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOITV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5101235,
@@ -765,7 +854,14 @@
         "league_id": 218,
         "league": "First Division",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOITV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5101236,
@@ -774,7 +870,14 @@
         "league_id": 218,
         "league": "First Division",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOITV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5101237,
@@ -783,7 +886,14 @@
         "league_id": 218,
         "league": "First Division",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOITV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5101238,
@@ -792,7 +902,14 @@
         "league_id": 218,
         "league": "First Division",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOITV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5163720,
@@ -801,7 +918,14 @@
         "league_id": 251,
         "league": "Ykkosliiga",
         "venue": "Arto Tolsa Areena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Finland",
+                "channels": [
+                    "Ruutu+ Urheilu"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5163721,
@@ -810,7 +934,14 @@
         "league_id": 251,
         "league": "Ykkosliiga",
         "venue": "Markku.fi Areena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Finland",
+                "channels": [
+                    "Ruutu+ Urheilu"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5163722,
@@ -864,7 +995,14 @@
         "league_id": 59,
         "league": "Eliteserien",
         "venue": "Nye Fredrikstad Stadion",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Norway",
+                "channels": [
+                    "TV 2 Play (NO)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5104938,
@@ -873,7 +1011,14 @@
         "league_id": 59,
         "league": "Eliteserien",
         "venue": "Color Line Stadion",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Norway",
+                "channels": [
+                    "TV 2 Play (NO)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5104944,
@@ -882,7 +1027,14 @@
         "league_id": 59,
         "league": "Eliteserien",
         "venue": "Romssa Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Norway",
+                "channels": [
+                    "TV 2 Play (NO)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5100931,
@@ -1041,7 +1193,14 @@
         "league_id": 51,
         "league": "Veikkausliiga",
         "venue": "Lemonsoft stadion",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Finland",
+                "channels": [
+                    "Ruutu+ Urheilu"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5147594,
@@ -1104,7 +1263,38 @@
         "league_id": 246,
         "league": "Serie A",
         "venue": "Estadio Olímpico de Ibarra",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Armenia",
+                "channels": [
+                    "FastTV"
+                ]
+            },
+            {
+                "country": "China",
+                "channels": [
+                    "Migu"
+                ]
+            },
+            {
+                "country": "Lao People's Democratic Republic",
+                "channels": [
+                    "Go3 Extra Sports Latvia"
+                ]
+            },
+            {
+                "country": "Liechtenstein",
+                "channels": [
+                    "Go3 Extra Sports Lithuania"
+                ]
+            },
+            {
+                "country": "Romania",
+                "channels": [
+                    "Antena Play"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000009013,
