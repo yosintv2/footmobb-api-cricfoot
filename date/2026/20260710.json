@@ -23,7 +23,7 @@
         "fixture": "Östers IF vs Lyngby",
         "league_id": 489,
         "league": "Club Friendlies",
-        "venue": "TBC (Denmark)",
+        "venue": "Ekerum Park",
         "tv_channels": []
     },
     {
@@ -368,7 +368,7 @@
     {
         "match_id": 4653853,
         "kickoff": 1783710000,
-        "fixture": "Winner EF 5 vs USA/Belgium",
+        "fixture": "Portugal/Spain vs USA/Belgium",
         "league_id": 77,
         "league": "World Cup",
         "venue": "Los Angeles Stadium",
@@ -669,9 +669,27 @@
         "venue": "Lemonsoft stadion",
         "tv_channels": [
             {
+                "country": "Australia",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
                 "country": "Finland",
                 "channels": [
                     "Ruutu+ Urheilu"
+                ]
+            },
+            {
+                "country": "Germany",
+                "channels": [
+                    "OneFootball Deutschland"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "OneFootball PPV"
                 ]
             }
         ]

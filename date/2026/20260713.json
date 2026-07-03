@@ -139,6 +139,14 @@
                     "HBO Max (UK)",
                     "TNT Sports 2"
                 ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "ESPN",
+                    "ESPN Select",
+                    "ESPN Unlimited"
+                ]
             }
         ]
     },
@@ -149,7 +157,14 @@
         "league_id": 9134,
         "league": "NWSL",
         "venue": "Dick's Sporting Goods Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "Victory+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5803516,

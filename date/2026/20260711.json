@@ -59,7 +59,7 @@
         "fixture": "Anderlecht vs NEC Nijmegen",
         "league_id": 489,
         "league": "Club Friendlies",
-        "venue": "TBA",
+        "venue": "TBC (Belgium)",
         "tv_channels": []
     },
     {
@@ -68,7 +68,7 @@
         "fixture": "Basel vs Winterthur",
         "league_id": 489,
         "league": "Club Friendlies",
-        "venue": "TBC (Switzerland)",
+        "venue": "Nachwuchs-Campus Basel Platz 11",
         "tv_channels": []
     },
     {
@@ -104,7 +104,7 @@
         "fixture": "Viborg vs Notts County",
         "league_id": 489,
         "league": "Club Friendlies",
-        "venue": "TBC (Denmark)",
+        "venue": "Energi Viborg Arena",
         "tv_channels": []
     },
     {
@@ -334,6 +334,12 @@
                     "Premier Sports 2 UK",
                     "Premier Sports Player"
                 ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Paramount+ (US)"
+                ]
             }
         ]
     },
@@ -537,7 +543,14 @@
         "league_id": 9134,
         "league": "NWSL",
         "venue": "Inter&Co Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "Prime Video (US)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5161553,
@@ -561,6 +574,12 @@
                 "channels": [
                     "HBO Max (UK)",
                     "TNT Sports 1"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Victory+"
                 ]
             }
         ]
@@ -649,7 +668,7 @@
     {
         "match_id": 4653853,
         "kickoff": 1783710000,
-        "fixture": "Winner EF 5 vs USA/Belgium",
+        "fixture": "Portugal/Spain vs USA/Belgium",
         "league_id": 77,
         "league": "World Cup",
         "venue": "Los Angeles Stadium",
@@ -1076,7 +1095,14 @@
         "league_id": 126,
         "league": "Premier Division",
         "venue": "Pearse Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOITV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5215464,
@@ -1195,9 +1221,27 @@
         "venue": "Lemonsoft stadion",
         "tv_channels": [
             {
+                "country": "Australia",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
                 "country": "Finland",
                 "channels": [
                     "Ruutu+ Urheilu"
+                ]
+            },
+            {
+                "country": "Germany",
+                "channels": [
+                    "OneFootball Deutschland"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "OneFootball PPV"
                 ]
             }
         ]
@@ -1474,7 +1518,14 @@
         "league_id": 287,
         "league": "EURO U19",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "UEFA TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5851954,
@@ -1581,7 +1632,7 @@
         "fixture": "Oakland Roots SC vs Spokane Velocity FC",
         "league_id": 10654,
         "league": "USL Cup Grp. 1",
-        "venue": "Oakland-Alameda County Coliseum",
+        "venue": "Merritt College Soccer Stadium",
         "tv_channels": []
     },
     {

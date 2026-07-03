@@ -404,6 +404,7 @@
                 "country": "Nicaragua",
                 "channels": [
                     "Azteca Deportes Network",
+                    "FOX",
                     "Tigo Sports",
                     "Tigo Sports App"
                 ]
@@ -1833,6 +1834,7 @@
                 "country": "Canada",
                 "channels": [
                     "RDS",
+                    "TSN+",
                     "TSN1",
                     "TSN4"
                 ]
@@ -2146,6 +2148,8 @@
             {
                 "country": "Nicaragua",
                 "channels": [
+                    "Canal 10",
+                    "FOX",
                     "Tigo Sports",
                     "Tigo Sports App"
                 ]
@@ -2453,6 +2457,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 5856878,
+        "kickoff": 1783092600,
+        "fixture": "Naft Gachsaran vs Kara Gostar",
+        "league_id": 9372,
+        "league": "Azadegan League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5856875,
         "kickoff": 1783094400,
         "fixture": "Beasat Kermanshah vs FC Fard",
@@ -2474,15 +2487,6 @@
         "match_id": 5856877,
         "kickoff": 1783094400,
         "fixture": "Mes Kerman vs Naft Bandar Abbas",
-        "league_id": 9372,
-        "league": "Azadegan League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5856878,
-        "kickoff": 1783094400,
-        "fixture": "Naft Gachsaran vs Kara Gostar",
         "league_id": 9372,
         "league": "Azadegan League",
         "venue": "TBA",
@@ -2602,7 +2606,7 @@
         "fixture": "AaB vs Viborg",
         "league_id": 489,
         "league": "Club Friendlies",
-        "venue": "TBC (Denmark)",
+        "venue": "Aalborg Kunstgræsbane",
         "tv_channels": []
     },
     {
@@ -3416,41 +3420,24 @@
         "tv_channels": []
     },
     {
-        "match_id": 5136383,
-        "kickoff": 1783101600,
-        "fixture": "NSI Runavik vs Klaksvik",
-        "league_id": 250,
-        "league": "Premier League",
-        "venue": "TBA",
+        "match_id": 5107522,
+        "kickoff": 1783098000,
+        "fixture": "Sirius vs Mjällby",
+        "league_id": 67,
+        "league": "Allsvenskan",
+        "venue": "Studenternas IP",
         "tv_channels": [
             {
-                "country": "Armenia",
+                "country": "Norway",
                 "channels": [
-                    "FastTV"
+                    "VG TV"
                 ]
             },
             {
-                "country": "China",
+                "country": "Sweden",
                 "channels": [
-                    "Migu"
-                ]
-            },
-            {
-                "country": "Lao People's Democratic Republic",
-                "channels": [
-                    "Go3 Extra Sports Latvia"
-                ]
-            },
-            {
-                "country": "Liechtenstein",
-                "channels": [
-                    "Go3 Extra Sports Lithuania"
-                ]
-            },
-            {
-                "country": "Romania",
-                "channels": [
-                    "Antena Play"
+                    "TV4 Fotboll",
+                    "TV4 Play Sport Fotboll"
                 ]
             }
         ]
@@ -3515,61 +3502,6 @@
                 "country": "Ireland",
                 "channels": [
                     "LOITV"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5163717,
-        "kickoff": 1783092600,
-        "fixture": "FC KTP vs JIPPO",
-        "league_id": 251,
-        "league": "Ykkosliiga",
-        "venue": "Arto Tolsa Areena",
-        "tv_channels": [
-            {
-                "country": "Finland",
-                "channels": [
-                    "Ruutu+ Urheilu"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5163716,
-        "kickoff": 1783092600,
-        "fixture": "JäPS vs SJK Akatemia",
-        "league_id": 251,
-        "league": "Ykkosliiga",
-        "venue": "Järvenpään keskusurheilukenttä",
-        "tv_channels": [
-            {
-                "country": "Finland",
-                "channels": [
-                    "Ruutu+ Urheilu"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5107522,
-        "kickoff": 1783098000,
-        "fixture": "Sirius vs Mjällby",
-        "league_id": 67,
-        "league": "Allsvenskan",
-        "venue": "Studenternas IP",
-        "tv_channels": [
-            {
-                "country": "Norway",
-                "channels": [
-                    "VG TV"
-                ]
-            },
-            {
-                "country": "Sweden",
-                "channels": [
-                    "TV4 Fotboll",
-                    "TV4 Play Sport Fotboll"
                 ]
             }
         ]
@@ -3660,6 +3592,78 @@
                 "channels": [
                     "Virgin Media Play",
                     "Virgin Media Three"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5136383,
+        "kickoff": 1783101600,
+        "fixture": "NSI Runavik vs Klaksvik",
+        "league_id": 250,
+        "league": "Premier League",
+        "venue": "TBA",
+        "tv_channels": [
+            {
+                "country": "Armenia",
+                "channels": [
+                    "FastTV"
+                ]
+            },
+            {
+                "country": "China",
+                "channels": [
+                    "Migu"
+                ]
+            },
+            {
+                "country": "Lao People's Democratic Republic",
+                "channels": [
+                    "Go3 Extra Sports Latvia"
+                ]
+            },
+            {
+                "country": "Liechtenstein",
+                "channels": [
+                    "Go3 Extra Sports Lithuania"
+                ]
+            },
+            {
+                "country": "Romania",
+                "channels": [
+                    "Antena Play"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5163717,
+        "kickoff": 1783092600,
+        "fixture": "FC KTP vs JIPPO",
+        "league_id": 251,
+        "league": "Ykkosliiga",
+        "venue": "Arto Tolsa Areena",
+        "tv_channels": [
+            {
+                "country": "Finland",
+                "channels": [
+                    "Ruutu+ Urheilu"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5163716,
+        "kickoff": 1783092600,
+        "fixture": "JäPS vs SJK Akatemia",
+        "league_id": 251,
+        "league": "Ykkosliiga",
+        "venue": "Järvenpään keskusurheilukenttä",
+        "tv_channels": [
+            {
+                "country": "Finland",
+                "channels": [
+                    "Ruutu+ Urheilu"
                 ]
             }
         ]

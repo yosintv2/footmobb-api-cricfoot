@@ -240,7 +240,14 @@
         "league_id": 287,
         "league": "EURO U19",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "UEFA TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5851954,
@@ -442,6 +449,12 @@
                     "Premier Sports 2 UK",
                     "Premier Sports Player"
                 ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Paramount+ (US)"
+                ]
             }
         ]
     },
@@ -470,7 +483,14 @@
         "league_id": 9134,
         "league": "NWSL",
         "venue": "First Horizon Stadium at WakeMed Soccer Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "ION"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5161557,
@@ -479,7 +499,14 @@
         "league_id": 9134,
         "league": "NWSL",
         "venue": "Snapdragon Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "ION"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5161558,
@@ -494,6 +521,14 @@
                 "channels": [
                     "HBO Max (UK)",
                     "TNT Sports 2"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "ESPN",
+                    "ESPN Select",
+                    "ESPN Unlimited"
                 ]
             }
         ]
@@ -576,7 +611,7 @@
         "fixture": "Oakland Roots SC vs Spokane Velocity FC",
         "league_id": 10654,
         "league": "USL Cup Grp. 1",
-        "venue": "Oakland-Alameda County Coliseum",
+        "venue": "Merritt College Soccer Stadium",
         "tv_channels": []
     },
     {
@@ -649,7 +684,16 @@
         "league_id": 10654,
         "league": "USL Cup Grp. 3",
         "venue": "Toyota Field",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "ESPN Select",
+                    "ESPN Unlimited",
+                    "ESPN2"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5201606,
@@ -838,10 +882,22 @@
         "venue": "Kansas City Stadium",
         "tv_channels": [
             {
+                "country": "Germany",
+                "channels": [
+                    "MagentaTV"
+                ]
+            },
+            {
                 "country": "Ireland",
                 "channels": [
                     "RTÉ Player",
                     "RTÉ2"
+                ]
+            },
+            {
+                "country": "Montenegro",
+                "channels": [
+                    "beIN SPORTS CONNECT"
                 ]
             },
             {
@@ -1433,7 +1489,14 @@
         "league_id": 126,
         "league": "Premier Division",
         "venue": "Pearse Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOITV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5215463,
