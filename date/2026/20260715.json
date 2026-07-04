@@ -114,7 +114,14 @@
         "league_id": 10611,
         "league": "Champions League Qualification",
         "venue": "Tallaght Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOITV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5785684,
@@ -231,7 +238,15 @@
         "league_id": 180,
         "league": "League Cup Grp. A",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports Player",
+                    "PremierSports PPV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5762477,
@@ -249,7 +264,15 @@
         "league_id": 180,
         "league": "League Cup Grp. B",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports Player",
+                    "PremierSports PPV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5762582,
@@ -285,7 +308,15 @@
         "league_id": 180,
         "league": "League Cup Grp. D",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports Player",
+                    "PremierSports PPV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5762750,
@@ -330,7 +361,15 @@
         "league_id": 180,
         "league": "League Cup Grp. F",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports Player",
+                    "PremierSports PPV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5763425,
@@ -348,7 +387,15 @@
         "league_id": 180,
         "league": "League Cup Grp. G",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports Player",
+                    "PremierSports PPV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5763483,
@@ -366,7 +413,15 @@
         "league_id": 180,
         "league": "League Cup Grp. H",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports Player",
+                    "PremierSports PPV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 4653855,
@@ -375,7 +430,22 @@
         "league_id": 77,
         "league": "World Cup",
         "venue": "Dallas Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "RTÉ Player",
+                    "RTÉ2"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "FOX Sports",
+                    "FOX Sports 4K"
+                ]
+            }
+        ]
     },
     {
         "match_id": 4653856,

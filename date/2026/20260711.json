@@ -559,7 +559,6 @@
             {
                 "country": "United States",
                 "channels": [
-                    "MyNetworkTV",
                     "NBC Sports Boston",
                     "NWSL+"
                 ]
@@ -581,6 +580,30 @@
                 ]
             },
             {
+                "country": "Costa Rica",
+                "channels": [
+                    "Azteca Deportes Network"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "channels": [
+                    "Azteca Deportes Network"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "channels": [
+                    "Azteca Deportes Network"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "channels": [
+                    "Azteca Deportes Network"
+                ]
+            },
+            {
                 "country": "Ireland",
                 "channels": [
                     "NWSL+"
@@ -590,6 +613,18 @@
                 "country": "Japan",
                 "channels": [
                     "NWSL+"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "channels": [
+                    "Azteca Deportes Network"
+                ]
+            },
+            {
+                "country": "Panama",
+                "channels": [
+                    "Azteca Deportes Network"
                 ]
             },
             {
@@ -1285,7 +1320,6 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "LOITV",
                     "Virgin Media Play",
                     "Virgin Media Three"
                 ]
@@ -1603,9 +1637,21 @@
         "venue": "Toolpoint Areena",
         "tv_channels": [
             {
+                "country": "Australia",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
                 "country": "Finland",
                 "channels": [
                     "Ruutu+ Urheilu"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "OneFootball PPV"
                 ]
             }
         ]
@@ -1619,9 +1665,21 @@
         "venue": "Markku.fi Areena",
         "tv_channels": [
             {
+                "country": "Australia",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
                 "country": "Finland",
                 "channels": [
                     "Ruutu+ Urheilu"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "OneFootball PPV"
                 ]
             }
         ]
@@ -1635,9 +1693,21 @@
         "venue": "Veritas Stadion",
         "tv_channels": [
             {
+                "country": "Australia",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
                 "country": "Finland",
                 "channels": [
                     "Ruutu+ Urheilu"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "OneFootball PPV"
                 ]
             }
         ]
@@ -1852,7 +1922,16 @@
         "league_id": 8814,
         "league": "Serie B",
         "venue": "Estádio Adelmar da Costa Carvalho",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Disney+ Premium",
+                    "SportyNet",
+                    "Xsports"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000009477,
