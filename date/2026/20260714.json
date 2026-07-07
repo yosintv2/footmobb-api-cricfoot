@@ -100,13 +100,157 @@
         "venue": "Kópavogsvöllur",
         "tv_channels": [
             {
+                "country": "Argentina",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
                 "country": "Australia",
                 "channels": [
                     "OneFootball PPV"
                 ]
             },
             {
+                "country": "Austria",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
                 "country": "Japan",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Panama",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Poland",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Slovakia",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Venezuela, Bolivarian Republic of",
                 "channels": [
                     "OneFootball PPV"
                 ]
@@ -120,7 +264,14 @@
         "league_id": 9837,
         "league": "Canadian Championship",
         "venue": "ATCO Field",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "FOX Soccer Plus"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5190601,
@@ -129,7 +280,14 @@
         "league_id": 8814,
         "league": "Serie B",
         "venue": "Estádio Raimundo Sampaio",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5190603,
@@ -504,11 +662,25 @@
     {
         "match_id": 4653855,
         "kickoff": 1784055600,
-        "fixture": "France/Morocco vs Winner QF 2",
+        "fixture": "France/Morocco vs Spain/Belgium",
         "league_id": 77,
         "league": "World Cup",
         "venue": "Dallas Stadium",
         "tv_channels": [
+            {
+                "country": "Finland",
+                "channels": [
+                    "Yle Areena",
+                    "Yle TV2"
+                ]
+            },
+            {
+                "country": "France",
+                "channels": [
+                    "M6",
+                    "beIN Sports 1 (FR)"
+                ]
+            },
             {
                 "country": "Germany",
                 "channels": [
@@ -523,17 +695,49 @@
                 ]
             },
             {
+                "country": "Italy",
+                "channels": [
+                    "DAZN Italia"
+                ]
+            },
+            {
                 "country": "Montenegro",
                 "channels": [
                     "beIN SPORTS CONNECT"
                 ]
             },
             {
+                "country": "Norway",
+                "channels": [
+                    "SVT1",
+                    "TV 2 Play (NO)"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "channels": [
+                    "SVT Play",
+                    "SVT1"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "ITV1",
+                    "ITVX"
+                ]
+            },
+            {
                 "country": "United States",
                 "channels": [
+                    "FOX",
+                    "FOX 4K",
                     "FOX One",
                     "FOX Sports",
-                    "FOX Sports 4K"
+                    "FOX Sports 4K",
+                    "Fubo Sports",
+                    "Peacock ES",
+                    "Telemundo"
                 ]
             }
         ]

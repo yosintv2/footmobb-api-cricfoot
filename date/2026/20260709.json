@@ -342,6 +342,13 @@
                 ]
             },
             {
+                "country": "Spain",
+                "channels": [
+                    "RTVE Play",
+                    "Teledeporte"
+                ]
+            },
+            {
                 "country": "Switzerland",
                 "channels": [
                     "Sunrise TV",
@@ -528,7 +535,14 @@
         "league_id": 144,
         "league": "Primera División",
         "venue": "Estadio Jesús Bermúdez",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "Entel Gol"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000010862,
@@ -537,7 +551,14 @@
         "league_id": 144,
         "league": "Primera División",
         "venue": "Estadio Víctor Agustín Ugarte de Potosí",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "Entel Gol"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5190599,
@@ -925,8 +946,9 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "BBC One",
                     "ITV",
+                    "ITV1",
+                    "ITVX",
                     "RTÉ Player",
                     "RTÉ2",
                     "RTÉ2 +1"
@@ -1251,6 +1273,15 @@
                 "channels": [
                     "MEGOGO Football 1",
                     "Megogo"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "ITV1",
+                    "ITVX",
+                    "STV",
+                    "STV Player"
                 ]
             },
             {

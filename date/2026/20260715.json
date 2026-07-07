@@ -434,10 +434,93 @@
     {
         "match_id": 4653855,
         "kickoff": 1784055600,
-        "fixture": "France/Morocco vs Winner QF 2",
+        "fixture": "France/Morocco vs Spain/Belgium",
         "league_id": 77,
         "league": "World Cup",
         "venue": "Dallas Stadium",
+        "tv_channels": [
+            {
+                "country": "Finland",
+                "channels": [
+                    "Yle Areena",
+                    "Yle TV2"
+                ]
+            },
+            {
+                "country": "France",
+                "channels": [
+                    "M6",
+                    "beIN Sports 1 (FR)"
+                ]
+            },
+            {
+                "country": "Germany",
+                "channels": [
+                    "MagentaTV"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "RTÉ Player",
+                    "RTÉ2"
+                ]
+            },
+            {
+                "country": "Italy",
+                "channels": [
+                    "DAZN Italia"
+                ]
+            },
+            {
+                "country": "Montenegro",
+                "channels": [
+                    "beIN SPORTS CONNECT"
+                ]
+            },
+            {
+                "country": "Norway",
+                "channels": [
+                    "SVT1",
+                    "TV 2 Play (NO)"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "channels": [
+                    "SVT Play",
+                    "SVT1"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "ITV1",
+                    "ITVX"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "FOX",
+                    "FOX 4K",
+                    "FOX One",
+                    "FOX Sports",
+                    "FOX Sports 4K",
+                    "Fubo Sports",
+                    "Peacock ES",
+                    "Telemundo"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 4653856,
+        "kickoff": 1784142000,
+        "fixture": "Norway/England vs Winner QF 4",
+        "league_id": 77,
+        "league": "World Cup",
+        "venue": "Atlanta Stadium",
         "tv_channels": [
             {
                 "country": "Germany",
@@ -456,31 +539,6 @@
                 "country": "Montenegro",
                 "channels": [
                     "beIN SPORTS CONNECT"
-                ]
-            },
-            {
-                "country": "United States",
-                "channels": [
-                    "FOX One",
-                    "FOX Sports",
-                    "FOX Sports 4K"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 4653856,
-        "kickoff": 1784142000,
-        "fixture": "Norway/England vs Winner QF 4",
-        "league_id": 77,
-        "league": "World Cup",
-        "venue": "Atlanta Stadium",
-        "tv_channels": [
-            {
-                "country": "Ireland",
-                "channels": [
-                    "RTÉ Player",
-                    "RTÉ2"
                 ]
             },
             {
