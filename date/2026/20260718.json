@@ -324,6 +324,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 5904500,
+        "kickoff": 1784376000,
+        "fixture": "Vendsyssel FF vs AC Horsens",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5900629,
         "kickoff": 1784376000,
         "fixture": "VSG Altglienicke vs RB Leipzig",
@@ -473,7 +482,7 @@
         "fixture": "Salzburg vs Mamelodi Sundowns FC",
         "league_id": 489,
         "league": "Club Friendlies",
-        "venue": "TBA",
+        "venue": "Mondseeland Arena",
         "tv_channels": []
     },
     {
@@ -519,7 +528,14 @@
         "league_id": 489,
         "league": "Club Friendlies",
         "venue": "Helsingin olympiastadion",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "MUTV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5765420,
@@ -726,7 +742,21 @@
         "league_id": 180,
         "league": "League Cup Grp. A",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Premier Sports 2 ROI"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports 2 UK",
+                    "Premier Sports Player"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5762586,
@@ -744,7 +774,21 @@
         "league_id": 180,
         "league": "League Cup Grp. B",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Premier Sports 2 ROI"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports 2 UK",
+                    "Premier Sports Player"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5762593,
@@ -753,7 +797,15 @@
         "league_id": 180,
         "league": "League Cup Grp. C",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports Player",
+                    "PremierSports PPV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5762594,
@@ -798,7 +850,15 @@
         "league_id": 180,
         "league": "League Cup Grp. E",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports Player",
+                    "PremierSports PPV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5763417,
@@ -816,7 +876,15 @@
         "league_id": 180,
         "league": "League Cup Grp. F",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports Player",
+                    "PremierSports PPV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5763427,
@@ -843,7 +911,15 @@
         "league_id": 180,
         "league": "League Cup Grp. H",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports Player",
+                    "PremierSports PPV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5763486,
@@ -897,7 +973,14 @@
         "league_id": 130,
         "league": "Major League Soccer",
         "venue": "GEODIS Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "Apple TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5071214,
@@ -906,7 +989,14 @@
         "league_id": 130,
         "league": "Major League Soccer",
         "venue": "Dignity Health Sports Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "Apple TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5161562,
@@ -1583,7 +1673,7 @@
     },
     {
         "match_id": 5104952,
-        "kickoff": 1784397600,
+        "kickoff": 1784390400,
         "fixture": "Viking vs Sandefjord",
         "league_id": 59,
         "league": "Eliteserien",
@@ -1996,6 +2086,24 @@
         "tv_channels": []
     },
     {
+        "match_id": 1000009028,
+        "kickoff": 1784332800,
+        "fixture": "Delfin vs CSD Macara",
+        "league_id": 246,
+        "league": "Serie A",
+        "venue": "Estadio Jocay",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000009026,
+        "kickoff": 1784401200,
+        "fixture": "Deportivo Cuenca vs Universidad Catolica",
+        "league_id": 246,
+        "league": "Serie A",
+        "venue": "Estadio Alejandro Serrano Aguilar Banco del Austro",
+        "tv_channels": []
+    },
+    {
         "match_id": 5190610,
         "kickoff": 1784325600,
         "fixture": "Sao Bernardo vs Avai FC",
@@ -2020,6 +2128,15 @@
         "league_id": 8814,
         "league": "Serie B",
         "venue": "Estádio Alfredo Jaconi",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5190612,
+        "kickoff": 1784332800,
+        "fixture": "Londrina EC vs Botafogo SP",
+        "league_id": 8814,
+        "league": "Serie B",
+        "venue": "Estádio Vitorino Gonçalves Dias",
         "tv_channels": []
     },
     {
@@ -2060,7 +2177,7 @@
     },
     {
         "match_id": 1000015068,
-        "kickoff": 1784332800,
+        "kickoff": 1784311200,
         "fixture": "FK Crvena Zvezda vs Macva Sabac",
         "league_id": 182,
         "league": "Super Liga",
@@ -2068,35 +2185,8 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000015069,
-        "kickoff": 1784332800,
-        "fixture": "Vojvodina vs OFK Beograd",
-        "league_id": 182,
-        "league": "Super Liga",
-        "venue": "Stadion Karađorđe",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000015070,
-        "kickoff": 1784332800,
-        "fixture": "FK Radnik Surdulica vs Mladost Lucani",
-        "league_id": 182,
-        "league": "Super Liga",
-        "venue": "EFBET Stadion",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000015071,
-        "kickoff": 1784332800,
-        "fixture": "Novi Pazar vs FK Radnicki 1923",
-        "league_id": 182,
-        "league": "Super Liga",
-        "venue": "Gradski stadion",
-        "tv_channels": []
-    },
-    {
         "match_id": 1000015072,
-        "kickoff": 1784332800,
+        "kickoff": 1784311200,
         "fixture": "Zeleznicar Pancevo vs Radnicki Nis",
         "league_id": 182,
         "league": "Super Liga",
@@ -2104,17 +2194,17 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000015074,
-        "kickoff": 1784332800,
-        "fixture": "Cukaricki vs FK IMT Beograd",
+        "match_id": 1000015071,
+        "kickoff": 1784397600,
+        "fixture": "Novi Pazar vs FK Radnicki 1923",
         "league_id": 182,
         "league": "Super Liga",
-        "venue": "Stadion na Banovom brdu",
+        "venue": "Gradski stadion",
         "tv_channels": []
     },
     {
         "match_id": 1000015075,
-        "kickoff": 1784332800,
+        "kickoff": 1784397600,
         "fixture": "FK Zemun vs Partizan Beograd",
         "league_id": 182,
         "league": "Super Liga",
@@ -2164,7 +2254,15 @@
         "league_id": 77,
         "league": "World Cup",
         "venue": "Miami Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "RTÉ Player",
+                    "RTÉ2"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5113947,

@@ -96,7 +96,14 @@
         "league_id": 489,
         "league": "Club Friendlies",
         "venue": "Helsingin olympiastadion",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "MUTV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5765420,
@@ -393,7 +400,21 @@
         "league_id": 180,
         "league": "League Cup Grp. A",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Premier Sports 2 ROI"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports 2 UK",
+                    "Premier Sports Player"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5762585,
@@ -402,7 +423,21 @@
         "league_id": 180,
         "league": "League Cup Grp. B",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Premier Sports 2 ROI"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports 2 UK",
+                    "Premier Sports Player"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5888333,
@@ -762,7 +797,15 @@
         "league_id": 77,
         "league": "World Cup",
         "venue": "Miami Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "RTÉ Player",
+                    "RTÉ2"
+                ]
+            }
+        ]
     },
     {
         "match_id": 4653858,
@@ -771,7 +814,36 @@
         "league_id": 77,
         "league": "World Cup",
         "venue": "New York New Jersey Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "RTÉ Player",
+                    "RTÉ2"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "BBC One England",
+                    "BBC One Northern Ireland",
+                    "BBC One Scotland",
+                    "BBC One Wales",
+                    "BBC Sport Online",
+                    "BBC iPlayer",
+                    "ITV1",
+                    "ITVX",
+                    "STV",
+                    "STV Player"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "FOX Sports"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5164011,
@@ -1027,7 +1099,7 @@
     },
     {
         "match_id": 5104952,
-        "kickoff": 1784397600,
+        "kickoff": 1784390400,
         "fixture": "Viking vs Sandefjord",
         "league_id": 59,
         "league": "Eliteserien",
@@ -1449,57 +1521,21 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000009025,
-        "kickoff": 1784419200,
-        "fixture": "Independiente del Valle vs Emelec",
-        "league_id": 246,
-        "league": "Serie A",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 1000009026,
-        "kickoff": 1784419200,
+        "kickoff": 1784401200,
         "fixture": "Deportivo Cuenca vs Universidad Catolica",
         "league_id": 246,
         "league": "Serie A",
-        "venue": "TBA",
+        "venue": "Estadio Alejandro Serrano Aguilar Banco del Austro",
         "tv_channels": []
     },
     {
-        "match_id": 1000009027,
-        "kickoff": 1784419200,
-        "fixture": "Tecnico Universitario vs Aucas",
+        "match_id": 1000009032,
+        "kickoff": 1784410200,
+        "fixture": "LDU de Quito vs Leones del Norte",
         "league_id": 246,
         "league": "Serie A",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000009028,
-        "kickoff": 1784419200,
-        "fixture": "Delfin vs CSD Macara",
-        "league_id": 246,
-        "league": "Serie A",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000009029,
-        "kickoff": 1784419200,
-        "fixture": "Guayaquil City vs Manta",
-        "league_id": 246,
-        "league": "Serie A",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000009030,
-        "kickoff": 1784419200,
-        "fixture": "Mushuc Runa vs Orense",
-        "league_id": 246,
-        "league": "Serie A",
-        "venue": "TBA",
+        "venue": "Estadio Rodrigo Paz Delgado",
         "tv_channels": []
     },
     {
@@ -1512,12 +1548,12 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000009032,
-        "kickoff": 1784419200,
-        "fixture": "LDU de Quito vs Leones del Norte",
+        "match_id": 1000009027,
+        "kickoff": 1784479500,
+        "fixture": "Tecnico Universitario vs Aucas",
         "league_id": 246,
         "league": "Serie A",
-        "venue": "TBA",
+        "venue": "Estadio Bellavista Universidad Indoamérica",
         "tv_channels": []
     },
     {
@@ -1545,6 +1581,51 @@
         "league_id": 8814,
         "league": "Serie B",
         "venue": "Estádio Adelmar da Costa Carvalho",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000015071,
+        "kickoff": 1784397600,
+        "fixture": "Novi Pazar vs FK Radnicki 1923",
+        "league_id": 182,
+        "league": "Super Liga",
+        "venue": "Gradski stadion",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000015075,
+        "kickoff": 1784397600,
+        "fixture": "FK Zemun vs Partizan Beograd",
+        "league_id": 182,
+        "league": "Super Liga",
+        "venue": "Stadion Dragan Dzajić",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000015069,
+        "kickoff": 1784480400,
+        "fixture": "Vojvodina vs OFK Beograd",
+        "league_id": 182,
+        "league": "Super Liga",
+        "venue": "Stadion Karađorđe",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000015070,
+        "kickoff": 1784480400,
+        "fixture": "FK Radnik Surdulica vs Mladost Lucani",
+        "league_id": 182,
+        "league": "Super Liga",
+        "venue": "EFBET Stadion",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000015074,
+        "kickoff": 1784480400,
+        "fixture": "Cukaricki vs FK IMT Beograd",
+        "league_id": 182,
+        "league": "Super Liga",
+        "venue": "Stadion na Banovom brdu",
         "tv_channels": []
     },
     {

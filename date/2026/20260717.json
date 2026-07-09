@@ -99,6 +99,24 @@
         "tv_channels": []
     },
     {
+        "match_id": 5904510,
+        "kickoff": 1784282400,
+        "fixture": "Nordsjælland vs Sparta Prague",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5904567,
+        "kickoff": 1784282400,
+        "fixture": "Nordsjælland vs Sparta Prague",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5764186,
         "kickoff": 1784282400,
         "fixture": "Sønderjyske vs Kolding IF",
@@ -144,9 +162,36 @@
         "tv_channels": []
     },
     {
+        "match_id": 5904511,
+        "kickoff": 1784293200,
+        "fixture": "Nordsjælland vs Jagiellonia Białystok",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5904568,
+        "kickoff": 1784293200,
+        "fixture": "Nordsjælland vs Jagiellonia Białystok",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5765464,
         "kickoff": 1784295000,
         "fixture": "Mainz vs Kaiserslautern",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5904501,
+        "kickoff": 1784296800,
+        "fixture": "FC Midtjylland vs OB",
         "league_id": 489,
         "league": "Club Friendlies",
         "venue": "TBA",
@@ -314,9 +359,21 @@
         "venue": "LNK Sporta Parks dabīgais",
         "tv_channels": [
             {
+                "country": "Australia",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
                 "country": "Ireland",
                 "channels": [
                     "NIFL TV"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "OneFootball PPV"
                 ]
             }
         ]
@@ -373,7 +430,20 @@
         "league_id": 10615,
         "league": "Conference League Qualification",
         "venue": "FK Žalgiris namų stadionas",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5786649,
@@ -382,7 +452,20 @@
         "league_id": 10615,
         "league": "Conference League Qualification",
         "venue": "MFA Centenary Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5786629,
@@ -454,7 +537,20 @@
         "league_id": 10613,
         "league": "Europa League Qualification",
         "venue": "Cluj Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5786509,
@@ -880,6 +976,24 @@
         "tv_channels": []
     },
     {
+        "match_id": 1000009020,
+        "kickoff": 1784237400,
+        "fixture": "Aucas vs Independiente del Valle",
+        "league_id": 246,
+        "league": "Serie A",
+        "venue": "Estadio Cooprogreso Gonzalo Pozo Ripalda",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000009017,
+        "kickoff": 1784246400,
+        "fixture": "Orense vs Emelec",
+        "league_id": 246,
+        "league": "Serie A",
+        "venue": "Estadio 9 de Mayo Banco de Machala",
+        "tv_channels": []
+    },
+    {
         "match_id": 5103545,
         "kickoff": 1784241000,
         "fixture": "Botafogo RJ vs Santos FC",
@@ -1190,6 +1304,24 @@
         "league_id": 248,
         "league": "Premium liiga",
         "venue": "A. Le Coq Arena",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000015068,
+        "kickoff": 1784311200,
+        "fixture": "FK Crvena Zvezda vs Macva Sabac",
+        "league_id": 182,
+        "league": "Super Liga",
+        "venue": "Stadion Rajko Mitić",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000015072,
+        "kickoff": 1784311200,
+        "fixture": "Zeleznicar Pancevo vs Radnicki Nis",
+        "league_id": 182,
+        "league": "Super Liga",
+        "venue": "Sportsko-Rekreativni Centar Mladost",
         "tv_channels": []
     }
 ]

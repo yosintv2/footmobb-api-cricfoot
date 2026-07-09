@@ -195,7 +195,36 @@
         "league_id": 77,
         "league": "World Cup",
         "venue": "New York New Jersey Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "RTÉ Player",
+                    "RTÉ2"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "BBC One England",
+                    "BBC One Northern Ireland",
+                    "BBC One Scotland",
+                    "BBC One Wales",
+                    "BBC Sport Online",
+                    "BBC iPlayer",
+                    "ITV1",
+                    "ITVX",
+                    "STV",
+                    "STV Player"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "FOX Sports"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5740729,
@@ -486,15 +515,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000007659,
-        "kickoff": 1784496600,
-        "fixture": "Real Monarchs SLC vs Tacoma Defiance",
-        "league_id": 10282,
-        "league": "MLS Next Pro",
-        "venue": "Zions Bank Stadium",
-        "tv_channels": []
-    },
-    {
         "match_id": 1000008067,
         "kickoff": 1784498400,
         "fixture": "Connecticut United vs Red Bull New York  II",
@@ -510,6 +530,15 @@
         "league_id": 10282,
         "league": "MLS Next Pro",
         "venue": "Children's Mercy Victory Field",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000007659,
+        "kickoff": 1784511000,
+        "fixture": "Real Monarchs SLC vs Tacoma Defiance",
+        "league_id": 10282,
+        "league": "MLS Next Pro",
+        "venue": "Zions Bank Stadium",
         "tv_channels": []
     },
     {
@@ -573,6 +602,69 @@
         "league_id": 144,
         "league": "Primera División",
         "venue": "Estadio Félix Capriles",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000009027,
+        "kickoff": 1784479500,
+        "fixture": "Tecnico Universitario vs Aucas",
+        "league_id": 246,
+        "league": "Serie A",
+        "venue": "Estadio Bellavista Universidad Indoamérica",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000009029,
+        "kickoff": 1784497500,
+        "fixture": "Guayaquil City vs Manta",
+        "league_id": 246,
+        "league": "Serie A",
+        "venue": "Estadio Christian Benítez Betancourt",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000009025,
+        "kickoff": 1784506500,
+        "fixture": "Independiente del Valle vs Emelec",
+        "league_id": 246,
+        "league": "Serie A",
+        "venue": "Estadio Banco Guayaquil",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000009030,
+        "kickoff": 1784574000,
+        "fixture": "Mushuc Runa vs Orense",
+        "league_id": 246,
+        "league": "Serie A",
+        "venue": "Estadio Mushuc Runa Cooperativa de Ahorro y Crédito",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000015069,
+        "kickoff": 1784480400,
+        "fixture": "Vojvodina vs OFK Beograd",
+        "league_id": 182,
+        "league": "Super Liga",
+        "venue": "Stadion Karađorđe",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000015070,
+        "kickoff": 1784480400,
+        "fixture": "FK Radnik Surdulica vs Mladost Lucani",
+        "league_id": 182,
+        "league": "Super Liga",
+        "venue": "EFBET Stadion",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000015074,
+        "kickoff": 1784480400,
+        "fixture": "Cukaricki vs FK IMT Beograd",
+        "league_id": 182,
+        "league": "Super Liga",
+        "venue": "Stadion na Banovom brdu",
         "tv_channels": []
     },
     {

@@ -67,7 +67,7 @@
         "fixture": "Salzburg vs Başakşehir",
         "league_id": 489,
         "league": "Club Friendlies",
-        "venue": "TBA",
+        "venue": "SAK Arena Nonntal",
         "tv_channels": []
     },
     {
@@ -203,9 +203,21 @@
         "venue": "LNK Sporta Parks dabīgais",
         "tv_channels": [
             {
+                "country": "Australia",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
                 "country": "Ireland",
                 "channels": [
                     "NIFL TV"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "OneFootball PPV"
                 ]
             }
         ]
@@ -262,7 +274,20 @@
         "league_id": 10615,
         "league": "Conference League Qualification",
         "venue": "FK Žalgiris namų stadionas",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5786649,
@@ -271,7 +296,20 @@
         "league_id": 10615,
         "league": "Conference League Qualification",
         "venue": "MFA Centenary Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5786629,
@@ -567,6 +605,12 @@
         "venue": "Beirne Stadium",
         "tv_channels": [
             {
+                "country": "Argentina",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
                 "country": "Australia",
                 "channels": [
                     "OneFootball"
@@ -579,6 +623,60 @@
                 ]
             },
             {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
                 "country": "Ireland",
                 "channels": [
                     "OneFootball"
@@ -586,6 +684,36 @@
             },
             {
                 "country": "Japan",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Panama",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Peru",
                 "channels": [
                     "OneFootball"
                 ]
@@ -619,6 +747,18 @@
                 "channels": [
                     "OneFootball"
                 ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Venezuela, Bolivarian Republic of",
+                "channels": [
+                    "OneFootball"
+                ]
             }
         ]
     },
@@ -629,7 +769,15 @@
         "league_id": 144,
         "league": "Primera División",
         "venue": "Estadio Víctor Agustín Ugarte de Potosí",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "APLAZADO",
+                    "Entel Gol"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000010869,
@@ -638,7 +786,15 @@
         "league_id": 144,
         "league": "Primera División",
         "venue": "Estadio Hernando Siles",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "APLAZADO",
+                    "Entel Gol"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000010868,
@@ -647,6 +803,42 @@
         "league_id": 144,
         "league": "Primera División",
         "venue": "Estadio Municipal El Alto",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000009021,
+        "kickoff": 1784134800,
+        "fixture": "Libertad vs Tecnico Universitario",
+        "league_id": 246,
+        "league": "Serie A",
+        "venue": "Estadio Federativo Reina del Cisne",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000009019,
+        "kickoff": 1784152800,
+        "fixture": "Universidad Catolica vs LDU de Quito",
+        "league_id": 246,
+        "league": "Serie A",
+        "venue": "Estadio Olímpico Atahualpa",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000009024,
+        "kickoff": 1784152800,
+        "fixture": "Leones del Norte vs Deportivo Cuenca",
+        "league_id": 246,
+        "league": "Serie A",
+        "venue": "Estadio Olímpico de Ibarra",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000009018,
+        "kickoff": 1784161800,
+        "fixture": "Barcelona SC vs Guayaquil City",
+        "league_id": 246,
+        "league": "Serie A",
+        "venue": "Estadio Monumental Banco Pichincha",
         "tv_channels": []
     },
     {
@@ -806,7 +998,20 @@
         "league_id": 10613,
         "league": "Europa League Qualification",
         "venue": "Cluj Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5786509,

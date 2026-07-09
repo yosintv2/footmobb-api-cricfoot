@@ -247,6 +247,24 @@
         "tv_channels": []
     },
     {
+        "match_id": 5238329,
+        "kickoff": 1783978200,
+        "fixture": "9 de Julio Rafaela vs Defensores de Belgrano de Villa Ramallo",
+        "league_id": 9213,
+        "league": "Federal A Zona A",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5112995,
+        "kickoff": 1783987200,
+        "fixture": "Atlanta vs Colegiales",
+        "league_id": 8965,
+        "league": "Primera Nacional",
+        "venue": "Estadio Don León Kolbovski",
+        "tv_channels": []
+    },
+    {
         "match_id": 5107525,
         "kickoff": 1783962000,
         "fixture": "Djurgården vs Halmstads BK",
@@ -452,7 +470,9 @@
             {
                 "country": "United States",
                 "channels": [
-                    "FOX Soccer Plus"
+                    "FOX Soccer Plus",
+                    "FOX Sports 2",
+                    "Fubo Sports"
                 ]
             }
         ]
@@ -1414,13 +1434,6 @@
                 "channels": [
                     "SVT Play",
                     "SVT1"
-                ]
-            },
-            {
-                "country": "United Kingdom",
-                "channels": [
-                    "ITV1",
-                    "ITVX"
                 ]
             },
             {
