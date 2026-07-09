@@ -44,13 +44,47 @@
         ]
     },
     {
+        "match_id": 5847094,
+        "kickoff": 1784127600,
+        "fixture": "Bochum vs Ajax",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5900221,
+        "kickoff": 1784133000,
+        "fixture": "Lyon vs Servette",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "Stade Pierre Rajon",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5903709,
+        "kickoff": 1784133000,
+        "fixture": "Salzburg vs Başakşehir",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5793345,
         "kickoff": 1784136600,
         "fixture": "CD Derio vs Athletic Club",
         "league_id": 489,
         "league": "Club Friendlies",
         "venue": "Estadio La Florida",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Spain",
+                "channels": [
+                    "Canal por confirmar"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5813674,
@@ -58,7 +92,7 @@
         "fixture": "FC København vs Viborg",
         "league_id": 489,
         "league": "Club Friendlies",
-        "venue": "TBA",
+        "venue": "Parken",
         "tv_channels": []
     },
     {
@@ -300,7 +334,45 @@
         "league_id": 9134,
         "league": "NWSL",
         "venue": "Inter&Co Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Austria",
+                "channels": [
+                    "NWSL+"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "NWSL+"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "NWSL+"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "channels": [
+                    "NWSL+"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "NWSL+"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "NBC Sports Boston",
+                    "NWSL+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5161561,
@@ -309,7 +381,46 @@
         "league_id": 9134,
         "league": "NWSL",
         "venue": "Citi Field",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Austria",
+                "channels": [
+                    "NWSL+"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "NWSL+"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "NWSL+"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "channels": [
+                    "NWSL+"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "NWSL+"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "ESPN",
+                    "ESPN Unlimited",
+                    "Fubo Sports"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5109830,
@@ -318,7 +429,15 @@
         "league_id": 8972,
         "league": "USL Championship",
         "venue": "Lexington SC Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "ESPN Select",
+                    "ESPN Unlimited"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5109831,
@@ -327,7 +446,15 @@
         "league_id": 8972,
         "league": "USL Championship",
         "venue": "South Dade Kia Field at Pitbull Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "ESPN Select",
+                    "ESPN Unlimited"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5109832,
@@ -336,16 +463,38 @@
         "league_id": 8972,
         "league": "USL Championship",
         "venue": "Hodges Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "CBS Sports Network",
+                    "Fubo Sports"
+                ]
+            }
+        ]
     },
     {
         "match_id": 4653856,
         "kickoff": 1784142000,
-        "fixture": "Norway/England vs Winner QF 4",
+        "fixture": "Norway/England vs Argentina/Switzerland",
         "league_id": 77,
         "league": "World Cup",
         "venue": "Atlanta Stadium",
         "tv_channels": [
+            {
+                "country": "Finland",
+                "channels": [
+                    "MTV Urheilu 1",
+                    "MTV3"
+                ]
+            },
+            {
+                "country": "France",
+                "channels": [
+                    "M6",
+                    "beIN Sports 1 (FR)"
+                ]
+            },
             {
                 "country": "Germany",
                 "channels": [
@@ -366,11 +515,29 @@
                 ]
             },
             {
+                "country": "Norway",
+                "channels": [
+                    "TV 2 Play (NO)"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "channels": [
+                    "TV4",
+                    "TV4 Play Sport"
+                ]
+            },
+            {
                 "country": "United States",
                 "channels": [
+                    "FOX",
+                    "FOX 4K",
                     "FOX One",
                     "FOX Sports",
-                    "FOX Sports 4K"
+                    "FOX Sports 4K",
+                    "Fubo Sports",
+                    "Peacock ES",
+                    "Telemundo"
                 ]
             }
         ]
@@ -382,7 +549,14 @@
         "league_id": 251,
         "league": "Ykkosliiga",
         "venue": "Mehtimäki tekonurmi",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Finland",
+                "channels": [
+                    "Ruutu+ Urheilu"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000007649,
@@ -391,7 +565,62 @@
         "league_id": 10282,
         "league": "MLS Next Pro",
         "venue": "Beirne Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Austria",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Poland",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Slovakia",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "channels": [
+                    "OneFootball"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000010871,
@@ -427,7 +656,15 @@
         "league_id": 9296,
         "league": "USL League One",
         "venue": "Covenant Health Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "ESPN Select",
+                    "ESPN Unlimited"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5109455,
@@ -436,7 +673,15 @@
         "league_id": 9296,
         "league": "USL League One",
         "venue": "CHI Memorial Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "ESPN Select",
+                    "ESPN Unlimited"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5109456,
@@ -445,7 +690,15 @@
         "league_id": 9296,
         "league": "USL League One",
         "venue": "Breese Stevens Field",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "ESPN Select",
+                    "ESPN Unlimited"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5225812,
@@ -643,6 +896,13 @@
         "league_id": 59,
         "league": "Eliteserien",
         "venue": "Intility Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Norway",
+                "channels": [
+                    "TV 2 Play (NO)"
+                ]
+            }
+        ]
     }
 ]

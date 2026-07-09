@@ -117,6 +117,33 @@
         "tv_channels": []
     },
     {
+        "match_id": 5900536,
+        "kickoff": 1784287800,
+        "fixture": "Feyenoord vs Sporting Charleroi",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "Sportcomplex Varkenoord 1",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5900835,
+        "kickoff": 1784289600,
+        "fixture": "De Graafschap vs Telstar",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "Sportpark De Greune",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5900411,
+        "kickoff": 1784289600,
+        "fixture": "Levante vs Sheff Utd",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5765464,
         "kickoff": 1784295000,
         "fixture": "Mainz vs Kaiserslautern",
@@ -126,12 +153,39 @@
         "tv_channels": []
     },
     {
+        "match_id": 5900186,
+        "kickoff": 1784296800,
+        "fixture": "Le Havre vs Amiens",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "TBC (France)",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5900289,
+        "kickoff": 1784302200,
+        "fixture": "Rennes vs Guingamp",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "TBC (France)",
+        "tv_channels": []
+    },
+    {
         "match_id": 5765431,
         "kickoff": 1784304000,
         "fixture": "Viktoria Köln 1904 vs Elversberg",
         "league_id": 489,
         "league": "Club Friendlies",
         "venue": "Waldstadion Überherrn",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5900696,
+        "kickoff": 1784305800,
+        "fixture": "Olympiacos vs Fortuna Sittard",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "TBA",
         "tv_channels": []
     },
     {
@@ -159,6 +213,15 @@
         "league_id": 489,
         "league": "Club Friendlies",
         "venue": "Estádio do Algarve",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5900422,
+        "kickoff": 1784313900,
+        "fixture": "Hearts vs Rayo Vallecano",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "Tynecastle Park",
         "tv_channels": []
     },
     {
@@ -436,7 +499,75 @@
         "league_id": 130,
         "league": "Major League Soccer",
         "venue": "Stade Saputo",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Canada",
+                "channels": [
+                    "Apple TV"
+                ]
+            },
+            {
+                "country": "Finland",
+                "channels": [
+                    "Apple TV (FI)"
+                ]
+            },
+            {
+                "country": "France",
+                "channels": [
+                    "Apple TV (FR)"
+                ]
+            },
+            {
+                "country": "Germany",
+                "channels": [
+                    "Apple TV (DE)"
+                ]
+            },
+            {
+                "country": "India",
+                "channels": [
+                    "Apple TV (IN)"
+                ]
+            },
+            {
+                "country": "Italy",
+                "channels": [
+                    "Apple TV (IT)"
+                ]
+            },
+            {
+                "country": "Netherlands",
+                "channels": [
+                    "Apple TV (NL)"
+                ]
+            },
+            {
+                "country": "Norway",
+                "channels": [
+                    "Apple TV (NO)"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "channels": [
+                    "Apple TV (SE)"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Apple TV (UK)",
+                    "MLS Season Pass"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Apple TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5071211,
@@ -445,7 +576,20 @@
         "league_id": 130,
         "league": "Major League Soccer",
         "venue": "Soldier Field",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "MLS Season Pass"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Apple TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5071213,
@@ -454,7 +598,20 @@
         "league_id": 130,
         "league": "Major League Soccer",
         "venue": "Energizer Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "MLS Season Pass"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Apple TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5071212,
@@ -463,7 +620,20 @@
         "league_id": 130,
         "league": "Major League Soccer",
         "venue": "Seattle Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "MLS Season Pass"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Apple TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5805230,
@@ -580,7 +750,14 @@
         "league_id": 59,
         "league": "Eliteserien",
         "venue": "Intility Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Norway",
+                "channels": [
+                    "TV 2 Play (NO)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5104946,
@@ -589,7 +766,14 @@
         "league_id": 59,
         "league": "Eliteserien",
         "venue": "Aspmyra Stadion",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Norway",
+                "channels": [
+                    "TV 2 Play (NO)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5186549,
@@ -625,7 +809,14 @@
         "league_id": 9305,
         "league": "Copa Argentina",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "Fanatiz"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000010897,
@@ -670,7 +861,14 @@
         "league_id": 9986,
         "league": "Premier League",
         "venue": "Hamilton Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "FOX Soccer Plus"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000010868,
@@ -688,7 +886,34 @@
         "league_id": 268,
         "league": "Serie A",
         "venue": "Estádio Olímpico Nilton Santos",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Germany",
+                "channels": [
+                    "Sportdigital FUSSBALL",
+                    "Sportdigital+"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Premier Sports 2 ROI"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports 2 UK",
+                    "Premier Sports Player"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Fanatiz"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5103552,
@@ -697,7 +922,14 @@
         "league_id": 268,
         "league": "Serie A",
         "venue": "Estádio Manoel Barradas",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "Fanatiz"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5190617,
