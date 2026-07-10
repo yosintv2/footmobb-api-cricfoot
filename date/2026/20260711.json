@@ -50,7 +50,7 @@
         "fixture": "Nordsjælland vs Górnik Zabrze",
         "league_id": 489,
         "league": "Club Friendlies",
-        "venue": "TBA",
+        "venue": "Kufstein-Arena",
         "tv_channels": []
     },
     {
@@ -68,7 +68,7 @@
         "fixture": "Maribor vs Charlton",
         "league_id": 489,
         "league": "Club Friendlies",
-        "venue": "TBA",
+        "venue": "Ljudski vrt",
         "tv_channels": []
     },
     {
@@ -77,7 +77,7 @@
         "fixture": "Livingston vs Hearts",
         "league_id": 489,
         "league": "Club Friendlies",
-        "venue": "TBA",
+        "venue": "Almondvale Stadium",
         "tv_channels": []
     },
     {
@@ -451,7 +451,7 @@
             {
                 "country": "Spain",
                 "channels": [
-                    "Canal por confirmar"
+                    "LevanteUD TV YouTube"
                 ]
             }
         ]
@@ -2751,7 +2751,9 @@
                 "country": "Finland",
                 "channels": [
                     "MTV Katsomo",
-                    "MTV3"
+                    "MTV3",
+                    "Yle Areena",
+                    "Yle TV2"
                 ]
             },
             {
@@ -2863,7 +2865,8 @@
             {
                 "country": "Italy",
                 "channels": [
-                    "DAZN Italia"
+                    "DAZN Italia",
+                    "Rai 1"
                 ]
             },
             {
@@ -7011,6 +7014,7 @@
             {
                 "country": "Germany",
                 "channels": [
+                    "DAZN Deutschland",
                     "RTL+",
                     "Sportdigital FUSSBALL",
                     "Sportdigital+"
@@ -7020,6 +7024,12 @@
                 "country": "Ireland",
                 "channels": [
                     "UEFA TV"
+                ]
+            },
+            {
+                "country": "Netherlands",
+                "channels": [
+                    "Ziggo Sport 2"
                 ]
             },
             {
@@ -7033,6 +7043,60 @@
                 "channels": [
                     "RTVE Play",
                     "Teledeporte"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5904118,
+        "kickoff": 1783787400,
+        "fixture": "River Plate vs Plaza Colonia",
+        "league_id": 9122,
+        "league": "Segunda Division",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5904119,
+        "kickoff": 1783803600,
+        "fixture": "Huracan FC vs Colon",
+        "league_id": 9122,
+        "league": "Segunda Division",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5860635,
+        "kickoff": 1783782000,
+        "fixture": "Real Sireti vs Politehnica UTM",
+        "league_id": 231,
+        "league": "Super Liga",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5860636,
+        "kickoff": 1783789200,
+        "fixture": "FC Balti vs CS Petrocub",
+        "league_id": 231,
+        "league": "Super Liga",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5201591,
+        "kickoff": 1783796400,
+        "fixture": "Oakland Roots SC vs Spokane Velocity FC",
+        "league_id": 10654,
+        "league": "USL Cup Grp. 1",
+        "venue": "Merritt College Soccer Stadium",
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "ESPN Select",
+                    "ESPN Unlimited",
+                    "Fubo Sports"
                 ]
             }
         ]
@@ -8340,60 +8404,6 @@
                 "country": "Venezuela, Bolivarian Republic of",
                 "channels": [
                     "LPF Play"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5904118,
-        "kickoff": 1783787400,
-        "fixture": "River Plate vs Plaza Colonia",
-        "league_id": 9122,
-        "league": "Segunda Division",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5904119,
-        "kickoff": 1783803600,
-        "fixture": "Huracan FC vs Colon",
-        "league_id": 9122,
-        "league": "Segunda Division",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5860635,
-        "kickoff": 1783782000,
-        "fixture": "Real Sireti vs Politehnica UTM",
-        "league_id": 231,
-        "league": "Super Liga",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5860636,
-        "kickoff": 1783789200,
-        "fixture": "FC Balti vs CS Petrocub",
-        "league_id": 231,
-        "league": "Super Liga",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5201591,
-        "kickoff": 1783796400,
-        "fixture": "Oakland Roots SC vs Spokane Velocity FC",
-        "league_id": 10654,
-        "league": "USL Cup Grp. 1",
-        "venue": "Merritt College Soccer Stadium",
-        "tv_channels": [
-            {
-                "country": "United States",
-                "channels": [
-                    "ESPN Select",
-                    "ESPN Unlimited",
-                    "Fubo Sports"
                 ]
             }
         ]

@@ -482,7 +482,16 @@
         "league_id": 9134,
         "league": "NWSL",
         "venue": "Icahn Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "ABC",
+                    "ESPN Deportes",
+                    "ESPN Unlimited"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5161564,
@@ -752,7 +761,15 @@
         "league_id": 8972,
         "league": "USL Championship",
         "venue": "Phoenix Rising Stadium at 38th St/Washington",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "CBS Sports Golazo Network",
+                    "Paramount+ (US)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5101059,
@@ -799,10 +816,31 @@
         "venue": "Miami Stadium",
         "tv_channels": [
             {
+                "country": "Germany",
+                "channels": [
+                    "MagentaTV"
+                ]
+            },
+            {
                 "country": "Ireland",
                 "channels": [
                     "RTÉ Player",
                     "RTÉ2"
+                ]
+            },
+            {
+                "country": "Montenegro",
+                "channels": [
+                    "beIN SPORTS CONNECT"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "FOX",
+                    "FOX One",
+                    "FOX Sports",
+                    "FOX Sports 4K"
                 ]
             }
         ]
@@ -840,7 +878,11 @@
             {
                 "country": "United States",
                 "channels": [
-                    "FOX Sports"
+                    "FOX",
+                    "FOX One",
+                    "FOX Sports",
+                    "FOX Sports 4K",
+                    "NBC Universo"
                 ]
             }
         ]
@@ -1095,7 +1137,14 @@
         "league_id": 59,
         "league": "Eliteserien",
         "venue": "Aker Stadion",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Norway",
+                "channels": [
+                    "TV 2 Play (NO)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5104952,
@@ -1104,7 +1153,14 @@
         "league_id": 59,
         "league": "Eliteserien",
         "venue": "Lyse Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Norway",
+                "channels": [
+                    "TV 2 Play (NO)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5760425,

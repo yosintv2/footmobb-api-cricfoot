@@ -1005,7 +1005,14 @@
         "league_id": 9134,
         "league": "NWSL",
         "venue": "CPKC Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "Prime Video (US)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5161563,
@@ -1014,7 +1021,16 @@
         "league_id": 9134,
         "league": "NWSL",
         "venue": "Icahn Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "ABC",
+                    "ESPN Deportes",
+                    "ESPN Unlimited"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5161564,
@@ -1554,7 +1570,14 @@
         "league_id": 251,
         "league": "Ykkosliiga",
         "venue": "Markku.fi Areena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Finland",
+                "channels": [
+                    "Ruutu+ Urheilu"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5163727,
@@ -1563,7 +1586,14 @@
         "league_id": 251,
         "league": "Ykkosliiga",
         "venue": "Bolt Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Finland",
+                "channels": [
+                    "Ruutu+ Urheilu"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5163728,
@@ -1590,7 +1620,15 @@
         "league_id": 67,
         "league": "Allsvenskan",
         "venue": "Gamla Ullevi",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Sweden",
+                "channels": [
+                    "TV4 Play Sport Fotboll",
+                    "TV4 Sport Live 1"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5107537,
@@ -1599,7 +1637,21 @@
         "league_id": 67,
         "league": "Allsvenskan",
         "venue": "Strandvallen",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Norway",
+                "channels": [
+                    "VG TV"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "channels": [
+                    "TV4 Fotboll",
+                    "TV4 Play Sport Fotboll"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5107533,
@@ -1633,7 +1685,14 @@
         "league_id": 59,
         "league": "Eliteserien",
         "venue": "Briskeby Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Norway",
+                "channels": [
+                    "TV 2 Play (NO)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5104951,
@@ -1642,7 +1701,14 @@
         "league_id": 59,
         "league": "Eliteserien",
         "venue": "Nordmøre stadion",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Norway",
+                "channels": [
+                    "TV 2 Play (NO)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5104949,
@@ -1651,7 +1717,14 @@
         "league_id": 59,
         "league": "Eliteserien",
         "venue": "Åråsen Stadion",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Norway",
+                "channels": [
+                    "TV 2 Play (NO)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5104947,
@@ -1660,7 +1733,14 @@
         "league_id": 59,
         "league": "Eliteserien",
         "venue": "Sparebanken Norge Arena Kristiansand",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Norway",
+                "channels": [
+                    "TV 2 Play (NO)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5104948,
@@ -1669,7 +1749,14 @@
         "league_id": 59,
         "league": "Eliteserien",
         "venue": "Aker Stadion",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Norway",
+                "channels": [
+                    "TV 2 Play (NO)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5104952,
@@ -1678,7 +1765,14 @@
         "league_id": 59,
         "league": "Eliteserien",
         "venue": "Lyse Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Norway",
+                "channels": [
+                    "TV 2 Play (NO)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5760422,
@@ -1831,7 +1925,14 @@
         "league_id": 9305,
         "league": "Copa Argentina",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "Fanatiz"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000010211,
@@ -2074,7 +2175,21 @@
         "league_id": 268,
         "league": "Serie A",
         "venue": "Estadio Jornalista Mário Filho (Maracanã)",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Germany",
+                "channels": [
+                    "Sportdigital FUSSBALL",
+                    "Sportdigital+"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Fanatiz"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5103548,
@@ -2083,7 +2198,14 @@
         "league_id": 268,
         "league": "Serie A",
         "venue": "Estádio José Maria de Campos Maia",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "Fanatiz"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000009028,
@@ -2218,7 +2340,15 @@
         "league_id": 9296,
         "league": "USL League One",
         "venue": "Athletic Club Boise Soccer Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "CBS Sports Network",
+                    "Paramount+ (US)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5900592,
@@ -2256,10 +2386,31 @@
         "venue": "Miami Stadium",
         "tv_channels": [
             {
+                "country": "Germany",
+                "channels": [
+                    "MagentaTV"
+                ]
+            },
+            {
                 "country": "Ireland",
                 "channels": [
                     "RTÉ Player",
                     "RTÉ2"
+                ]
+            },
+            {
+                "country": "Montenegro",
+                "channels": [
+                    "beIN SPORTS CONNECT"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "FOX",
+                    "FOX One",
+                    "FOX Sports",
+                    "FOX Sports 4K"
                 ]
             }
         ]
