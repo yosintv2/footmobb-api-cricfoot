@@ -192,7 +192,14 @@
         "league_id": 10615,
         "league": "Conference League Qualification",
         "venue": "A. Le Coq Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Cymru Football TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5786634,
@@ -260,6 +267,12 @@
                 "country": "Ecuador",
                 "channels": [
                     "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Germany",
+                "channels": [
+                    "OneFootball Deutschland"
                 ]
             },
             {
@@ -814,6 +827,36 @@
                 ]
             },
             {
+                "country": "Brazil",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "channels": [
+                    "Azteca Deportes Network"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "channels": [
+                    "Azteca Deportes Network"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "channels": [
+                    "Azteca Deportes Network"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "channels": [
+                    "Azteca Deportes Network"
+                ]
+            },
+            {
                 "country": "Ireland",
                 "channels": [
                     "NWSL+"
@@ -823,6 +866,18 @@
                 "country": "Japan",
                 "channels": [
                     "NWSL+"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "channels": [
+                    "Azteca Deportes Network"
+                ]
+            },
+            {
+                "country": "Panama",
+                "channels": [
+                    "Azteca Deportes Network"
                 ]
             },
             {
@@ -893,6 +948,15 @@
                 ]
             }
         ]
+    },
+    {
+        "match_id": 5906309,
+        "kickoff": 1784206800,
+        "fixture": "Tanzania Prisons vs Polisi Tanzania FC",
+        "league_id": 10028,
+        "league": "Premier League Qualification",
+        "venue": "TBA",
+        "tv_channels": []
     },
     {
         "match_id": 5109830,
@@ -1510,6 +1574,12 @@
                 ]
             },
             {
+                "country": "Germany",
+                "channels": [
+                    "OneFootball Deutschland"
+                ]
+            },
+            {
                 "country": "Guatemala",
                 "channels": [
                     "OneFootball PPV"
@@ -1667,7 +1737,14 @@
         "league_id": 200,
         "league": "Super Cup",
         "venue": "Enea Stadion",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Poland",
+                "channels": [
+                    "TVP Sport"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5200572,

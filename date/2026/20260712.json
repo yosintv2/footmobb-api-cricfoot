@@ -153,20 +153,13 @@
         "tv_channels": []
     },
     {
-        "match_id": 5904694,
-        "kickoff": 1783787400,
-        "fixture": "First Vienna FC vs QPR",
+        "match_id": 5905634,
+        "kickoff": 1783782000,
+        "fixture": "Hartberg vs Pribram",
         "league_id": 489,
         "league": "Club Friendlies",
         "venue": "TBA",
-        "tv_channels": [
-            {
-                "country": "Ireland",
-                "channels": [
-                    "QPR+"
-                ]
-            }
-        ]
+        "tv_channels": []
     },
     {
         "match_id": 5900410,
@@ -190,16 +183,7 @@
         "fixture": "Lokomotiv vs Spartak",
         "league_id": 489,
         "league": "Club Friendlies",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5847092,
-        "kickoff": 1783789200,
-        "fixture": "Panathinaikos vs Grasshopper",
-        "league_id": 489,
-        "league": "Club Friendlies",
-        "venue": "Stadio Apóstolos Nikolaidis",
+        "venue": "RZD Arena",
         "tv_channels": []
     },
     {
@@ -208,16 +192,16 @@
         "fixture": "Fenerbahçe vs Pogoń Szczecin",
         "league_id": 489,
         "league": "Club Friendlies",
-        "venue": "TBA",
+        "venue": "Getränke Hoffmann Stadion",
         "tv_channels": []
     },
     {
-        "match_id": 5900438,
+        "match_id": 5847092,
         "kickoff": 1783792800,
-        "fixture": "AZ Alkmaar vs Almere City FC",
+        "fixture": "Panathinaikos vs Grasshopper",
         "league_id": 489,
         "league": "Club Friendlies",
-        "venue": "TBA",
+        "venue": "Stadio Apóstolos Nikolaidis",
         "tv_channels": []
     },
     {
@@ -226,7 +210,7 @@
         "fixture": "Benfica vs Flamengo",
         "league_id": 489,
         "league": "Club Friendlies",
-        "venue": "TBA",
+        "venue": "Estádio do Algarve",
         "tv_channels": [
             {
                 "country": "Brazil",
@@ -241,7 +225,8 @@
             {
                 "country": "Portugal",
                 "channels": [
-                    "BTV"
+                    "BTV",
+                    "TVI"
                 ]
             }
         ]
@@ -350,9 +335,29 @@
         "venue": "STōK Cae Ras",
         "tv_channels": [
             {
+                "country": "Austria",
+                "channels": [
+                    "DAZN",
+                    "DFB TV",
+                    "DFB.TV+ Plus",
+                    "OneFootball PPV",
+                    "RTL Sport YouTube",
+                    "Sportdigital Fussball",
+                    "Sportdigital+ App",
+                    "Sportdigital.de"
+                ]
+            },
+            {
+                "country": "France",
+                "channels": [
+                    "RTL Television (FR)"
+                ]
+            },
+            {
                 "country": "Germany",
                 "channels": [
                     "DAZN Deutschland",
+                    "RTL",
                     "RTL+",
                     "Sportdigital FUSSBALL",
                     "Sportdigital+"
@@ -361,6 +366,8 @@
             {
                 "country": "Ireland",
                 "channels": [
+                    "BBC iPlayer",
+                    "S4C Online",
                     "UEFA TV"
                 ]
             },
@@ -377,10 +384,32 @@
                 ]
             },
             {
+                "country": "Portugal",
+                "channels": [
+                    "Canal 11"
+                ]
+            },
+            {
                 "country": "Spain",
                 "channels": [
                     "RTVE Play",
                     "Teledeporte"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "channels": [
+                    "DAZN",
+                    "OneFootball PPV",
+                    "RTL",
+                    "Sportdigital Fussball"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "BBC iPlayer",
+                    "S4C Clic"
                 ]
             }
         ]
@@ -579,6 +608,7 @@
             {
                 "country": "Austria",
                 "channels": [
+                    "OneFootball PPV",
                     "Sportdigital Fussball 2",
                     "Sportdigital+ App",
                     "Sportdigital.de"
@@ -600,6 +630,7 @@
             {
                 "country": "Switzerland",
                 "channels": [
+                    "OneFootball PPV",
                     "Sportdigital Fussball 2"
                 ]
             },
@@ -1059,6 +1090,30 @@
                 ]
             },
             {
+                "country": "Costa Rica",
+                "channels": [
+                    "Azteca Deportes Network"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "channels": [
+                    "Azteca Deportes Network"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "channels": [
+                    "Azteca Deportes Network"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "channels": [
+                    "Azteca Deportes Network"
+                ]
+            },
+            {
                 "country": "Ireland",
                 "channels": [
                     "NWSL+"
@@ -1068,6 +1123,18 @@
                 "country": "Japan",
                 "channels": [
                     "NWSL+"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "channels": [
+                    "Azteca Deportes Network"
+                ]
+            },
+            {
+                "country": "Panama",
+                "channels": [
+                    "Azteca Deportes Network"
                 ]
             },
             {
@@ -1178,15 +1245,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5204173,
-        "kickoff": 1783857600,
-        "fixture": "Tobol Kostanay vs Okzhetpes Kokshetau",
-        "league_id": 225,
-        "league": "Premier League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 5204147,
         "kickoff": 1783864800,
         "fixture": "Atyrau vs FC Yelimay",
@@ -1201,6 +1259,24 @@
         "fixture": "FC Astana vs Aktobe",
         "league_id": 225,
         "league": "Premier League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5204173,
+        "kickoff": 1783868400,
+        "fixture": "Tobol Kostanay vs Okzhetpes Kokshetau",
+        "league_id": 225,
+        "league": "Premier League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5906308,
+        "kickoff": 1783861200,
+        "fixture": "Polisi Tanzania FC vs Tanzania Prisons",
+        "league_id": 10028,
+        "league": "Premier League Qualification",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -1518,7 +1594,15 @@
         "league_id": 10654,
         "league": "USL Cup Grp. 5",
         "venue": "Fitzpatrick Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "ESPN Select",
+                    "ESPN Unlimited"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5201635,
@@ -1835,6 +1919,7 @@
             {
                 "country": "Costa Rica",
                 "channels": [
+                    "Azteca Deportes Network",
                     "FOX",
                     "FOX+"
                 ]
@@ -1856,6 +1941,7 @@
             {
                 "country": "Dominican Republic",
                 "channels": [
+                    "Azteca Deportes Network",
                     "CDN Deportes"
                 ]
             },
@@ -1926,6 +2012,7 @@
             {
                 "country": "Guatemala",
                 "channels": [
+                    "Azteca Deportes Network",
                     "Canal 7",
                     "FOX",
                     "Tigo Sports",
@@ -1935,6 +2022,7 @@
             {
                 "country": "Honduras",
                 "channels": [
+                    "Azteca Deportes Network",
                     "FOX",
                     "Tigo Sports",
                     "Tigo Sports App"
@@ -2117,6 +2205,7 @@
             {
                 "country": "Nicaragua",
                 "channels": [
+                    "Azteca Deportes Network",
                     "Canal 10",
                     "FOX",
                     "Tigo Sports",
@@ -2156,6 +2245,7 @@
             {
                 "country": "Panama",
                 "channels": [
+                    "Azteca Deportes Network",
                     "FOX",
                     "Medcom GO",
                     "RPC TV",
@@ -2202,6 +2292,8 @@
             {
                 "country": "Portugal",
                 "channels": [
+                    "SIC",
+                    "Sport TV 1",
                     "Sport TV 5"
                 ]
             },
@@ -2290,6 +2382,7 @@
                     "RSI La 2",
                     "RTS 2",
                     "Rai 1",
+                    "Rai 2",
                     "SRF Sport",
                     "SRF zwei",
                     "Servus TV"
@@ -5762,6 +5855,7 @@
             {
                 "country": "Finland",
                 "channels": [
+                    "MTV Katsomo",
                     "MTV Urheilu 2"
                 ]
             },
@@ -6780,12 +6874,12 @@
         ]
     },
     {
-        "match_id": 1000007647,
-        "kickoff": 1783814400,
-        "fixture": "San Jose Earthquakes II vs Tacoma Defiance",
+        "match_id": 1000007637,
+        "kickoff": 1783821600,
+        "fixture": "Real Monarchs SLC vs Vancouver Whitecaps 2",
         "league_id": 10282,
         "league": "MLS Next Pro",
-        "venue": "Cardinale Stadium",
+        "venue": "Zions Bank Stadium",
         "tv_channels": []
     },
     {
@@ -6953,15 +7047,6 @@
                 ]
             }
         ]
-    },
-    {
-        "match_id": 1000007637,
-        "kickoff": 1783828800,
-        "fixture": "Real Monarchs SLC vs Vancouver Whitecaps 2",
-        "league_id": 10282,
-        "league": "MLS Next Pro",
-        "venue": "Zions Bank Stadium",
-        "tv_channels": []
     },
     {
         "match_id": 1000007643,
@@ -7468,7 +7553,15 @@
         "league_id": 10872,
         "league": "Northern Super League",
         "venue": "York Lions Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "ESPN Select",
+                    "ESPN Unlimited"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000009187,
@@ -7477,7 +7570,15 @@
         "league_id": 10872,
         "league": "Northern Super League",
         "venue": "McMahon Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "ESPN Select",
+                    "ESPN Unlimited"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000009189,
@@ -8273,7 +8374,14 @@
         "league_id": 9464,
         "league": "Serie D",
         "venue": "Estádio Dr. Oswaldo Teixeira Duarte",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Metrópoles"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000016603,
@@ -8281,8 +8389,15 @@
         "fixture": "XV de Piracicaba vs Cianorte",
         "league_id": 9464,
         "league": "Serie D",
-        "venue": "Estádio Barão de Serra Negra",
-        "tv_channels": []
+        "venue": "Estádio Municipal Barão de Serra Negra",
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Metrópoles"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000016551,
@@ -8291,7 +8406,14 @@
         "league_id": 9464,
         "league": "Serie D",
         "venue": "Estádio 19 de Outubro",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Metrópoles"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000016589,
@@ -8300,7 +8422,14 @@
         "league_id": 9464,
         "league": "Serie D",
         "venue": "Estádio Ismael Benigno",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Metrópoles"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000016597,
@@ -8309,7 +8438,14 @@
         "league_id": 9464,
         "league": "Serie D",
         "venue": "Estádio Luso-Brasileiro",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Metrópoles"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000016599,
@@ -8318,7 +8454,14 @@
         "league_id": 9464,
         "league": "Serie D",
         "venue": "Estádio Municipal João Havelange",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Metrópoles"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000016605,
@@ -8327,7 +8470,14 @@
         "league_id": 9464,
         "league": "Serie D",
         "venue": "Estádio Walmir Campelo Bezerra",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Metrópoles"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000016547,
@@ -8336,7 +8486,14 @@
         "league_id": 9464,
         "league": "Serie D",
         "venue": "Estádio Municipal João Elmo Moreno Cavalcante",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Metrópoles"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000016587,
@@ -8345,7 +8502,14 @@
         "league_id": 9464,
         "league": "Serie D",
         "venue": "Arena das Dunas",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Metrópoles"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000016591,
@@ -8354,7 +8518,14 @@
         "league_id": 9464,
         "league": "Serie D",
         "venue": "Estádio Municipal Presidente Getúlio Vargas",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Metrópoles"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000016593,
@@ -8363,7 +8534,14 @@
         "league_id": 9464,
         "league": "Serie D",
         "venue": "Estádio Juscelino Kubitschek",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Metrópoles"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000016595,
@@ -8372,7 +8550,14 @@
         "league_id": 9464,
         "league": "Serie D",
         "venue": "Estádio Governador Ernani Sátyro",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Metrópoles"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000016620,
@@ -8381,7 +8566,14 @@
         "league_id": 9464,
         "league": "Serie D",
         "venue": "Estádio Municipal Coaracy da Mata Fonseca",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Metrópoles"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000016607,
@@ -8390,7 +8582,14 @@
         "league_id": 9464,
         "league": "Serie D",
         "venue": "Estádio Municipal José Ângelo Cassol",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Metrópoles"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5874645,
@@ -9614,6 +9813,7 @@
             {
                 "country": "Portugal",
                 "channels": [
+                    "Fanatiz",
                     "Sport TV 1"
                 ]
             },

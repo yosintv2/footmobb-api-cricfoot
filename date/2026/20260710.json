@@ -810,6 +810,7 @@
                 "channels": [
                     "CTV",
                     "RDS",
+                    "TSN+",
                     "TSN1",
                     "TSN3",
                     "TSN4",
@@ -1227,6 +1228,7 @@
                 "country": "Portugal",
                 "channels": [
                     "LiveModeTV PT",
+                    "Sport TV 1",
                     "Sport TV 5"
                 ]
             },
@@ -1323,6 +1325,7 @@
                     "Play SRF",
                     "RSI La 2",
                     "RTS 2",
+                    "Rai 1",
                     "SRF Sport",
                     "SRF zwei",
                     "ZDF"
@@ -1420,15 +1423,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5900441,
-        "kickoff": 1783675800,
-        "fixture": "Cambuur vs Roda JC Kerkrade",
-        "league_id": 489,
-        "league": "Club Friendlies",
-        "venue": "Sportveld Aparthotel Delden",
-        "tv_channels": []
-    },
-    {
         "match_id": 5904564,
         "kickoff": 1783677600,
         "fixture": "Birmingham vs Huddersfield",
@@ -1453,15 +1447,6 @@
         "league_id": 489,
         "league": "Club Friendlies",
         "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5781321,
-        "kickoff": 1783681200,
-        "fixture": "Östers IF vs Lyngby",
-        "league_id": 489,
-        "league": "Club Friendlies",
-        "venue": "Ekerum Park",
         "tv_channels": []
     },
     {
@@ -2682,6 +2667,210 @@
         "league_id": 216,
         "league": "1. Deild",
         "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5101234,
+        "kickoff": 1783709100,
+        "fixture": "Athlone Town vs Cobh Ramblers",
+        "league_id": 218,
+        "league": "First Division",
+        "venue": "TBA",
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOITV"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5101235,
+        "kickoff": 1783709100,
+        "fixture": "Bray Wanderers vs UCD",
+        "league_id": 218,
+        "league": "First Division",
+        "venue": "TBA",
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOITV"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5101236,
+        "kickoff": 1783709100,
+        "fixture": "Cork City vs Longford Town",
+        "league_id": 218,
+        "league": "First Division",
+        "venue": "TBA",
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOITV"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5101237,
+        "kickoff": 1783709100,
+        "fixture": "Finn Harps vs Treaty United",
+        "league_id": 218,
+        "league": "First Division",
+        "venue": "TBA",
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOITV"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5101238,
+        "kickoff": 1783709100,
+        "fixture": "Wexford FC vs Kerry FC",
+        "league_id": 218,
+        "league": "First Division",
+        "venue": "TBA",
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOITV"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5100931,
+        "kickoff": 1783709100,
+        "fixture": "Dundalk vs Drogheda United",
+        "league_id": 126,
+        "league": "Premier Division",
+        "venue": "Oriel Park",
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOITV"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5100933,
+        "kickoff": 1783710000,
+        "fixture": "Waterford FC vs St. Patrick's Athletic",
+        "league_id": 126,
+        "league": "Premier Division",
+        "venue": "Waterford Regional Sports Centre",
+        "tv_channels": [
+            {
+                "country": "Armenia",
+                "channels": [
+                    "FastTV"
+                ]
+            },
+            {
+                "country": "China",
+                "channels": [
+                    "Migu"
+                ]
+            },
+            {
+                "country": "Ghana",
+                "channels": [
+                    "DStv Now",
+                    "Sporty TV",
+                    "StarTimes App",
+                    "Startimes World Football"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Virgin Media Play",
+                    "Virgin Media Three"
+                ]
+            },
+            {
+                "country": "Israel",
+                "channels": [
+                    "Sport 1"
+                ]
+            },
+            {
+                "country": "Lao People's Democratic Republic",
+                "channels": [
+                    "Go3 Extra Sports Latvia"
+                ]
+            },
+            {
+                "country": "Liechtenstein",
+                "channels": [
+                    "Go3 Extra Sports Lithuania"
+                ]
+            },
+            {
+                "country": "Nigeria",
+                "channels": [
+                    "Sporty TV",
+                    "StarTimes App",
+                    "Startimes World Football"
+                ]
+            },
+            {
+                "country": "Pakistan",
+                "channels": [
+                    "tapmad"
+                ]
+            },
+            {
+                "country": "Romania",
+                "channels": [
+                    "Antena Play"
+                ]
+            },
+            {
+                "country": "South Africa",
+                "channels": [
+                    "Sporty TV",
+                    "StarTimes App",
+                    "Startimes World Football"
+                ]
+            },
+            {
+                "country": "Tanzania, United Republic of",
+                "channels": [
+                    "DStv Now",
+                    "Sporty TV",
+                    "StarTimes App",
+                    "Startimes World Football"
+                ]
+            },
+            {
+                "country": "Ukraine",
+                "channels": [
+                    "MEGOGO Football 1"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5215464,
+        "kickoff": 1783697400,
+        "fixture": "Dnyapro Mogilev vs FC Minsk",
+        "league_id": 263,
+        "league": "Premier League",
+        "venue": "Spartak Stadion, Mogilev",
         "tv_channels": []
     },
     {
@@ -4445,242 +4634,6 @@
         ]
     },
     {
-        "match_id": 5101234,
-        "kickoff": 1783709100,
-        "fixture": "Athlone Town vs Cobh Ramblers",
-        "league_id": 218,
-        "league": "First Division",
-        "venue": "TBA",
-        "tv_channels": [
-            {
-                "country": "Ireland",
-                "channels": [
-                    "LOITV"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5101235,
-        "kickoff": 1783709100,
-        "fixture": "Bray Wanderers vs UCD",
-        "league_id": 218,
-        "league": "First Division",
-        "venue": "TBA",
-        "tv_channels": [
-            {
-                "country": "Ireland",
-                "channels": [
-                    "LOITV"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5101236,
-        "kickoff": 1783709100,
-        "fixture": "Cork City vs Longford Town",
-        "league_id": 218,
-        "league": "First Division",
-        "venue": "TBA",
-        "tv_channels": [
-            {
-                "country": "Ireland",
-                "channels": [
-                    "LOITV"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5101237,
-        "kickoff": 1783709100,
-        "fixture": "Finn Harps vs Treaty United",
-        "league_id": 218,
-        "league": "First Division",
-        "venue": "TBA",
-        "tv_channels": [
-            {
-                "country": "Ireland",
-                "channels": [
-                    "LOITV"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5101238,
-        "kickoff": 1783709100,
-        "fixture": "Wexford FC vs Kerry FC",
-        "league_id": 218,
-        "league": "First Division",
-        "venue": "TBA",
-        "tv_channels": [
-            {
-                "country": "Ireland",
-                "channels": [
-                    "LOITV"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5163720,
-        "kickoff": 1783697400,
-        "fixture": "FC KTP vs JäPS",
-        "league_id": 251,
-        "league": "Ykkosliiga",
-        "venue": "Arto Tolsa Areena",
-        "tv_channels": [
-            {
-                "country": "Finland",
-                "channels": [
-                    "Ruutu+ Urheilu"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5163721,
-        "kickoff": 1783699200,
-        "fixture": "PK-35 vs KäPa",
-        "league_id": 251,
-        "league": "Ykkosliiga",
-        "venue": "Markku.fi Areena",
-        "tv_channels": [
-            {
-                "country": "Finland",
-                "channels": [
-                    "Ruutu+ Urheilu"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5100931,
-        "kickoff": 1783709100,
-        "fixture": "Dundalk vs Drogheda United",
-        "league_id": 126,
-        "league": "Premier Division",
-        "venue": "Oriel Park",
-        "tv_channels": [
-            {
-                "country": "Ireland",
-                "channels": [
-                    "LOITV"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5100933,
-        "kickoff": 1783710000,
-        "fixture": "Waterford FC vs St. Patrick's Athletic",
-        "league_id": 126,
-        "league": "Premier Division",
-        "venue": "Waterford Regional Sports Centre",
-        "tv_channels": [
-            {
-                "country": "Armenia",
-                "channels": [
-                    "FastTV"
-                ]
-            },
-            {
-                "country": "China",
-                "channels": [
-                    "Migu"
-                ]
-            },
-            {
-                "country": "Ghana",
-                "channels": [
-                    "DStv Now",
-                    "Sporty TV",
-                    "StarTimes App",
-                    "Startimes World Football"
-                ]
-            },
-            {
-                "country": "Ireland",
-                "channels": [
-                    "Virgin Media Play",
-                    "Virgin Media Three"
-                ]
-            },
-            {
-                "country": "Israel",
-                "channels": [
-                    "Sport 1"
-                ]
-            },
-            {
-                "country": "Lao People's Democratic Republic",
-                "channels": [
-                    "Go3 Extra Sports Latvia"
-                ]
-            },
-            {
-                "country": "Liechtenstein",
-                "channels": [
-                    "Go3 Extra Sports Lithuania"
-                ]
-            },
-            {
-                "country": "Nigeria",
-                "channels": [
-                    "Sporty TV",
-                    "StarTimes App",
-                    "Startimes World Football"
-                ]
-            },
-            {
-                "country": "Pakistan",
-                "channels": [
-                    "tapmad"
-                ]
-            },
-            {
-                "country": "Romania",
-                "channels": [
-                    "Antena Play"
-                ]
-            },
-            {
-                "country": "South Africa",
-                "channels": [
-                    "Sporty TV",
-                    "StarTimes App",
-                    "Startimes World Football"
-                ]
-            },
-            {
-                "country": "Tanzania, United Republic of",
-                "channels": [
-                    "DStv Now",
-                    "Sporty TV",
-                    "StarTimes App",
-                    "Startimes World Football"
-                ]
-            },
-            {
-                "country": "Ukraine",
-                "channels": [
-                    "MEGOGO Football 1"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5215464,
-        "kickoff": 1783697400,
-        "fixture": "Dnyapro Mogilev vs FC Minsk",
-        "league_id": 263,
-        "league": "Premier League",
-        "venue": "Spartak Stadion, Mogilev",
-        "tv_channels": []
-    },
-    {
         "match_id": 5147593,
         "kickoff": 1783699200,
         "fixture": "VPS vs SJK",
@@ -4854,6 +4807,38 @@
                 "country": "Venezuela, Bolivarian Republic of",
                 "channels": [
                     "OneFootball PPV"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5163720,
+        "kickoff": 1783697400,
+        "fixture": "FC KTP vs JäPS",
+        "league_id": 251,
+        "league": "Ykkosliiga",
+        "venue": "Arto Tolsa Areena",
+        "tv_channels": [
+            {
+                "country": "Finland",
+                "channels": [
+                    "Ruutu+ Urheilu"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5163721,
+        "kickoff": 1783699200,
+        "fixture": "PK-35 vs KäPa",
+        "league_id": 251,
+        "league": "Ykkosliiga",
+        "venue": "Markku.fi Areena",
+        "tv_channels": [
+            {
+                "country": "Finland",
+                "channels": [
+                    "Ruutu+ Urheilu"
                 ]
             }
         ]

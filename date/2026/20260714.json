@@ -36,6 +36,64 @@
         "tv_channels": []
     },
     {
+        "match_id": 5905504,
+        "kickoff": 1784016000,
+        "fixture": "CSKA vs Dinamo",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5748089,
+        "kickoff": 1784044800,
+        "fixture": "Randers FC vs Notts County",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "Cepheus Park Randers",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5900557,
+        "kickoff": 1784048400,
+        "fixture": "NEC Nijmegen vs V-Varen Nagasaki",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "Sportpark Putter Eng",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5766945,
+        "kickoff": 1784050200,
+        "fixture": "LASK vs Fenerbahçe",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "Raiffeisen Arena",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5789079,
+        "kickoff": 1784053800,
+        "fixture": "Sporting CP vs Celtic",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "Estádio do Algarve",
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Celtic TV"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "channels": [
+                    "Sporting TV"
+                ]
+            }
+        ]
+    },
+    {
         "match_id": 5851954,
         "kickoff": 1783960200,
         "fixture": "Arsenal vs Tekstilshchik",
@@ -700,7 +758,14 @@
         "league_id": 9464,
         "league": "Serie D",
         "venue": "Arena das Dunas",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Metrópoles"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000016549,
@@ -709,7 +774,14 @@
         "league_id": 9464,
         "league": "Serie D",
         "venue": "Estádio Rei Pelé",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Metrópoles"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5785682,
@@ -812,6 +884,12 @@
                 "country": "Ecuador",
                 "channels": [
                     "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Germany",
+                "channels": [
+                    "OneFootball Deutschland"
                 ]
             },
             {
@@ -928,7 +1006,22 @@
         "league_id": 10611,
         "league": "Champions League Qualification",
         "venue": "Park Hall Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "BBC iPlayer",
+                    "S4C Online"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "BBC iPlayer",
+                    "S4C Clic"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5785683,
@@ -1116,6 +1209,7 @@
             {
                 "country": "Ireland",
                 "channels": [
+                    "NIFL TV",
                     "SolidSport"
                 ]
             }
@@ -1284,49 +1378,6 @@
                 "country": "Venezuela, Bolivarian Republic of",
                 "channels": [
                     "OneFootball PPV"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5748089,
-        "kickoff": 1784044800,
-        "fixture": "Randers FC vs Notts County",
-        "league_id": 489,
-        "league": "Club Friendlies",
-        "venue": "Cepheus Park Randers",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5900557,
-        "kickoff": 1784048400,
-        "fixture": "NEC Nijmegen vs V-Varen Nagasaki",
-        "league_id": 489,
-        "league": "Club Friendlies",
-        "venue": "Sportpark Putter Eng",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5766945,
-        "kickoff": 1784050200,
-        "fixture": "LASK vs Fenerbahçe",
-        "league_id": 489,
-        "league": "Club Friendlies",
-        "venue": "Raiffeisen Arena",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5789079,
-        "kickoff": 1784053800,
-        "fixture": "Sporting CP vs Celtic",
-        "league_id": 489,
-        "league": "Club Friendlies",
-        "venue": "Estádio do Algarve",
-        "tv_channels": [
-            {
-                "country": "Ireland",
-                "channels": [
-                    "Celtic TV"
                 ]
             }
         ]
@@ -1919,6 +1970,13 @@
                 "channels": [
                     "MEGOGO Football 1",
                     "Megogo"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "STV",
+                    "STV Player"
                 ]
             },
             {

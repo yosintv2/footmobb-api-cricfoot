@@ -130,6 +130,12 @@
                 ]
             },
             {
+                "country": "Germany",
+                "channels": [
+                    "OneFootball Deutschland"
+                ]
+            },
+            {
                 "country": "Guatemala",
                 "channels": [
                     "OneFootball PPV"
@@ -243,7 +249,22 @@
         "league_id": 10611,
         "league": "Champions League Qualification",
         "venue": "Park Hall Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "BBC iPlayer",
+                    "S4C Online"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "BBC iPlayer",
+                    "S4C Clic"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5785683,
@@ -431,6 +452,7 @@
             {
                 "country": "Ireland",
                 "channels": [
+                    "NIFL TV",
                     "SolidSport"
                 ]
             }
@@ -686,6 +708,12 @@
                 "country": "Ireland",
                 "channels": [
                     "Celtic TV"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "channels": [
+                    "Sporting TV"
                 ]
             }
         ]
@@ -1348,6 +1376,13 @@
                 "channels": [
                     "MEGOGO Football 1",
                     "Megogo"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "STV",
+                    "STV Player"
                 ]
             },
             {
@@ -2555,6 +2590,166 @@
         ]
     },
     {
+        "match_id": 5113937,
+        "kickoff": 1784066400,
+        "fixture": "Brown de Adrogue vs Laferrere",
+        "league_id": 9213,
+        "league": "Primera B Metropolitana",
+        "venue": "TBA",
+        "tv_channels": [
+            {
+                "country": "Argentina",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Australia",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Austria",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Panama",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Poland",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Slovakia",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Venezuela, Bolivarian Republic of",
+                "channels": [
+                    "LPF Play"
+                ]
+            }
+        ]
+    },
+    {
         "match_id": 5113938,
         "kickoff": 1784066400,
         "fixture": "Comunicaciones vs Villa Dalmine",
@@ -3035,166 +3230,6 @@
         ]
     },
     {
-        "match_id": 5113937,
-        "kickoff": 1784070000,
-        "fixture": "Brown de Adrogue vs Laferrere",
-        "league_id": 9213,
-        "league": "Primera B Metropolitana",
-        "venue": "TBA",
-        "tv_channels": [
-            {
-                "country": "Argentina",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Australia",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Austria",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Bolivia, Plurinational State of",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Chile",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Colombia",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Costa Rica",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Dominican Republic",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Ecuador",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Guatemala",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Honduras",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Ireland",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Japan",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Mexico",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Nicaragua",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Panama",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Paraguay",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Peru",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Poland",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Portugal",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Slovakia",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Spain",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Switzerland",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Uruguay",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Venezuela, Bolivarian Republic of",
-                "channels": [
-                    "LPF Play"
-                ]
-            }
-        ]
-    },
-    {
         "match_id": 1000012277,
         "kickoff": 1784109600,
         "fixture": "Jeonnam Dragons vs Chungnam Asan FC",
@@ -3219,15 +3254,6 @@
         "league_id": 9551,
         "league": "Cup",
         "venue": "Ulsan Stadium",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000016608,
-        "kickoff": 1784109600,
-        "fixture": "Cheonan City vs FC Mokpo",
-        "league_id": 9551,
-        "league": "Cup",
-        "venue": "Cheonan Baekseok Stadium",
         "tv_channels": []
     },
     {
@@ -3264,15 +3290,6 @@
         "league_id": 9551,
         "league": "Cup",
         "venue": "Hwaseong Stadium",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000012283,
-        "kickoff": 1784109600,
-        "fixture": "Gyeongnam FC vs Yeoju FC",
-        "league_id": 9551,
-        "league": "Cup",
-        "venue": "TBA",
         "tv_channels": []
     },
     {
@@ -3336,6 +3353,24 @@
         "league_id": 9551,
         "league": "Cup",
         "venue": "Paju Public Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000016608,
+        "kickoff": 1784111400,
+        "fixture": "Cheonan City vs FC Mokpo",
+        "league_id": 9551,
+        "league": "Cup",
+        "venue": "Cheonan Baekseok Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000012283,
+        "kickoff": 1784111400,
+        "fixture": "Gyeongnam FC vs Yeoju FC",
+        "league_id": 9551,
+        "league": "Cup",
+        "venue": "Haman Public Stadium",
         "tv_channels": []
     },
     {

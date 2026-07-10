@@ -329,7 +329,7 @@
         "fixture": "Vendsyssel FF vs AC Horsens",
         "league_id": 489,
         "league": "Club Friendlies",
-        "venue": "TBA",
+        "venue": "TBC (Denmark)",
         "tv_channels": []
     },
     {
@@ -338,7 +338,7 @@
         "fixture": "VSG Altglienicke vs RB Leipzig",
         "league_id": 489,
         "league": "Club Friendlies",
-        "venue": "TBC (Germany)",
+        "venue": "Stadion am Bad Großfeld",
         "tv_channels": []
     },
     {
@@ -428,7 +428,7 @@
         "fixture": "Sportfreunde Lotte vs Real Betis",
         "league_id": 489,
         "league": "Club Friendlies",
-        "venue": "TBA",
+        "venue": "Stadion am Lotter Kreuz",
         "tv_channels": []
     },
     {
@@ -937,7 +937,14 @@
         "league_id": 161,
         "league": "Liga AUF Uruguaya Intermedio Grp. A",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "Antel TV Internacional"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5888333,
@@ -1054,6 +1061,15 @@
         "match_id": 5204182,
         "kickoff": 1784376000,
         "fixture": "Okzhetpes Kokshetau vs Zhetysu Taldykorgan",
+        "league_id": 225,
+        "league": "Premier League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5204181,
+        "kickoff": 1784379600,
+        "fixture": "FC Kyzylzhar Petropavlovsk vs Tobol Kostanay",
         "league_id": 225,
         "league": "Premier League",
         "venue": "TBA",
@@ -1480,7 +1496,20 @@
         "league_id": 8965,
         "league": "Primera Nacional",
         "venue": "Estadio Omar Higinio Sperdutti",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "LPF Play"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5113007,
@@ -1489,7 +1518,20 @@
         "league_id": 8965,
         "league": "Primera Nacional",
         "venue": "Estadio República de Mataderos",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "LPF Play"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5113380,
@@ -1498,7 +1540,14 @@
         "league_id": 8965,
         "league": "Primera Nacional",
         "venue": "Estadio Arquitecto Ricardo Etcheverry",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "LPF Play"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5113377,
@@ -1507,7 +1556,14 @@
         "league_id": 8965,
         "league": "Primera Nacional",
         "venue": "Estadio Municipal Eva Perón",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "LPF Play"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5113011,
@@ -1621,6 +1677,12 @@
         "league": "Allsvenskan",
         "venue": "Gamla Ullevi",
         "tv_channels": [
+            {
+                "country": "Norway",
+                "channels": [
+                    "VG TV"
+                ]
+            },
             {
                 "country": "Sweden",
                 "channels": [
@@ -2067,7 +2129,14 @@
         "league_id": 10282,
         "league": "MLS Next Pro",
         "venue": "York Lions Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "OneFootball"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000007653,
@@ -2410,7 +2479,9 @@
                     "FOX",
                     "FOX One",
                     "FOX Sports",
-                    "FOX Sports 4K"
+                    "FOX Sports 4K",
+                    "NBC Universo",
+                    "Telemundo"
                 ]
             }
         ]
