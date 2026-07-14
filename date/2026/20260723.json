@@ -108,6 +108,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 5920979,
+        "kickoff": 1784745900,
+        "fixture": "Rangers vs Saint-Etienne",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5900397,
         "kickoff": 1784746800,
         "fixture": "Tenerife vs Getafe",
@@ -890,7 +899,14 @@
         "league_id": 59,
         "league": "Eliteserien",
         "venue": "Aspmyra Stadion",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Norway",
+                "channels": [
+                    "TV 2 Play (NO)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5104924,
@@ -899,7 +915,14 @@
         "league_id": 59,
         "league": "Eliteserien",
         "venue": "Åråsen Stadion",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Norway",
+                "channels": [
+                    "TV 2 Play (NO)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000011186,
