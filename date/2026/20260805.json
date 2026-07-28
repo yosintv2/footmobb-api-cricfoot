@@ -132,7 +132,14 @@
         "league_id": 489,
         "league": "Club Friendlies",
         "venue": "Portman Road",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Norway",
+                "channels": [
+                    "VG TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5449691,
@@ -195,7 +202,21 @@
         "league_id": 489,
         "league": "Club Friendlies",
         "venue": "Aviva Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Premier Sports 1 ROI"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports 1 UK",
+                    "Premier Sports Player"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5848842,
@@ -243,8 +264,17 @@
         "tv_channels": []
     },
     {
+        "match_id": 5897886,
+        "kickoff": 1785925800,
+        "fixture": "Neroca FC vs Indian Navy",
+        "league_id": 10309,
+        "league": "Durand Cup Group D",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5897873,
-        "kickoff": 1785924000,
+        "kickoff": 1785936600,
         "fixture": "Army Red vs Banaras Baghpat",
         "league_id": 10309,
         "league": "Durand Cup Group B",
@@ -252,11 +282,101 @@
         "tv_channels": []
     },
     {
-        "match_id": 5897886,
-        "kickoff": 1785924000,
-        "fixture": "Neroca FC vs Indian Navy",
-        "league_id": 10309,
-        "league": "Durand Cup Group D",
+        "match_id": 5867085,
+        "kickoff": 1785938400,
+        "fixture": "Slask Wroclaw ll vs Stal Stalowa Wola",
+        "league_id": 198,
+        "league": "FA Cup",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5867084,
+        "kickoff": 1785938400,
+        "fixture": "TS Podbeskidzie Bielsko-Biala vs Hutnik Krakow",
+        "league_id": 198,
+        "league": "FA Cup",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5867078,
+        "kickoff": 1785938400,
+        "fixture": "Znicz Pruszków vs LKS Lodz II",
+        "league_id": 198,
+        "league": "FA Cup",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5867087,
+        "kickoff": 1785940200,
+        "fixture": "Podhale Nowy Targ vs Chojniczanka Chojnice",
+        "league_id": 198,
+        "league": "FA Cup",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5867083,
+        "kickoff": 1785942000,
+        "fixture": "Olimpia Grudziadz vs Swit Skolwin",
+        "league_id": 198,
+        "league": "FA Cup",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5867082,
+        "kickoff": 1785943800,
+        "fixture": "Warta Poznań vs Resovia",
+        "league_id": 198,
+        "league": "FA Cup",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5867079,
+        "kickoff": 1785945600,
+        "fixture": "Górnik Łęczna vs KKS 1925 Kalisz",
+        "league_id": 198,
+        "league": "FA Cup",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5867077,
+        "kickoff": 1785945600,
+        "fixture": "Pogoń Siedlce vs GKS Jastrzebie",
+        "league_id": 198,
+        "league": "FA Cup",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5867086,
+        "kickoff": 1785945600,
+        "fixture": "Sandecja Nowy Sacz vs Rekord Bielsko-Biala",
+        "league_id": 198,
+        "league": "FA Cup",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5867080,
+        "kickoff": 1785949200,
+        "fixture": "GKS Tychy vs Zaglebie Sosnowiec",
+        "league_id": 198,
+        "league": "FA Cup",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5867081,
+        "kickoff": 1785951900,
+        "fixture": "Skierniewice vs Sokol Kleczew",
+        "league_id": 198,
+        "league": "FA Cup",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -267,7 +387,28 @@
         "league_id": 10043,
         "league": "Leagues Cup",
         "venue": "TQL Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Canada",
+                "channels": [
+                    "Apple TV (US)"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "channels": [
+                    "Apple TV (SE)"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Apple TV (US)",
+                    "FOX Sports 1",
+                    "Fubo Sports"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5844823,
@@ -276,7 +417,28 @@
         "league_id": 10043,
         "league": "Leagues Cup",
         "venue": "ScottsMiracle-Gro Field",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Canada",
+                "channels": [
+                    "Apple TV (US)"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "channels": [
+                    "Apple TV (SE)"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Apple TV (US)",
+                    "FOX",
+                    "Fubo Sports"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5844824,
@@ -315,57 +477,75 @@
         "tv_channels": []
     },
     {
-        "match_id": 5851852,
-        "kickoff": 1785855600,
-        "fixture": "Rodina vs Rubin",
-        "league_id": 193,
-        "league": "Cup Grp. A",
-        "venue": "Arena Khimki",
+        "match_id": 5910797,
+        "kickoff": 1785862800,
+        "fixture": "Babelsberg vs VSG Altglienicke",
+        "league_id": 512,
+        "league": "Regionalliga Northeast",
+        "venue": "Karl-Liebknecht-Stadion",
         "tv_channels": []
     },
     {
-        "match_id": 5851853,
-        "kickoff": 1785855600,
-        "fixture": "Spartak vs Orenburg",
-        "league_id": 193,
-        "league": "Cup Grp. A",
-        "venue": "TBA",
+        "match_id": 5910803,
+        "kickoff": 1785862800,
+        "fixture": "Carl Zeiss Jena vs RSV Eintracht 1949",
+        "league_id": 512,
+        "league": "Regionalliga Northeast",
+        "venue": "ad hoc arena im Ernst-Abbe-Sportfeld",
         "tv_channels": []
     },
     {
-        "match_id": 5851872,
-        "kickoff": 1785855600,
-        "fixture": "Fakel vs Dinamo",
-        "league_id": 193,
-        "league": "Cup Grp. B",
-        "venue": "TBA",
+        "match_id": 5910800,
+        "kickoff": 1785862800,
+        "fixture": "Chemnitzer FC vs FSV Zwickau",
+        "league_id": 512,
+        "league": "Regionalliga Northeast",
+        "venue": "eins-Stadion - An der Gellertstraße",
         "tv_channels": []
     },
     {
-        "match_id": 5851873,
-        "kickoff": 1785855600,
-        "fixture": "Krasnodar vs Akhmat",
-        "league_id": 193,
-        "league": "Cup Grp. B",
-        "venue": "TBA",
+        "match_id": 5910802,
+        "kickoff": 1785862800,
+        "fixture": "Hertha Berlin II vs Greifswalder FC",
+        "league_id": 512,
+        "league": "Regionalliga Northeast",
+        "venue": "Stadion auf dem Wurfplatz",
         "tv_channels": []
     },
     {
-        "match_id": 5851885,
-        "kickoff": 1785855600,
-        "fixture": "Dynamo Makhachkala vs Krylya Sovetov",
-        "league_id": 193,
-        "league": "Cup Grp. C",
-        "venue": "Anzhi Arena",
+        "match_id": 5910804,
+        "kickoff": 1785862800,
+        "fixture": "Magdeburg II vs FSV Luckenwalde",
+        "league_id": 512,
+        "league": "Regionalliga Northeast",
+        "venue": "Avnet Arena",
         "tv_channels": []
     },
     {
-        "match_id": 5851886,
-        "kickoff": 1785855600,
-        "fixture": "Zenit vs Baltika",
-        "league_id": 193,
-        "league": "Cup Grp. C",
-        "venue": "TBA",
+        "match_id": 5910798,
+        "kickoff": 1785949200,
+        "fixture": "BFC Preussen vs Lokomotive Leipzig",
+        "league_id": 512,
+        "league": "Regionalliga Northeast",
+        "venue": "Preußenstadion",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5910799,
+        "kickoff": 1785949200,
+        "fixture": "BSG Chemie Leipzig vs Hallescher FC",
+        "league_id": 512,
+        "league": "Regionalliga Northeast",
+        "venue": "Alfred-Kunze-Sportpark",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5910801,
+        "kickoff": 1785949200,
+        "fixture": "RW Erfurt vs Tasmania Berlin",
+        "league_id": 512,
+        "league": "Regionalliga Northeast",
+        "venue": "Steigerwaldstadion",
         "tv_channels": []
     },
     {
@@ -379,11 +559,47 @@
     },
     {
         "match_id": 5851898,
-        "kickoff": 1785855600,
+        "kickoff": 1785865500,
         "fixture": "Lokomotiv vs CSKA",
         "league_id": 193,
         "league": "Cup Grp. D",
         "venue": "RZD Arena",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5851852,
+        "kickoff": 1785857400,
+        "fixture": "Rodina vs Rubin",
+        "league_id": 193,
+        "league": "Cup Grp. A",
+        "venue": "Arena Khimki",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5851853,
+        "kickoff": 1785943800,
+        "fixture": "Spartak vs Orenburg",
+        "league_id": 193,
+        "league": "Cup Grp. A",
+        "venue": "Lukoil Arena",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5851885,
+        "kickoff": 1785857400,
+        "fixture": "Dynamo Makhachkala vs Krylya Sovetov",
+        "league_id": 193,
+        "league": "Cup Grp. C",
+        "venue": "Anzhi Arena",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5851886,
+        "kickoff": 1785951900,
+        "fixture": "Zenit vs Baltika",
+        "league_id": 193,
+        "league": "Cup Grp. C",
+        "venue": "Gazprom Arena",
         "tv_channels": []
     },
     {
@@ -396,17 +612,17 @@
         "tv_channels": []
     },
     {
-        "match_id": 5797181,
-        "kickoff": 1785938400,
-        "fixture": "Ajax (W) vs Brøndby IF (W)",
+        "match_id": 5972809,
+        "kickoff": 1785916800,
+        "fixture": "Brann (W) vs Mitrovica (W)",
         "league_id": 10612,
         "league": "Women's Champions League Qualification 2nd Round",
-        "venue": "Broadwood Stadium",
+        "venue": "Hévízi úti Stadion",
         "tv_channels": []
     },
     {
         "match_id": 5797172,
-        "kickoff": 1785938400,
+        "kickoff": 1785920400,
         "fixture": "Austria Wien W (W) vs Hajduk Split (W)",
         "league_id": 10612,
         "league": "Women's Champions League Qualification 2nd Round",
@@ -414,90 +630,81 @@
         "tv_channels": []
     },
     {
-        "match_id": 5797175,
-        "kickoff": 1785938400,
-        "fixture": "Breidablik (W) vs Aktobe W (W)",
-        "league_id": 10612,
-        "league": "Women's Champions League Qualification 2nd Round",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5797174,
-        "kickoff": 1785938400,
-        "fixture": "Dinamo Minsk (W) vs Servette (W)",
-        "league_id": 10612,
-        "league": "Women's Champions League Qualification 2nd Round",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5797199,
-        "kickoff": 1785938400,
-        "fixture": "Eintracht Frankfurt (W) vs Omonia Nicosia (W)",
-        "league_id": 10612,
-        "league": "Women's Champions League Qualification 2nd Round",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 5797178,
-        "kickoff": 1785938400,
+        "kickoff": 1785927600,
         "fixture": "FC Kharkiv (W) vs Fenerbahce (W)",
         "league_id": 10612,
         "league": "Women's Champions League Qualification 2nd Round",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5797180,
-        "kickoff": 1785938400,
-        "fixture": "FK Gintra Universitetas (W) vs Hearts (W)",
-        "league_id": 10612,
-        "league": "Women's Champions League Qualification 2nd Round",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5797184,
-        "kickoff": 1785938400,
-        "fixture": "Hammarby IF (W) vs Apolonia (W)",
-        "league_id": 10612,
-        "league": "Women's Champions League Qualification 2nd Round",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5797183,
-        "kickoff": 1785938400,
-        "fixture": "Juventus (W) vs Torreense (W)",
-        "league_id": 10612,
-        "league": "Women's Champions League Qualification 2nd Round",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5797179,
-        "kickoff": 1785938400,
-        "fixture": "Oud-Heverlee Leuven (W) vs TSC Backa Topola (W)",
-        "league_id": 10612,
-        "league": "Women's Champions League Qualification 2nd Round",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5797177,
-        "kickoff": 1785938400,
-        "fixture": "Racing FC Union Luxembourg (W) vs HJK (W)",
-        "league_id": 10612,
-        "league": "Women's Champions League Qualification 2nd Round",
-        "venue": "TBA",
+        "venue": "King Power at Den Dreef Stadion",
         "tv_channels": []
     },
     {
         "match_id": 5797176,
-        "kickoff": 1785938400,
+        "kickoff": 1785927600,
         "fixture": "SFK 2000 Sarajevo (W) vs PSV (W)",
+        "league_id": 10612,
+        "league": "Women's Champions League Qualification 2nd Round",
+        "venue": "Stade Achille Hammerel",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5797198,
+        "kickoff": 1785927600,
+        "fixture": "Vålerenga (W) vs Malmö FF (W)",
+        "league_id": 10612,
+        "league": "Women's Champions League Qualification 2nd Round",
+        "venue": "Stadion am Brentanobad",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5797200,
+        "kickoff": 1785933000,
+        "fixture": "Sporting CP (W) vs SeaSters Odesa (W)",
+        "league_id": 10612,
+        "league": "Women's Champions League Qualification 2nd Round",
+        "venue": "Sportzentrum Niederösterreich",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5797181,
+        "kickoff": 1785934800,
+        "fixture": "Ajax (W) vs Brøndby IF (W)",
+        "league_id": 10612,
+        "league": "Women's Champions League Qualification 2nd Round",
+        "venue": "Broadwood Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5797180,
+        "kickoff": 1785936600,
+        "fixture": "FK Gintra Universitetas (W) vs Hearts (W)",
+        "league_id": 10612,
+        "league": "Women's Champions League Qualification 2nd Round",
+        "venue": "Capelli Sport Stadion",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5797184,
+        "kickoff": 1785936600,
+        "fixture": "Hammarby IF (W) vs Apolonia (W)",
+        "league_id": 10612,
+        "league": "Women's Champions League Qualification 2nd Round",
+        "venue": "Stadio Comunale Vittorio Pozzo Lamarmora",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5972811,
+        "kickoff": 1785938400,
+        "fixture": "Apollon Limassol LFC (W) vs Czarni Sosnowiec (W)",
+        "league_id": 10612,
+        "league": "Women's Champions League Qualification 2nd Round",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5972810,
+        "kickoff": 1785940200,
+        "fixture": "Ferencvarosi TC (W) vs PAOK Thessaloniki FC (W)",
         "league_id": 10612,
         "league": "Women's Champions League Qualification 2nd Round",
         "venue": "TBA",
@@ -505,7 +712,7 @@
     },
     {
         "match_id": 5797201,
-        "kickoff": 1785938400,
+        "kickoff": 1785945600,
         "fixture": "SKN St. Pölten (W) vs BSC Young Boys (W)",
         "league_id": 10612,
         "league": "Women's Champions League Qualification 2nd Round",
@@ -513,39 +720,75 @@
         "tv_channels": []
     },
     {
-        "match_id": 5797182,
-        "kickoff": 1785938400,
-        "fixture": "Slavia Prague (W) vs Rangers (W)",
-        "league_id": 10612,
-        "league": "Women's Champions League Qualification 2nd Round",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5797200,
-        "kickoff": 1785938400,
-        "fixture": "Sporting CP (W) vs SeaSters Odesa (W)",
-        "league_id": 10612,
-        "league": "Women's Champions League Qualification 2nd Round",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5797198,
-        "kickoff": 1785938400,
-        "fixture": "Vålerenga (W) vs Malmö FF (W)",
-        "league_id": 10612,
-        "league": "Women's Champions League Qualification 2nd Round",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 5797173,
-        "kickoff": 1785938400,
+        "kickoff": 1785945600,
         "fixture": "ZNK Mura (W) vs Farul Constanta (W)",
         "league_id": 10612,
         "league": "Women's Champions League Qualification 2nd Round",
-        "venue": "TBA",
+        "venue": "Mestni Štadion Fazanerija",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5797199,
+        "kickoff": 1785949200,
+        "fixture": "Eintracht Frankfurt (W) vs Omonia Nicosia (W)",
+        "league_id": 10612,
+        "league": "Women's Champions League Qualification 2nd Round",
+        "venue": "Stadion am Brentanobad",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5972813,
+        "kickoff": 1785949200,
+        "fixture": "HB Køge (W) vs Riga FC (W)",
+        "league_id": 10612,
+        "league": "Women's Champions League Qualification 2nd Round",
+        "venue": "Capelli Sport Stadion",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5797177,
+        "kickoff": 1785949200,
+        "fixture": "Racing FC Union Luxembourg (W) vs HJK (W)",
+        "league_id": 10612,
+        "league": "Women's Champions League Qualification 2nd Round",
+        "venue": "Stade Achille Hammerel",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5797179,
+        "kickoff": 1785952800,
+        "fixture": "Oud-Heverlee Leuven (W) vs TSC Backa Topola (W)",
+        "league_id": 10612,
+        "league": "Women's Champions League Qualification 2nd Round",
+        "venue": "King Power at Den Dreef Stadion",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5972812,
+        "kickoff": 1785954600,
+        "fixture": "KF Vllaznia (W) vs Spartak Myjava (W)",
+        "league_id": 10612,
+        "league": "Women's Champions League Qualification 2nd Round",
+        "venue": "Stadio Stelios Kyriakides",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5797182,
+        "kickoff": 1785954600,
+        "fixture": "Slavia Prague (W) vs Rangers (W)",
+        "league_id": 10612,
+        "league": "Women's Champions League Qualification 2nd Round",
+        "venue": "Broadwood Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5797183,
+        "kickoff": 1785956400,
+        "fixture": "Juventus (W) vs Torreense (W)",
+        "league_id": 10612,
+        "league": "Women's Champions League Qualification 2nd Round",
+        "venue": "Stadio Comunale Vittorio Pozzo Lamarmora",
         "tv_channels": []
     },
     {
@@ -558,8 +801,17 @@
         "tv_channels": []
     },
     {
+        "match_id": 5101059,
+        "kickoff": 1785955500,
+        "fixture": "Shelbourne (W) vs Cork City (W)",
+        "league_id": 10210,
+        "league": "Women's Premier Division",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5225696,
-        "kickoff": 1785870900,
+        "kickoff": 1785868200,
         "fixture": "Thor Akureyri vs Breidablik",
         "league_id": 215,
         "league": "Besta deildin",
@@ -627,7 +879,14 @@
         "league_id": 274,
         "league": "Primera A",
         "venue": "Estadio Bello Horizonte - Rey Pelé",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "Fanatiz"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000014069,
@@ -636,7 +895,14 @@
         "league_id": 274,
         "league": "Primera A",
         "venue": "Estadio Manuel Murillo Toro",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "Fanatiz"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000014070,
@@ -720,105 +986,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5867080,
-        "kickoff": 1785945600,
-        "fixture": "GKS Tychy vs Zaglebie Sosnowiec",
-        "league_id": 198,
-        "league": "FA Cup",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5867079,
-        "kickoff": 1785945600,
-        "fixture": "Górnik Łęczna vs KKS 1925 Kalisz",
-        "league_id": 198,
-        "league": "FA Cup",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5867083,
-        "kickoff": 1785945600,
-        "fixture": "Olimpia Grudziadz vs Swit Skolwin",
-        "league_id": 198,
-        "league": "FA Cup",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5867087,
-        "kickoff": 1785945600,
-        "fixture": "Podhale Nowy Targ vs Chojniczanka Chojnice",
-        "league_id": 198,
-        "league": "FA Cup",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5867077,
-        "kickoff": 1785945600,
-        "fixture": "Pogoń Siedlce vs GKS Jastrzebie",
-        "league_id": 198,
-        "league": "FA Cup",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5867086,
-        "kickoff": 1785945600,
-        "fixture": "Sandecja Nowy Sacz vs Rekord Bielsko-Biala",
-        "league_id": 198,
-        "league": "FA Cup",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5867081,
-        "kickoff": 1785945600,
-        "fixture": "Skierniewice vs Sokol Kleczew",
-        "league_id": 198,
-        "league": "FA Cup",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5867085,
-        "kickoff": 1785945600,
-        "fixture": "Slask Wroclaw ll vs Stal Stalowa Wola",
-        "league_id": 198,
-        "league": "FA Cup",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5867084,
-        "kickoff": 1785945600,
-        "fixture": "TS Podbeskidzie Bielsko-Biala vs Hutnik Krakow",
-        "league_id": 198,
-        "league": "FA Cup",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5867082,
-        "kickoff": 1785945600,
-        "fixture": "Warta Poznań vs Resovia",
-        "league_id": 198,
-        "league": "FA Cup",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5867078,
-        "kickoff": 1785945600,
-        "fixture": "Znicz Pruszków vs LKS Lodz II",
-        "league_id": 198,
-        "league": "FA Cup",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 5143983,
         "kickoff": 1785949200,
         "fixture": "Ranheim 2 vs NTNUI",
@@ -828,84 +995,21 @@
         "tv_channels": []
     },
     {
-        "match_id": 5910797,
-        "kickoff": 1785949200,
-        "fixture": "Babelsberg vs VSG Altglienicke",
-        "league_id": 512,
-        "league": "Regionalliga Northeast",
-        "venue": "Karl-Liebknecht-Stadion",
+        "match_id": 5851872,
+        "kickoff": 1785943800,
+        "fixture": "Fakel vs Dinamo",
+        "league_id": 193,
+        "league": "Cup Grp. B",
+        "venue": "Central'nyi Stadion Profsoyuzov",
         "tv_channels": []
     },
     {
-        "match_id": 5910798,
-        "kickoff": 1785949200,
-        "fixture": "BFC Preussen vs Lokomotive Leipzig",
-        "league_id": 512,
-        "league": "Regionalliga Northeast",
-        "venue": "Preußenstadion",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5910799,
-        "kickoff": 1785949200,
-        "fixture": "BSG Chemie Leipzig vs Hallescher FC",
-        "league_id": 512,
-        "league": "Regionalliga Northeast",
-        "venue": "Alfred-Kunze-Sportpark",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5910803,
-        "kickoff": 1785949200,
-        "fixture": "Carl Zeiss Jena vs RSV Eintracht 1949",
-        "league_id": 512,
-        "league": "Regionalliga Northeast",
-        "venue": "ad hoc arena im Ernst-Abbe-Sportfeld",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5910800,
-        "kickoff": 1785949200,
-        "fixture": "Chemnitzer FC vs FSV Zwickau",
-        "league_id": 512,
-        "league": "Regionalliga Northeast",
-        "venue": "eins-Stadion - An der Gellertstraße",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5910796,
-        "kickoff": 1785949200,
-        "fixture": "Erzgebirge Aue vs BFC Dynamo",
-        "league_id": 512,
-        "league": "Regionalliga Northeast",
-        "venue": "Eins Erzgebirgsstadion",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5910802,
-        "kickoff": 1785949200,
-        "fixture": "Hertha Berlin II vs Greifswalder FC",
-        "league_id": 512,
-        "league": "Regionalliga Northeast",
-        "venue": "Stadion auf dem Wurfplatz",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5910804,
-        "kickoff": 1785949200,
-        "fixture": "Magdeburg II vs FSV Luckenwalde",
-        "league_id": 512,
-        "league": "Regionalliga Northeast",
-        "venue": "Avnet Arena",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5910801,
-        "kickoff": 1785949200,
-        "fixture": "RW Erfurt vs Tasmania Berlin",
-        "league_id": 512,
-        "league": "Regionalliga Northeast",
-        "venue": "Steigerwaldstadion",
+        "match_id": 5851873,
+        "kickoff": 1785951900,
+        "fixture": "Krasnodar vs Akhmat",
+        "league_id": 193,
+        "league": "Cup Grp. B",
+        "venue": "Ozon Arena",
         "tv_channels": []
     },
     {
@@ -1063,7 +1167,7 @@
     },
     {
         "match_id": 1000014488,
-        "kickoff": 1785954600,
+        "kickoff": 1785955500,
         "fixture": "Hamilton Academical vs Livingston",
         "league_id": 11019,
         "league": "SWPL Cup",
@@ -1072,7 +1176,7 @@
     },
     {
         "match_id": 1000014489,
-        "kickoff": 1785954600,
+        "kickoff": 1785955500,
         "fixture": "Motherwell vs Gartcairn",
         "league_id": 11019,
         "league": "SWPL Cup",
@@ -1081,7 +1185,7 @@
     },
     {
         "match_id": 1000014490,
-        "kickoff": 1785954600,
+        "kickoff": 1785955500,
         "fixture": "Spartans FC vs Renfrew Ladies FC",
         "league_id": 11019,
         "league": "SWPL Cup",
@@ -1090,7 +1194,7 @@
     },
     {
         "match_id": 1000014491,
-        "kickoff": 1785954600,
+        "kickoff": 1785956400,
         "fixture": "St. Johnstone vs Montrose",
         "league_id": 11019,
         "league": "SWPL Cup",
