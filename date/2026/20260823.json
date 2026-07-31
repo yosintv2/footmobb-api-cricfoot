@@ -500,7 +500,7 @@
         "fixture": "RB Leipzig (W) vs Bayer Leverkusen (W)",
         "league_id": 9676,
         "league": "Frauen-Bundesliga",
-        "venue": "TBA",
+        "venue": "Trainingszentrum RB Leipzig Platz 1",
         "tv_channels": []
     },
     {
@@ -509,7 +509,7 @@
         "fixture": "TSG 1899 Hoffenheim (W) vs VfB Stuttgart (W)",
         "league_id": 9676,
         "league": "Frauen-Bundesliga",
-        "venue": "TBA",
+        "venue": "PreZero Arena",
         "tv_channels": []
     },
     {
@@ -675,6 +675,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 5979532,
+        "kickoff": 1787479200,
+        "fixture": "IF Gnistan (W) vs Åland United (W)",
+        "league_id": 10174,
+        "league": "Kansallinen Liiga Championship Group",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5944159,
         "kickoff": 1787410800,
         "fixture": "Egnatia vs KF Tirana",
@@ -744,6 +753,33 @@
         "league_id": 8976,
         "league": "Liga de Expansion MX Apertura",
         "venue": "Estadio Luis de la Fuente",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5977321,
+        "kickoff": 1787439960,
+        "fixture": "FC Juarez (W) vs Santos Laguna (W)",
+        "league_id": 9906,
+        "league": "Liga MX Femenil Apertura",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5977322,
+        "kickoff": 1787443200,
+        "fixture": "Cruz Azul (W) vs Tigres (W)",
+        "league_id": 9906,
+        "league": "Liga MX Femenil Apertura",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5977323,
+        "kickoff": 1787508000,
+        "fixture": "Puebla (W) vs Atletico de San Luis (W)",
+        "league_id": 9906,
+        "league": "Liga MX Femenil Apertura",
+        "venue": "TBA",
         "tv_channels": []
     },
     {
@@ -2165,7 +2201,7 @@
         "fixture": "Yverdon vs Aarau",
         "league_id": 163,
         "league": "Challenge League",
-        "venue": "Stade Municipal",
+        "venue": "Stade municipal",
         "tv_channels": []
     },
     {
@@ -3060,15 +3096,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5100951,
-        "kickoff": 1787424300,
-        "fixture": "Sligo Rovers vs Waterford FC",
-        "league_id": 126,
-        "league": "Premier Division",
-        "venue": "The Showgrounds",
-        "tv_channels": []
-    },
-    {
         "match_id": 5795368,
         "kickoff": 1787416200,
         "fixture": "Brentford vs Tottenham",
@@ -3304,65 +3331,65 @@
     },
     {
         "match_id": 5943225,
-        "kickoff": 1787410800,
+        "kickoff": 1787418000,
         "fixture": "AEK Athens vs Iraklis",
         "league_id": 135,
         "league": "Super League",
-        "venue": "Allwyn Arena",
+        "venue": "ALLWYN Arena",
         "tv_channels": []
     },
     {
         "match_id": 5943226,
-        "kickoff": 1787410800,
+        "kickoff": 1787418000,
         "fixture": "Kalamata vs Aris Thessaloniki",
         "league_id": 135,
         "league": "Super League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5943227,
-        "kickoff": 1787410800,
-        "fixture": "OFI Crete vs NFC Volos",
-        "league_id": 135,
-        "league": "Super League",
-        "venue": "Pankritio Stadium",
+        "venue": "Stadio Theodoros Kolokotronis",
         "tv_channels": []
     },
     {
         "match_id": 5943228,
-        "kickoff": 1787410800,
+        "kickoff": 1787425200,
         "fixture": "Olympiacos vs Atromitos",
         "league_id": 135,
         "league": "Super League",
-        "venue": "Karaiskakis Stadium",
+        "venue": "Stadio Georgios Karaiskákis",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5943227,
+        "kickoff": 1787502600,
+        "fixture": "OFI Crete vs NFC Volos",
+        "league_id": 135,
+        "league": "Super League",
+        "venue": "Pankritio Stadio",
         "tv_channels": []
     },
     {
         "match_id": 5943229,
-        "kickoff": 1787410800,
+        "kickoff": 1787508000,
         "fixture": "Panathinaikos vs Kifisia FC",
         "league_id": 135,
         "league": "Super League",
-        "venue": "Apostolos Nikolaidis Stadium",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5943230,
-        "kickoff": 1787410800,
-        "fixture": "Panetolikos vs Asteras Tripolis",
-        "league_id": 135,
-        "league": "Super League",
-        "venue": "Panetolikos Stadium",
+        "venue": "Olympiako Stadio Spyros Louis",
         "tv_channels": []
     },
     {
         "match_id": 5943231,
-        "kickoff": 1787410800,
+        "kickoff": 1787508000,
         "fixture": "PAOK Thessaloniki vs Levadiakos",
         "league_id": 135,
         "league": "Super League",
-        "venue": "Toumba Stadium",
+        "venue": "Stadio Toumbas",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5943230,
+        "kickoff": 1787509800,
+        "fixture": "Panetolikos vs Asteras Tripolis",
+        "league_id": 135,
+        "league": "Super League",
+        "venue": "Gipedo Panetolikou",
         "tv_channels": []
     },
     {
@@ -3525,6 +3552,15 @@
         "league_id": 51,
         "league": "Veikkausliiga",
         "venue": "Bolt Arena",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5147631,
+        "kickoff": 1787486400,
+        "fixture": "KuPS vs IFK Mariehamn",
+        "league_id": 51,
+        "league": "Veikkausliiga",
+        "venue": "Väre Areena",
         "tv_channels": []
     },
     {
@@ -4074,6 +4110,24 @@
         "league_id": 10721,
         "league": "Saudi First Division",
         "venue": "Prince Mohammed bin Abdul Aziz Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000018593,
+        "kickoff": 1787494500,
+        "fixture": "Al-Khor vs Al Markhiya",
+        "league_id": 11030,
+        "league": "Second Division",
+        "venue": "Ahmad bin Ali Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000018594,
+        "kickoff": 1787502600,
+        "fixture": "Al-Bidda SC vs Al-Gharafa II",
+        "league_id": 11030,
+        "league": "Second Division",
+        "venue": "Lusail Stadium",
         "tv_channels": []
     },
     {
@@ -4712,6 +4766,159 @@
         "fixture": "Neftchi Fargona vs Sogdiana",
         "league_id": 540,
         "league": "Superliga",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5978442,
+        "kickoff": 1787515200,
+        "fixture": "CA Bartolome Mitre vs Douglas Haig",
+        "league_id": 9213,
+        "league": "Federal A Promotion Zona A",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5978443,
+        "kickoff": 1787515200,
+        "fixture": "Defensores de Belgrano de Villa Ramallo vs Gimnasia y Esgrima de Chivilcoy",
+        "league_id": 9213,
+        "league": "Federal A Promotion Zona A",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5978444,
+        "kickoff": 1787515200,
+        "fixture": "San Martin de Formosa vs 9 de Julio Rafaela",
+        "league_id": 9213,
+        "league": "Federal A Promotion Zona A",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5978445,
+        "kickoff": 1787515200,
+        "fixture": "Sarmiento de La Banda vs Sportivo Belgrano",
+        "league_id": 9213,
+        "league": "Federal A Promotion Zona A",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5978478,
+        "kickoff": 1787515200,
+        "fixture": "CA Alvarado vs Argentino Monte Maiz",
+        "league_id": 9213,
+        "league": "Federal A Promotion Zona B",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5978479,
+        "kickoff": 1787515200,
+        "fixture": "Club Cipolletti vs Sportivo Atenas",
+        "league_id": 9213,
+        "league": "Federal A Promotion Zona B",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5978480,
+        "kickoff": 1787515200,
+        "fixture": "Juventud Antoniana vs Villa Mitre",
+        "league_id": 9213,
+        "league": "Federal A Promotion Zona B",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5978481,
+        "kickoff": 1787515200,
+        "fixture": "Olimpo vs Kimberley",
+        "league_id": 9213,
+        "league": "Federal A Promotion Zona B",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5978514,
+        "kickoff": 1787515200,
+        "fixture": "Atletico Escobar vs Gimnasia y Esgrima de Concepcion",
+        "league_id": 9213,
+        "league": "Federal A Relegation Zona A",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5978515,
+        "kickoff": 1787515200,
+        "fixture": "Boca Unidos vs Sportivo Las Parejas",
+        "league_id": 9213,
+        "league": "Federal A Relegation Zona A",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5978516,
+        "kickoff": 1787515200,
+        "fixture": "Defensores de Vilelas vs El Linqueno",
+        "league_id": 9213,
+        "league": "Federal A Relegation Zona A",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5978517,
+        "kickoff": 1787515200,
+        "fixture": "Independiente Chivilcoy vs Tucuman Central",
+        "league_id": 9213,
+        "league": "Federal A Relegation Zona A",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5978554,
+        "kickoff": 1787515200,
+        "fixture": "Circulo Deportivo vs Costa Brava",
+        "league_id": 9213,
+        "league": "Federal A Relegation Zona B",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5978555,
+        "kickoff": 1787515200,
+        "fixture": "Deportivo Rincon vs Juventud Unida Universitario",
+        "league_id": 9213,
+        "league": "Federal A Relegation Zona B",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5978556,
+        "kickoff": 1787515200,
+        "fixture": "Fundacion Amigos vs Sol de Mayo",
+        "league_id": 9213,
+        "league": "Federal A Relegation Zona B",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5978557,
+        "kickoff": 1787515200,
+        "fixture": "Germinal vs San Martin Mendoza",
+        "league_id": 9213,
+        "league": "Federal A Relegation Zona B",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5978558,
+        "kickoff": 1787515200,
+        "fixture": "Guillermo Brown vs Santamarina",
+        "league_id": 9213,
+        "league": "Federal A Relegation Zona B",
         "venue": "TBA",
         "tv_channels": []
     },

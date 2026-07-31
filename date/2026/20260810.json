@@ -113,7 +113,7 @@
         "fixture": "Marseille vs Athletic Club",
         "league_id": 489,
         "league": "Club Friendlies",
-        "venue": "TBA",
+        "venue": "Orange Vélodrome",
         "tv_channels": []
     },
     {
@@ -123,6 +123,15 @@
         "league_id": 489,
         "league": "Club Friendlies",
         "venue": "Stadio Ennio Tardini",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5980769,
+        "kickoff": 1786301100,
+        "fixture": "Frosinone vs Lazio",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "Stadio Benito Stirpe",
         "tv_channels": []
     },
     {
@@ -213,7 +222,20 @@
         "league_id": 10043,
         "league": "Leagues Cup",
         "venue": "Lumen Field",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Apple TV (UK)"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Apple TV (US)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5844851,
@@ -276,6 +298,24 @@
         "league_id": 10043,
         "league": "Leagues Cup",
         "venue": "Providence Park",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5977306,
+        "kickoff": 1786298400,
+        "fixture": "Puebla (W) vs Chivas (W)",
+        "league_id": 9906,
+        "league": "Liga MX Femenil Apertura",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5977307,
+        "kickoff": 1786312800,
+        "fixture": "Atletico de San Luis (W) vs Club Tijuana (W)",
+        "league_id": 9906,
+        "league": "Liga MX Femenil Apertura",
+        "venue": "TBA",
         "tv_channels": []
     },
     {
@@ -405,6 +445,24 @@
         "tv_channels": []
     },
     {
+        "match_id": 5865435,
+        "kickoff": 1786287600,
+        "fixture": "Paksi SE vs Kispest Honved",
+        "league_id": 212,
+        "league": "NB I",
+        "venue": "Fehervari uti Stadion",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5865438,
+        "kickoff": 1786296600,
+        "fixture": "Debrecen vs Nyiregyhaza Spartacus FC",
+        "league_id": 212,
+        "league": "NB I",
+        "venue": "Nagyerdei Stadion",
+        "tv_channels": []
+    },
+    {
         "match_id": 5922744,
         "kickoff": 1786289400,
         "fixture": "Szentlorinc vs Nagykanizsa",
@@ -465,7 +523,15 @@
         "league_id": 9134,
         "league": "NWSL",
         "venue": "Centreville Bank Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "HBO Max (UK)",
+                    "TNT Sports 4"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5161596,
@@ -567,6 +633,42 @@
         "tv_channels": []
     },
     {
+        "match_id": 5833547,
+        "kickoff": 1786289400,
+        "fixture": "Aluminij vs Nafta",
+        "league_id": 173,
+        "league": "Prva Liga",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5833550,
+        "kickoff": 1786299300,
+        "fixture": "Maribor vs Koper",
+        "league_id": 173,
+        "league": "Prva Liga",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5833548,
+        "kickoff": 1786299300,
+        "fixture": "NK Bravo vs Nk Brinje Grosuplje",
+        "league_id": 173,
+        "league": "Prva Liga",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5833551,
+        "kickoff": 1786377600,
+        "fixture": "Mura vs Radomlje",
+        "league_id": 173,
+        "league": "Prva Liga",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5952942,
         "kickoff": 1786294800,
         "fixture": "FC Sheriff vs Dacia Buiucani",
@@ -654,7 +756,17 @@
         "league_id": 133,
         "league": "EFL Cup",
         "venue": "One Call Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Sky Sports Football",
+                    "Sky Sports Main Event",
+                    "Sky Sports UHD",
+                    "Sky Sports+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5840308,
@@ -729,57 +841,12 @@
         "tv_channels": []
     },
     {
-        "match_id": 5908576,
-        "kickoff": 1786291200,
-        "fixture": "Antalyaspor vs Keçiörengücü",
-        "league_id": 165,
-        "league": "1. Lig",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5908577,
-        "kickoff": 1786291200,
-        "fixture": "Bandırmaspor vs Istanbulspor",
-        "league_id": 165,
-        "league": "1. Lig",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5908583,
-        "kickoff": 1786291200,
-        "fixture": "Bodrum FK vs Bursaspor",
-        "league_id": 165,
-        "league": "1. Lig",
-        "venue": "Grey Beton Bodrum Stadyumu",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5908580,
-        "kickoff": 1786291200,
-        "fixture": "Boluspor vs Manisa Futbol Kulübü",
-        "league_id": 165,
-        "league": "1. Lig",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 5908574,
         "kickoff": 1786291200,
         "fixture": "Igdir FK vs Karagümrük",
         "league_id": 165,
         "league": "1. Lig",
         "venue": "Aktepe Stadı",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5908575,
-        "kickoff": 1786291200,
-        "fixture": "Pendikspor vs Batman Petrolspor",
-        "league_id": 165,
-        "league": "1. Lig",
-        "venue": "TBA",
         "tv_channels": []
     },
     {
@@ -792,30 +859,30 @@
         "tv_channels": []
     },
     {
-        "match_id": 5908582,
-        "kickoff": 1786291200,
-        "fixture": "Sivasspor vs Esenler Erokspor",
+        "match_id": 5908583,
+        "kickoff": 1786300200,
+        "fixture": "Bodrum FK vs Bursaspor",
         "league_id": 165,
         "league": "1. Lig",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5908579,
-        "kickoff": 1786291200,
-        "fixture": "Ümraniyespor vs Mardin 1969 Spor",
-        "league_id": 165,
-        "league": "1. Lig",
-        "venue": "TBA",
+        "venue": "Grey Beton Bodrum Stadyumu",
         "tv_channels": []
     },
     {
         "match_id": 5908581,
-        "kickoff": 1786291200,
+        "kickoff": 1786300200,
         "fixture": "Van Spor Kulübü vs Kayserispor",
         "league_id": 165,
         "league": "1. Lig",
         "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5908575,
+        "kickoff": 1786386600,
+        "fixture": "Pendikspor vs Batman Petrolspor",
+        "league_id": 165,
+        "league": "1. Lig",
+        "venue": "Siltaş Yapı Pendik Stadyumu",
         "tv_channels": []
     },
     {
@@ -1107,6 +1174,22 @@
         "tv_channels": []
     },
     {
+        "match_id": 5100944,
+        "kickoff": 1786291200,
+        "fixture": "Shelbourne vs St. Patrick's Athletic",
+        "league_id": 126,
+        "league": "Premier Division",
+        "venue": "Tolka Park",
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOITV"
+                ]
+            }
+        ]
+    },
+    {
         "match_id": 5847140,
         "kickoff": 1786296600,
         "fixture": "Rubin vs Orenburg",
@@ -1170,13 +1253,63 @@
         "tv_channels": []
     },
     {
+        "match_id": 5853462,
+        "kickoff": 1786289400,
+        "fixture": "Universitatea Craiova vs FC Arges Pitesti",
+        "league_id": 189,
+        "league": "Superliga",
+        "venue": "Complex Sportiv Craiova",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5853461,
+        "kickoff": 1786300200,
+        "fixture": "Sepsi OSK vs FCSB",
+        "league_id": 189,
+        "league": "Superliga",
+        "venue": "Sepsi Duna Aréna",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5853459,
+        "kickoff": 1786375800,
+        "fixture": "Botosani vs Corvinul Hunedoara",
+        "league_id": 189,
+        "league": "Superliga",
+        "venue": "Stadionul Municipal",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5853456,
+        "kickoff": 1786386600,
+        "fixture": "CFR Cluj vs Universitatea Cluj",
+        "league_id": 189,
+        "league": "Superliga",
+        "venue": "Stadionul Dr. Constantin Rădulescu",
+        "tv_channels": []
+    },
+    {
         "match_id": 5793909,
         "kickoff": 1786287600,
         "fixture": "Rangers vs Hibernian",
         "league_id": 64,
         "league": "Premiership",
         "venue": "Ibrox Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Premier Sports 1 ROI"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports 1 UK",
+                    "Premier Sports Player"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5739477,
@@ -1266,6 +1399,15 @@
         "league_id": 131,
         "league": "Liga 1",
         "venue": "Estadio de la Universidad Nacional San Agustín",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000007701,
+        "kickoff": 1786302000,
+        "fixture": "Philadelphia Union II vs FC Cincinnati 2",
+        "league_id": 10282,
+        "league": "MLS Next Pro",
+        "venue": "Subaru Park",
         "tv_channels": []
     },
     {
@@ -1455,7 +1597,21 @@
         "league_id": 268,
         "league": "Serie A",
         "venue": "Nubank Parque",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Premier Sports 1 ROI"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports 1 UK",
+                    "Premier Sports Player"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5103582,
@@ -1482,7 +1638,21 @@
         "league_id": 268,
         "league": "Serie A",
         "venue": "Estádio Municipal Cícero de Souza Marques",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Premier Sports 1 ROI"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports 1 UK",
+                    "Premier Sports Player"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5103574,
@@ -1567,7 +1737,7 @@
     },
     {
         "match_id": 5162046,
-        "kickoff": 1786294800,
+        "kickoff": 1786379400,
         "fixture": "RFS vs Grobina",
         "league_id": 226,
         "league": "Virsliga",
@@ -1688,7 +1858,7 @@
         "fixture": "Jong AZ Alkmaar vs FC Eindhoven",
         "league_id": 111,
         "league": "Eerste Divisie",
-        "venue": "AFAS Stadion",
+        "venue": "AFAS Trainingscomplex",
         "tv_channels": []
     },
     {
