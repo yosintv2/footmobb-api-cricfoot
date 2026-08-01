@@ -445,6 +445,24 @@
         "tv_channels": []
     },
     {
+        "match_id": 5974665,
+        "kickoff": 1786291200,
+        "fixture": "Swift Hesperange vs FC Wiltz 71",
+        "league_id": 229,
+        "league": "National Division",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5974666,
+        "kickoff": 1786294800,
+        "fixture": "AS Jeunesse Esch vs Atert Bissen",
+        "league_id": 229,
+        "league": "National Division",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5865435,
         "kickoff": 1786287600,
         "fixture": "Paksi SE vs Kispest Honved",
@@ -711,7 +729,14 @@
         "league_id": 208,
         "league": "3. Liga",
         "venue": "Tivoli",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Germany",
+                "channels": [
+                    "Magenta Sport"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5852741,
@@ -991,7 +1016,14 @@
         "league_id": 59,
         "league": "Eliteserien",
         "venue": "Briskeby Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Norway",
+                "channels": [
+                    "TV 2 Play (NO)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5104976,
@@ -1000,7 +1032,14 @@
         "league_id": 59,
         "league": "Eliteserien",
         "venue": "Nordmøre stadion",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Norway",
+                "channels": [
+                    "TV 2 Play (NO)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5760456,
@@ -1661,6 +1700,33 @@
         "league_id": 268,
         "league": "Serie A",
         "venue": "Estadio Jornalista Mário Filho (Maracanã)",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000009063,
+        "kickoff": 1786309200,
+        "fixture": "Delfin vs Orense",
+        "league_id": 246,
+        "league": "Serie A",
+        "venue": "Estadio Jocay",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000009057,
+        "kickoff": 1786320000,
+        "fixture": "Guayaquil City vs Emelec",
+        "league_id": 246,
+        "league": "Serie A",
+        "venue": "Estadio Christian Benítez Betancourt",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000009061,
+        "kickoff": 1786388400,
+        "fixture": "Tecnico Universitario vs Mushuc Runa",
+        "league_id": 246,
+        "league": "Serie A",
+        "venue": "Estadio Bellavista Universidad Indoamérica",
         "tv_channels": []
     },
     {
