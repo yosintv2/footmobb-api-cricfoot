@@ -972,7 +972,14 @@
         "league_id": 10615,
         "league": "Conference League Qualification",
         "venue": "AIL Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Switzerland",
+                "channels": [
+                    "RSI La 2"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5955331,
@@ -2878,6 +2885,18 @@
         "venue": "Estadio Campeones del '36",
         "tv_channels": [
             {
+                "country": "Argentina",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Australia",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
                 "country": "Austria",
                 "channels": [
                     "Fanatiz"
@@ -2890,7 +2909,31 @@
                 ]
             },
             {
+                "country": "Brazil",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
                 "country": "Costa Rica",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
                 "channels": [
                     "Fanatiz"
                 ]
@@ -2914,7 +2957,19 @@
                 ]
             },
             {
+                "country": "Ireland",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
                 "country": "Japan",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Mexico",
                 "channels": [
                     "Fanatiz"
                 ]
@@ -2932,14 +2987,51 @@
                 ]
             },
             {
+                "country": "Paraguay",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
                 "country": "Peru",
                 "channels": [
+                    "Fanatiz",
                     "L1 Max",
                     "L1 Play"
                 ]
             },
             {
                 "country": "Poland",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Slovakia",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Uruguay",
                 "channels": [
                     "Fanatiz"
                 ]
@@ -3391,6 +3483,12 @@
                 "country": "Portugal",
                 "channels": [
                     "Canal a confirmar"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "channels": [
+                    "Sportdigital Fussball"
                 ]
             }
         ]
@@ -4574,7 +4672,15 @@
         "league_id": 163,
         "league": "Challenge League",
         "venue": "Stade Olympique de la Pontaise",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Switzerland",
+                "channels": [
+                    "Blue Sport 1 Direct",
+                    "Blue Sport 1 Live"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5804562,
@@ -4583,7 +4689,15 @@
         "league_id": 163,
         "league": "Challenge League",
         "venue": "Stadion Kleinfeld",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Switzerland",
+                "channels": [
+                    "Blue Sport 2 Direct",
+                    "Blue Sport 2 Live"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5804564,
@@ -4592,7 +4706,15 @@
         "league_id": 163,
         "league": "Challenge League",
         "venue": "Stadion Schützenwiese",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Switzerland",
+                "channels": [
+                    "Blue Sport 3 Direct",
+                    "Blue Sport 3 Live"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5804565,
@@ -4620,7 +4742,15 @@
         "league_id": 163,
         "league": "Challenge League",
         "venue": "Stade de la Fontenette",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Switzerland",
+                "channels": [
+                    "Blue Sport 4 Direct",
+                    "Blue Sport 4 Live"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5832799,
@@ -5023,32 +5153,6 @@
                     "BBC Scotland",
                     "BBC Sport online",
                     "BBC iPlayer"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5803936,
-        "kickoff": 1786118400,
-        "fixture": "Pogoń Szczecin vs Motor Lublin",
-        "league_id": 196,
-        "league": "Ekstraklasa",
-        "venue": "Stadion Miejski im. Floriana Krygiera",
-        "tv_channels": [
-            {
-                "country": "Austria",
-                "channels": [
-                    "OneFootball PPV",
-                    "Sportdigital Fussball",
-                    "Sportdigital+ App",
-                    "Sportdigital.de"
-                ]
-            },
-            {
-                "country": "Switzerland",
-                "channels": [
-                    "OneFootball PPV",
-                    "Sportdigital Fussball"
                 ]
             }
         ]

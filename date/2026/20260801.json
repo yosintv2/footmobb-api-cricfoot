@@ -1,39 +1,5 @@
 [
     {
-        "match_id": 5820079,
-        "kickoff": 1785592800,
-        "fixture": "Tranmere vs Rochdale",
-        "league_id": 133,
-        "league": "EFL Cup Qualification",
-        "venue": "Prenton Park",
-        "tv_channels": [
-            {
-                "country": "Canada",
-                "channels": [
-                    "DAZN Canada"
-                ]
-            },
-            {
-                "country": "Ireland",
-                "channels": [
-                    "Sky Sports+ Plus"
-                ]
-            },
-            {
-                "country": "United Kingdom",
-                "channels": [
-                    "Sky Sports+ app"
-                ]
-            },
-            {
-                "country": "United States",
-                "channels": [
-                    "Paramount+ (US)"
-                ]
-            }
-        ]
-    },
-    {
         "match_id": 5071246,
         "kickoff": 1785540600,
         "fixture": "NYCFC vs Toronto",
@@ -3120,20 +3086,13 @@
         ]
     },
     {
-        "match_id": 5765861,
-        "kickoff": 1785576600,
-        "fixture": "RB Leipzig vs SC Verl",
+        "match_id": 5980956,
+        "kickoff": 1785574800,
+        "fixture": "Farense vs Fulham",
         "league_id": 489,
         "league": "Club Friendlies",
-        "venue": "Trainingszentrum RB Leipzig Platz 1",
-        "tv_channels": [
-            {
-                "country": "Austria",
-                "channels": [
-                    "RB Leipzig YouTube"
-                ]
-            }
-        ]
+        "venue": "TBA",
+        "tv_channels": []
     },
     {
         "match_id": 5199448,
@@ -3355,15 +3314,6 @@
                 ]
             }
         ]
-    },
-    {
-        "match_id": 5980936,
-        "kickoff": 1785578400,
-        "fixture": "Brighton vs Strasbourg",
-        "league_id": 489,
-        "league": "Club Friendlies",
-        "venue": "TBC (France)",
-        "tv_channels": []
     },
     {
         "match_id": 5765422,
@@ -3743,15 +3693,6 @@
         ]
     },
     {
-        "match_id": 5900444,
-        "kickoff": 1785585600,
-        "fixture": "Bologna vs Cambuur",
-        "league_id": 489,
-        "league": "Club Friendlies",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 5980955,
         "kickoff": 1785585600,
         "fixture": "Darmstadt vs Portsmouth",
@@ -3776,15 +3717,6 @@
                 ]
             }
         ]
-    },
-    {
-        "match_id": 5980956,
-        "kickoff": 1785585600,
-        "fixture": "Farense vs Fulham",
-        "league_id": 489,
-        "league": "Club Friendlies",
-        "venue": "TBA",
-        "tv_channels": []
     },
     {
         "match_id": 5765425,
@@ -3823,15 +3755,6 @@
                 ]
             }
         ]
-    },
-    {
-        "match_id": 5980937,
-        "kickoff": 1785586500,
-        "fixture": "Brighton vs Strasbourg",
-        "league_id": 489,
-        "league": "Club Friendlies",
-        "venue": "TBC (France)",
-        "tv_channels": []
     },
     {
         "match_id": 5949698,
@@ -3915,6 +3838,7 @@
             {
                 "country": "Spain",
                 "channels": [
+                    "M+ Liga de Campeones",
                     "Movistar Plus+"
                 ]
             },
@@ -4128,7 +4052,7 @@
         "fixture": "Reading vs Charlton",
         "league_id": 489,
         "league": "Club Friendlies",
-        "venue": "Select Car Leasing Stadium",
+        "venue": "The Valley Stadium",
         "tv_channels": [
             {
                 "country": "Ireland",
@@ -4259,12 +4183,21 @@
         "tv_channels": []
     },
     {
+        "match_id": 5900444,
+        "kickoff": 1785598200,
+        "fixture": "Bologna vs Cambuur",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "Centro Tecnico Niccolò Galli",
+        "tv_channels": []
+    },
+    {
         "match_id": 5900172,
         "kickoff": 1785600000,
         "fixture": "Angers vs Le Mans",
         "league_id": 489,
         "league": "Club Friendlies",
-        "venue": "TBC (France)",
+        "venue": "Stade André Conty",
         "tv_channels": []
     },
     {
@@ -4582,7 +4515,7 @@
         "fixture": "Saint-Etienne vs Venezia",
         "league_id": 489,
         "league": "Club Friendlies",
-        "venue": "Stade Joseph Moynat 1",
+        "venue": "Complexe sportif de Divonne-les-Bains",
         "tv_channels": [
             {
                 "country": "Italy",
@@ -5175,6 +5108,40 @@
         "tv_channels": []
     },
     {
+        "match_id": 5820079,
+        "kickoff": 1785592800,
+        "fixture": "Tranmere vs Rochdale",
+        "league_id": 12889,
+        "league": "EFL Cup Qualification",
+        "venue": "Prenton Park",
+        "tv_channels": [
+            {
+                "country": "Canada",
+                "channels": [
+                    "DAZN Canada"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Sky Sports+ Plus"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Sky Sports+ app"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Paramount+ (US)"
+                ]
+            }
+        ]
+    },
+    {
         "match_id": 5803931,
         "kickoff": 1785513600,
         "fixture": "Wisła Płock vs Widzew Łódź",
@@ -5361,6 +5328,18 @@
                 "country": "Poland",
                 "channels": [
                     "ODŁOŻONY"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Slovakia",
+                "channels": [
+                    "Sporty TV"
                 ]
             }
         ]

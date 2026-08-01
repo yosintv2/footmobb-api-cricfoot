@@ -1,5 +1,39 @@
 [
     {
+        "match_id": 5820080,
+        "kickoff": 1785781800,
+        "fixture": "York City vs Crawley",
+        "league_id": 133,
+        "league": "EFL Cup Qualification",
+        "venue": "LNER Community Stadium",
+        "tv_channels": [
+            {
+                "country": "Canada",
+                "channels": [
+                    "DAZN Canada"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Sky Sports+ Plus"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Sky Sports+ app"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Paramount+ (US)"
+                ]
+            }
+        ]
+    },
+    {
         "match_id": 5796319,
         "kickoff": 1785780000,
         "fixture": "Sutjeska vs Buducnost Podgorica",
@@ -7,6 +41,22 @@
         "league": "1. CFL",
         "venue": "TBA",
         "tv_channels": []
+    },
+    {
+        "match_id": 5105208,
+        "kickoff": 1785776400,
+        "fixture": "Ranheim vs FK Haugesund",
+        "league_id": 203,
+        "league": "1. Divisjon",
+        "venue": "EXTRA Arena",
+        "tv_channels": [
+            {
+                "country": "Norway",
+                "channels": [
+                    "TV 2 Sport 1"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5820689,
@@ -41,6 +91,59 @@
         "league": "A Lyga",
         "venue": "TBA",
         "tv_channels": []
+    },
+    {
+        "match_id": 5107550,
+        "kickoff": 1785776400,
+        "fixture": "Djurgården vs Västerås SK",
+        "league_id": 67,
+        "league": "Allsvenskan",
+        "venue": "3Arena",
+        "tv_channels": [
+            {
+                "country": "Finland",
+                "channels": [
+                    "MTV Katsomo",
+                    "MTV Urheilu 2"
+                ]
+            },
+            {
+                "country": "Norway",
+                "channels": [
+                    "VG TV"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "channels": [
+                    "TV4 Fotboll",
+                    "TV4 Play Sport Fotboll"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5107556,
+        "kickoff": 1785776400,
+        "fixture": "Halmstads BK vs Sirius",
+        "league_id": 67,
+        "league": "Allsvenskan",
+        "venue": "Örjans Vall",
+        "tv_channels": [
+            {
+                "country": "Norway",
+                "channels": [
+                    "VG TV"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "channels": [
+                    "TV4 Play Sport Fotboll",
+                    "TV4 Sport Live 1"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5844755,
@@ -490,6 +593,44 @@
         "tv_channels": []
     },
     {
+        "match_id": 5803923,
+        "kickoff": 1785776400,
+        "fixture": "Cracovia vs Pogoń Szczecin",
+        "league_id": 196,
+        "league": "Ekstraklasa",
+        "venue": "Stadion Cracovii im. Józefa Piłsudskiego",
+        "tv_channels": [
+            {
+                "country": "Canada",
+                "channels": [
+                    "beIN Sport Canada",
+                    "beIN Sport Canada Espanol"
+                ]
+            },
+            {
+                "country": "Poland",
+                "channels": [
+                    "CANAL+ Sport 3",
+                    "CANAL+ Sport 5"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Fanatiz",
+                    "beIN Sport USA",
+                    "beIN Sport USA Español"
+                ]
+            }
+        ]
+    },
+    {
         "match_id": 5127531,
         "kickoff": 1785776400,
         "fixture": "Vasalunds IF vs Sollentuna FK",
@@ -508,12 +649,127 @@
         "tv_channels": []
     },
     {
+        "match_id": 5978464,
+        "kickoff": 1785780000,
+        "fixture": "Kimberley vs Argentino Monte Maiz",
+        "league_id": 9213,
+        "league": "Federal A Promotion Zona B",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5978499,
+        "kickoff": 1785781800,
+        "fixture": "Defensores de Vilelas vs Sarmiento de Resistencia",
+        "league_id": 9213,
+        "league": "Federal A Relegation Zona A",
+        "venue": "TBA",
+        "tv_channels": [
+            {
+                "country": "Argentina",
+                "channels": [
+                    "FOX Sports",
+                    "Fox Sports Argentina YouTube"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5101249,
+        "kickoff": 1785772800,
+        "fixture": "Cork City vs Athlone Town",
+        "league_id": 218,
+        "league": "First Division",
+        "venue": "TBA",
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOITV"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5101250,
+        "kickoff": 1785772800,
+        "fixture": "Kerry FC vs Cobh Ramblers",
+        "league_id": 218,
+        "league": "First Division",
+        "venue": "TBA",
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOITV"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5101251,
+        "kickoff": 1785772800,
+        "fixture": "Longford Town vs Finn Harps",
+        "league_id": 218,
+        "league": "First Division",
+        "venue": "TBA",
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOITV"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5101252,
+        "kickoff": 1785772800,
+        "fixture": "UCD vs Treaty United",
+        "league_id": 218,
+        "league": "First Division",
+        "venue": "TBA",
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOITV"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5101253,
+        "kickoff": 1785772800,
+        "fixture": "Wexford FC vs Bray Wanderers",
+        "league_id": 218,
+        "league": "First Division",
+        "venue": "TBA",
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOITV"
+                ]
+            }
+        ]
+    },
+    {
         "match_id": 5897547,
         "kickoff": 1785774600,
         "fixture": "Veles Moscow vs FC Rotor Volgograd",
         "league_id": 338,
         "league": "First League",
         "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5760450,
+        "kickoff": 1785780900,
+        "fixture": "Spartak Varna vs Lokomotiv Plovdiv",
+        "league_id": 270,
+        "league": "First Professional League",
+        "venue": "Spartak, Varna",
         "tv_channels": []
     },
     {
@@ -783,1054 +1039,6 @@
                 ]
             }
         ]
-    },
-    {
-        "match_id": 5954297,
-        "kickoff": 1785805200,
-        "fixture": "Independiente de La Chorrera vs Herrera FC",
-        "league_id": 9039,
-        "league": "LPF Apertura",
-        "venue": "TBA",
-        "tv_channels": [
-            {
-                "country": "Panama",
-                "channels": [
-                    "FOX"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5865431,
-        "kickoff": 1785774600,
-        "fixture": "Zalaegerszeg vs Paksi SE",
-        "league_id": 212,
-        "league": "NB I",
-        "venue": "ZTE Arena",
-        "tv_channels": [
-            {
-                "country": "Hungary",
-                "channels": [
-                    "M4 Sports"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5143980,
-        "kickoff": 1785772800,
-        "fixture": "Nardo vs Molde 2",
-        "league_id": 205,
-        "league": "3. Divisjon Avd. 2",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5143979,
-        "kickoff": 1785772800,
-        "fixture": "Strindheim vs Aalesund 2",
-        "league_id": 205,
-        "league": "3. Divisjon Avd. 2",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5143982,
-        "kickoff": 1785776400,
-        "fixture": "Kvik vs Melhus",
-        "league_id": 205,
-        "league": "3. Divisjon Avd. 2",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5143981,
-        "kickoff": 1785776400,
-        "fixture": "Orkla vs Rosenborg 2",
-        "league_id": 205,
-        "league": "3. Divisjon Avd. 2",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5144164,
-        "kickoff": 1785772800,
-        "fixture": "Djerv 1919 vs Åsane 2",
-        "league_id": 205,
-        "league": "3. Divisjon Avd. 3",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5144165,
-        "kickoff": 1785772800,
-        "fixture": "Sogndal 2 vs Førde",
-        "league_id": 205,
-        "league": "3. Divisjon Avd. 3",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5144166,
-        "kickoff": 1785776400,
-        "fixture": "Brann 2 vs Stord",
-        "league_id": 205,
-        "league": "3. Divisjon Avd. 3",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5144347,
-        "kickoff": 1785772800,
-        "fixture": "Brodd vs Stabæk 2",
-        "league_id": 205,
-        "league": "3. Divisjon Avd. 4",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5144348,
-        "kickoff": 1785772800,
-        "fixture": "Vindbjart vs Odd 2",
-        "league_id": 205,
-        "league": "3. Divisjon Avd. 4",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5144722,
-        "kickoff": 1785772800,
-        "fixture": "Brumunddal vs Lyn 2",
-        "league_id": 205,
-        "league": "3. Divisjon Avd. 6",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5144723,
-        "kickoff": 1785772800,
-        "fixture": "Oppsal vs Sarpsborg 08 2",
-        "league_id": 205,
-        "league": "3. Divisjon Avd. 6",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5143801,
-        "kickoff": 1785776400,
-        "fixture": "KFUM 2 vs Grei",
-        "league_id": 205,
-        "league": "3. Divisjon Avd. 1",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5144530,
-        "kickoff": 1785776400,
-        "fixture": "Lillestrøm 2 vs Kongsvinger 2",
-        "league_id": 205,
-        "league": "3. Divisjon Avd. 5",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5136389,
-        "kickoff": 1785778200,
-        "fixture": "HB Torshavn vs NSI Runavik",
-        "league_id": 250,
-        "league": "Premier League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5833762,
-        "kickoff": 1785808800,
-        "fixture": "Municipal Pérez Zeledón vs C.S. Cartaginés",
-        "league_id": 121,
-        "league": "Primera Division Apertura",
-        "venue": "TBA",
-        "tv_channels": [
-            {
-                "country": "Costa Rica",
-                "channels": [
-                    "FUTV"
-                ]
-            },
-            {
-                "country": "Mexico",
-                "channels": [
-                    "FUTV"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5874147,
-        "kickoff": 1785771900,
-        "fixture": "Etar vs Yantra",
-        "league_id": 9096,
-        "league": "Second Professional League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5874150,
-        "kickoff": 1785776400,
-        "fixture": "Ludogorets Razgrad II vs Lokomotiv Gorna Oryahovitsa",
-        "league_id": 9096,
-        "league": "Second Professional League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5874152,
-        "kickoff": 1785776400,
-        "fixture": "Pirin Blagoevgrad vs PFC CSKA Sofia II",
-        "league_id": 9096,
-        "league": "Second Professional League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5874151,
-        "kickoff": 1785857400,
-        "fixture": "Montana vs Nesebar",
-        "league_id": 9096,
-        "league": "Second Professional League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5952702,
-        "kickoff": 1785783600,
-        "fixture": "Atenas vs Colon",
-        "league_id": 9122,
-        "league": "Segunda Division",
-        "venue": "TBA",
-        "tv_channels": [
-            {
-                "country": "Argentina",
-                "channels": [
-                    "Antel TV Internacional",
-                    "Disney+ Premium"
-                ]
-            },
-            {
-                "country": "Australia",
-                "channels": [
-                    "Antel TV Internacional"
-                ]
-            },
-            {
-                "country": "Austria",
-                "channels": [
-                    "Antel TV Internacional"
-                ]
-            },
-            {
-                "country": "Bolivia, Plurinational State of",
-                "channels": [
-                    "Antel TV Internacional",
-                    "Disney+ Premium"
-                ]
-            },
-            {
-                "country": "Brazil",
-                "channels": [
-                    "Antel TV Internacional",
-                    "Disney+ Premium"
-                ]
-            },
-            {
-                "country": "Chile",
-                "channels": [
-                    "Antel TV Internacional",
-                    "Disney+ Premium"
-                ]
-            },
-            {
-                "country": "Colombia",
-                "channels": [
-                    "Antel TV Internacional",
-                    "Disney+ Premium"
-                ]
-            },
-            {
-                "country": "Costa Rica",
-                "channels": [
-                    "Antel TV Internacional",
-                    "Disney+ Premium"
-                ]
-            },
-            {
-                "country": "Dominican Republic",
-                "channels": [
-                    "Antel TV Internacional",
-                    "Disney+ Premium"
-                ]
-            },
-            {
-                "country": "Ecuador",
-                "channels": [
-                    "Antel TV Internacional",
-                    "Disney+ Premium"
-                ]
-            },
-            {
-                "country": "Guatemala",
-                "channels": [
-                    "Antel TV Internacional",
-                    "Disney+ Premium"
-                ]
-            },
-            {
-                "country": "Honduras",
-                "channels": [
-                    "Antel TV Internacional",
-                    "Disney+ Premium"
-                ]
-            },
-            {
-                "country": "Ireland",
-                "channels": [
-                    "Antel TV Internacional"
-                ]
-            },
-            {
-                "country": "Japan",
-                "channels": [
-                    "Antel TV Internacional"
-                ]
-            },
-            {
-                "country": "Mexico",
-                "channels": [
-                    "Antel TV Internacional",
-                    "Disney+ Premium"
-                ]
-            },
-            {
-                "country": "Nicaragua",
-                "channels": [
-                    "Antel TV Internacional",
-                    "Disney+ Premium"
-                ]
-            },
-            {
-                "country": "Panama",
-                "channels": [
-                    "Antel TV Internacional",
-                    "Disney+ Premium"
-                ]
-            },
-            {
-                "country": "Paraguay",
-                "channels": [
-                    "Antel TV Internacional",
-                    "Disney+ Premium"
-                ]
-            },
-            {
-                "country": "Peru",
-                "channels": [
-                    "Antel TV Internacional",
-                    "Disney+ Premium"
-                ]
-            },
-            {
-                "country": "Poland",
-                "channels": [
-                    "Antel TV Internacional"
-                ]
-            },
-            {
-                "country": "Portugal",
-                "channels": [
-                    "Antel TV Internacional"
-                ]
-            },
-            {
-                "country": "Slovakia",
-                "channels": [
-                    "Antel TV Internacional"
-                ]
-            },
-            {
-                "country": "Spain",
-                "channels": [
-                    "Antel TV Internacional"
-                ]
-            },
-            {
-                "country": "Switzerland",
-                "channels": [
-                    "Antel TV Internacional"
-                ]
-            },
-            {
-                "country": "Uruguay",
-                "channels": [
-                    "Antel TV",
-                    "DSports Uruguay Premium",
-                    "Disney+ Premium"
-                ]
-            },
-            {
-                "country": "Venezuela, Bolivarian Republic of",
-                "channels": [
-                    "Antel TV Internacional",
-                    "Disney+ Premium"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5952704,
-        "kickoff": 1785794400,
-        "fixture": "Paysandu vs Oriental",
-        "league_id": 9122,
-        "league": "Segunda Division",
-        "venue": "TBA",
-        "tv_channels": [
-            {
-                "country": "Argentina",
-                "channels": [
-                    "Antel TV Internacional",
-                    "Disney+ Premium"
-                ]
-            },
-            {
-                "country": "Australia",
-                "channels": [
-                    "Antel TV Internacional"
-                ]
-            },
-            {
-                "country": "Austria",
-                "channels": [
-                    "Antel TV Internacional"
-                ]
-            },
-            {
-                "country": "Bolivia, Plurinational State of",
-                "channels": [
-                    "Antel TV Internacional",
-                    "Disney+ Premium"
-                ]
-            },
-            {
-                "country": "Brazil",
-                "channels": [
-                    "Antel TV Internacional",
-                    "Disney+ Premium"
-                ]
-            },
-            {
-                "country": "Chile",
-                "channels": [
-                    "Antel TV Internacional",
-                    "Disney+ Premium"
-                ]
-            },
-            {
-                "country": "Colombia",
-                "channels": [
-                    "Antel TV Internacional",
-                    "Disney+ Premium"
-                ]
-            },
-            {
-                "country": "Costa Rica",
-                "channels": [
-                    "Antel TV Internacional",
-                    "Disney+ Premium"
-                ]
-            },
-            {
-                "country": "Dominican Republic",
-                "channels": [
-                    "Antel TV Internacional",
-                    "Disney+ Premium"
-                ]
-            },
-            {
-                "country": "Ecuador",
-                "channels": [
-                    "Antel TV Internacional",
-                    "Disney+ Premium"
-                ]
-            },
-            {
-                "country": "Guatemala",
-                "channels": [
-                    "Antel TV Internacional",
-                    "Disney+ Premium"
-                ]
-            },
-            {
-                "country": "Honduras",
-                "channels": [
-                    "Antel TV Internacional",
-                    "Disney+ Premium"
-                ]
-            },
-            {
-                "country": "Ireland",
-                "channels": [
-                    "Antel TV Internacional"
-                ]
-            },
-            {
-                "country": "Japan",
-                "channels": [
-                    "Antel TV Internacional"
-                ]
-            },
-            {
-                "country": "Mexico",
-                "channels": [
-                    "Antel TV Internacional",
-                    "Disney+ Premium"
-                ]
-            },
-            {
-                "country": "Nicaragua",
-                "channels": [
-                    "Antel TV Internacional",
-                    "Disney+ Premium"
-                ]
-            },
-            {
-                "country": "Panama",
-                "channels": [
-                    "Antel TV Internacional",
-                    "Disney+ Premium"
-                ]
-            },
-            {
-                "country": "Paraguay",
-                "channels": [
-                    "Antel TV Internacional",
-                    "Disney+ Premium"
-                ]
-            },
-            {
-                "country": "Peru",
-                "channels": [
-                    "Antel TV Internacional",
-                    "Disney+ Premium"
-                ]
-            },
-            {
-                "country": "Poland",
-                "channels": [
-                    "Antel TV Internacional"
-                ]
-            },
-            {
-                "country": "Portugal",
-                "channels": [
-                    "Antel TV Internacional"
-                ]
-            },
-            {
-                "country": "Slovakia",
-                "channels": [
-                    "Antel TV Internacional"
-                ]
-            },
-            {
-                "country": "Spain",
-                "channels": [
-                    "Antel TV Internacional"
-                ]
-            },
-            {
-                "country": "Switzerland",
-                "channels": [
-                    "Antel TV Internacional"
-                ]
-            },
-            {
-                "country": "Uruguay",
-                "channels": [
-                    "Antel TV",
-                    "DSports Uruguay Premium",
-                    "Disney+ Premium"
-                ]
-            },
-            {
-                "country": "Venezuela, Bolivarian Republic of",
-                "channels": [
-                    "Antel TV Internacional",
-                    "Disney+ Premium"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5200601,
-        "kickoff": 1785769200,
-        "fixture": "AGMK vs Nasaf Qarshi",
-        "league_id": 540,
-        "league": "Superliga",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5200597,
-        "kickoff": 1785771000,
-        "fixture": "Dinamo Samarkand vs Neftchi Fargona",
-        "league_id": 540,
-        "league": "Superliga",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5797174,
-        "kickoff": 1785826800,
-        "fixture": "Dinamo Minsk (W) vs Servette (W)",
-        "league_id": 10612,
-        "league": "Women's Champions League Qualification 2nd Round",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5797175,
-        "kickoff": 1785852000,
-        "fixture": "Breidablik (W) vs Aktobe W (W)",
-        "league_id": 10612,
-        "league": "Women's Champions League Qualification 2nd Round",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5820080,
-        "kickoff": 1785781800,
-        "fixture": "York City vs Crawley",
-        "league_id": 133,
-        "league": "EFL Cup Qualification",
-        "venue": "LNER Community Stadium",
-        "tv_channels": [
-            {
-                "country": "Canada",
-                "channels": [
-                    "DAZN Canada"
-                ]
-            },
-            {
-                "country": "Ireland",
-                "channels": [
-                    "Sky Sports+ Plus"
-                ]
-            },
-            {
-                "country": "United Kingdom",
-                "channels": [
-                    "Sky Sports+ app"
-                ]
-            },
-            {
-                "country": "United States",
-                "channels": [
-                    "Paramount+ (US)"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5978464,
-        "kickoff": 1785780000,
-        "fixture": "Kimberley vs Argentino Monte Maiz",
-        "league_id": 9213,
-        "league": "Federal A Promotion Zona B",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5978499,
-        "kickoff": 1785781800,
-        "fixture": "Defensores de Vilelas vs Sarmiento de Resistencia",
-        "league_id": 9213,
-        "league": "Federal A Relegation Zona A",
-        "venue": "TBA",
-        "tv_channels": [
-            {
-                "country": "Argentina",
-                "channels": [
-                    "FOX Sports",
-                    "Fox Sports Argentina YouTube"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5125577,
-        "kickoff": 1785776700,
-        "fixture": "Örebro vs IFK Värnamo",
-        "league_id": 168,
-        "league": "Superettan",
-        "venue": "TBA",
-        "tv_channels": [
-            {
-                "country": "Sweden",
-                "channels": [
-                    "TV12",
-                    "TV4 Play Sport",
-                    "TV4 Play Sport Fotboll"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5105208,
-        "kickoff": 1785776400,
-        "fixture": "Ranheim vs FK Haugesund",
-        "league_id": 203,
-        "league": "1. Divisjon",
-        "venue": "EXTRA Arena",
-        "tv_channels": [
-            {
-                "country": "Norway",
-                "channels": [
-                    "TV 2 Sport 1"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5101249,
-        "kickoff": 1785772800,
-        "fixture": "Cork City vs Athlone Town",
-        "league_id": 218,
-        "league": "First Division",
-        "venue": "TBA",
-        "tv_channels": [
-            {
-                "country": "Ireland",
-                "channels": [
-                    "LOITV"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5101250,
-        "kickoff": 1785772800,
-        "fixture": "Kerry FC vs Cobh Ramblers",
-        "league_id": 218,
-        "league": "First Division",
-        "venue": "TBA",
-        "tv_channels": [
-            {
-                "country": "Ireland",
-                "channels": [
-                    "LOITV"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5101251,
-        "kickoff": 1785772800,
-        "fixture": "Longford Town vs Finn Harps",
-        "league_id": 218,
-        "league": "First Division",
-        "venue": "TBA",
-        "tv_channels": [
-            {
-                "country": "Ireland",
-                "channels": [
-                    "LOITV"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5101252,
-        "kickoff": 1785772800,
-        "fixture": "UCD vs Treaty United",
-        "league_id": 218,
-        "league": "First Division",
-        "venue": "TBA",
-        "tv_channels": [
-            {
-                "country": "Ireland",
-                "channels": [
-                    "LOITV"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5101253,
-        "kickoff": 1785772800,
-        "fixture": "Wexford FC vs Bray Wanderers",
-        "league_id": 218,
-        "league": "First Division",
-        "venue": "TBA",
-        "tv_channels": [
-            {
-                "country": "Ireland",
-                "channels": [
-                    "LOITV"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5113023,
-        "kickoff": 1785783600,
-        "fixture": "Atletico Guemes vs Tristan Suarez",
-        "league_id": 8965,
-        "league": "Primera Nacional",
-        "venue": "Estadio Arturo Jiya Miranda",
-        "tv_channels": [
-            {
-                "country": "Argentina",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Australia",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Austria",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Bolivia, Plurinational State of",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Chile",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Colombia",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Costa Rica",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Dominican Republic",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Ecuador",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Guatemala",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Honduras",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Ireland",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Japan",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Mexico",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Nicaragua",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Panama",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Paraguay",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Peru",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Poland",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Portugal",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Slovakia",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Spain",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Switzerland",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Uruguay",
-                "channels": [
-                    "LPF Play"
-                ]
-            },
-            {
-                "country": "Venezuela, Bolivarian Republic of",
-                "channels": [
-                    "LPF Play"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5107550,
-        "kickoff": 1785776400,
-        "fixture": "Djurgården vs Västerås SK",
-        "league_id": 67,
-        "league": "Allsvenskan",
-        "venue": "3Arena",
-        "tv_channels": [
-            {
-                "country": "Finland",
-                "channels": [
-                    "MTV Katsomo",
-                    "MTV Urheilu 2"
-                ]
-            },
-            {
-                "country": "Norway",
-                "channels": [
-                    "VG TV"
-                ]
-            },
-            {
-                "country": "Sweden",
-                "channels": [
-                    "TV4 Fotboll",
-                    "TV4 Play Sport Fotboll"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5107556,
-        "kickoff": 1785776400,
-        "fixture": "Halmstads BK vs Sirius",
-        "league_id": 67,
-        "league": "Allsvenskan",
-        "venue": "Örjans Vall",
-        "tv_channels": [
-            {
-                "country": "Norway",
-                "channels": [
-                    "VG TV"
-                ]
-            },
-            {
-                "country": "Sweden",
-                "channels": [
-                    "TV4 Play Sport Fotboll",
-                    "TV4 Sport Live 1"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5803923,
-        "kickoff": 1785776400,
-        "fixture": "Cracovia vs Pogoń Szczecin",
-        "league_id": 196,
-        "league": "Ekstraklasa",
-        "venue": "Stadion Cracovii im. Józefa Piłsudskiego",
-        "tv_channels": [
-            {
-                "country": "Canada",
-                "channels": [
-                    "beIN Sport Canada",
-                    "beIN Sport Canada Espanol"
-                ]
-            },
-            {
-                "country": "Poland",
-                "channels": [
-                    "CANAL+ Sport 3",
-                    "CANAL+ Sport 5"
-                ]
-            },
-            {
-                "country": "United States",
-                "channels": [
-                    "Fanatiz",
-                    "beIN Sport USA",
-                    "beIN Sport USA Español"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5760450,
-        "kickoff": 1785780900,
-        "fixture": "Spartak Varna vs Lokomotiv Plovdiv",
-        "league_id": 270,
-        "league": "First Professional League",
-        "venue": "Spartak, Varna",
-        "tv_channels": []
     },
     {
         "match_id": 5115916,
@@ -2327,6 +1535,155 @@
         ]
     },
     {
+        "match_id": 5954297,
+        "kickoff": 1785805200,
+        "fixture": "Independiente de La Chorrera vs Herrera FC",
+        "league_id": 9039,
+        "league": "LPF Apertura",
+        "venue": "TBA",
+        "tv_channels": [
+            {
+                "country": "Panama",
+                "channels": [
+                    "FOX"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5865431,
+        "kickoff": 1785774600,
+        "fixture": "Zalaegerszeg vs Paksi SE",
+        "league_id": 212,
+        "league": "NB I",
+        "venue": "ZTE Arena",
+        "tv_channels": [
+            {
+                "country": "Hungary",
+                "channels": [
+                    "M4 Sports"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5143980,
+        "kickoff": 1785772800,
+        "fixture": "Nardo vs Molde 2",
+        "league_id": 205,
+        "league": "3. Divisjon Avd. 2",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5143979,
+        "kickoff": 1785772800,
+        "fixture": "Strindheim vs Aalesund 2",
+        "league_id": 205,
+        "league": "3. Divisjon Avd. 2",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5143982,
+        "kickoff": 1785776400,
+        "fixture": "Kvik vs Melhus",
+        "league_id": 205,
+        "league": "3. Divisjon Avd. 2",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5143981,
+        "kickoff": 1785776400,
+        "fixture": "Orkla vs Rosenborg 2",
+        "league_id": 205,
+        "league": "3. Divisjon Avd. 2",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5144164,
+        "kickoff": 1785772800,
+        "fixture": "Djerv 1919 vs Åsane 2",
+        "league_id": 205,
+        "league": "3. Divisjon Avd. 3",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5144165,
+        "kickoff": 1785772800,
+        "fixture": "Sogndal 2 vs Førde",
+        "league_id": 205,
+        "league": "3. Divisjon Avd. 3",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5144166,
+        "kickoff": 1785776400,
+        "fixture": "Brann 2 vs Stord",
+        "league_id": 205,
+        "league": "3. Divisjon Avd. 3",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5144347,
+        "kickoff": 1785772800,
+        "fixture": "Brodd vs Stabæk 2",
+        "league_id": 205,
+        "league": "3. Divisjon Avd. 4",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5144348,
+        "kickoff": 1785772800,
+        "fixture": "Vindbjart vs Odd 2",
+        "league_id": 205,
+        "league": "3. Divisjon Avd. 4",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5144722,
+        "kickoff": 1785772800,
+        "fixture": "Brumunddal vs Lyn 2",
+        "league_id": 205,
+        "league": "3. Divisjon Avd. 6",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5144723,
+        "kickoff": 1785772800,
+        "fixture": "Oppsal vs Sarpsborg 08 2",
+        "league_id": 205,
+        "league": "3. Divisjon Avd. 6",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5143801,
+        "kickoff": 1785776400,
+        "fixture": "KFUM 2 vs Grei",
+        "league_id": 205,
+        "league": "3. Divisjon Avd. 1",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5144530,
+        "kickoff": 1785776400,
+        "fixture": "Lillestrøm 2 vs Kongsvinger 2",
+        "league_id": 205,
+        "league": "3. Divisjon Avd. 5",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5909120,
         "kickoff": 1785769200,
         "fixture": "Shakhtar Donetsk vs Kudrivka",
@@ -2493,6 +1850,719 @@
         ]
     },
     {
+        "match_id": 5136389,
+        "kickoff": 1785778200,
+        "fixture": "HB Torshavn vs NSI Runavik",
+        "league_id": 250,
+        "league": "Premier League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5793903,
+        "kickoff": 1785781800,
+        "fixture": "Celtic vs Dundee FC",
+        "league_id": 64,
+        "league": "Premiership",
+        "venue": "Celtic Park",
+        "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "beIN SPORTS 3"
+                ]
+            },
+            {
+                "country": "Austria",
+                "channels": [
+                    "OneFootball PPV",
+                    "Sportdigital Fussball",
+                    "Sportdigital+ App",
+                    "Sportdigital.de"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Canal GOAT",
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Germany",
+                "channels": [
+                    "Sportdigital FUSSBALL",
+                    "Sportdigital+"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Sky Sports Football",
+                    "Sky Sports Main Event",
+                    "Sky Sports Main Event Ultra HD"
+                ]
+            },
+            {
+                "country": "Poland",
+                "channels": [
+                    "Polsat Sport 2"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "channels": [
+                    "Sport TV 1"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "channels": [
+                    "OneFootball PPV",
+                    "Sportdigital Fussball"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "NOW TV",
+                    "Sky Sports Football",
+                    "Sky Sports Main Event",
+                    "Sky Sports UHD",
+                    "Sky Sports+ app"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Paramount+ (US)"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5833762,
+        "kickoff": 1785808800,
+        "fixture": "Municipal Pérez Zeledón vs C.S. Cartaginés",
+        "league_id": 121,
+        "league": "Primera Division Apertura",
+        "venue": "TBA",
+        "tv_channels": [
+            {
+                "country": "Costa Rica",
+                "channels": [
+                    "FUTV"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "channels": [
+                    "FUTV"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5113023,
+        "kickoff": 1785783600,
+        "fixture": "Atletico Guemes vs Tristan Suarez",
+        "league_id": 8965,
+        "league": "Primera Nacional",
+        "venue": "Estadio Arturo Jiya Miranda",
+        "tv_channels": [
+            {
+                "country": "Argentina",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Australia",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Austria",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Panama",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Poland",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Slovakia",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Venezuela, Bolivarian Republic of",
+                "channels": [
+                    "LPF Play"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5851910,
+        "kickoff": 1785849300,
+        "fixture": "Akron Togliatti vs Rostov",
+        "league_id": 193,
+        "league": "Cup Grp. D",
+        "venue": "Solidarnost Samara Arena",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5851898,
+        "kickoff": 1785865500,
+        "fixture": "Lokomotiv vs CSKA",
+        "league_id": 193,
+        "league": "Cup Grp. D",
+        "venue": "RZD Arena",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5874147,
+        "kickoff": 1785771900,
+        "fixture": "Etar vs Yantra",
+        "league_id": 9096,
+        "league": "Second Professional League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5874150,
+        "kickoff": 1785776400,
+        "fixture": "Ludogorets Razgrad II vs Lokomotiv Gorna Oryahovitsa",
+        "league_id": 9096,
+        "league": "Second Professional League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5874152,
+        "kickoff": 1785776400,
+        "fixture": "Pirin Blagoevgrad vs PFC CSKA Sofia II",
+        "league_id": 9096,
+        "league": "Second Professional League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5874151,
+        "kickoff": 1785857400,
+        "fixture": "Montana vs Nesebar",
+        "league_id": 9096,
+        "league": "Second Professional League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5952702,
+        "kickoff": 1785783600,
+        "fixture": "Atenas vs Colon",
+        "league_id": 9122,
+        "league": "Segunda Division",
+        "venue": "TBA",
+        "tv_channels": [
+            {
+                "country": "Argentina",
+                "channels": [
+                    "Antel TV Internacional",
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Australia",
+                "channels": [
+                    "Antel TV Internacional"
+                ]
+            },
+            {
+                "country": "Austria",
+                "channels": [
+                    "Antel TV Internacional"
+                ]
+            },
+            {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "Antel TV Internacional",
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Antel TV Internacional",
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "Antel TV Internacional",
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "channels": [
+                    "Antel TV Internacional",
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "channels": [
+                    "Antel TV Internacional",
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "channels": [
+                    "Antel TV Internacional",
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "Antel TV Internacional",
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "channels": [
+                    "Antel TV Internacional",
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "channels": [
+                    "Antel TV Internacional",
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Antel TV Internacional"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "Antel TV Internacional"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "channels": [
+                    "Antel TV Internacional",
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "channels": [
+                    "Antel TV Internacional",
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Panama",
+                "channels": [
+                    "Antel TV Internacional",
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "Antel TV Internacional",
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "Antel TV Internacional",
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Poland",
+                "channels": [
+                    "Antel TV Internacional"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "channels": [
+                    "Antel TV Internacional"
+                ]
+            },
+            {
+                "country": "Slovakia",
+                "channels": [
+                    "Antel TV Internacional"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "Antel TV Internacional"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "channels": [
+                    "Antel TV Internacional"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "Antel TV",
+                    "DSports Uruguay Premium",
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Venezuela, Bolivarian Republic of",
+                "channels": [
+                    "Antel TV Internacional",
+                    "Disney+ Premium"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5952704,
+        "kickoff": 1785794400,
+        "fixture": "Paysandu vs Oriental",
+        "league_id": 9122,
+        "league": "Segunda Division",
+        "venue": "TBA",
+        "tv_channels": [
+            {
+                "country": "Argentina",
+                "channels": [
+                    "Antel TV Internacional",
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Australia",
+                "channels": [
+                    "Antel TV Internacional"
+                ]
+            },
+            {
+                "country": "Austria",
+                "channels": [
+                    "Antel TV Internacional"
+                ]
+            },
+            {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "Antel TV Internacional",
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Antel TV Internacional",
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "Antel TV Internacional",
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "channels": [
+                    "Antel TV Internacional",
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "channels": [
+                    "Antel TV Internacional",
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "channels": [
+                    "Antel TV Internacional",
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "Antel TV Internacional",
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "channels": [
+                    "Antel TV Internacional",
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "channels": [
+                    "Antel TV Internacional",
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Antel TV Internacional"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "Antel TV Internacional"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "channels": [
+                    "Antel TV Internacional",
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "channels": [
+                    "Antel TV Internacional",
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Panama",
+                "channels": [
+                    "Antel TV Internacional",
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "Antel TV Internacional",
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "Antel TV Internacional",
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Poland",
+                "channels": [
+                    "Antel TV Internacional"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "channels": [
+                    "Antel TV Internacional"
+                ]
+            },
+            {
+                "country": "Slovakia",
+                "channels": [
+                    "Antel TV Internacional"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "Antel TV Internacional"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "channels": [
+                    "Antel TV Internacional"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "Antel TV",
+                    "DSports Uruguay Premium",
+                    "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Venezuela, Bolivarian Republic of",
+                "channels": [
+                    "Antel TV Internacional",
+                    "Disney+ Premium"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5125577,
+        "kickoff": 1785776700,
+        "fixture": "Örebro vs IFK Värnamo",
+        "league_id": 168,
+        "league": "Superettan",
+        "venue": "TBA",
+        "tv_channels": [
+            {
+                "country": "Sweden",
+                "channels": [
+                    "TV12",
+                    "TV4 Play Sport",
+                    "TV4 Play Sport Fotboll"
+                ]
+            }
+        ]
+    },
+    {
         "match_id": 5853454,
         "kickoff": 1785771000,
         "fixture": "Universitatea Cluj vs Botosani",
@@ -2508,6 +2578,33 @@
         "league_id": 189,
         "league": "Superliga",
         "venue": "Stadionul Arcul de Triumf",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5200601,
+        "kickoff": 1785769200,
+        "fixture": "AGMK vs Nasaf Qarshi",
+        "league_id": 540,
+        "league": "Superliga",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5200597,
+        "kickoff": 1785771000,
+        "fixture": "Dinamo Samarkand vs Neftchi Fargona",
+        "league_id": 540,
+        "league": "Superliga",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5739474,
+        "kickoff": 1785776400,
+        "fixture": "OB vs Sønderjyske",
+        "league_id": 46,
+        "league": "Superligaen",
+        "venue": "Nature Energy Park",
         "tv_channels": []
     },
     {
@@ -2689,94 +2786,21 @@
         ]
     },
     {
-        "match_id": 5793903,
-        "kickoff": 1785781800,
-        "fixture": "Celtic vs Dundee FC",
-        "league_id": 64,
-        "league": "Premiership",
-        "venue": "Celtic Park",
-        "tv_channels": [
-            {
-                "country": "Australia",
-                "channels": [
-                    "beIN SPORTS 3"
-                ]
-            },
-            {
-                "country": "Austria",
-                "channels": [
-                    "OneFootball PPV",
-                    "Sportdigital Fussball",
-                    "Sportdigital+ App",
-                    "Sportdigital.de"
-                ]
-            },
-            {
-                "country": "Brazil",
-                "channels": [
-                    "Canal GOAT",
-                    "OneFootball"
-                ]
-            },
-            {
-                "country": "Germany",
-                "channels": [
-                    "Sportdigital FUSSBALL",
-                    "Sportdigital+"
-                ]
-            },
-            {
-                "country": "Ireland",
-                "channels": [
-                    "Sky Sports Football",
-                    "Sky Sports Main Event",
-                    "Sky Sports Main Event Ultra HD"
-                ]
-            },
-            {
-                "country": "Poland",
-                "channels": [
-                    "Polsat Sport 2"
-                ]
-            },
-            {
-                "country": "Portugal",
-                "channels": [
-                    "Sport TV 1"
-                ]
-            },
-            {
-                "country": "Switzerland",
-                "channels": [
-                    "OneFootball PPV",
-                    "Sportdigital Fussball"
-                ]
-            },
-            {
-                "country": "United Kingdom",
-                "channels": [
-                    "NOW TV",
-                    "Sky Sports Football",
-                    "Sky Sports Main Event",
-                    "Sky Sports UHD",
-                    "Sky Sports+ app"
-                ]
-            },
-            {
-                "country": "United States",
-                "channels": [
-                    "Paramount+ (US)"
-                ]
-            }
-        ]
+        "match_id": 5797174,
+        "kickoff": 1785826800,
+        "fixture": "Dinamo Minsk (W) vs Servette (W)",
+        "league_id": 10612,
+        "league": "Women's Champions League Qualification 2nd Round",
+        "venue": "TBA",
+        "tv_channels": []
     },
     {
-        "match_id": 5739474,
-        "kickoff": 1785776400,
-        "fixture": "OB vs Sønderjyske",
-        "league_id": 46,
-        "league": "Superligaen",
-        "venue": "Nature Energy Park",
+        "match_id": 5797175,
+        "kickoff": 1785852000,
+        "fixture": "Breidablik (W) vs Aktobe W (W)",
+        "league_id": 10612,
+        "league": "Women's Champions League Qualification 2nd Round",
+        "venue": "TBA",
         "tv_channels": []
     },
     {
@@ -3182,6 +3206,7 @@
             {
                 "country": "Chile",
                 "channels": [
+                    "Fanatiz",
                     "LigaFUTVE App"
                 ]
             },
@@ -3282,6 +3307,7 @@
             {
                 "country": "Portugal",
                 "channels": [
+                    "Fanatiz",
                     "LigaFUTVE App"
                 ]
             },
@@ -3324,6 +3350,15 @@
                 ]
             }
         ]
+    },
+    {
+        "match_id": 1000018862,
+        "kickoff": 1785877200,
+        "fixture": "Carabobo FC vs Trujillanos FC",
+        "league_id": 339,
+        "league": "Primera División",
+        "venue": "Estadio Polideportivo Misael Delgado",
+        "tv_channels": []
     },
     {
         "match_id": 1000009054,
@@ -3673,7 +3708,8 @@
             {
                 "country": "Portugal",
                 "channels": [
-                    "CAF TV YouTube"
+                    "CAF TV YouTube",
+                    "Fanatiz"
                 ]
             },
             {
@@ -3849,7 +3885,8 @@
             {
                 "country": "Portugal",
                 "channels": [
-                    "CAF TV YouTube"
+                    "CAF TV YouTube",
+                    "Fanatiz"
                 ]
             },
             {
@@ -4433,24 +4470,6 @@
         "league_id": 512,
         "league": "Regionalliga Northeast",
         "venue": "Avnet Arena",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5851910,
-        "kickoff": 1785855600,
-        "fixture": "Akron Togliatti vs Rostov",
-        "league_id": 193,
-        "league": "Cup Grp. D",
-        "venue": "Solidarnost Samara Arena",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5851898,
-        "kickoff": 1785865500,
-        "fixture": "Lokomotiv vs CSKA",
-        "league_id": 193,
-        "league": "Cup Grp. D",
-        "venue": "RZD Arena",
         "tv_channels": []
     },
     {

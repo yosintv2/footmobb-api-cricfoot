@@ -201,6 +201,12 @@
                 ]
             },
             {
+                "country": "Australia",
+                "channels": [
+                    "7Mate"
+                ]
+            },
+            {
                 "country": "Chile",
                 "channels": [
                     "Amazon Prime Video",
@@ -2918,24 +2924,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5851910,
-        "kickoff": 1785855600,
-        "fixture": "Akron Togliatti vs Rostov",
-        "league_id": 193,
-        "league": "Cup Grp. D",
-        "venue": "Solidarnost Samara Arena",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5851898,
-        "kickoff": 1785865500,
-        "fixture": "Lokomotiv vs CSKA",
-        "league_id": 193,
-        "league": "Cup Grp. D",
-        "venue": "RZD Arena",
-        "tv_channels": []
-    },
-    {
         "match_id": 5851852,
         "kickoff": 1785857400,
         "fixture": "Rodina vs Rubin",
@@ -2969,6 +2957,15 @@
         "league_id": 193,
         "league": "Cup Grp. C",
         "venue": "Gazprom Arena",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5851898,
+        "kickoff": 1785865500,
+        "fixture": "Lokomotiv vs CSKA",
+        "league_id": 193,
+        "league": "Cup Grp. D",
+        "venue": "RZD Arena",
         "tv_channels": []
     },
     {
@@ -3923,6 +3920,96 @@
         "tv_channels": []
     },
     {
+        "match_id": 1000018862,
+        "kickoff": 1785877200,
+        "fixture": "Carabobo FC vs Trujillanos FC",
+        "league_id": 339,
+        "league": "Primera División",
+        "venue": "Estadio Polideportivo Misael Delgado",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000018861,
+        "kickoff": 1785880800,
+        "fixture": "Universidad Central vs Monagas SC",
+        "league_id": 339,
+        "league": "Primera División",
+        "venue": "Estadio Olímpico de la UCV",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000018866,
+        "kickoff": 1785882600,
+        "fixture": "Deportivo Tachira vs Portuguesa FC",
+        "league_id": 339,
+        "league": "Primera División",
+        "venue": "Estadio Polideportivo de Pueblo Nuevo",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000018867,
+        "kickoff": 1785888000,
+        "fixture": "Trujillanos FC vs Deportivo Tachira",
+        "league_id": 339,
+        "league": "Primera División",
+        "venue": "Estadio José Alberto Pérez",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000018868,
+        "kickoff": 1785888000,
+        "fixture": "Monagas SC vs Carabobo FC",
+        "league_id": 339,
+        "league": "Primera División",
+        "venue": "Estadio Monumental de Maturín",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000018869,
+        "kickoff": 1785888000,
+        "fixture": "Metropolitanos FC vs Universidad Central",
+        "league_id": 339,
+        "league": "Primera División",
+        "venue": "Estadio Olímpico de la UCV",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000018870,
+        "kickoff": 1785888000,
+        "fixture": "Anzoategui FC vs Portuguesa FC",
+        "league_id": 339,
+        "league": "Primera División",
+        "venue": "Estadio Olímpico General José Antonio Anzoátegui",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000018871,
+        "kickoff": 1785888000,
+        "fixture": "Caracas vs Deportivo La Guaira",
+        "league_id": 339,
+        "league": "Primera División",
+        "venue": "Estadio Olímpico de la UCV",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000018872,
+        "kickoff": 1785888000,
+        "fixture": "Zamora FC vs Academia Puerto Cabello",
+        "league_id": 339,
+        "league": "Primera División",
+        "venue": "Estadio Rafael Agustín Tovar",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000018873,
+        "kickoff": 1785888000,
+        "fixture": "Rayo Zuliano vs Estudiantes Merida",
+        "league_id": 339,
+        "league": "Primera División",
+        "venue": "Estadio Olímpico José Encarnación Pachencho Romero",
+        "tv_channels": []
+    },
+    {
         "match_id": 1000005779,
         "kickoff": 1785873600,
         "fixture": "Burkina Faso vs South Africa",
@@ -4689,7 +4776,14 @@
         "league_id": 8965,
         "league": "Primera Nacional",
         "venue": "Estadio Tres de Febrero",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Argentina",
+                "channels": [
+                    "APLAZADO"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000012774,

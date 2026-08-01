@@ -1210,7 +1210,14 @@
         "league_id": 10615,
         "league": "Conference League Qualification",
         "venue": "AIL Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Switzerland",
+                "channels": [
+                    "RSI La 2"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5955331,
@@ -1264,6 +1271,15 @@
         "league_id": 10615,
         "league": "Conference League Qualification",
         "venue": "Stadio Olimpico di Serravalle",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5850709,
+        "kickoff": 1785974400,
+        "fixture": "Santa Fe vs Union Magdalena",
+        "league_id": 9490,
+        "league": "Cup",
+        "venue": "TBA",
         "tv_channels": []
     },
     {
@@ -2929,7 +2945,14 @@
         "league_id": 8965,
         "league": "Primera Nacional",
         "venue": "Estadio Tres de Febrero",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Argentina",
+                "channels": [
+                    "APLAZADO"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5113009,
@@ -2938,7 +2961,14 @@
         "league_id": 8965,
         "league": "Primera Nacional",
         "venue": "Estadio Centenario Ciudad de Quilmes",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Argentina",
+                "channels": [
+                    "APLAZADO"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5115891,
@@ -3098,7 +3128,8 @@
             {
                 "country": "United States",
                 "channels": [
-                    "Fanatiz"
+                    "Fanatiz",
+                    "ViX"
                 ]
             },
             {
@@ -4539,6 +4570,18 @@
         "venue": "Estadio Campeones del '36",
         "tv_channels": [
             {
+                "country": "Argentina",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Australia",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
                 "country": "Austria",
                 "channels": [
                     "Fanatiz"
@@ -4546,6 +4589,36 @@
             },
             {
                 "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
                 "channels": [
                     "Fanatiz"
                 ]
@@ -4569,7 +4642,19 @@
                 ]
             },
             {
+                "country": "Ireland",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
                 "country": "Japan",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Mexico",
                 "channels": [
                     "Fanatiz"
                 ]
@@ -4587,14 +4672,51 @@
                 ]
             },
             {
+                "country": "Paraguay",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
                 "country": "Peru",
                 "channels": [
+                    "Fanatiz",
                     "L1 Max",
                     "L1 Play"
                 ]
             },
             {
                 "country": "Poland",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Slovakia",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Uruguay",
                 "channels": [
                     "Fanatiz"
                 ]

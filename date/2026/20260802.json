@@ -5032,12 +5032,21 @@
         "tv_channels": []
     },
     {
+        "match_id": 5900444,
+        "kickoff": 1785598200,
+        "fixture": "Bologna vs Cambuur",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "Centro Tecnico Niccolò Galli",
+        "tv_channels": []
+    },
+    {
         "match_id": 5900172,
         "kickoff": 1785600000,
         "fixture": "Angers vs Le Mans",
         "league_id": 489,
         "league": "Club Friendlies",
-        "venue": "TBC (France)",
+        "venue": "Stade André Conty",
         "tv_channels": []
     },
     {
@@ -5355,7 +5364,7 @@
         "fixture": "Saint-Etienne vs Venezia",
         "league_id": 489,
         "league": "Club Friendlies",
-        "venue": "Stade Joseph Moynat 1",
+        "venue": "Complexe sportif de Divonne-les-Bains",
         "tv_channels": [
             {
                 "country": "Italy",
@@ -6405,6 +6414,18 @@
                 "country": "Poland",
                 "channels": [
                     "ODŁOŻONY"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Slovakia",
+                "channels": [
+                    "Sporty TV"
                 ]
             }
         ]
@@ -9258,7 +9279,7 @@
     {
         "match_id": 5974661,
         "kickoff": 1785679200,
-        "fixture": "FC Residence Walferdange vs US Hostert",
+        "fixture": "FC Résidence Walferdange vs US Hostert",
         "league_id": 229,
         "league": "National Division",
         "venue": "TBA",

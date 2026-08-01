@@ -5640,6 +5640,12 @@
                 ]
             },
             {
+                "country": "Portugal",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
                 "country": "United States",
                 "channels": [
                     "Fanatiz",
@@ -10382,7 +10388,8 @@
             {
                 "country": "Portugal",
                 "channels": [
-                    "CAF TV YouTube"
+                    "CAF TV YouTube",
+                    "Fanatiz"
                 ]
             },
             {
@@ -10558,7 +10565,8 @@
             {
                 "country": "Portugal",
                 "channels": [
-                    "CAF TV YouTube"
+                    "CAF TV YouTube",
+                    "Fanatiz"
                 ]
             },
             {
@@ -10603,6 +10611,40 @@
         ]
     },
     {
+        "match_id": 5820080,
+        "kickoff": 1785781800,
+        "fixture": "York City vs Crawley",
+        "league_id": 133,
+        "league": "EFL Cup Qualification",
+        "venue": "LNER Community Stadium",
+        "tv_channels": [
+            {
+                "country": "Canada",
+                "channels": [
+                    "DAZN Canada"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Sky Sports+ Plus"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Sky Sports+ app"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Paramount+ (US)"
+                ]
+            }
+        ]
+    },
+    {
         "match_id": 5820689,
         "kickoff": 1785769200,
         "fixture": "Inter Bratislava vs Zilina B",
@@ -10614,6 +10656,59 @@
                 "country": "Slovakia",
                 "channels": [
                     ";Šport"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5107550,
+        "kickoff": 1785776400,
+        "fixture": "Djurgården vs Västerås SK",
+        "league_id": 67,
+        "league": "Allsvenskan",
+        "venue": "3Arena",
+        "tv_channels": [
+            {
+                "country": "Finland",
+                "channels": [
+                    "MTV Katsomo",
+                    "MTV Urheilu 2"
+                ]
+            },
+            {
+                "country": "Norway",
+                "channels": [
+                    "VG TV"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "channels": [
+                    "TV4 Fotboll",
+                    "TV4 Play Sport Fotboll"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5107556,
+        "kickoff": 1785776400,
+        "fixture": "Halmstads BK vs Sirius",
+        "league_id": 67,
+        "league": "Allsvenskan",
+        "venue": "Örjans Vall",
+        "tv_channels": [
+            {
+                "country": "Norway",
+                "channels": [
+                    "VG TV"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "channels": [
+                    "TV4 Play Sport Fotboll",
+                    "TV4 Sport Live 1"
                 ]
             }
         ]
@@ -10675,6 +10770,86 @@
         "league": "Ettan Norra",
         "venue": "TBA",
         "tv_channels": []
+    },
+    {
+        "match_id": 5101249,
+        "kickoff": 1785772800,
+        "fixture": "Cork City vs Athlone Town",
+        "league_id": 218,
+        "league": "First Division",
+        "venue": "TBA",
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOITV"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5101250,
+        "kickoff": 1785772800,
+        "fixture": "Kerry FC vs Cobh Ramblers",
+        "league_id": 218,
+        "league": "First Division",
+        "venue": "TBA",
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOITV"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5101251,
+        "kickoff": 1785772800,
+        "fixture": "Longford Town vs Finn Harps",
+        "league_id": 218,
+        "league": "First Division",
+        "venue": "TBA",
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOITV"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5101252,
+        "kickoff": 1785772800,
+        "fixture": "UCD vs Treaty United",
+        "league_id": 218,
+        "league": "First Division",
+        "venue": "TBA",
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOITV"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5101253,
+        "kickoff": 1785772800,
+        "fixture": "Wexford FC vs Bray Wanderers",
+        "league_id": 218,
+        "league": "First Division",
+        "venue": "TBA",
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOITV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5143980,
@@ -10776,40 +10951,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5820080,
-        "kickoff": 1785781800,
-        "fixture": "York City vs Crawley",
-        "league_id": 133,
-        "league": "EFL Cup Qualification",
-        "venue": "LNER Community Stadium",
-        "tv_channels": [
-            {
-                "country": "Canada",
-                "channels": [
-                    "DAZN Canada"
-                ]
-            },
-            {
-                "country": "Ireland",
-                "channels": [
-                    "Sky Sports+ Plus"
-                ]
-            },
-            {
-                "country": "United Kingdom",
-                "channels": [
-                    "Sky Sports+ app"
-                ]
-            },
-            {
-                "country": "United States",
-                "channels": [
-                    "Paramount+ (US)"
-                ]
-            }
-        ]
-    },
-    {
         "match_id": 5125577,
         "kickoff": 1785776700,
         "fixture": "Örebro vs IFK Värnamo",
@@ -10823,139 +10964,6 @@
                     "TV12",
                     "TV4 Play Sport",
                     "TV4 Play Sport Fotboll"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5101249,
-        "kickoff": 1785772800,
-        "fixture": "Cork City vs Athlone Town",
-        "league_id": 218,
-        "league": "First Division",
-        "venue": "TBA",
-        "tv_channels": [
-            {
-                "country": "Ireland",
-                "channels": [
-                    "LOITV"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5101250,
-        "kickoff": 1785772800,
-        "fixture": "Kerry FC vs Cobh Ramblers",
-        "league_id": 218,
-        "league": "First Division",
-        "venue": "TBA",
-        "tv_channels": [
-            {
-                "country": "Ireland",
-                "channels": [
-                    "LOITV"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5101251,
-        "kickoff": 1785772800,
-        "fixture": "Longford Town vs Finn Harps",
-        "league_id": 218,
-        "league": "First Division",
-        "venue": "TBA",
-        "tv_channels": [
-            {
-                "country": "Ireland",
-                "channels": [
-                    "LOITV"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5101252,
-        "kickoff": 1785772800,
-        "fixture": "UCD vs Treaty United",
-        "league_id": 218,
-        "league": "First Division",
-        "venue": "TBA",
-        "tv_channels": [
-            {
-                "country": "Ireland",
-                "channels": [
-                    "LOITV"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5101253,
-        "kickoff": 1785772800,
-        "fixture": "Wexford FC vs Bray Wanderers",
-        "league_id": 218,
-        "league": "First Division",
-        "venue": "TBA",
-        "tv_channels": [
-            {
-                "country": "Ireland",
-                "channels": [
-                    "LOITV"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5107550,
-        "kickoff": 1785776400,
-        "fixture": "Djurgården vs Västerås SK",
-        "league_id": 67,
-        "league": "Allsvenskan",
-        "venue": "3Arena",
-        "tv_channels": [
-            {
-                "country": "Finland",
-                "channels": [
-                    "MTV Katsomo",
-                    "MTV Urheilu 2"
-                ]
-            },
-            {
-                "country": "Norway",
-                "channels": [
-                    "VG TV"
-                ]
-            },
-            {
-                "country": "Sweden",
-                "channels": [
-                    "TV4 Fotboll",
-                    "TV4 Play Sport Fotboll"
-                ]
-            }
-        ]
-    },
-    {
-        "match_id": 5107556,
-        "kickoff": 1785776400,
-        "fixture": "Halmstads BK vs Sirius",
-        "league_id": 67,
-        "league": "Allsvenskan",
-        "venue": "Örjans Vall",
-        "tv_channels": [
-            {
-                "country": "Norway",
-                "channels": [
-                    "VG TV"
-                ]
-            },
-            {
-                "country": "Sweden",
-                "channels": [
-                    "TV4 Play Sport Fotboll",
-                    "TV4 Sport Live 1"
                 ]
             }
         ]

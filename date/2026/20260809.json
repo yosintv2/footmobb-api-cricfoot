@@ -45,21 +45,21 @@
         "tv_channels": []
     },
     {
-        "match_id": 5772152,
-        "kickoff": 1786204800,
-        "fixture": "Spartak Trnava vs Dukla Banska Bystrica",
-        "league_id": 176,
-        "league": "1. Liga",
-        "venue": "CITY ARENA – Štadión Antona Malatinského",
-        "tv_channels": []
-    },
-    {
         "match_id": 5772150,
         "kickoff": 1786204800,
         "fixture": "Zemplin Michalovce vs Komarno",
         "league_id": 176,
         "league": "1. Liga",
         "venue": "Futbalový štadión MFK Zemplín",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5772152,
+        "kickoff": 1786213800,
+        "fixture": "Spartak Trnava vs Dukla Banska Bystrica",
+        "league_id": 176,
+        "league": "1. Liga",
+        "venue": "CITY ARENA – Štadión Antona Malatinského",
         "tv_channels": []
     },
     {
@@ -249,7 +249,14 @@
         "league_id": 489,
         "league": "Club Friendlies",
         "venue": "Stade Bollaert-Delelis",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "SAFC Live"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5449684,
@@ -936,7 +943,14 @@
         "league_id": 9906,
         "league": "Liga MX Femenil Apertura",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "ViX"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5977303,
@@ -1766,6 +1780,12 @@
         "league": "NWSL",
         "venue": "Centennial Stadium",
         "tv_channels": [
+            {
+                "country": "Japan",
+                "channels": [
+                    "NWSL+"
+                ]
+            },
             {
                 "country": "United Kingdom",
                 "channels": [
@@ -2967,7 +2987,20 @@
         "league_id": 9213,
         "league": "Primera B Metropolitana",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "LPF Play"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5113981,
@@ -2976,7 +3009,20 @@
         "league_id": 9213,
         "league": "Primera B Metropolitana",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "LPF Play"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5113983,
@@ -2985,7 +3031,20 @@
         "league_id": 9213,
         "league": "Primera B Metropolitana",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "LPF Play"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5113990,
@@ -2994,7 +3053,20 @@
         "league_id": 9213,
         "league": "Primera B Metropolitana",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "LPF Play"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5113982,
@@ -3003,7 +3075,20 @@
         "league_id": 9213,
         "league": "Primera B Metropolitana",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "LPF Play"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5113985,
@@ -3012,7 +3097,20 @@
         "league_id": 9213,
         "league": "Primera B Metropolitana",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "LPF Play"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5113984,
@@ -3021,7 +3119,20 @@
         "league_id": 9213,
         "league": "Primera B Metropolitana",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "LPF Play"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5113986,
@@ -3030,7 +3141,20 @@
         "league_id": 9213,
         "league": "Primera B Metropolitana",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "LPF Play"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5113987,
@@ -3039,7 +3163,20 @@
         "league_id": 9213,
         "league": "Primera B Metropolitana",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "LPF Play"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5113988,
@@ -3048,7 +3185,20 @@
         "league_id": 9213,
         "league": "Primera B Metropolitana",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "LPF Play"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5113989,
@@ -3057,7 +3207,20 @@
         "league_id": 9213,
         "league": "Primera B Metropolitana",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "LPF Play"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5125585,
@@ -3370,6 +3533,12 @@
                 ]
             },
             {
+                "country": "Germany",
+                "channels": [
+                    "DAZN Deutschland"
+                ]
+            },
+            {
                 "country": "Netherlands",
                 "channels": [
                     "Viaplay NL"
@@ -3442,6 +3611,12 @@
                 ]
             },
             {
+                "country": "Germany",
+                "channels": [
+                    "DAZN Deutschland"
+                ]
+            },
+            {
                 "country": "Netherlands",
                 "channels": [
                     "Viaplay NL"
@@ -3468,7 +3643,20 @@
         "league_id": 8965,
         "league": "Primera Nacional",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "LPF Play"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5113400,
@@ -3477,7 +3665,20 @@
         "league_id": 8965,
         "league": "Primera Nacional",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "LPF Play"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5113401,
@@ -3486,7 +3687,20 @@
         "league_id": 8965,
         "league": "Primera Nacional",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "LPF Play"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5113399,
@@ -3495,7 +3709,20 @@
         "league_id": 8965,
         "league": "Primera Nacional",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "LPF Play"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5113031,
@@ -3504,7 +3731,20 @@
         "league_id": 8965,
         "league": "Primera Nacional",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "LPF Play"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5113032,
@@ -3513,7 +3753,20 @@
         "league_id": 8965,
         "league": "Primera Nacional",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "LPF Play"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5113403,
@@ -3522,7 +3775,20 @@
         "league_id": 8965,
         "league": "Primera Nacional",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "LPF Play"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5113037,
@@ -3531,7 +3797,20 @@
         "league_id": 8965,
         "league": "Primera Nacional",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "LPF Play"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5113038,
@@ -3540,7 +3819,20 @@
         "league_id": 8965,
         "league": "Primera Nacional",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "LPF Play"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5113033,
@@ -3648,7 +3940,15 @@
         "league_id": 122,
         "league": "1. Liga",
         "venue": "Stadion Letná",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Slovakia",
+                "channels": [
+                    "Oneplay Sport 3",
+                    "Oneplay Sport MD2"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5831131,
@@ -3663,6 +3963,19 @@
                 "channels": [
                     "Sportdigital FUSSBALL",
                     "Sportdigital+"
+                ]
+            },
+            {
+                "country": "Slovakia",
+                "channels": [
+                    "Oneplay Sport 1",
+                    "Oneplay Sport MD1"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "channels": [
+                    "Sportdigital Fussball"
                 ]
             }
         ]
@@ -3805,6 +4118,12 @@
                 "channels": [
                     "DAZN Italia"
                 ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "DAZN"
+                ]
             }
         ]
     },
@@ -3877,7 +4196,41 @@
                 ]
             },
             {
+                "country": "Austria",
+                "channels": [
+                    "OneFootball PPV",
+                    "Sky Go",
+                    "Sky Sport Austria 1",
+                    "Sky X"
+                ]
+            },
+            {
                 "country": "Japan",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Poland",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Slovakia",
+                "channels": [
+                    "Arena Sport 1",
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Switzerland",
                 "channels": [
                     "OneFootball PPV"
                 ]
@@ -3894,6 +4247,12 @@
         "tv_channels": [
             {
                 "country": "Australia",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Japan",
                 "channels": [
                     "OneFootball PPV"
                 ]
@@ -3934,24 +4293,7 @@
         "league_id": 196,
         "league": "Ekstraklasa",
         "venue": "Stadion Miejski im. Floriana Krygiera",
-        "tv_channels": [
-            {
-                "country": "Austria",
-                "channels": [
-                    "OneFootball PPV",
-                    "Sportdigital Fussball",
-                    "Sportdigital+ App",
-                    "Sportdigital.de"
-                ]
-            },
-            {
-                "country": "Switzerland",
-                "channels": [
-                    "OneFootball PPV",
-                    "Sportdigital Fussball"
-                ]
-            }
-        ]
+        "tv_channels": []
     },
     {
         "match_id": 5803934,
@@ -4375,21 +4717,21 @@
         "tv_channels": []
     },
     {
+        "match_id": 5847141,
+        "kickoff": 1786294800,
+        "fixture": "Spartak vs Krasnodar",
+        "league_id": 63,
+        "league": "Premier League",
+        "venue": "Lukoil Arena",
+        "tv_channels": []
+    },
+    {
         "match_id": 5847140,
         "kickoff": 1786296600,
         "fixture": "Rubin vs Orenburg",
         "league_id": 63,
         "league": "Premier League",
         "venue": "Ak Bars Arena",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5847141,
-        "kickoff": 1786296600,
-        "fixture": "Spartak vs Krasnodar",
-        "league_id": 63,
-        "league": "Premier League",
-        "venue": "Lukoil Arena",
         "tv_channels": []
     },
     {
@@ -4811,7 +5153,20 @@
         "league_id": 10282,
         "league": "MLS Next Pro",
         "venue": "Providence Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "OneFootball"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000007694,
@@ -4820,7 +5175,20 @@
         "league_id": 10282,
         "league": "MLS Next Pro",
         "venue": "Historic Crew Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "OneFootball"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000007695,
@@ -4829,7 +5197,14 @@
         "league_id": 10282,
         "league": "MLS Next Pro",
         "venue": "Finley Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "OneFootball"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000008070,
@@ -4838,7 +5213,14 @@
         "league_id": 10282,
         "league": "MLS Next Pro",
         "venue": "Reese Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "OneFootball"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000007696,
@@ -4847,7 +5229,14 @@
         "league_id": 10282,
         "league": "MLS Next Pro",
         "venue": "SaberCats Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "OneFootball"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000007698,
