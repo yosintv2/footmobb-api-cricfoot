@@ -67,6 +67,13 @@
                     "Ziggo Sport",
                     "Ziggo Sport Kanaal 14"
                 ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "ESPN Select",
+                    "ESPN Unlimited"
+                ]
             }
         ]
     },
@@ -77,7 +84,15 @@
         "league_id": 10611,
         "league": "Champions League Qualification",
         "venue": "epet ARENA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "France",
+                "channels": [
+                    "Canal+",
+                    "myCANAL"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5954869,
@@ -147,6 +162,12 @@
         "venue": "Rodney Parade",
         "tv_channels": [
             {
+                "country": "Italy",
+                "channels": [
+                    "DAZN Italia"
+                ]
+            },
+            {
                 "country": "United Kingdom",
                 "channels": [
                     "BBC iPlayer",
@@ -163,6 +184,12 @@
         "league": "Club Friendlies",
         "venue": "Portman Road",
         "tv_channels": [
+            {
+                "country": "France",
+                "channels": [
+                    "Ligue 1+"
+                ]
+            },
             {
                 "country": "Ireland",
                 "channels": [
@@ -722,14 +749,18 @@
                 "country": "Costa Rica",
                 "channels": [
                     "DAZN",
-                    "DAZN App Gratis"
+                    "DAZN App Gratis",
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
                 "country": "Dominican Republic",
                 "channels": [
                     "DAZN",
-                    "DAZN App Gratis"
+                    "DAZN App Gratis",
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
@@ -746,14 +777,18 @@
                 "country": "Guatemala",
                 "channels": [
                     "DAZN",
-                    "DAZN App Gratis"
+                    "DAZN App Gratis",
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
                 "country": "Honduras",
                 "channels": [
                     "DAZN",
-                    "DAZN App Gratis"
+                    "DAZN App Gratis",
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
@@ -775,7 +810,9 @@
                 "country": "Nicaragua",
                 "channels": [
                     "DAZN",
-                    "DAZN App Gratis"
+                    "DAZN App Gratis",
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
@@ -788,7 +825,9 @@
                 "country": "Panama",
                 "channels": [
                     "DAZN",
-                    "DAZN App Gratis"
+                    "DAZN App Gratis",
+                    "Disney+ Premium",
+                    "ESPN"
                 ]
             },
             {
@@ -3709,6 +3748,24 @@
         ]
     },
     {
+        "match_id": 1000018945,
+        "kickoff": 1785873600,
+        "fixture": "Costa Rica U20 vs Haiti U20",
+        "league_id": 9656,
+        "league": "CONCACAF Championship U20",
+        "venue": "Estadio Universitario BUAP",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000018944,
+        "kickoff": 1785891600,
+        "fixture": "USA U20 vs Guatemala U20",
+        "league_id": 9656,
+        "league": "CONCACAF Championship U20",
+        "venue": "Estadio Universitario BUAP",
+        "tv_channels": []
+    },
+    {
         "match_id": 1000012447,
         "kickoff": 1785882600,
         "fixture": "Juventude vs Atletico MG",
@@ -3778,12 +3835,25 @@
                 ]
             },
             {
+                "country": "Ireland",
+                "channels": [
+                    "Premier Sports 2 ROI"
+                ]
+            },
+            {
                 "country": "Peru",
                 "channels": [
                     "DAZN",
                     "DGO",
                     "DSports",
                     "Paramount+"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports 2 UK",
+                    "Premier Sports Player"
                 ]
             },
             {
@@ -3821,6 +3891,24 @@
         "venue": "Estadio Bello Horizonte - Rey Pelé",
         "tv_channels": [
             {
+                "country": "Argentina",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
                 "country": "Colombia",
                 "channels": [
                     "Win Fútbol +",
@@ -3829,9 +3917,45 @@
                 ]
             },
             {
+                "country": "Ecuador",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
                 "country": "United States",
                 "channels": [
                     "Fanatiz"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "RCN Nuestra Tele"
                 ]
             }
         ]
@@ -3845,6 +3969,24 @@
         "venue": "Estadio Manuel Murillo Toro",
         "tv_channels": [
             {
+                "country": "Argentina",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
                 "country": "Colombia",
                 "channels": [
                     "Win Fútbol +",
@@ -3853,9 +3995,45 @@
                 ]
             },
             {
+                "country": "Ecuador",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
                 "country": "United States",
                 "channels": [
                     "Fanatiz"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "RCN Nuestra Tele"
                 ]
             }
         ]
@@ -3869,6 +4047,24 @@
         "venue": "Estadio Nemesio Camacho El Campín",
         "tv_channels": [
             {
+                "country": "Argentina",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
                 "country": "Colombia",
                 "channels": [
                     "Win Fútbol +",
@@ -3876,9 +4072,45 @@
                 ]
             },
             {
+                "country": "Ecuador",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "RCN Nuestra Tele"
+                ]
+            },
+            {
                 "country": "United States",
                 "channels": [
                     "Fanatiz"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "RCN Nuestra Tele"
                 ]
             }
         ]
@@ -3890,7 +4122,14 @@
         "league_id": 144,
         "league": "Primera División",
         "venue": "Estadio Municipal El Alto",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "Entel Gol"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000011178,
@@ -3899,7 +4138,14 @@
         "league_id": 144,
         "league": "Primera División",
         "venue": "Estadio Olímpico Patria",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "Entel Gol"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000011179,
@@ -4707,6 +4953,22 @@
         "tv_channels": []
     },
     {
+        "match_id": 5113003,
+        "kickoff": 1785952800,
+        "fixture": "Almagro vs Gimnasia y Tiro",
+        "league_id": 8965,
+        "league": "Primera Nacional",
+        "venue": "Estadio Tres de Febrero",
+        "tv_channels": [
+            {
+                "country": "Argentina",
+                "channels": [
+                    "APLAZADO"
+                ]
+            }
+        ]
+    },
+    {
         "match_id": 5851872,
         "kickoff": 1785943800,
         "fixture": "Fakel vs Dinamo",
@@ -4768,22 +5030,6 @@
         "league": "Ykkonen",
         "venue": "TBA",
         "tv_channels": []
-    },
-    {
-        "match_id": 5113003,
-        "kickoff": 1785952800,
-        "fixture": "Almagro vs Gimnasia y Tiro",
-        "league_id": 8965,
-        "league": "Primera Nacional",
-        "venue": "Estadio Tres de Febrero",
-        "tv_channels": [
-            {
-                "country": "Argentina",
-                "channels": [
-                    "APLAZADO"
-                ]
-            }
-        ]
     },
     {
         "match_id": 1000012774,
