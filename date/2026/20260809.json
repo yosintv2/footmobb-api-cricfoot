@@ -1023,6 +1023,15 @@
                 ]
             },
             {
+                "country": "Costa Rica",
+                "channels": [
+                    "Claro Sports",
+                    "Claro Sports YouTube",
+                    "Clarosports.com",
+                    "Pluto TV"
+                ]
+            },
+            {
                 "country": "Dominican Republic",
                 "channels": [
                     "Claro Sports",
@@ -1047,9 +1056,45 @@
                 ]
             },
             {
+                "country": "Guatemala",
+                "channels": [
+                    "Claro Sports",
+                    "Claro Sports YouTube",
+                    "Clarosports.com",
+                    "Pluto TV"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "channels": [
+                    "Claro Sports",
+                    "Claro Sports YouTube",
+                    "Clarosports.com",
+                    "Pluto TV"
+                ]
+            },
+            {
                 "country": "Ireland",
                 "channels": [
                     "All Red Video"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "channels": [
+                    "Claro Sports",
+                    "Claro Sports YouTube",
+                    "Clarosports.com",
+                    "Pluto TV"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "channels": [
+                    "Claro Sports",
+                    "Claro Sports YouTube",
+                    "Clarosports.com",
+                    "Pluto TV"
                 ]
             },
             {
@@ -2399,9 +2444,51 @@
         "venue": "Lumen Field",
         "tv_channels": [
             {
+                "country": "Argentina",
+                "channels": [
+                    "Apple TV"
+                ]
+            },
+            {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "Apple TV"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Apple TV"
+                ]
+            },
+            {
                 "country": "Canada",
                 "channels": [
                     "Apple TV (US)"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "Apple TV"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "channels": [
+                    "Apple TV"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "channels": [
+                    "Apple TV"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "Apple TV"
                 ]
             },
             {
@@ -2429,6 +2516,12 @@
                 ]
             },
             {
+                "country": "Ireland",
+                "channels": [
+                    "Apple TV"
+                ]
+            },
+            {
                 "country": "Italy",
                 "channels": [
                     "Apple TV (IT)"
@@ -2447,6 +2540,24 @@
                 ]
             },
             {
+                "country": "Panama",
+                "channels": [
+                    "Apple TV"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "Apple TV"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "Apple TV"
+                ]
+            },
+            {
                 "country": "Sweden",
                 "channels": [
                     "Apple TV (SE)"
@@ -2462,6 +2573,12 @@
                 "country": "United States",
                 "channels": [
                     "Apple TV (US)"
+                ]
+            },
+            {
+                "country": "Venezuela, Bolivarian Republic of",
+                "channels": [
+                    "Apple TV"
                 ]
             }
         ]
@@ -2608,7 +2725,15 @@
         "league_id": 9906,
         "league": "Liga MX Femenil Apertura",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Mexico",
+                "channels": [
+                    "Canal por confirmar",
+                    "Liga BBVA MX Femenil YouTube"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5962663,
@@ -2964,7 +3089,14 @@
         "league_id": 9039,
         "league": "LPF Apertura",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Panama",
+                "channels": [
+                    "FOX"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5071021,
@@ -3754,6 +3886,12 @@
         "league": "NWSL",
         "venue": "Shell Energy Stadium",
         "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "Stan Sport"
+                ]
+            },
             {
                 "country": "Austria",
                 "channels": [
@@ -4597,6 +4735,12 @@
                     "V Sport 2 Suomi",
                     "V Sport Premium FI",
                     "Viaplay FI"
+                ]
+            },
+            {
+                "country": "France",
+                "channels": [
+                    "RTL Television (FR)"
                 ]
             },
             {
@@ -6607,14 +6751,7 @@
         "league_id": 9213,
         "league": "Primera B Metropolitana",
         "venue": "TBA",
-        "tv_channels": [
-            {
-                "country": "Honduras",
-                "channels": [
-                    "LPF Play"
-                ]
-            }
-        ]
+        "tv_channels": []
     },
     {
         "match_id": 5113989,
@@ -6623,14 +6760,7 @@
         "league_id": 9213,
         "league": "Primera B Metropolitana",
         "venue": "TBA",
-        "tv_channels": [
-            {
-                "country": "Honduras",
-                "channels": [
-                    "LPF Play"
-                ]
-            }
-        ]
+        "tv_channels": []
     },
     {
         "match_id": 5125585,
@@ -9114,6 +9244,12 @@
         "venue": "TBA",
         "tv_channels": [
             {
+                "country": "Argentina",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
                 "country": "Australia",
                 "channels": [
                     "LPF Play"
@@ -9126,6 +9262,54 @@
                 ]
             },
             {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
                 "country": "Ireland",
                 "channels": [
                     "LPF Play"
@@ -9133,6 +9317,36 @@
             },
             {
                 "country": "Japan",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Panama",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Peru",
                 "channels": [
                     "LPF Play"
                 ]
@@ -9163,6 +9377,18 @@
             },
             {
                 "country": "Switzerland",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Venezuela, Bolivarian Republic of",
                 "channels": [
                     "LPF Play"
                 ]
@@ -9178,6 +9404,12 @@
         "venue": "TBA",
         "tv_channels": [
             {
+                "country": "Argentina",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
                 "country": "Australia",
                 "channels": [
                     "LPF Play"
@@ -9190,6 +9422,54 @@
                 ]
             },
             {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
                 "country": "Ireland",
                 "channels": [
                     "LPF Play"
@@ -9197,6 +9477,36 @@
             },
             {
                 "country": "Japan",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Panama",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Peru",
                 "channels": [
                     "LPF Play"
                 ]
@@ -9227,6 +9537,18 @@
             },
             {
                 "country": "Switzerland",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Venezuela, Bolivarian Republic of",
                 "channels": [
                     "LPF Play"
                 ]
@@ -9242,6 +9564,12 @@
         "venue": "TBA",
         "tv_channels": [
             {
+                "country": "Argentina",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
                 "country": "Australia",
                 "channels": [
                     "LPF Play"
@@ -9254,6 +9582,54 @@
                 ]
             },
             {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
                 "country": "Ireland",
                 "channels": [
                     "LPF Play"
@@ -9261,6 +9637,36 @@
             },
             {
                 "country": "Japan",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Panama",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Peru",
                 "channels": [
                     "LPF Play"
                 ]
@@ -9291,6 +9697,18 @@
             },
             {
                 "country": "Switzerland",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Venezuela, Bolivarian Republic of",
                 "channels": [
                     "LPF Play"
                 ]
@@ -9306,6 +9724,12 @@
         "venue": "TBA",
         "tv_channels": [
             {
+                "country": "Argentina",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
                 "country": "Australia",
                 "channels": [
                     "LPF Play"
@@ -9318,6 +9742,54 @@
                 ]
             },
             {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
                 "country": "Ireland",
                 "channels": [
                     "LPF Play"
@@ -9325,6 +9797,36 @@
             },
             {
                 "country": "Japan",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Panama",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Peru",
                 "channels": [
                     "LPF Play"
                 ]
@@ -9355,6 +9857,18 @@
             },
             {
                 "country": "Switzerland",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Venezuela, Bolivarian Republic of",
                 "channels": [
                     "LPF Play"
                 ]
@@ -9370,6 +9884,12 @@
         "venue": "TBA",
         "tv_channels": [
             {
+                "country": "Argentina",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
                 "country": "Australia",
                 "channels": [
                     "LPF Play"
@@ -9382,6 +9902,54 @@
                 ]
             },
             {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
                 "country": "Ireland",
                 "channels": [
                     "LPF Play"
@@ -9389,6 +9957,36 @@
             },
             {
                 "country": "Japan",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Panama",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Peru",
                 "channels": [
                     "LPF Play"
                 ]
@@ -9419,6 +10017,18 @@
             },
             {
                 "country": "Switzerland",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Venezuela, Bolivarian Republic of",
                 "channels": [
                     "LPF Play"
                 ]
@@ -9434,6 +10044,12 @@
         "venue": "TBA",
         "tv_channels": [
             {
+                "country": "Argentina",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
                 "country": "Australia",
                 "channels": [
                     "LPF Play"
@@ -9446,6 +10062,54 @@
                 ]
             },
             {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
                 "country": "Ireland",
                 "channels": [
                     "LPF Play"
@@ -9453,6 +10117,36 @@
             },
             {
                 "country": "Japan",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Panama",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Peru",
                 "channels": [
                     "LPF Play"
                 ]
@@ -9486,6 +10180,18 @@
                 "channels": [
                     "LPF Play"
                 ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Venezuela, Bolivarian Republic of",
+                "channels": [
+                    "LPF Play"
+                ]
             }
         ]
     },
@@ -9497,6 +10203,12 @@
         "league": "Primera Nacional",
         "venue": "TBA",
         "tv_channels": [
+            {
+                "country": "Argentina",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
             {
                 "country": "Australia",
                 "channels": [
@@ -9510,13 +10222,73 @@
                 ]
             },
             {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
                 "country": "Japan",
                 "channels": [
                     "LPF Play"
                 ]
             },
             {
+                "country": "Panama",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
                 "country": "Poland",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Portugal",
                 "channels": [
                     "LPF Play"
                 ]
@@ -9535,6 +10307,18 @@
             },
             {
                 "country": "Switzerland",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Venezuela, Bolivarian Republic of",
                 "channels": [
                     "LPF Play"
                 ]
@@ -10409,7 +11193,37 @@
                 ]
             },
             {
+                "country": "Colombia",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
                 "country": "Dominican Republic",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Honduras",
                 "channels": [
                     "OneFootball PPV"
                 ]
@@ -10427,7 +11241,31 @@
                 ]
             },
             {
+                "country": "Mexico",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Panama",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
                 "country": "Paraguay",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Peru",
                 "channels": [
                     "OneFootball PPV"
                 ]
@@ -10524,7 +11362,37 @@
                 ]
             },
             {
+                "country": "Colombia",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
                 "country": "Dominican Republic",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Honduras",
                 "channels": [
                     "OneFootball PPV"
                 ]
@@ -10542,7 +11410,31 @@
                 ]
             },
             {
+                "country": "Mexico",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Panama",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
                 "country": "Paraguay",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Peru",
                 "channels": [
                     "OneFootball PPV"
                 ]
@@ -10601,6 +11493,12 @@
         "venue": "Generali Arena",
         "tv_channels": [
             {
+                "country": "Argentina",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
                 "country": "Australia",
                 "channels": [
                     "OneFootball PPV"
@@ -10616,6 +11514,60 @@
                 ]
             },
             {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
                 "country": "Ireland",
                 "channels": [
                     "OneFootball PPV"
@@ -10623,6 +11575,36 @@
             },
             {
                 "country": "Japan",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Panama",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Peru",
                 "channels": [
                     "OneFootball PPV"
                 ]
@@ -10654,6 +11636,18 @@
             },
             {
                 "country": "Switzerland",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Venezuela, Bolivarian Republic of",
                 "channels": [
                     "OneFootball PPV"
                 ]
@@ -10782,7 +11776,8 @@
             {
                 "country": "Norway",
                 "channels": [
-                    "TV 2 Play (NO)"
+                    "TV 2 Play (NO)",
+                    "TV 2 Sport 1"
                 ]
             }
         ]
@@ -11723,6 +12718,12 @@
         "venue": "TBA",
         "tv_channels": [
             {
+                "country": "Argentina",
+                "channels": [
+                    "Canal por confirmar"
+                ]
+            },
+            {
                 "country": "United States",
                 "channels": [
                     "Fanatiz"
@@ -11739,6 +12740,12 @@
         "venue": "TBA",
         "tv_channels": [
             {
+                "country": "Argentina",
+                "channels": [
+                    "Canal por confirmar"
+                ]
+            },
+            {
                 "country": "United States",
                 "channels": [
                     "Fanatiz"
@@ -11754,6 +12761,12 @@
         "league": "Liga Profesional Clausura",
         "venue": "TBA",
         "tv_channels": [
+            {
+                "country": "Argentina",
+                "channels": [
+                    "Canal por confirmar"
+                ]
+            },
             {
                 "country": "United States",
                 "channels": [
@@ -12450,6 +13463,54 @@
                 "country": "Venezuela, Bolivarian Republic of",
                 "channels": [
                     "OneFootball PPV"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5147617,
+        "kickoff": 1786284000,
+        "fixture": "FC Inter Turku vs FC Lahti",
+        "league_id": 51,
+        "league": "Veikkausliiga",
+        "venue": "Veritas Stadion",
+        "tv_channels": [
+            {
+                "country": "Finland",
+                "channels": [
+                    "Ruutu+ Urheilu"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5147618,
+        "kickoff": 1786287600,
+        "fixture": "Ilves vs IFK Mariehamn",
+        "league_id": 51,
+        "league": "Veikkausliiga",
+        "venue": "Tammelan stadion",
+        "tv_channels": [
+            {
+                "country": "Finland",
+                "channels": [
+                    "Ruutu+ Urheilu"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5147616,
+        "kickoff": 1786291200,
+        "fixture": "AC Oulu vs HJK",
+        "league_id": 51,
+        "league": "Veikkausliiga",
+        "venue": "Raatin stadion",
+        "tv_channels": [
+            {
+                "country": "Finland",
+                "channels": [
+                    "Ruutu+ Urheilu"
                 ]
             }
         ]
@@ -13269,6 +14330,12 @@
         "venue": "Estadio Inca Garcilaso de la Vega",
         "tv_channels": [
             {
+                "country": "Argentina",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
                 "country": "Australia",
                 "channels": [
                     "Fanatiz"
@@ -13276,6 +14343,60 @@
             },
             {
                 "country": "Austria",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Honduras",
                 "channels": [
                     "Fanatiz"
                 ]
@@ -13290,6 +14411,38 @@
                 "country": "Japan",
                 "channels": [
                     "Fanatiz"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Panama",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "Fanatiz",
+                    "L1 Max",
+                    "L1 Play"
                 ]
             },
             {
@@ -13321,6 +14474,18 @@
                 "channels": [
                     "Fanatiz"
                 ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Venezuela, Bolivarian Republic of",
+                "channels": [
+                    "Fanatiz"
+                ]
             }
         ]
     },
@@ -13332,6 +14497,12 @@
         "league": "Liga 1",
         "venue": "Estadio de la Universidad Nacional San Agustín",
         "tv_channels": [
+            {
+                "country": "Argentina",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
             {
                 "country": "Australia",
                 "channels": [
@@ -13345,13 +14516,81 @@
                 ]
             },
             {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
                 "country": "Japan",
                 "channels": [
                     "Fanatiz"
                 ]
             },
             {
+                "country": "Panama",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "Fanatiz",
+                    "L1 Max",
+                    "L1 Play"
+                ]
+            },
+            {
                 "country": "Poland",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Portugal",
                 "channels": [
                     "Fanatiz"
                 ]
@@ -13370,6 +14609,18 @@
             },
             {
                 "country": "Switzerland",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "Fanatiz"
+                ]
+            },
+            {
+                "country": "Venezuela, Bolivarian Republic of",
                 "channels": [
                     "Fanatiz"
                 ]
@@ -14871,7 +16122,15 @@
         "league_id": 274,
         "league": "Primera A",
         "venue": "Estadio Nemesio Camacho El Campín",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Colombia",
+                "channels": [
+                    "Win Fútbol +",
+                    "Win Play"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000007263,
@@ -14944,7 +16203,14 @@
         "league_id": 9126,
         "league": "Primera B",
         "venue": "Estadio Luis Valenzuela Hermosilla",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Chile",
+                "channels": [
+                    "HBO MAX"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000007265,
@@ -14953,7 +16219,14 @@
         "league_id": 9126,
         "league": "Primera B",
         "venue": "Estadio Bicentenario Iván Azócar Bernales",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Chile",
+                "channels": [
+                    "HBO MAX"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000013673,
@@ -15050,7 +16323,16 @@
         "league_id": 273,
         "league": "Primera División",
         "venue": "Estadio Municipal Alcaldesa Ester Roa Rebolledo",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Chile",
+                "channels": [
+                    "HBO MAX",
+                    "TNT Sports Premium",
+                    "TNT Sports Premium HD"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000013193,
@@ -15059,7 +16341,16 @@
         "league_id": 273,
         "league": "Primera División",
         "venue": "Estadio Codelco El Teniente",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Chile",
+                "channels": [
+                    "HBO MAX",
+                    "TNT Sports Premium",
+                    "TNT Sports Premium HD"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000018874,
@@ -15302,6 +16593,13 @@
         "venue": "Nubank Parque",
         "tv_channels": [
             {
+                "country": "Brazil",
+                "channels": [
+                    "Premiere",
+                    "Rede Globo"
+                ]
+            },
+            {
                 "country": "Germany",
                 "channels": [
                     "Sportdigital FUSSBALL",
@@ -15312,6 +16610,12 @@
                 "country": "Ireland",
                 "channels": [
                     "Premier Sports 1 ROI"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "L1 Play"
                 ]
             },
             {
@@ -15349,6 +16653,19 @@
         "league": "Serie A",
         "venue": "Casa de Apostas Arena Fonte Nova",
         "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Premiere",
+                    "Rede Globo"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "L1 Play"
+                ]
+            },
             {
                 "country": "United States",
                 "channels": [
@@ -15409,6 +16726,12 @@
         "league": "Serie A",
         "venue": "Estadio Jocay",
         "tv_channels": [
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "Zapping Sports + Plus"
+                ]
+            },
             {
                 "country": "Spain",
                 "channels": [
@@ -15474,7 +16797,14 @@
         "league_id": 8814,
         "league": "Serie B",
         "venue": "Estádio Dr. Jorge Ismael de Biasi",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Disney+ Premium"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5190646,
@@ -15483,7 +16813,16 @@
         "league_id": 8814,
         "league": "Serie B",
         "venue": "Estádio Eládio de Barros Carvalho",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Premiere",
+                    "Rede Globo",
+                    "SporTV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5190647,
@@ -15492,7 +16831,16 @@
         "league_id": 8814,
         "league": "Serie B",
         "venue": "Arena Pantanal",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "Canal GOAT",
+                    "Disney+ Premium",
+                    "RedeTV!"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000009493,
@@ -15568,7 +16916,14 @@
         "league_id": 8971,
         "league": "Serie C",
         "venue": "Estádio Regional Willie Davids",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "SportyNet"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000009498,
@@ -15577,7 +16932,14 @@
         "league_id": 8971,
         "league": "Serie C",
         "venue": "Estádio Olímpico Colosso da Lagoa",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Brazil",
+                "channels": [
+                    "SportyNet"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000018587,
@@ -16245,7 +17607,37 @@
                 ]
             },
             {
+                "country": "Colombia",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
                 "country": "Dominican Republic",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Honduras",
                 "channels": [
                     "OneFootball PPV"
                 ]
@@ -16257,7 +17649,31 @@
                 ]
             },
             {
+                "country": "Mexico",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Panama",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
                 "country": "Paraguay",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Peru",
                 "channels": [
                     "OneFootball PPV"
                 ]
@@ -16494,14 +17910,7 @@
         "league_id": 203,
         "league": "1. Divisjon",
         "venue": "Haugesund Sparebank Arena",
-        "tv_channels": [
-            {
-                "country": "Norway",
-                "channels": [
-                    "TV 2 Play (NO)"
-                ]
-            }
-        ]
+        "tv_channels": []
     },
     {
         "match_id": 5105212,
@@ -16510,14 +17919,7 @@
         "league_id": 203,
         "league": "1. Divisjon",
         "venue": "Øster Hus Arena",
-        "tv_channels": [
-            {
-                "country": "Norway",
-                "channels": [
-                    "TV 2 Play (NO)"
-                ]
-            }
-        ]
+        "tv_channels": []
     },
     {
         "match_id": 5105213,
@@ -16526,14 +17928,7 @@
         "league_id": 203,
         "league": "1. Divisjon",
         "venue": "Fosshaugane Campus",
-        "tv_channels": [
-            {
-                "country": "Norway",
-                "channels": [
-                    "TV 2 Play (NO)"
-                ]
-            }
-        ]
+        "tv_channels": []
     },
     {
         "match_id": 5105215,
@@ -16576,6 +17971,12 @@
         "venue": "ELKEM völlurinn",
         "tv_channels": [
             {
+                "country": "Argentina",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
                 "country": "Australia",
                 "channels": [
                     "OneFootball PPV"
@@ -16588,6 +17989,60 @@
                 ]
             },
             {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
                 "country": "Ireland",
                 "channels": [
                     "OneFootball PPV"
@@ -16595,6 +18050,36 @@
             },
             {
                 "country": "Japan",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Panama",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Peru",
                 "channels": [
                     "OneFootball PPV"
                 ]
@@ -16625,6 +18110,18 @@
             },
             {
                 "country": "Switzerland",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Venezuela, Bolivarian Republic of",
                 "channels": [
                     "OneFootball PPV"
                 ]
@@ -16640,6 +18137,12 @@
         "venue": "Víkingsvöllur",
         "tv_channels": [
             {
+                "country": "Argentina",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
                 "country": "Australia",
                 "channels": [
                     "OneFootball PPV"
@@ -16652,6 +18155,60 @@
                 ]
             },
             {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
                 "country": "Ireland",
                 "channels": [
                     "OneFootball PPV"
@@ -16659,6 +18216,36 @@
             },
             {
                 "country": "Japan",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Panama",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Peru",
                 "channels": [
                     "OneFootball PPV"
                 ]
@@ -16689,6 +18276,18 @@
             },
             {
                 "country": "Switzerland",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Venezuela, Bolivarian Republic of",
                 "channels": [
                     "OneFootball PPV"
                 ]
@@ -16704,6 +18303,12 @@
         "venue": "Greifavöllurinn",
         "tv_channels": [
             {
+                "country": "Argentina",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
                 "country": "Australia",
                 "channels": [
                     "OneFootball PPV"
@@ -16716,6 +18321,60 @@
                 ]
             },
             {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
                 "country": "Ireland",
                 "channels": [
                     "OneFootball PPV"
@@ -16723,6 +18382,36 @@
             },
             {
                 "country": "Japan",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Panama",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Peru",
                 "channels": [
                     "OneFootball PPV"
                 ]
@@ -16753,6 +18442,18 @@
             },
             {
                 "country": "Switzerland",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Venezuela, Bolivarian Republic of",
                 "channels": [
                     "OneFootball PPV"
                 ]
@@ -16768,6 +18469,12 @@
         "venue": "Samsungvöllurinn",
         "tv_channels": [
             {
+                "country": "Argentina",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
                 "country": "Australia",
                 "channels": [
                     "OneFootball PPV"
@@ -16780,6 +18487,60 @@
                 ]
             },
             {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
                 "country": "Ireland",
                 "channels": [
                     "OneFootball PPV"
@@ -16787,6 +18548,36 @@
             },
             {
                 "country": "Japan",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Panama",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Peru",
                 "channels": [
                     "OneFootball PPV"
                 ]
@@ -16817,6 +18608,18 @@
             },
             {
                 "country": "Switzerland",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Venezuela, Bolivarian Republic of",
                 "channels": [
                     "OneFootball PPV"
                 ]
@@ -16832,6 +18635,12 @@
         "venue": "Eikarvöllurinn",
         "tv_channels": [
             {
+                "country": "Argentina",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
                 "country": "Australia",
                 "channels": [
                     "OneFootball PPV"
@@ -16844,6 +18653,60 @@
                 ]
             },
             {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Brazil",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
                 "country": "Ireland",
                 "channels": [
                     "OneFootball PPV"
@@ -16851,6 +18714,36 @@
             },
             {
                 "country": "Japan",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Panama",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Peru",
                 "channels": [
                     "OneFootball PPV"
                 ]
@@ -16881,6 +18774,18 @@
             },
             {
                 "country": "Switzerland",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Venezuela, Bolivarian Republic of",
                 "channels": [
                     "OneFootball PPV"
                 ]

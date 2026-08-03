@@ -413,12 +413,43 @@
         "venue": "Home Park",
         "tv_channels": [
             {
+                "country": "Finland",
+                "channels": [
+                    "V Sport 2 Suomi",
+                    "Viaplay FI"
+                ]
+            },
+            {
+                "country": "Netherlands",
+                "channels": [
+                    "Viaplay NL"
+                ]
+            },
+            {
+                "country": "Norway",
+                "channels": [
+                    "Viaplay NO"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "channels": [
+                    "Viaplay SE"
+                ]
+            },
+            {
                 "country": "United Kingdom",
                 "channels": [
                     "Sky Sports Football",
                     "Sky Sports Main Event",
                     "Sky Sports UHD",
                     "Sky Sports+"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Paramount+ (US)"
                 ]
             }
         ]
@@ -430,7 +461,15 @@
         "league_id": 168,
         "league": "Superettan",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Sweden",
+                "channels": [
+                    "TV4 Play Sport Fotboll",
+                    "TV4 Sportkanalen"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5125582,
@@ -448,7 +487,14 @@
         "league_id": 203,
         "league": "1. Divisjon",
         "venue": "Melløs Stadion",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Norway",
+                "channels": [
+                    "TV 2 Play (NO)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5908575,
@@ -466,7 +512,15 @@
         "league_id": 111,
         "league": "Eerste Divisie",
         "venue": "AFAS Trainingscomplex",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Netherlands",
+                "channels": [
+                    "ESPN 2 NL",
+                    "ESPN Watch NL"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5832814,
@@ -475,7 +529,15 @@
         "league_id": 111,
         "league": "Eerste Divisie",
         "venue": "TenCate Stadion De Herdgang",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Netherlands",
+                "channels": [
+                    "ESPN NL",
+                    "ESPN Watch NL"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5113034,
@@ -493,7 +555,21 @@
         "league_id": 67,
         "league": "Allsvenskan",
         "venue": "Studenternas IP",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Norway",
+                "channels": [
+                    "VG TV"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "channels": [
+                    "TV4 Play Sport Fotboll",
+                    "TV4 Sport Live 1"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5107563,
@@ -502,7 +578,27 @@
         "league_id": 67,
         "league": "Allsvenskan",
         "venue": "Hitachi Energy Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Finland",
+                "channels": [
+                    "MTV Urheilu 2"
+                ]
+            },
+            {
+                "country": "Norway",
+                "channels": [
+                    "VG TV"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "channels": [
+                    "TV4 Fotboll",
+                    "TV4 Play Sport Fotboll"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5760455,
@@ -529,7 +625,14 @@
         "league_id": 112,
         "league": "Liga Profesional Clausura",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "Fanatiz"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5115932,

@@ -1383,6 +1383,13 @@
                 ]
             },
             {
+                "country": "Mexico",
+                "channels": [
+                    "FOX",
+                    "FOX One"
+                ]
+            },
+            {
                 "country": "Nicaragua",
                 "channels": [
                     "Disney+ Premium"
@@ -4068,7 +4075,8 @@
                 "country": "Colombia",
                 "channels": [
                     "Win Fútbol +",
-                    "Win Play"
+                    "Win Play",
+                    "Win Sports"
                 ]
             },
             {
@@ -4953,22 +4961,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5113003,
-        "kickoff": 1785952800,
-        "fixture": "Almagro vs Gimnasia y Tiro",
-        "league_id": 8965,
-        "league": "Primera Nacional",
-        "venue": "Estadio Tres de Febrero",
-        "tv_channels": [
-            {
-                "country": "Argentina",
-                "channels": [
-                    "APLAZADO"
-                ]
-            }
-        ]
-    },
-    {
         "match_id": 5851872,
         "kickoff": 1785943800,
         "fixture": "Fakel vs Dinamo",
@@ -5030,6 +5022,22 @@
         "league": "Ykkonen",
         "venue": "TBA",
         "tv_channels": []
+    },
+    {
+        "match_id": 5113003,
+        "kickoff": 1785952800,
+        "fixture": "Almagro vs Gimnasia y Tiro",
+        "league_id": 8965,
+        "league": "Primera Nacional",
+        "venue": "Estadio Tres de Febrero",
+        "tv_channels": [
+            {
+                "country": "Argentina",
+                "channels": [
+                    "APLAZADO"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000012774,
