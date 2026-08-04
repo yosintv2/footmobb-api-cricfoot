@@ -19,6 +19,7 @@
             {
                 "country": "Norway",
                 "channels": [
+                    "TV 2 Play (NO)",
                     "TV 2 Sport 1"
                 ]
             }
@@ -47,7 +48,14 @@
         "league_id": 228,
         "league": "A Lyga",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Liechtenstein",
+                "channels": [
+                    "LNK"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5900448,
@@ -56,7 +64,14 @@
         "league_id": 228,
         "league": "A Lyga",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Liechtenstein",
+                "channels": [
+                    "LNK"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5107550,
@@ -398,6 +413,12 @@
         "venue": "TBA",
         "tv_channels": [
             {
+                "country": "France",
+                "channels": [
+                    "L'Équipe live"
+                ]
+            },
+            {
                 "country": "Norway",
                 "channels": [
                     "VG TV"
@@ -431,12 +452,12 @@
         ]
     },
     {
-        "match_id": 5900217,
+        "match_id": 5988156,
         "kickoff": 1785855600,
-        "fixture": "Lorient vs UNFP FC",
+        "fixture": "Norwich vs Cambridge",
         "league_id": 489,
         "league": "Club Friendlies",
-        "venue": "TBA",
+        "venue": "Avant Training Centre",
         "tv_channels": []
     },
     {
@@ -454,6 +475,15 @@
                 ]
             }
         ]
+    },
+    {
+        "match_id": 5988157,
+        "kickoff": 1785859200,
+        "fixture": "Monza vs Milan Futuro",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "Campo Monzello 2",
+        "tv_channels": []
     },
     {
         "match_id": 5901303,
@@ -474,6 +504,22 @@
                 "channels": [
                     "BBC iPlayer",
                     "S4C Clic"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5988158,
+        "kickoff": 1785868200,
+        "fixture": "Rotherham vs Derby",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "TBA",
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "RamsTV"
                 ]
             }
         ]
@@ -578,6 +624,12 @@
         "league": "EFL Cup Qualification",
         "venue": "LNER Community Stadium",
         "tv_channels": [
+            {
+                "country": "Bulgaria",
+                "channels": [
+                    "Diema Sport 2"
+                ]
+            },
             {
                 "country": "Canada",
                 "channels": [
@@ -2314,6 +2366,13 @@
         "venue": "Celtic Park",
         "tv_channels": [
             {
+                "country": "Armenia",
+                "channels": [
+                    "FastTV",
+                    "Setanta Sports 1"
+                ]
+            },
+            {
                 "country": "Australia",
                 "channels": [
                     "beIN SPORTS 3"
@@ -2329,10 +2388,29 @@
                 ]
             },
             {
+                "country": "Azerbaijan",
+                "channels": [
+                    "Setanta Sports 1"
+                ]
+            },
+            {
                 "country": "Brazil",
                 "channels": [
                     "Canal GOAT",
                     "OneFootball"
+                ]
+            },
+            {
+                "country": "Estonia",
+                "channels": [
+                    "Go3 Extra Sports Estonia",
+                    "Setanta Sports 1"
+                ]
+            },
+            {
+                "country": "Georgia",
+                "channels": [
+                    "Setanta Sports 1"
                 ]
             },
             {
@@ -2343,11 +2421,49 @@
                 ]
             },
             {
+                "country": "Ghana",
+                "channels": [
+                    "DStv Now"
+                ]
+            },
+            {
                 "country": "Ireland",
                 "channels": [
                     "Sky Sports Football",
                     "Sky Sports Main Event",
                     "Sky Sports Main Event Ultra HD"
+                ]
+            },
+            {
+                "country": "Israel",
+                "channels": [
+                    "Sport +5 Live"
+                ]
+            },
+            {
+                "country": "Lao People's Democratic Republic",
+                "channels": [
+                    "Go3 Extra Sports Latvia",
+                    "Setanta Sports 1"
+                ]
+            },
+            {
+                "country": "Liechtenstein",
+                "channels": [
+                    "Go3 Extra Sports Lithuania",
+                    "Setanta Sports 1"
+                ]
+            },
+            {
+                "country": "Macao",
+                "channels": [
+                    "Setanta Sports 1"
+                ]
+            },
+            {
+                "country": "Mongolia",
+                "channels": [
+                    "Arena 2 Premium"
                 ]
             },
             {
@@ -2363,10 +2479,47 @@
                 ]
             },
             {
+                "country": "Romania",
+                "channels": [
+                    "Digi Online",
+                    "Digi Sport 3 Romania"
+                ]
+            },
+            {
+                "country": "Saint Barthélemy",
+                "channels": [
+                    "Setanta Sports 1"
+                ]
+            },
+            {
+                "country": "Serbia",
+                "channels": [
+                    "Arena 2 Premium"
+                ]
+            },
+            {
                 "country": "Switzerland",
                 "channels": [
                     "OneFootball PPV",
                     "Sportdigital Fussball"
+                ]
+            },
+            {
+                "country": "Tanzania, United Republic of",
+                "channels": [
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "Türkiye",
+                "channels": [
+                    "S Sport"
+                ]
+            },
+            {
+                "country": "Ukraine",
+                "channels": [
+                    "Setanta Sports Ukraine"
                 ]
             },
             {
@@ -2643,7 +2796,7 @@
     },
     {
         "match_id": 5952702,
-        "kickoff": 1785783600,
+        "kickoff": 1785776400,
         "fixture": "Atenas vs Colon",
         "league_id": 9122,
         "league": "Segunda Division",
@@ -3056,10 +3209,17 @@
         "venue": "Stadionul Arcul de Triumf",
         "tv_channels": [
             {
+                "country": "Croatia",
+                "channels": [
+                    "Arena Sport 3 Croatia"
+                ]
+            },
+            {
                 "country": "Romania",
                 "channels": [
                     "Digi Online",
                     "Digi Sport 1",
+                    "Digi Sport 1 Romania",
                     "Orange TV Go",
                     "Prima Sport",
                     "Prima TV"
@@ -3297,7 +3457,14 @@
         "league_id": 215,
         "league": "Besta deildin",
         "venue": "N1-völlurinn Hlíðarenda",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Iceland",
+                "channels": [
+                    "SÝN Sport"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5225696,
@@ -3377,6 +3544,12 @@
                 "country": "Honduras",
                 "channels": [
                     "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Iceland",
+                "channels": [
+                    "SÝN Sport"
                 ]
             },
             {
@@ -3964,164 +4137,11 @@
         "league_id": 182,
         "league": "Super Liga",
         "venue": "Sportsko-Rekreativni Centar Mladost",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5162041,
-        "kickoff": 1785769200,
-        "fixture": "Auda vs Ogre United",
-        "league_id": 226,
-        "league": "Virsliga",
-        "venue": "Stadions Skonto",
         "tv_channels": [
             {
-                "country": "Argentina",
+                "country": "Croatia",
                 "channels": [
-                    "OneFootball PPV"
-                ]
-            },
-            {
-                "country": "Australia",
-                "channels": [
-                    "OneFootball PPV"
-                ]
-            },
-            {
-                "country": "Austria",
-                "channels": [
-                    "OneFootball PPV"
-                ]
-            },
-            {
-                "country": "Bolivia, Plurinational State of",
-                "channels": [
-                    "OneFootball PPV"
-                ]
-            },
-            {
-                "country": "Brazil",
-                "channels": [
-                    "OneFootball PPV"
-                ]
-            },
-            {
-                "country": "Chile",
-                "channels": [
-                    "OneFootball PPV"
-                ]
-            },
-            {
-                "country": "Colombia",
-                "channels": [
-                    "OneFootball PPV"
-                ]
-            },
-            {
-                "country": "Costa Rica",
-                "channels": [
-                    "OneFootball PPV"
-                ]
-            },
-            {
-                "country": "Dominican Republic",
-                "channels": [
-                    "OneFootball PPV"
-                ]
-            },
-            {
-                "country": "Ecuador",
-                "channels": [
-                    "OneFootball PPV"
-                ]
-            },
-            {
-                "country": "Guatemala",
-                "channels": [
-                    "OneFootball PPV"
-                ]
-            },
-            {
-                "country": "Honduras",
-                "channels": [
-                    "OneFootball PPV"
-                ]
-            },
-            {
-                "country": "Japan",
-                "channels": [
-                    "OneFootball PPV"
-                ]
-            },
-            {
-                "country": "Mexico",
-                "channels": [
-                    "OneFootball PPV"
-                ]
-            },
-            {
-                "country": "Nicaragua",
-                "channels": [
-                    "OneFootball PPV"
-                ]
-            },
-            {
-                "country": "Panama",
-                "channels": [
-                    "OneFootball PPV"
-                ]
-            },
-            {
-                "country": "Paraguay",
-                "channels": [
-                    "OneFootball PPV"
-                ]
-            },
-            {
-                "country": "Peru",
-                "channels": [
-                    "OneFootball PPV"
-                ]
-            },
-            {
-                "country": "Poland",
-                "channels": [
-                    "OneFootball PPV"
-                ]
-            },
-            {
-                "country": "Portugal",
-                "channels": [
-                    "OneFootball PPV"
-                ]
-            },
-            {
-                "country": "Slovakia",
-                "channels": [
-                    "OneFootball PPV"
-                ]
-            },
-            {
-                "country": "Spain",
-                "channels": [
-                    "OneFootball PPV"
-                ]
-            },
-            {
-                "country": "Switzerland",
-                "channels": [
-                    "OneFootball PPV"
-                ]
-            },
-            {
-                "country": "Uruguay",
-                "channels": [
-                    "OneFootball PPV"
-                ]
-            },
-            {
-                "country": "Venezuela, Bolivarian Republic of",
-                "channels": [
-                    "OneFootball PPV"
+                    "Arena Sport 5 Croatia"
                 ]
             }
         ]
@@ -4217,8 +4237,7 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "CAF TV YouTube",
-                    "Channel 4"
+                    "CAF TV YouTube"
                 ]
             },
             {
@@ -4401,8 +4420,7 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "CAF TV YouTube",
-                    "Channel 4"
+                    "CAF TV YouTube"
                 ]
             },
             {
@@ -4585,8 +4603,7 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "CAF TV YouTube",
-                    "Channel 4"
+                    "CAF TV YouTube"
                 ]
             },
             {
@@ -4752,8 +4769,7 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "CAF TV YouTube",
-                    "Channel 4"
+                    "CAF TV YouTube"
                 ]
             },
             {
@@ -4858,7 +4874,14 @@
         "league_id": 10611,
         "league": "Champions League Qualification",
         "venue": "Vazgen Sargsyan anvan Hanrapetakan Marzadasht",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Slovakia",
+                "channels": [
+                    "Arena Sport 2"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5954863,
@@ -4867,7 +4890,15 @@
         "league_id": 10611,
         "league": "Champions League Qualification",
         "venue": "Strandvallen",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Slovakia",
+                "channels": [
+                    ";Šport",
+                    "Voyo"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5954867,
@@ -4950,6 +4981,12 @@
                 "channels": [
                     "VG TV"
                 ]
+            },
+            {
+                "country": "Slovakia",
+                "channels": [
+                    "Arena Sport 2"
+                ]
             }
         ]
     },
@@ -4969,7 +5006,14 @@
         "league_id": 10613,
         "league": "Europa League Qualification",
         "venue": "Inver Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "NIFL TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5955024,
@@ -4978,7 +5022,14 @@
         "league_id": 10613,
         "league": "Europa League Qualification",
         "venue": "Tallaght Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOITV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5976827,
@@ -5086,7 +5137,23 @@
         "league_id": 9656,
         "league": "CONCACAF Championship U20",
         "venue": "Estadio Universitario BUAP",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Canada",
+                "channels": [
+                    "OneSoccer"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "FOX One",
+                    "FOX Sports 2",
+                    "FOX Sports online",
+                    "Fubo Sports"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000011172,

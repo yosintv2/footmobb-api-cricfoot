@@ -15,7 +15,14 @@
         "league_id": 10611,
         "league": "Champions League Qualification",
         "venue": "Vazgen Sargsyan anvan Hanrapetakan Marzadasht",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Slovakia",
+                "channels": [
+                    "Arena Sport 2"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5954863,
@@ -24,7 +31,15 @@
         "league_id": 10611,
         "league": "Champions League Qualification",
         "venue": "Strandvallen",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Slovakia",
+                "channels": [
+                    ";Šport",
+                    "Voyo"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5954867,
@@ -107,6 +122,12 @@
                 "channels": [
                     "VG TV"
                 ]
+            },
+            {
+                "country": "Slovakia",
+                "channels": [
+                    "Arena Sport 2"
+                ]
             }
         ]
     },
@@ -126,15 +147,29 @@
         "league_id": 10611,
         "league": "Champions League Qualification",
         "venue": "Chobani Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Austria",
+                "channels": [
+                    "ORF 1",
+                    "ORF ON App"
+                ]
+            },
+            {
+                "country": "Slovakia",
+                "channels": [
+                    "ORF 1"
+                ]
+            }
+        ]
     },
     {
-        "match_id": 5900217,
+        "match_id": 5988156,
         "kickoff": 1785855600,
-        "fixture": "Lorient vs UNFP FC",
+        "fixture": "Norwich vs Cambridge",
         "league_id": 489,
         "league": "Club Friendlies",
-        "venue": "TBA",
+        "venue": "Avant Training Centre",
         "tv_channels": []
     },
     {
@@ -152,6 +187,15 @@
                 ]
             }
         ]
+    },
+    {
+        "match_id": 5988157,
+        "kickoff": 1785859200,
+        "fixture": "Monza vs Milan Futuro",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "Campo Monzello 2",
+        "tv_channels": []
     },
     {
         "match_id": 5901303,
@@ -172,6 +216,22 @@
                 "channels": [
                     "BBC iPlayer",
                     "S4C Clic"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5988158,
+        "kickoff": 1785868200,
+        "fixture": "Rotherham vs Derby",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "TBA",
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "RamsTV"
                 ]
             }
         ]
@@ -211,8 +271,42 @@
         ]
     },
     {
+        "match_id": 5987732,
+        "kickoff": 1785916800,
+        "fixture": "Villarreal vs Levante",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "TBA",
+        "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "beIN SPORTS 3"
+                ]
+            },
+            {
+                "country": "Norway",
+                "channels": [
+                    "VG TV"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "channels": [
+                    "Sport TV 1"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "À Punt"
+                ]
+            }
+        ]
+    },
+    {
         "match_id": 5449691,
-        "kickoff": 1785924000,
+        "kickoff": 1785927600,
         "fixture": "Milan vs Inter",
         "league_id": 489,
         "league": "Club Friendlies",
@@ -263,9 +357,22 @@
                 ]
             },
             {
+                "country": "France",
+                "channels": [
+                    "L'Équipe live"
+                ]
+            },
+            {
                 "country": "Germany",
                 "channels": [
                     "OneFootball Deutschland"
+                ]
+            },
+            {
+                "country": "Italy",
+                "channels": [
+                    "NOW TV (IT)",
+                    "Sky Sport Uno"
                 ]
             },
             {
@@ -293,6 +400,12 @@
                 "country": "Spain",
                 "channels": [
                     "DAZN"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "FOX Deportes"
                 ]
             },
             {
@@ -537,6 +650,13 @@
                 ]
             },
             {
+                "country": "France",
+                "channels": [
+                    "L'Équipe live",
+                    "L'Équipe live foot"
+                ]
+            },
+            {
                 "country": "Germany",
                 "channels": [
                     "DAZN Deutschland"
@@ -657,13 +777,60 @@
         ]
     },
     {
+        "match_id": 5987733,
+        "kickoff": 1785943800,
+        "fixture": "Marseille vs Al-Shahaniya",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "TBA",
+        "tv_channels": [
+            {
+                "country": "France",
+                "channels": [
+                    "Ligue 1+"
+                ]
+            }
+        ]
+    },
+    {
         "match_id": 5980768,
         "kickoff": 1785945600,
         "fixture": "Lazio vs Ostia Mare",
         "league_id": 489,
         "league": "Club Friendlies",
         "venue": "Stadio Mirko Fersini",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Italy",
+                "channels": [
+                    "DAZN Italia"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5987734,
+        "kickoff": 1785947400,
+        "fixture": "Napoli vs Osasuna",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "TBA",
+        "tv_channels": [
+            {
+                "country": "Italy",
+                "channels": [
+                    "DAZN Italia",
+                    "NOW TV (IT)",
+                    "Sky Sport 251"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "Canal por confirmar"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5900637,
@@ -673,218 +840,6 @@
         "league": "Club Friendlies",
         "venue": "Silberstadt Arena",
         "tv_channels": []
-    },
-    {
-        "match_id": 5874665,
-        "kickoff": 1785952800,
-        "fixture": "Mallorca vs PSG",
-        "league_id": 489,
-        "league": "Club Friendlies",
-        "venue": "Estadi Mallorca Son Moix",
-        "tv_channels": [
-            {
-                "country": "Argentina",
-                "channels": [
-                    "Amazon Prime Video",
-                    "DAZN",
-                    "DAZN App Gratis",
-                    "DGO",
-                    "DSports",
-                    "Paramount+"
-                ]
-            },
-            {
-                "country": "Australia",
-                "channels": [
-                    "DAZN",
-                    "beIN SPORTS 3"
-                ]
-            },
-            {
-                "country": "Austria",
-                "channels": [
-                    "Sky Sport Mix",
-                    "Sky Sport News",
-                    "Sky Sport News Livestream",
-                    "Sky Sport Top Event",
-                    "Sky Stream"
-                ]
-            },
-            {
-                "country": "Bolivia, Plurinational State of",
-                "channels": [
-                    "DAZN",
-                    "DAZN App Gratis"
-                ]
-            },
-            {
-                "country": "Canada",
-                "channels": [
-                    "DAZN Canada"
-                ]
-            },
-            {
-                "country": "Chile",
-                "channels": [
-                    "Amazon Prime Video",
-                    "DAZN",
-                    "DAZN App Gratis",
-                    "DGO",
-                    "DSports",
-                    "Paramount+"
-                ]
-            },
-            {
-                "country": "Colombia",
-                "channels": [
-                    "Amazon Prime Video",
-                    "DAZN",
-                    "DAZN App Gratis",
-                    "DGO",
-                    "DSports",
-                    "Paramount+"
-                ]
-            },
-            {
-                "country": "Costa Rica",
-                "channels": [
-                    "DAZN",
-                    "DAZN App Gratis",
-                    "Disney+ Premium",
-                    "ESPN"
-                ]
-            },
-            {
-                "country": "Dominican Republic",
-                "channels": [
-                    "DAZN",
-                    "DAZN App Gratis",
-                    "Disney+ Premium",
-                    "ESPN"
-                ]
-            },
-            {
-                "country": "Ecuador",
-                "channels": [
-                    "DAZN",
-                    "DAZN App Gratis",
-                    "DGO",
-                    "DSports 1611",
-                    "Paramount+"
-                ]
-            },
-            {
-                "country": "Guatemala",
-                "channels": [
-                    "DAZN",
-                    "DAZN App Gratis",
-                    "Disney+ Premium",
-                    "ESPN"
-                ]
-            },
-            {
-                "country": "Honduras",
-                "channels": [
-                    "DAZN",
-                    "DAZN App Gratis",
-                    "Disney+ Premium",
-                    "ESPN"
-                ]
-            },
-            {
-                "country": "Mexico",
-                "channels": [
-                    "DAZN",
-                    "DAZN App Gratis",
-                    "Disney+ Premium",
-                    "ESPN"
-                ]
-            },
-            {
-                "country": "Netherlands",
-                "channels": [
-                    "DAZN (NL)"
-                ]
-            },
-            {
-                "country": "Nicaragua",
-                "channels": [
-                    "DAZN",
-                    "DAZN App Gratis",
-                    "Disney+ Premium",
-                    "ESPN"
-                ]
-            },
-            {
-                "country": "Norway",
-                "channels": [
-                    "VG TV"
-                ]
-            },
-            {
-                "country": "Panama",
-                "channels": [
-                    "DAZN",
-                    "DAZN App Gratis",
-                    "Disney+ Premium",
-                    "ESPN"
-                ]
-            },
-            {
-                "country": "Paraguay",
-                "channels": [
-                    "DAZN",
-                    "DAZN App Gratis"
-                ]
-            },
-            {
-                "country": "Peru",
-                "channels": [
-                    "DAZN",
-                    "DAZN App Gratis",
-                    "DGO",
-                    "DSports",
-                    "Paramount+"
-                ]
-            },
-            {
-                "country": "Spain",
-                "channels": [
-                    "Esports IB3 YouTube",
-                    "IB3"
-                ]
-            },
-            {
-                "country": "United Kingdom",
-                "channels": [
-                    "DAZN UK"
-                ]
-            },
-            {
-                "country": "United States",
-                "channels": [
-                    "DAZN US"
-                ]
-            },
-            {
-                "country": "Uruguay",
-                "channels": [
-                    "DAZN",
-                    "DAZN App Gratis",
-                    "DGO",
-                    "DSports",
-                    "Paramount+"
-                ]
-            },
-            {
-                "country": "Venezuela, Bolivarian Republic of",
-                "channels": [
-                    "DAZN",
-                    "DAZN App Gratis",
-                    "DSports"
-                ]
-            }
-        ]
     },
     {
         "match_id": 5900325,
@@ -1131,6 +1086,233 @@
         ]
     },
     {
+        "match_id": 5874665,
+        "kickoff": 1785956400,
+        "fixture": "Mallorca vs PSG",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "Estadi Mallorca Son Moix",
+        "tv_channels": [
+            {
+                "country": "Argentina",
+                "channels": [
+                    "Amazon Prime Video",
+                    "DAZN",
+                    "DAZN App Gratis",
+                    "DGO",
+                    "DSports",
+                    "Paramount+"
+                ]
+            },
+            {
+                "country": "Australia",
+                "channels": [
+                    "DAZN",
+                    "beIN SPORTS 3"
+                ]
+            },
+            {
+                "country": "Austria",
+                "channels": [
+                    "Sky Sport Mix",
+                    "Sky Sport News",
+                    "Sky Sport News Livestream",
+                    "Sky Sport Top Event",
+                    "Sky Stream"
+                ]
+            },
+            {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "DAZN",
+                    "DAZN App Gratis"
+                ]
+            },
+            {
+                "country": "Canada",
+                "channels": [
+                    "DAZN Canada"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "Amazon Prime Video",
+                    "DAZN",
+                    "DAZN App Gratis",
+                    "DGO",
+                    "DSports",
+                    "Paramount+"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "channels": [
+                    "Amazon Prime Video",
+                    "DAZN",
+                    "DAZN App Gratis",
+                    "DGO",
+                    "DSports",
+                    "Paramount+"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "channels": [
+                    "DAZN",
+                    "DAZN App Gratis",
+                    "Disney+ Premium",
+                    "ESPN"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "channels": [
+                    "DAZN",
+                    "DAZN App Gratis",
+                    "Disney+ Premium",
+                    "ESPN"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "DAZN",
+                    "DAZN App Gratis",
+                    "DGO",
+                    "DSports 1611",
+                    "Paramount+"
+                ]
+            },
+            {
+                "country": "France",
+                "channels": [
+                    "beIN Sports 1 (FR)"
+                ]
+            },
+            {
+                "country": "Germany",
+                "channels": [
+                    "Sky Sport Mix",
+                    "Sky Sport News",
+                    "Sky Top Event",
+                    "WOW"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "channels": [
+                    "DAZN",
+                    "DAZN App Gratis",
+                    "Disney+ Premium",
+                    "ESPN"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "channels": [
+                    "DAZN",
+                    "DAZN App Gratis",
+                    "Disney+ Premium",
+                    "ESPN"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "channels": [
+                    "DAZN",
+                    "DAZN App Gratis",
+                    "Disney+ Premium",
+                    "ESPN"
+                ]
+            },
+            {
+                "country": "Netherlands",
+                "channels": [
+                    "DAZN (NL)"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "channels": [
+                    "DAZN",
+                    "DAZN App Gratis",
+                    "Disney+ Premium",
+                    "ESPN"
+                ]
+            },
+            {
+                "country": "Norway",
+                "channels": [
+                    "VG TV"
+                ]
+            },
+            {
+                "country": "Panama",
+                "channels": [
+                    "DAZN",
+                    "DAZN App Gratis",
+                    "Disney+ Premium",
+                    "ESPN"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "DAZN",
+                    "DAZN App Gratis"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "DAZN",
+                    "DAZN App Gratis",
+                    "DGO",
+                    "DSports",
+                    "Paramount+"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "Esports IB3 YouTube",
+                    "IB3"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "DAZN UK"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "DAZN US"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "DAZN",
+                    "DAZN App Gratis",
+                    "DGO",
+                    "DSports",
+                    "Paramount+"
+                ]
+            },
+            {
+                "country": "Venezuela, Bolivarian Republic of",
+                "channels": [
+                    "DAZN",
+                    "DAZN App Gratis",
+                    "DSports"
+                ]
+            }
+        ]
+    },
+    {
         "match_id": 5848842,
         "kickoff": 1785888000,
         "fixture": "CD Plaza Amador vs Firpo",
@@ -1274,6 +1456,12 @@
                 "country": "Switzerland",
                 "channels": [
                     "CONCACAF YouTube"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Paramount+ (US)"
                 ]
             },
             {
@@ -1444,6 +1632,12 @@
                 ]
             },
             {
+                "country": "United States",
+                "channels": [
+                    "Paramount+ (US)"
+                ]
+            },
+            {
                 "country": "Uruguay",
                 "channels": [
                     "Disney+ Premium"
@@ -1604,6 +1798,12 @@
                 ]
             },
             {
+                "country": "United States",
+                "channels": [
+                    "Paramount+ (US)"
+                ]
+            },
+            {
                 "country": "Uruguay",
                 "channels": [
                     "Disney+ Premium"
@@ -1633,7 +1833,14 @@
         "league_id": 10615,
         "league": "Conference League Qualification",
         "venue": "Brann Stadion",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Norway",
+                "channels": [
+                    "VG TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5955326,
@@ -1642,7 +1849,15 @@
         "league_id": 10615,
         "league": "Conference League Qualification",
         "venue": "Olympiako Stadio Spyros Louis",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "ESPN Select",
+                    "ESPN Unlimited"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5874697,
@@ -1687,7 +1902,14 @@
         "league_id": 10613,
         "league": "Europa League Qualification",
         "venue": "Inver Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "NIFL TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5955024,
@@ -1696,7 +1918,14 @@
         "league_id": 10613,
         "league": "Europa League Qualification",
         "venue": "Tallaght Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOITV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5955040,
@@ -1706,6 +1935,12 @@
         "league": "Europa League Qualification",
         "venue": "Groupama Aréna",
         "tv_channels": [
+            {
+                "country": "Slovakia",
+                "channels": [
+                    "M4 Sport"
+                ]
+            },
             {
                 "country": "United States",
                 "channels": [
@@ -1973,6 +2208,12 @@
                 ]
             },
             {
+                "country": "United Kingdom",
+                "channels": [
+                    "Apple TV (UK)"
+                ]
+            },
+            {
                 "country": "United States",
                 "channels": [
                     "Apple TV (US)",
@@ -2149,10 +2390,15 @@
                 ]
             },
             {
+                "country": "United Kingdom",
+                "channels": [
+                    "Apple TV (UK)"
+                ]
+            },
+            {
                 "country": "United States",
                 "channels": [
-                    "Apple TV (US)",
-                    "Fubo Sports"
+                    "Apple TV (US)"
                 ]
             },
             {
@@ -2319,6 +2565,12 @@
                 "country": "Sweden",
                 "channels": [
                     "Apple TV (SE)"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Apple TV (UK)"
                 ]
             },
             {
@@ -2491,6 +2743,12 @@
                 "country": "Sweden",
                 "channels": [
                     "Apple TV (SE)"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Apple TV (UK)"
                 ]
             },
             {
@@ -2668,15 +2926,20 @@
                 ]
             },
             {
+                "country": "United Kingdom",
+                "channels": [
+                    "Apple TV (UK)"
+                ]
+            },
+            {
                 "country": "United States",
                 "channels": [
                     "Apple TV (US)",
-                    "FOX",
                     "FOX One",
                     "FOX Sports 1",
                     "FOX Sports online",
                     "Fubo Sports",
-                    "TUDN",
+                    "TUDN (US)",
                     "UniMás",
                     "Univision"
                 ]
@@ -2845,6 +3108,12 @@
                 "country": "Sweden",
                 "channels": [
                     "Apple TV (SE)"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Apple TV (UK)"
                 ]
             },
             {
@@ -3337,6 +3606,12 @@
                 ]
             },
             {
+                "country": "Iceland",
+                "channels": [
+                    "SÝN Sport"
+                ]
+            },
+            {
                 "country": "Ireland",
                 "channels": [
                     "OneFootball PPV"
@@ -3500,6 +3775,12 @@
                 "country": "Honduras",
                 "channels": [
                     "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Iceland",
+                "channels": [
+                    "SÝN Sport"
                 ]
             },
             {
@@ -3669,6 +3950,12 @@
                 ]
             },
             {
+                "country": "Iceland",
+                "channels": [
+                    "SÝN Sport"
+                ]
+            },
+            {
                 "country": "Ireland",
                 "channels": [
                     "OneFootball PPV"
@@ -3761,7 +4048,23 @@
         "league_id": 9656,
         "league": "CONCACAF Championship U20",
         "venue": "Estadio Universitario BUAP",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Canada",
+                "channels": [
+                    "OneSoccer"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "FOX One",
+                    "FOX Sports 2",
+                    "FOX Sports online",
+                    "Fubo Sports"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000018944,
@@ -3770,7 +4073,23 @@
         "league_id": 9656,
         "league": "CONCACAF Championship U20",
         "venue": "Estadio Universitario BUAP",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Canada",
+                "channels": [
+                    "OneSoccer"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "FOX One",
+                    "FOX Sports 2",
+                    "FOX Sports online",
+                    "Fubo Sports"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000012447,
@@ -4353,8 +4672,7 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "CAF TV YouTube",
-                    "Channel 4"
+                    "CAF TV YouTube"
                 ]
             },
             {
@@ -4520,8 +4838,7 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "CAF TV YouTube",
-                    "Channel 4"
+                    "CAF TV YouTube"
                 ]
             },
             {
@@ -4688,8 +5005,7 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "CAF TV YouTube",
-                    "Channel 4"
+                    "CAF TV YouTube"
                 ]
             },
             {
@@ -4861,8 +5177,7 @@
             {
                 "country": "Ireland",
                 "channels": [
-                    "CAF TV YouTube",
-                    "Channel 4"
+                    "CAF TV YouTube"
                 ]
             },
             {
@@ -4961,6 +5276,22 @@
         "tv_channels": []
     },
     {
+        "match_id": 5113003,
+        "kickoff": 1785952800,
+        "fixture": "Almagro vs Gimnasia y Tiro",
+        "league_id": 8965,
+        "league": "Primera Nacional",
+        "venue": "Estadio Tres de Febrero",
+        "tv_channels": [
+            {
+                "country": "Argentina",
+                "channels": [
+                    "APLAZADO"
+                ]
+            }
+        ]
+    },
+    {
         "match_id": 5851872,
         "kickoff": 1785943800,
         "fixture": "Fakel vs Dinamo",
@@ -5022,22 +5353,6 @@
         "league": "Ykkonen",
         "venue": "TBA",
         "tv_channels": []
-    },
-    {
-        "match_id": 5113003,
-        "kickoff": 1785952800,
-        "fixture": "Almagro vs Gimnasia y Tiro",
-        "league_id": 8965,
-        "league": "Primera Nacional",
-        "venue": "Estadio Tres de Febrero",
-        "tv_channels": [
-            {
-                "country": "Argentina",
-                "channels": [
-                    "APLAZADO"
-                ]
-            }
-        ]
     },
     {
         "match_id": 1000012774,

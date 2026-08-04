@@ -240,7 +240,14 @@
         "league_id": 61,
         "league": "Liga Portugal",
         "venue": "Estádio de São Miguel",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Portugal",
+                "channels": [
+                    "Canal a confirmar"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5888022,
@@ -249,7 +256,14 @@
         "league_id": 185,
         "league": "Liga Portugal 2",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Portugal",
+                "channels": [
+                    "Canal a confirmar"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5954303,
@@ -420,6 +434,20 @@
                 ]
             },
             {
+                "country": "Ireland",
+                "channels": [
+                    "Sky Sports Football",
+                    "Sky Sports Main Event",
+                    "Sky Sports Main Event Ultra HD"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
                 "country": "Netherlands",
                 "channels": [
                     "Viaplay NL"
@@ -432,6 +460,13 @@
                 ]
             },
             {
+                "country": "Slovakia",
+                "channels": [
+                    "Nova Sport 1",
+                    "Voyo"
+                ]
+            },
+            {
                 "country": "Sweden",
                 "channels": [
                     "Viaplay SE"
@@ -440,10 +475,12 @@
             {
                 "country": "United Kingdom",
                 "channels": [
+                    "NOW TV",
                     "Sky Sports Football",
                     "Sky Sports Main Event",
                     "Sky Sports UHD",
-                    "Sky Sports+"
+                    "Sky Sports+",
+                    "Sky Sports+ app"
                 ]
             },
             {
@@ -546,6 +583,79 @@
         "league_id": 8965,
         "league": "Primera Nacional",
         "venue": "TBA",
+        "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Austria",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Poland",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Slovakia",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "channels": [
+                    "LPF Play"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5113399,
+        "kickoff": 1786402800,
+        "fixture": "All Boys vs Central Norte",
+        "league_id": 8965,
+        "league": "Primera Nacional",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5113031,
+        "kickoff": 1786402800,
+        "fixture": "Atlanta vs Temperley",
+        "league_id": 8965,
+        "league": "Primera Nacional",
+        "venue": "TBA",
         "tv_channels": []
     },
     {
@@ -624,7 +734,7 @@
         "fixture": "Banfield vs Belgrano",
         "league_id": 112,
         "league": "Liga Profesional Clausura",
-        "venue": "TBA",
+        "venue": "Estadio Florencio Solá",
         "tv_channels": [
             {
                 "country": "United States",
@@ -640,7 +750,7 @@
         "fixture": "Union vs Central Cordoba de Santiago",
         "league_id": 112,
         "league": "Liga Profesional Clausura",
-        "venue": "TBA",
+        "venue": "Estadio 15 de Abril",
         "tv_channels": []
     },
     {
@@ -671,12 +781,12 @@
         "tv_channels": []
     },
     {
-        "match_id": 5853456,
+        "match_id": 5853461,
         "kickoff": 1786386600,
-        "fixture": "CFR Cluj vs Universitatea Cluj",
+        "fixture": "Sepsi OSK vs FCSB",
         "league_id": 189,
         "league": "Superliga",
-        "venue": "Stadionul Dr. Constantin Rădulescu",
+        "venue": "Sepsi Duna Aréna",
         "tv_channels": []
     },
     {
@@ -695,7 +805,62 @@
         "league_id": 215,
         "league": "Besta deildin",
         "venue": "Lambhagavöllurinn",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Austria",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Poland",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Slovakia",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "channels": [
+                    "OneFootball PPV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000017373,
@@ -713,7 +878,62 @@
         "league_id": 10282,
         "league": "MLS Next Pro",
         "venue": "SeatGeek Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Austria",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Poland",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Slovakia",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "channels": [
+                    "OneFootball"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000014079,
@@ -767,7 +987,14 @@
         "league_id": 246,
         "league": "Serie A",
         "venue": "Estadio Bellavista Universidad Indoamérica",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Spain",
+                "channels": [
+                    "Zapping Internacional"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000009058,
@@ -1122,7 +1349,7 @@
     },
     {
         "match_id": 5949172,
-        "kickoff": 1786477500,
+        "kickoff": 1786473900,
         "fixture": "Alfreton Town vs Gainsborough",
         "league_id": 8947,
         "league": "Northern Premier Division",
@@ -1131,7 +1358,7 @@
     },
     {
         "match_id": 5949171,
-        "kickoff": 1786477500,
+        "kickoff": 1786473900,
         "fixture": "Bamber Bridge vs Avro",
         "league_id": 8947,
         "league": "Northern Premier Division",
@@ -1140,7 +1367,7 @@
     },
     {
         "match_id": 5949170,
-        "kickoff": 1786477500,
+        "kickoff": 1786473900,
         "fixture": "Bury vs Curzon",
         "league_id": 8947,
         "league": "Northern Premier Division",
@@ -1149,7 +1376,7 @@
     },
     {
         "match_id": 5949169,
-        "kickoff": 1786477500,
+        "kickoff": 1786473900,
         "fixture": "Emley vs Ilkeston Town",
         "league_id": 8947,
         "league": "Northern Premier Division",
@@ -1158,7 +1385,7 @@
     },
     {
         "match_id": 5949168,
-        "kickoff": 1786477500,
+        "kickoff": 1786473900,
         "fixture": "FC United of Manchester vs Leek Town",
         "league_id": 8947,
         "league": "Northern Premier Division",
@@ -1167,7 +1394,7 @@
     },
     {
         "match_id": 5949167,
-        "kickoff": 1786477500,
+        "kickoff": 1786473900,
         "fixture": "Lancaster City vs Warrington Rylands",
         "league_id": 8947,
         "league": "Northern Premier Division",
@@ -1176,7 +1403,7 @@
     },
     {
         "match_id": 5949166,
-        "kickoff": 1786477500,
+        "kickoff": 1786473900,
         "fixture": "Quorn vs Cleethorpes Town",
         "league_id": 8947,
         "league": "Northern Premier Division",
@@ -1185,7 +1412,7 @@
     },
     {
         "match_id": 5949165,
-        "kickoff": 1786477500,
+        "kickoff": 1786473900,
         "fixture": "Stockton Town vs Ashton United",
         "league_id": 8947,
         "league": "Northern Premier Division",
@@ -1194,7 +1421,7 @@
     },
     {
         "match_id": 5949164,
-        "kickoff": 1786477500,
+        "kickoff": 1786473900,
         "fixture": "Warrington Town vs Hyde United",
         "league_id": 8947,
         "league": "Northern Premier Division",
@@ -1203,7 +1430,7 @@
     },
     {
         "match_id": 5949163,
-        "kickoff": 1786477500,
+        "kickoff": 1786473900,
         "fixture": "Whitby vs Guiseley",
         "league_id": 8947,
         "league": "Northern Premier Division",
@@ -1212,7 +1439,7 @@
     },
     {
         "match_id": 5949162,
-        "kickoff": 1786477500,
+        "kickoff": 1786473900,
         "fixture": "Workington vs Redcar Athletic",
         "league_id": 8947,
         "league": "Northern Premier Division",

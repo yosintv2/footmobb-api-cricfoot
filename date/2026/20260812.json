@@ -339,7 +339,29 @@
         "league_id": 489,
         "league": "Club Friendlies",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Premier Sports 1 ROI"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports 1 UK",
+                    "Premier Sports Player"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "FOX Deportes",
+                    "FOX One",
+                    "FOX Sports online"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5958628,
@@ -366,7 +388,22 @@
         "league_id": 489,
         "league": "Club Friendlies",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Premier Sports 2 ROI"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "MUTV",
+                    "Premier Sports 2 UK",
+                    "Premier Sports Player"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5899096,
@@ -384,7 +421,20 @@
         "league_id": 489,
         "league": "Club Friendlies",
         "venue": "Estadio Abanca-Riazor",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "DAZN UK"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "DAZN US"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5848844,
@@ -582,7 +632,14 @@
         "league_id": 10043,
         "league": "Leagues Cup",
         "venue": "Bank of America Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Apple TV (UK)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5844859,
@@ -591,7 +648,14 @@
         "league_id": 10043,
         "league": "Leagues Cup",
         "venue": "ScottsMiracle-Gro Field",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Apple TV (UK)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5844860,
@@ -600,7 +664,14 @@
         "league_id": 10043,
         "league": "Leagues Cup",
         "venue": "TQL Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Apple TV (UK)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5844861,
@@ -609,7 +680,14 @@
         "league_id": 10043,
         "league": "Leagues Cup",
         "venue": "Allianz Field",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Apple TV (UK)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5844862,
@@ -618,7 +696,14 @@
         "league_id": 10043,
         "league": "Leagues Cup",
         "venue": "America First Field",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Apple TV (UK)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5844863,
@@ -627,11 +712,18 @@
         "league_id": 10043,
         "league": "Leagues Cup",
         "venue": "Estadio Universitario",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Apple TV (UK)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5949172,
-        "kickoff": 1786477500,
+        "kickoff": 1786473900,
         "fixture": "Alfreton Town vs Gainsborough",
         "league_id": 8947,
         "league": "Northern Premier Division",
@@ -640,7 +732,7 @@
     },
     {
         "match_id": 5949171,
-        "kickoff": 1786477500,
+        "kickoff": 1786473900,
         "fixture": "Bamber Bridge vs Avro",
         "league_id": 8947,
         "league": "Northern Premier Division",
@@ -649,7 +741,7 @@
     },
     {
         "match_id": 5949170,
-        "kickoff": 1786477500,
+        "kickoff": 1786473900,
         "fixture": "Bury vs Curzon",
         "league_id": 8947,
         "league": "Northern Premier Division",
@@ -658,7 +750,7 @@
     },
     {
         "match_id": 5949169,
-        "kickoff": 1786477500,
+        "kickoff": 1786473900,
         "fixture": "Emley vs Ilkeston Town",
         "league_id": 8947,
         "league": "Northern Premier Division",
@@ -667,7 +759,7 @@
     },
     {
         "match_id": 5949168,
-        "kickoff": 1786477500,
+        "kickoff": 1786473900,
         "fixture": "FC United of Manchester vs Leek Town",
         "league_id": 8947,
         "league": "Northern Premier Division",
@@ -676,7 +768,7 @@
     },
     {
         "match_id": 5949167,
-        "kickoff": 1786477500,
+        "kickoff": 1786473900,
         "fixture": "Lancaster City vs Warrington Rylands",
         "league_id": 8947,
         "league": "Northern Premier Division",
@@ -685,7 +777,7 @@
     },
     {
         "match_id": 5949166,
-        "kickoff": 1786477500,
+        "kickoff": 1786473900,
         "fixture": "Quorn vs Cleethorpes Town",
         "league_id": 8947,
         "league": "Northern Premier Division",
@@ -694,7 +786,7 @@
     },
     {
         "match_id": 5949165,
-        "kickoff": 1786477500,
+        "kickoff": 1786473900,
         "fixture": "Stockton Town vs Ashton United",
         "league_id": 8947,
         "league": "Northern Premier Division",
@@ -703,7 +795,7 @@
     },
     {
         "match_id": 5949164,
-        "kickoff": 1786477500,
+        "kickoff": 1786473900,
         "fixture": "Warrington Town vs Hyde United",
         "league_id": 8947,
         "league": "Northern Premier Division",
@@ -712,7 +804,7 @@
     },
     {
         "match_id": 5949163,
-        "kickoff": 1786477500,
+        "kickoff": 1786473900,
         "fixture": "Whitby vs Guiseley",
         "league_id": 8947,
         "league": "Northern Premier Division",
@@ -721,7 +813,7 @@
     },
     {
         "match_id": 5949162,
-        "kickoff": 1786477500,
+        "kickoff": 1786473900,
         "fixture": "Workington vs Redcar Athletic",
         "league_id": 8947,
         "league": "Northern Premier Division",
@@ -1148,7 +1240,7 @@
         "fixture": "Talleres vs Lanus",
         "league_id": 112,
         "league": "Liga Profesional Clausura",
-        "venue": "TBA",
+        "venue": "Estadio Mario Alberto Kempes",
         "tv_channels": []
     },
     {
@@ -1230,7 +1322,14 @@
         "league_id": 274,
         "league": "Primera A",
         "venue": "Estadio Atanasio Girardot",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "Fanatiz"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000013678,
@@ -1302,7 +1401,22 @@
         "league_id": 74,
         "league": "UEFA Super Cup",
         "venue": "Red Bull Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "HBO Max (UK)",
+                    "TNT Sports 1",
+                    "TNT Sports Ultimate"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Paramount+ (US)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5978434,
