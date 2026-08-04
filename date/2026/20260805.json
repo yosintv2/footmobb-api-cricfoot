@@ -57,7 +57,14 @@
         "league_id": 10611,
         "league": "Champions League Qualification",
         "venue": "Stadion Georgi Asparuhov",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Bulgaria",
+                "channels": [
+                    "Play Diema Xtra"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5954862,
@@ -226,7 +233,7 @@
         "fixture": "Rotherham vs Derby",
         "league_id": 489,
         "league": "Club Friendlies",
-        "venue": "TBA",
+        "venue": "AESSEAL New York Stadium",
         "tv_channels": [
             {
                 "country": "Ireland",
@@ -266,6 +273,12 @@
                 "country": "Portugal",
                 "channels": [
                     "Sport TV 1"
+                ]
+            },
+            {
+                "country": "Russian Federation",
+                "channels": [
+                    "Okko Sport"
                 ]
             }
         ]
@@ -324,7 +337,8 @@
             {
                 "country": "Australia",
                 "channels": [
-                    "7Mate"
+                    "7Mate",
+                    "7plus"
                 ]
             },
             {
@@ -754,6 +768,12 @@
                 "country": "Switzerland",
                 "channels": [
                     "DAZN"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "CBS Sports Golazo Network"
                 ]
             },
             {
@@ -3290,7 +3310,21 @@
         "league_id": 9096,
         "league": "Second Professional League",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Bulgaria",
+                "channels": [
+                    "Diema Sport 2",
+                    "Play Diema Xtra"
+                ]
+            },
+            {
+                "country": "Slovenia",
+                "channels": [
+                    "Sportklub 3 Slovenia"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5972809,
@@ -4744,6 +4778,7 @@
             {
                 "country": "United States",
                 "channels": [
+                    "Fanatiz",
                     "beIN Sports CONNECT USA"
                 ]
             },
@@ -5249,6 +5284,7 @@
             {
                 "country": "United States",
                 "channels": [
+                    "Fanatiz",
                     "beIN Sports CONNECT USA"
                 ]
             },
@@ -5274,22 +5310,6 @@
         "league": "3. Divisjon Avd. 2",
         "venue": "TBA",
         "tv_channels": []
-    },
-    {
-        "match_id": 5113003,
-        "kickoff": 1785952800,
-        "fixture": "Almagro vs Gimnasia y Tiro",
-        "league_id": 8965,
-        "league": "Primera Nacional",
-        "venue": "Estadio Tres de Febrero",
-        "tv_channels": [
-            {
-                "country": "Argentina",
-                "channels": [
-                    "APLAZADO"
-                ]
-            }
-        ]
     },
     {
         "match_id": 5851872,
@@ -5353,6 +5373,22 @@
         "league": "Ykkonen",
         "venue": "TBA",
         "tv_channels": []
+    },
+    {
+        "match_id": 5113003,
+        "kickoff": 1785952800,
+        "fixture": "Almagro vs Gimnasia y Tiro",
+        "league_id": 8965,
+        "league": "Primera Nacional",
+        "venue": "Estadio Tres de Febrero",
+        "tv_channels": [
+            {
+                "country": "Argentina",
+                "channels": [
+                    "APLAZADO"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000012774,

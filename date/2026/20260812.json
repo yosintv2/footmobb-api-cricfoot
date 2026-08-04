@@ -321,7 +321,15 @@
         "league_id": 10611,
         "league": "Champions League Qualification",
         "venue": "Groupama Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "France",
+                "channels": [
+                    "Canal+",
+                    "myCANAL"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5900180,
@@ -634,9 +642,69 @@
         "venue": "Bank of America Stadium",
         "tv_channels": [
             {
+                "country": "Canada",
+                "channels": [
+                    "Apple TV (US)"
+                ]
+            },
+            {
+                "country": "Finland",
+                "channels": [
+                    "Apple TV (FI)"
+                ]
+            },
+            {
+                "country": "France",
+                "channels": [
+                    "Apple TV (FR)"
+                ]
+            },
+            {
+                "country": "Germany",
+                "channels": [
+                    "Apple TV (DE)"
+                ]
+            },
+            {
+                "country": "India",
+                "channels": [
+                    "Apple TV (IN)"
+                ]
+            },
+            {
+                "country": "Italy",
+                "channels": [
+                    "Apple TV (IT)"
+                ]
+            },
+            {
+                "country": "Netherlands",
+                "channels": [
+                    "Apple TV (NL)"
+                ]
+            },
+            {
+                "country": "Norway",
+                "channels": [
+                    "Apple TV (NO)"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "channels": [
+                    "Apple TV (SE)"
+                ]
+            },
+            {
                 "country": "United Kingdom",
                 "channels": [
                     "Apple TV (UK)"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Apple TV (US)"
                 ]
             }
         ]
@@ -650,9 +718,69 @@
         "venue": "ScottsMiracle-Gro Field",
         "tv_channels": [
             {
+                "country": "Canada",
+                "channels": [
+                    "Apple TV (US)"
+                ]
+            },
+            {
+                "country": "Finland",
+                "channels": [
+                    "Apple TV (FI)"
+                ]
+            },
+            {
+                "country": "France",
+                "channels": [
+                    "Apple TV (FR)"
+                ]
+            },
+            {
+                "country": "Germany",
+                "channels": [
+                    "Apple TV (DE)"
+                ]
+            },
+            {
+                "country": "India",
+                "channels": [
+                    "Apple TV (IN)"
+                ]
+            },
+            {
+                "country": "Italy",
+                "channels": [
+                    "Apple TV (IT)"
+                ]
+            },
+            {
+                "country": "Netherlands",
+                "channels": [
+                    "Apple TV (NL)"
+                ]
+            },
+            {
+                "country": "Norway",
+                "channels": [
+                    "Apple TV (NO)"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "channels": [
+                    "Apple TV (SE)"
+                ]
+            },
+            {
                 "country": "United Kingdom",
                 "channels": [
                     "Apple TV (UK)"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Apple TV (US)"
                 ]
             }
         ]
@@ -1232,7 +1360,15 @@
         "league_id": 168,
         "league": "Superettan",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Sweden",
+                "channels": [
+                    "TV4 Fotboll",
+                    "TV4 Play Sport Fotboll"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5115930,
@@ -1250,7 +1386,15 @@
         "league_id": 9837,
         "league": "Canadian Championship",
         "venue": "TD Place Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "FOX Sports 2",
+                    "Fubo Sports"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000012928,
@@ -1259,7 +1403,27 @@
         "league_id": 45,
         "league": "Copa Libertadores 8th Finals",
         "venue": "Estadio Jornalista Mário Filho (Maracanã)",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Netherlands",
+                "channels": [
+                    "ESPN NL",
+                    "ESPN Watch NL"
+                ]
+            },
+            {
+                "country": "New Zealand",
+                "channels": [
+                    "beIN Sports Connect New Zealand"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Fanatiz"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000012922,
@@ -1295,7 +1459,14 @@
         "league_id": 299,
         "league": "Copa Sudamericana 8th Finals",
         "venue": "Estadio Alberto José Armando",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Canada",
+                "channels": [
+                    "beIN Sport Canada"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000013059,

@@ -2483,6 +2483,12 @@
         "venue": "Molineux Stadium",
         "tv_channels": [
             {
+                "country": "Australia",
+                "channels": [
+                    "beIN SPORTS 2"
+                ]
+            },
+            {
                 "country": "Finland",
                 "channels": [
                     "V Sport Premium FI",
@@ -2582,6 +2588,12 @@
         "league": "EFL Cup",
         "venue": "Riverside Stadium",
         "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "beIN SPORTS 3"
+                ]
+            },
             {
                 "country": "Finland",
                 "channels": [
@@ -3469,17 +3481,14 @@
                 "channels": [
                     "Canal por confirmar"
                 ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Fanatiz"
+                ]
             }
         ]
-    },
-    {
-        "match_id": 1000013674,
-        "kickoff": 1786048200,
-        "fixture": "Envigado vs Union Magdalena",
-        "league_id": 9125,
-        "league": "Primera B",
-        "venue": "Estadio Polideportivo Sur",
-        "tv_channels": []
     },
     {
         "match_id": 1000013670,
@@ -3509,6 +3518,12 @@
                 "country": "Colombia",
                 "channels": [
                     "Canal por confirmar"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Fanatiz"
                 ]
             }
         ]
@@ -3626,6 +3641,7 @@
             {
                 "country": "United States",
                 "channels": [
+                    "Fanatiz",
                     "beIN Sports CONNECT USA"
                 ]
             }
@@ -3673,6 +3689,7 @@
             {
                 "country": "United States",
                 "channels": [
+                    "Fanatiz",
                     "beIN Sport USA",
                     "beIN Sport USA Español",
                     "beIN Sports CONNECT USA"

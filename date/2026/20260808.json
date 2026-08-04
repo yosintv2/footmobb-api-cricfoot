@@ -662,6 +662,13 @@
         "venue": "Optus Stadium",
         "tv_channels": [
             {
+                "country": "Australia",
+                "channels": [
+                    "7Mate",
+                    "7plus"
+                ]
+            },
+            {
                 "country": "Germany",
                 "channels": [
                     "OneFootball Deutschland"
@@ -1044,6 +1051,12 @@
         "league": "Club Friendlies",
         "venue": "BayArena",
         "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "beIN SPORTS 1"
+                ]
+            },
             {
                 "country": "Indonesia",
                 "channels": [
@@ -1500,6 +1513,13 @@
                 "country": "Spain",
                 "channels": [
                     "Real Madrid TV"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "CBS Sports Network",
+                    "Fubo Sports"
                 ]
             },
             {
@@ -4036,6 +4056,12 @@
                 ]
             },
             {
+                "country": "Greece",
+                "channels": [
+                    "Cosmote Sport 2"
+                ]
+            },
+            {
                 "country": "Hungary",
                 "channels": [
                     "Sport 1 Hungary"
@@ -4080,7 +4106,8 @@
             {
                 "country": "Ukraine",
                 "channels": [
-                    "MEGOGO Football 1"
+                    "MEGOGO Football 1",
+                    "Megogo"
                 ]
             },
             {
@@ -5277,6 +5304,12 @@
         "league": "NWSL",
         "venue": "Centennial Stadium",
         "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "Stan Sport"
+                ]
+            },
             {
                 "country": "Austria",
                 "channels": [
@@ -7627,6 +7660,12 @@
                 ]
             },
             {
+                "country": "Australia",
+                "channels": [
+                    "beIN SPORTS 3"
+                ]
+            },
+            {
                 "country": "Austria",
                 "channels": [
                     "OneFootball PPV",
@@ -7800,6 +7839,12 @@
                 "country": "Argentina",
                 "channels": [
                     "Disney+ Premium"
+                ]
+            },
+            {
+                "country": "Australia",
+                "channels": [
+                    "beIN SPORTS 1"
                 ]
             },
             {
@@ -8559,6 +8604,12 @@
         "venue": "Molineux Stadium",
         "tv_channels": [
             {
+                "country": "Australia",
+                "channels": [
+                    "beIN SPORTS 2"
+                ]
+            },
+            {
                 "country": "Finland",
                 "channels": [
                     "V Sport Premium FI",
@@ -8658,6 +8709,12 @@
         "league": "EFL Cup",
         "venue": "Riverside Stadium",
         "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "beIN SPORTS 3"
+                ]
+            },
             {
                 "country": "Finland",
                 "channels": [
@@ -8766,6 +8823,12 @@
         "league": "EFL Cup",
         "venue": "MATRADE Loftus Road",
         "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "beIN SPORTS 2"
+                ]
+            },
             {
                 "country": "Finland",
                 "channels": [
@@ -9382,6 +9445,12 @@
                 ]
             },
             {
+                "country": "New Zealand",
+                "channels": [
+                    "beIN Sports Connect New Zealand"
+                ]
+            },
+            {
                 "country": "United Kingdom",
                 "channels": [
                     "Sky Sports+ app"
@@ -9600,7 +9669,7 @@
     {
         "match_id": 5840310,
         "kickoff": 1786197600,
-        "fixture": "Watford vs York City/Crawley Town",
+        "fixture": "Watford vs Crawley",
         "league_id": 133,
         "league": "EFL Cup",
         "venue": "Vicarage Road Stadium",
@@ -9621,6 +9690,12 @@
         "league": "EFL Cup",
         "venue": "London Stadium",
         "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "beIN SPORTS 3"
+                ]
+            },
             {
                 "country": "Austria",
                 "channels": [
@@ -9837,6 +9912,12 @@
         "venue": "JobServe Community Stadium",
         "tv_channels": [
             {
+                "country": "Australia",
+                "channels": [
+                    "beIN SPORTS 3"
+                ]
+            },
+            {
                 "country": "Bulgaria",
                 "channels": [
                     "Diema Sport 2",
@@ -9921,6 +10002,12 @@
         "league": "EFL Cup",
         "venue": "AESSEAL New York Stadium",
         "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "beIN SPORTS 2"
+                ]
+            },
             {
                 "country": "Finland",
                 "channels": [
@@ -12061,7 +12148,158 @@
         "league_id": 9213,
         "league": "Primera B Metropolitana",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Argentina",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Australia",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Austria",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Panama",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Poland",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Slovakia",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Venezuela, Bolivarian Republic of",
+                "channels": [
+                    "LPF Play"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5113988,
@@ -12070,7 +12308,158 @@
         "league_id": 9213,
         "league": "Primera B Metropolitana",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Argentina",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Australia",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Austria",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Bolivia, Plurinational State of",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Chile",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Colombia",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Costa Rica",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Dominican Republic",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Ecuador",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Guatemala",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Honduras",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Mexico",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Nicaragua",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Panama",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Paraguay",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Peru",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Poland",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Slovakia",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Uruguay",
+                "channels": [
+                    "LPF Play"
+                ]
+            },
+            {
+                "country": "Venezuela, Bolivarian Republic of",
+                "channels": [
+                    "LPF Play"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5113980,
@@ -17154,7 +17543,9 @@
             {
                 "country": "Argentina",
                 "channels": [
-                    "Canal por confirmar"
+                    "Canal por confirmar",
+                    "TNT Sports Premium",
+                    "TNT Sports en HBO MAX"
                 ]
             },
             {
@@ -17176,7 +17567,8 @@
             {
                 "country": "Argentina",
                 "channels": [
-                    "Canal por confirmar"
+                    "Canal por confirmar",
+                    "ESPN Premium"
                 ]
             },
             {
@@ -17198,7 +17590,8 @@
             {
                 "country": "Argentina",
                 "channels": [
-                    "Canal por confirmar"
+                    "Canal por confirmar",
+                    "ESPN Premium"
                 ]
             },
             {
@@ -17220,7 +17613,9 @@
             {
                 "country": "Argentina",
                 "channels": [
-                    "Canal por confirmar"
+                    "Canal por confirmar",
+                    "TNT Sports Premium",
+                    "TNT Sports en HBO MAX"
                 ]
             },
             {
@@ -17242,7 +17637,9 @@
             {
                 "country": "Argentina",
                 "channels": [
-                    "Canal por confirmar"
+                    "Canal por confirmar",
+                    "TNT Sports Premium",
+                    "TNT Sports en HBO MAX"
                 ]
             },
             {
@@ -19755,6 +20152,12 @@
                 "channels": [
                     "Canal por confirmar"
                 ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Fanatiz"
+                ]
             }
         ]
     },
@@ -21090,6 +21493,12 @@
                 "channels": [
                     "DAZN"
                 ]
+            },
+            {
+                "country": "Ukraine",
+                "channels": [
+                    "Megogo"
+                ]
             }
         ]
     },
@@ -21197,7 +21606,8 @@
             {
                 "country": "Ukraine",
                 "channels": [
-                    "MEGOGO Football 2"
+                    "MEGOGO Football 2",
+                    "Megogo"
                 ]
             }
         ]

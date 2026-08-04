@@ -15,15 +15,7 @@
         "league_id": 203,
         "league": "1. Divisjon",
         "venue": "EXTRA Arena",
-        "tv_channels": [
-            {
-                "country": "Norway",
-                "channels": [
-                    "TV 2 Play (NO)",
-                    "TV 2 Sport 1"
-                ]
-            }
-        ]
+        "tv_channels": []
     },
     {
         "match_id": 5820689,
@@ -80,28 +72,7 @@
         "league_id": 67,
         "league": "Allsvenskan",
         "venue": "3Arena",
-        "tv_channels": [
-            {
-                "country": "Finland",
-                "channels": [
-                    "MTV Katsomo",
-                    "MTV Urheilu 2"
-                ]
-            },
-            {
-                "country": "Norway",
-                "channels": [
-                    "VG TV"
-                ]
-            },
-            {
-                "country": "Sweden",
-                "channels": [
-                    "TV4 Fotboll",
-                    "TV4 Play Sport Fotboll"
-                ]
-            }
-        ]
+        "tv_channels": []
     },
     {
         "match_id": 5107556,
@@ -110,21 +81,7 @@
         "league_id": 67,
         "league": "Allsvenskan",
         "venue": "Örjans Vall",
-        "tv_channels": [
-            {
-                "country": "Norway",
-                "channels": [
-                    "VG TV"
-                ]
-            },
-            {
-                "country": "Sweden",
-                "channels": [
-                    "TV4 Play Sport Fotboll",
-                    "TV4 Sport Live 1"
-                ]
-            }
-        ]
+        "tv_channels": []
     },
     {
         "match_id": 5844755,
@@ -514,7 +471,7 @@
         "fixture": "Rotherham vs Derby",
         "league_id": 489,
         "league": "Club Friendlies",
-        "venue": "TBA",
+        "venue": "AESSEAL New York Stadium",
         "tv_channels": [
             {
                 "country": "Ireland",
@@ -555,6 +512,12 @@
                 "channels": [
                     "Sport TV 1"
                 ]
+            },
+            {
+                "country": "Russian Federation",
+                "channels": [
+                    "Okko Sport"
+                ]
             }
         ]
     },
@@ -567,33 +530,9 @@
         "venue": "TBA",
         "tv_channels": [
             {
-                "country": "Finland",
-                "channels": [
-                    "Viaplay FI"
-                ]
-            },
-            {
-                "country": "Netherlands",
-                "channels": [
-                    "Viaplay NL"
-                ]
-            },
-            {
-                "country": "Norway",
-                "channels": [
-                    "Viaplay NO"
-                ]
-            },
-            {
                 "country": "Spain",
                 "channels": [
                     "FANSEAT"
-                ]
-            },
-            {
-                "country": "Sweden",
-                "channels": [
-                    "Viaplay SE"
                 ]
             }
         ]
@@ -631,12 +570,6 @@
                 ]
             },
             {
-                "country": "Canada",
-                "channels": [
-                    "DAZN Canada"
-                ]
-            },
-            {
                 "country": "Ireland",
                 "channels": [
                     "Sky Sports+ Plus"
@@ -665,13 +598,6 @@
         "venue": "Stadion Cracovii im. Józefa Piłsudskiego",
         "tv_channels": [
             {
-                "country": "Canada",
-                "channels": [
-                    "beIN Sport Canada",
-                    "beIN Sport Canada Espanol"
-                ]
-            },
-            {
                 "country": "Poland",
                 "channels": [
                     "CANAL+ Sport 3",
@@ -682,14 +608,6 @@
                 "country": "Portugal",
                 "channels": [
                     "Fanatiz"
-                ]
-            },
-            {
-                "country": "United States",
-                "channels": [
-                    "Fanatiz",
-                    "beIN Sport USA",
-                    "beIN Sport USA Español"
                 ]
             }
         ]
@@ -1056,7 +974,6 @@
             {
                 "country": "Mexico",
                 "channels": [
-                    "Canal por confirmar",
                     "Liga BBVA MX Femenil YouTube"
                 ]
             }
@@ -1284,12 +1201,6 @@
                 ]
             },
             {
-                "country": "United States",
-                "channels": [
-                    "Fanatiz"
-                ]
-            },
-            {
                 "country": "Uruguay",
                 "channels": [
                     "Disney+ Premium",
@@ -1449,12 +1360,6 @@
             },
             {
                 "country": "Switzerland",
-                "channels": [
-                    "Fanatiz"
-                ]
-            },
-            {
-                "country": "United States",
                 "channels": [
                     "Fanatiz"
                 ]
@@ -1635,10 +1540,8 @@
             {
                 "country": "United States",
                 "channels": [
-                    "FOX Deportes",
                     "FOX One",
-                    "FOX Sports online",
-                    "Fanatiz"
+                    "FOX Sports online"
                 ]
             },
             {
@@ -2414,13 +2317,6 @@
                 ]
             },
             {
-                "country": "Germany",
-                "channels": [
-                    "Sportdigital FUSSBALL",
-                    "Sportdigital+"
-                ]
-            },
-            {
                 "country": "Ghana",
                 "channels": [
                     "DStv Now"
@@ -2525,7 +2421,6 @@
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "NOW TV",
                     "Sky Sports Football",
                     "Sky Sports Main Event",
                     "Sky Sports UHD",
@@ -2747,7 +2642,14 @@
         "league_id": 193,
         "league": "Cup Grp. D",
         "venue": "Solidarnost Samara Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Russian Federation",
+                "channels": [
+                    "matchtv.ru"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5851898,
@@ -2792,7 +2694,21 @@
         "league_id": 9096,
         "league": "Second Professional League",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Bulgaria",
+                "channels": [
+                    "Diema Sport 2",
+                    "Play Diema Xtra"
+                ]
+            },
+            {
+                "country": "Slovenia",
+                "channels": [
+                    "Sportklub 3 Slovenia"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5952702,
@@ -3169,16 +3085,7 @@
         "league_id": 168,
         "league": "Superettan",
         "venue": "TBA",
-        "tv_channels": [
-            {
-                "country": "Sweden",
-                "channels": [
-                    "TV12",
-                    "TV4 Play Sport",
-                    "TV4 Play Sport Fotboll"
-                ]
-            }
-        ]
+        "tv_channels": []
     },
     {
         "match_id": 5853454,
@@ -3320,18 +3227,6 @@
                 "country": "Ecuador",
                 "channels": [
                     "OneFootball PPV"
-                ]
-            },
-            {
-                "country": "Finland",
-                "channels": [
-                    "Ruutu+ Urheilu"
-                ]
-            },
-            {
-                "country": "Germany",
-                "channels": [
-                    "OneFootball Deutschland"
                 ]
             },
             {
@@ -3697,12 +3592,6 @@
                 "channels": [
                     "Fanatiz"
                 ]
-            },
-            {
-                "country": "United States",
-                "channels": [
-                    "Fanatiz"
-                ]
             }
         ]
     },
@@ -3728,12 +3617,6 @@
             },
             {
                 "country": "Portugal",
-                "channels": [
-                    "Fanatiz"
-                ]
-            },
-            {
-                "country": "United States",
                 "channels": [
                     "Fanatiz"
                 ]
@@ -3847,12 +3730,6 @@
             },
             {
                 "country": "Portugal",
-                "channels": [
-                    "Fanatiz"
-                ]
-            },
-            {
-                "country": "United States",
                 "channels": [
                     "Fanatiz"
                 ]
@@ -4068,12 +3945,6 @@
                 ]
             },
             {
-                "country": "United States",
-                "channels": [
-                    "Fanatiz"
-                ]
-            },
-            {
                 "country": "Uruguay",
                 "channels": [
                     "Liga Futve YouTube",
@@ -4180,13 +4051,6 @@
                 ]
             },
             {
-                "country": "Canada",
-                "channels": [
-                    "beIN Sport Canada",
-                    "beIN Sport Canada Espanol"
-                ]
-            },
-            {
                 "country": "Chile",
                 "channels": [
                     "CAF TV YouTube"
@@ -4217,12 +4081,6 @@
                 ]
             },
             {
-                "country": "Germany",
-                "channels": [
-                    "DAZN Deutschland"
-                ]
-            },
-            {
                 "country": "Guatemala",
                 "channels": [
                     "CAF TV YouTube"
@@ -4250,13 +4108,6 @@
                 "country": "Mexico",
                 "channels": [
                     "CAF TV YouTube"
-                ]
-            },
-            {
-                "country": "Netherlands",
-                "channels": [
-                    "Ziggo Sport",
-                    "Ziggo Sport Kanaal 14"
                 ]
             },
             {
@@ -4317,9 +4168,6 @@
             {
                 "country": "United States",
                 "channels": [
-                    "Fanatiz",
-                    "beIN Sport USA",
-                    "beIN Sport USA Español",
                     "beIN Sports CONNECT USA"
                 ]
             },
@@ -4400,12 +4248,6 @@
                 ]
             },
             {
-                "country": "Germany",
-                "channels": [
-                    "DAZN Deutschland"
-                ]
-            },
-            {
                 "country": "Guatemala",
                 "channels": [
                     "CAF TV YouTube"
@@ -4493,9 +4335,6 @@
             {
                 "country": "United States",
                 "channels": [
-                    "Fanatiz",
-                    "beIN SPORTS Xtra",
-                    "beIN SPORTS Xtra (Canada)",
                     "beIN Sports CONNECT USA"
                 ]
             },
@@ -4675,6 +4514,7 @@
             {
                 "country": "United States",
                 "channels": [
+                    "Fanatiz",
                     "beIN Sports CONNECT USA"
                 ]
             },
@@ -4916,7 +4756,14 @@
         "league_id": 10611,
         "league": "Champions League Qualification",
         "venue": "Stadion Georgi Asparuhov",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Bulgaria",
+                "channels": [
+                    "Play Diema Xtra"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5954862,
