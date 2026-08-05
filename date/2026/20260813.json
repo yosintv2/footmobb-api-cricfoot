@@ -17,6 +17,12 @@
         "venue": "TBA",
         "tv_channels": [
             {
+                "country": "Germany",
+                "channels": [
+                    "DAZN Deutschland"
+                ]
+            },
+            {
                 "country": "Ireland",
                 "channels": [
                     "Premier Sports 1 ROI"
@@ -55,7 +61,26 @@
         "league_id": 489,
         "league": "Club Friendlies",
         "venue": "Emirates Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Sweden",
+                "channels": [
+                    "Arsenal.com"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Arsenal.com"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Arsenal.com"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5449685,
@@ -65,6 +90,12 @@
         "league": "Club Friendlies",
         "venue": "TBA",
         "tv_channels": [
+            {
+                "country": "Germany",
+                "channels": [
+                    "DAZN Deutschland"
+                ]
+            },
             {
                 "country": "Ireland",
                 "channels": [
@@ -88,7 +119,18 @@
         "league_id": 489,
         "league": "Club Friendlies",
         "venue": "The City Ground",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Germany",
+                "channels": [
+                    "Sky Bundesliga",
+                    "Sky Sport News",
+                    "Sky Sport Premier League",
+                    "Sky Top Event",
+                    "WOW"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5962500,
@@ -99,6 +141,24 @@
         "venue": "Estadio Abanca-Riazor",
         "tv_channels": [
             {
+                "country": "Canada",
+                "channels": [
+                    "DAZN Canada"
+                ]
+            },
+            {
+                "country": "Germany",
+                "channels": [
+                    "DAZN Deutschland"
+                ]
+            },
+            {
+                "country": "Netherlands",
+                "channels": [
+                    "DAZN (NL)"
+                ]
+            },
+            {
                 "country": "United Kingdom",
                 "channels": [
                     "DAZN UK"
@@ -107,7 +167,8 @@
             {
                 "country": "United States",
                 "channels": [
-                    "DAZN US"
+                    "DAZN US",
+                    "FOX Deportes"
                 ]
             }
         ]
@@ -448,7 +509,14 @@
         "league_id": 10174,
         "league": "Kansallinen Liiga Championship Group",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Finland",
+                "channels": [
+                    "Ruutu+ Urheilu"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5844864,
@@ -459,9 +527,69 @@
         "venue": "Nu Stadium",
         "tv_channels": [
             {
+                "country": "Canada",
+                "channels": [
+                    "Apple TV (US)"
+                ]
+            },
+            {
+                "country": "Finland",
+                "channels": [
+                    "Apple TV (FI)"
+                ]
+            },
+            {
+                "country": "France",
+                "channels": [
+                    "Apple TV (FR)"
+                ]
+            },
+            {
+                "country": "Germany",
+                "channels": [
+                    "Apple TV (DE)"
+                ]
+            },
+            {
+                "country": "India",
+                "channels": [
+                    "Apple TV (IN)"
+                ]
+            },
+            {
+                "country": "Italy",
+                "channels": [
+                    "Apple TV (IT)"
+                ]
+            },
+            {
+                "country": "Netherlands",
+                "channels": [
+                    "Apple TV (NL)"
+                ]
+            },
+            {
+                "country": "Norway",
+                "channels": [
+                    "Apple TV (NO)"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "channels": [
+                    "Apple TV (SE)"
+                ]
+            },
+            {
                 "country": "United Kingdom",
                 "channels": [
                     "Apple TV (UK)"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Apple TV (US)"
                 ]
             }
         ]
@@ -475,9 +603,69 @@
         "venue": "Inter.co Stadium",
         "tv_channels": [
             {
+                "country": "Canada",
+                "channels": [
+                    "Apple TV (US)"
+                ]
+            },
+            {
+                "country": "Finland",
+                "channels": [
+                    "Apple TV (FI)"
+                ]
+            },
+            {
+                "country": "France",
+                "channels": [
+                    "Apple TV (FR)"
+                ]
+            },
+            {
+                "country": "Germany",
+                "channels": [
+                    "Apple TV (DE)"
+                ]
+            },
+            {
+                "country": "India",
+                "channels": [
+                    "Apple TV (IN)"
+                ]
+            },
+            {
+                "country": "Italy",
+                "channels": [
+                    "Apple TV (IT)"
+                ]
+            },
+            {
+                "country": "Netherlands",
+                "channels": [
+                    "Apple TV (NL)"
+                ]
+            },
+            {
+                "country": "Norway",
+                "channels": [
+                    "Apple TV (NO)"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "channels": [
+                    "Apple TV (SE)"
+                ]
+            },
+            {
                 "country": "United Kingdom",
                 "channels": [
                     "Apple TV (UK)"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Apple TV (US)"
                 ]
             }
         ]
@@ -688,6 +876,70 @@
         "venue": "Red Bull Arena",
         "tv_channels": [
             {
+                "country": "Armenia",
+                "channels": [
+                    "FastTV"
+                ]
+            },
+            {
+                "country": "Canada",
+                "channels": [
+                    "DAZN Canada"
+                ]
+            },
+            {
+                "country": "Croatia",
+                "channels": [
+                    "MAXtv To Go"
+                ]
+            },
+            {
+                "country": "Estonia",
+                "channels": [
+                    "Go3 Extra Sports Estonia"
+                ]
+            },
+            {
+                "country": "Finland",
+                "channels": [
+                    "MTV Sub",
+                    "MTV Urheilu 2"
+                ]
+            },
+            {
+                "country": "Germany",
+                "channels": [
+                    "DAZN Deutschland",
+                    "Sky Ultra HD",
+                    "WOW"
+                ]
+            },
+            {
+                "country": "Indonesia",
+                "channels": [
+                    "Vidio"
+                ]
+            },
+            {
+                "country": "Lao People's Democratic Republic",
+                "channels": [
+                    "Go3 Extra Sports Latvia"
+                ]
+            },
+            {
+                "country": "Liechtenstein",
+                "channels": [
+                    "Go3 Extra Sports Lithuania"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "channels": [
+                    "Viaplay SE",
+                    "Viaplay Sport"
+                ]
+            },
+            {
                 "country": "United Kingdom",
                 "channels": [
                     "HBO Max (UK)",
@@ -698,7 +950,10 @@
             {
                 "country": "United States",
                 "channels": [
-                    "Paramount+ (US)"
+                    "CBS Sports Network",
+                    "Fubo Sports",
+                    "Paramount+ (US)",
+                    "ViX"
                 ]
             }
         ]
@@ -710,7 +965,15 @@
         "league_id": 10654,
         "league": "USL Cup",
         "venue": "Mecklenburg County Sportsplex at Matthews",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "ESPN Select",
+                    "ESPN Unlimited"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5923139,
@@ -719,7 +982,16 @@
         "league_id": 10654,
         "league": "USL Cup",
         "venue": "Al Lang Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "ESPN Select",
+                    "ESPN Unlimited",
+                    "Tampa Bay 44"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5923140,
@@ -899,7 +1171,22 @@
         "league_id": 45,
         "league": "Copa Libertadores 8th Finals",
         "venue": "Estadio Ciudad de Vicente López",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "New Zealand",
+                "channels": [
+                    "beIN Sports Connect New Zealand"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Fanatiz",
+                    "beIN SPORTS Xtra",
+                    "beIN SPORTS Xtra (Canada)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000012917,
@@ -908,7 +1195,33 @@
         "league_id": 45,
         "league": "Copa Libertadores 8th Finals",
         "venue": "Nubank Parque",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Canada",
+                "channels": [
+                    "beIN Sport Canada"
+                ]
+            },
+            {
+                "country": "Germany",
+                "channels": [
+                    "Sportdigital+",
+                    "Sportdigital1+"
+                ]
+            },
+            {
+                "country": "New Zealand",
+                "channels": [
+                    "beIN Sports Connect New Zealand"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Fanatiz"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000012931,

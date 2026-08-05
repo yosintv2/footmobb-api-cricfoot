@@ -110,7 +110,14 @@
         "league_id": 489,
         "league": "Club Friendlies",
         "venue": "Orange Vélodrome",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "France",
+                "channels": [
+                    "Ligue 1+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5900867,
@@ -2041,9 +2048,22 @@
                 ]
             },
             {
+                "country": "Russian Federation",
+                "channels": [
+                    "Sportbox.ru",
+                    "matchtv.ru"
+                ]
+            },
+            {
                 "country": "Slovakia",
                 "channels": [
                     "Arena Sport 1"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "channels": [
+                    "TV4 Play Sport"
                 ]
             },
             {
@@ -2121,9 +2141,22 @@
                 ]
             },
             {
+                "country": "Russian Federation",
+                "channels": [
+                    "Sportbox.ru",
+                    "matchtv.ru"
+                ]
+            },
+            {
                 "country": "Slovakia",
                 "channels": [
                     "Arena Sport 1"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "channels": [
+                    "TV4 Play Sport"
                 ]
             },
             {
@@ -2624,7 +2657,14 @@
         "league_id": 173,
         "league": "Prva Liga",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Slovenia",
+                "channels": [
+                    "SportKlub 1 Slovenia"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5833550,
@@ -2933,7 +2973,8 @@
             {
                 "country": "Sweden",
                 "channels": [
-                    "Viaplay SE"
+                    "Viaplay SE",
+                    "Viaplay Sport"
                 ]
             },
             {
@@ -3282,14 +3323,7 @@
         "league_id": 203,
         "league": "1. Divisjon",
         "venue": "Åsane Arena",
-        "tv_channels": [
-            {
-                "country": "Norway",
-                "channels": [
-                    "TV 2 Play (NO)"
-                ]
-            }
-        ]
+        "tv_channels": []
     },
     {
         "match_id": 5105210,
@@ -5819,6 +5853,12 @@
                 "channels": [
                     "Sport 1 Ukraine"
                 ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Fanatiz"
+                ]
             }
         ]
     },
@@ -5831,6 +5871,13 @@
         "venue": "Chorten Arena",
         "tv_channels": [
             {
+                "country": "Croatia",
+                "channels": [
+                    "Arena Sport 1",
+                    "MAXtv To Go"
+                ]
+            },
+            {
                 "country": "Poland",
                 "channels": [
                     "CANAL+ 4K ULTRA HD",
@@ -5838,9 +5885,21 @@
                 ]
             },
             {
+                "country": "Slovenia",
+                "channels": [
+                    "Arena Sport 2 Slovenia"
+                ]
+            },
+            {
                 "country": "Spain",
                 "channels": [
                     "GOL"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Fanatiz"
                 ]
             }
         ]
@@ -6064,7 +6123,16 @@
         "league_id": 63,
         "league": "Premier League",
         "venue": "Ak Bars Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Russian Federation",
+                "channels": [
+                    "Match Premier",
+                    "Sportbox.ru",
+                    "matchtv.ru"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5847136,
@@ -8570,12 +8638,6 @@
                 "country": "Switzerland",
                 "channels": [
                     "Flamengo TV YouTube"
-                ]
-            },
-            {
-                "country": "United States",
-                "channels": [
-                    "Fanatiz"
                 ]
             },
             {
