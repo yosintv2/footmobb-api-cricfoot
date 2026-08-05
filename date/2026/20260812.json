@@ -32,7 +32,7 @@
         "fixture": "APIA Leichhardt FC vs Sydney United 58",
         "league_id": 9471,
         "league": "Australia Cup",
-        "venue": "TBA",
+        "venue": "Leichhardt Oval",
         "tv_channels": []
     },
     {
@@ -312,7 +312,15 @@
         "league_id": 10611,
         "league": "Champions League Qualification",
         "venue": "Stadion Graz-Liebenau",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Austria",
+                "channels": [
+                    "ORF 1",
+                    "ORF ON App"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5954881,
@@ -451,7 +459,20 @@
         "league_id": 9682,
         "league": "CONCACAF Central American Cup Grp. A",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "CONCACAF YouTube"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "CONCACAF YouTube"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5848990,
@@ -460,7 +481,20 @@
         "league_id": 9682,
         "league": "CONCACAF Central American Cup Grp. B",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "CONCACAF YouTube"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "CONCACAF YouTube"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5849266,
@@ -469,7 +503,20 @@
         "league_id": 9682,
         "league": "CONCACAF Central American Cup Grp. C",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Australia",
+                "channels": [
+                    "CONCACAF YouTube"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "CONCACAF YouTube"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5955367,
@@ -1390,7 +1437,9 @@
             {
                 "country": "United States",
                 "channels": [
+                    "FOX One",
                     "FOX Sports 2",
+                    "FOX Sports online",
                     "Fubo Sports"
                 ]
             }
@@ -1484,23 +1533,29 @@
         "league_id": 10282,
         "league": "MLS Next Pro",
         "venue": "Icahn Stadium",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000014078,
-        "kickoff": 1786496400,
-        "fixture": "Independiente Medellin vs Millonarios",
-        "league_id": 274,
-        "league": "Primera A",
-        "venue": "Estadio Atanasio Girardot",
         "tv_channels": [
             {
-                "country": "United States",
+                "country": "Australia",
                 "channels": [
-                    "Fanatiz"
+                    "OneFootball"
+                ]
+            },
+            {
+                "country": "Japan",
+                "channels": [
+                    "OneFootball"
                 ]
             }
         ]
+    },
+    {
+        "match_id": 1000013679,
+        "kickoff": 1786480200,
+        "fixture": "Real Santander vs Barranquilla FC",
+        "league_id": 9125,
+        "league": "Primera B",
+        "venue": "Estadio Villa Concha",
+        "tv_channels": []
     },
     {
         "match_id": 1000013678,
@@ -1518,15 +1573,6 @@
         "league_id": 9125,
         "league": "Primera B",
         "venue": "Estadio de La Independencia",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000013679,
-        "kickoff": 1786566600,
-        "fixture": "Real Santander vs Barranquilla FC",
-        "league_id": 9125,
-        "league": "Primera B",
-        "venue": "Estadio Villa Concha",
         "tv_channels": []
     },
     {

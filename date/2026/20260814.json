@@ -285,7 +285,21 @@
         "league_id": 10615,
         "league": "Conference League Qualification",
         "venue": "Tolka Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Premier Sports 1 ROI"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports 1 UK",
+                    "Premier Sports Player"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5955358,
@@ -303,6 +317,33 @@
         "league_id": 10615,
         "league": "Conference League Qualification",
         "venue": "Stadion Poljud",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5991780,
+        "kickoff": 1786654800,
+        "fixture": "Internacional de Bogota vs Real Cundinamarca",
+        "league_id": 9490,
+        "league": "Cup",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5991781,
+        "kickoff": 1786665600,
+        "fixture": "Alianza FC vs Once Caldas",
+        "league_id": 9490,
+        "league": "Cup",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5991782,
+        "kickoff": 1786669200,
+        "fixture": "Independiente Medellin vs Deportivo Pasto",
+        "league_id": 9490,
+        "league": "Cup",
+        "venue": "TBA",
         "tv_channels": []
     },
     {
@@ -338,7 +379,7 @@
         "fixture": "Pafos FC vs Salzburg",
         "league_id": 10613,
         "league": "Europa League Qualification",
-        "venue": "Stadio Stelios Kyriakides",
+        "venue": "Alphamega Stadium",
         "tv_channels": []
     },
     {
@@ -347,7 +388,7 @@
         "fixture": "Universitatea Craiova vs KuPS",
         "league_id": 10613,
         "league": "Europa League Qualification",
-        "venue": "Stadionul Ion Oblemenco",
+        "venue": "Complex Sportiv Craiova",
         "tv_channels": []
     },
     {
@@ -365,7 +406,7 @@
         "fixture": "CSKA Sofia vs Maccabi Tel Aviv",
         "league_id": 10613,
         "league": "Europa League Qualification",
-        "venue": "Stadion Bâlgarska Armija",
+        "venue": "Stadion Vasil Levski",
         "tv_channels": []
     },
     {
@@ -401,7 +442,7 @@
         "fixture": "Klaksvik vs Lech Poznań",
         "league_id": 10613,
         "league": "Europa League Qualification",
-        "venue": "Við Djúpumýrar",
+        "venue": "Tórsvøllur",
         "tv_channels": []
     },
     {
@@ -910,6 +951,15 @@
         "fixture": "PK-35 Vantaa (W) vs HJS (W)",
         "league_id": 10186,
         "league": "Kansallinen Liiga Qualification Group",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5991289,
+        "kickoff": 1786735800,
+        "fixture": "Santarem vs Oliveirense",
+        "league_id": 9112,
+        "league": "Liga 3 Zona B",
         "venue": "TBA",
         "tv_channels": []
     },

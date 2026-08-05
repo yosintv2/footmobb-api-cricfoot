@@ -376,16 +376,21 @@
         "venue": "MHPArena",
         "tv_channels": [
             {
-                "country": "Indonesia",
-                "channels": [
-                    "Vidio",
-                    "beIN Sports Connect Indonesia"
-                ]
-            },
-            {
                 "country": "Ireland",
                 "channels": [
                     "Everton TV"
+                ]
+            },
+            {
+                "country": "Israel",
+                "channels": [
+                    "Sport 3"
+                ]
+            },
+            {
+                "country": "Thailand",
+                "channels": [
+                    "AIS PLAY"
                 ]
             }
         ]
@@ -426,7 +431,8 @@
             {
                 "country": "France",
                 "channels": [
-                    "DAZN.com (FR)"
+                    "DAZN.com (FR)",
+                    "Ligue 1+"
                 ]
             }
         ]
@@ -521,6 +527,19 @@
                 ]
             },
             {
+                "country": "France",
+                "channels": [
+                    "L'Équipe live",
+                    "L'Équipe live foot"
+                ]
+            },
+            {
+                "country": "Montenegro",
+                "channels": [
+                    "STARZPLAY"
+                ]
+            },
+            {
                 "country": "Paraguay",
                 "channels": [
                     "DAZN",
@@ -547,7 +566,8 @@
                 "country": "United States",
                 "channels": [
                     "CBS Sports Network",
-                    "Fubo Sports"
+                    "Fubo Sports",
+                    "Paramount+ (US)"
                 ]
             },
             {
@@ -821,6 +841,7 @@
             {
                 "country": "Spain",
                 "channels": [
+                    "GOL",
                     "Valencia CF App",
                     "Valencia CF YouTube",
                     "Valenciacf.com/es",
@@ -841,6 +862,13 @@
                 "country": "Indonesia",
                 "channels": [
                     "Vidio"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "CBS Sports Golazo Network",
+                    "Paramount+ (US)"
                 ]
             }
         ]
@@ -1427,18 +1455,9 @@
         "tv_channels": []
     },
     {
-        "match_id": 5897550,
-        "kickoff": 1786201200,
-        "fixture": "FC Rotor Volgograd vs FC Chelyabinsk",
-        "league_id": 338,
-        "league": "First League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5897556,
-        "kickoff": 1786201200,
-        "fixture": "FC Yenisey Krasnoyarsk vs Tekstilshchik",
+        "match_id": 5897552,
+        "kickoff": 1786251600,
+        "fixture": "SKA-Khabarovsk vs Spartak Kostroma",
         "league_id": 338,
         "league": "First League",
         "venue": "TBA",
@@ -1446,7 +1465,7 @@
     },
     {
         "match_id": 5897548,
-        "kickoff": 1786201200,
+        "kickoff": 1786284000,
         "fixture": "KamAZ vs Volga Ulyanovsk",
         "league_id": 338,
         "league": "First League",
@@ -1454,18 +1473,9 @@
         "tv_channels": []
     },
     {
-        "match_id": 5897549,
-        "kickoff": 1786201200,
-        "fixture": "Nizhny Novgorod vs Neftekhimik",
-        "league_id": 338,
-        "league": "First League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5897551,
-        "kickoff": 1786201200,
-        "fixture": "Shinnik Yaroslavl vs Arsenal",
+        "match_id": 5897550,
+        "kickoff": 1786289400,
+        "fixture": "FC Rotor Volgograd vs FC Chelyabinsk",
         "league_id": 338,
         "league": "First League",
         "venue": "TBA",
@@ -1473,17 +1483,8 @@
     },
     {
         "match_id": 5897555,
-        "kickoff": 1786201200,
+        "kickoff": 1786291200,
         "fixture": "Veles Moscow vs Leningradets",
-        "league_id": 338,
-        "league": "First League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5897552,
-        "kickoff": 1786251600,
-        "fixture": "SKA-Khabarovsk vs Spartak Kostroma",
         "league_id": 338,
         "league": "First League",
         "venue": "TBA",
@@ -1881,7 +1882,8 @@
             {
                 "country": "Mexico",
                 "channels": [
-                    "Apple TV"
+                    "Apple TV",
+                    "Imagen Televisión"
                 ]
             },
             {
@@ -2244,6 +2246,7 @@
                 "country": "Mexico",
                 "channels": [
                     "Apple TV",
+                    "Imagen Televisión",
                     "TUDN"
                 ]
             },
@@ -2682,7 +2685,7 @@
     },
     {
         "match_id": 5844850,
-        "kickoff": 1786309200,
+        "kickoff": 1786303800,
         "fixture": "Seattle Sounders vs Querétaro",
         "league_id": 10043,
         "league": "Leagues Cup",
@@ -2859,6 +2862,114 @@
         ]
     },
     {
+        "match_id": 5991286,
+        "kickoff": 1786204800,
+        "fixture": "Lusitano de Evora vs Atletico",
+        "league_id": 9112,
+        "league": "Liga 3 Zona B",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5991285,
+        "kickoff": 1786204800,
+        "fixture": "Sporting Covilha vs Santarem",
+        "league_id": 9112,
+        "league": "Liga 3 Zona B",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5991287,
+        "kickoff": 1786206600,
+        "fixture": "CF Os Belenenses vs Caldas",
+        "league_id": 9112,
+        "league": "Liga 3 Zona B",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5991288,
+        "kickoff": 1786215600,
+        "fixture": "Mafra vs Vitoria de Sernache",
+        "league_id": 9112,
+        "league": "Liga 3 Zona B",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5991195,
+        "kickoff": 1786269600,
+        "fixture": "AD Marco 09 vs Pacos de Ferreira",
+        "league_id": 9112,
+        "league": "Liga 3 Zona A",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5991196,
+        "kickoff": 1786291200,
+        "fixture": "AD Fafe vs Vianense",
+        "league_id": 9112,
+        "league": "Liga 3 Zona A",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5991197,
+        "kickoff": 1786291200,
+        "fixture": "Trofense vs Varzim",
+        "league_id": 9112,
+        "league": "Liga 3 Zona A",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5991198,
+        "kickoff": 1786293000,
+        "fixture": "Leca vs SC Joao Ver",
+        "league_id": 9112,
+        "league": "Liga 3 Zona A",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5991376,
+        "kickoff": 1786212000,
+        "fixture": "Liverpool FC vs Albion",
+        "league_id": 161,
+        "league": "Liga AUF Uruguaya Clausura",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5991377,
+        "kickoff": 1786224600,
+        "fixture": "Torque vs Peñarol",
+        "league_id": 161,
+        "league": "Liga AUF Uruguaya Clausura",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5991378,
+        "kickoff": 1786284000,
+        "fixture": "Danubio vs Cerro",
+        "league_id": 161,
+        "league": "Liga AUF Uruguaya Clausura",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5991379,
+        "kickoff": 1786298400,
+        "fixture": "Defensor Sporting vs Montevideo Wanderers",
+        "league_id": 161,
+        "league": "Liga AUF Uruguaya Clausura",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5898675,
         "kickoff": 1786230000,
         "fixture": "Venados vs Tapatio",
@@ -2908,9 +3019,9 @@
         ]
     },
     {
-        "match_id": 5976838,
-        "kickoff": 1786262400,
-        "fixture": "FC Unirea Slobozia vs Gloria Bistrita",
+        "match_id": 5976828,
+        "kickoff": 1786282200,
+        "fixture": "Chindia Targoviste vs FC Metaloglobus Bucuresti",
         "league_id": 9113,
         "league": "Liga II",
         "venue": "TBA",
@@ -3213,6 +3324,12 @@
                 ]
             },
             {
+                "country": "Italy",
+                "channels": [
+                    "DAZN Italia"
+                ]
+            },
+            {
                 "country": "Norway",
                 "channels": [
                     "VG TV"
@@ -3233,6 +3350,8 @@
             {
                 "country": "Russian Federation",
                 "channels": [
+                    "Match TV",
+                    "Sportbox.ru",
                     "matchtv.ru"
                 ]
             },
@@ -3258,6 +3377,7 @@
             {
                 "country": "United States",
                 "channels": [
+                    "beIN Sport USA",
                     "beIN Sport USA Español"
                 ]
             }
@@ -3344,8 +3464,16 @@
         "fixture": "Benfica vs Academico Viseu",
         "league_id": 61,
         "league": "Liga Portugal",
-        "venue": "Estadio da Luz",
+        "venue": "Estádio do Sport Lisboa e Benfica (da Luz)",
         "tv_channels": [
+            {
+                "country": "Austria",
+                "channels": [
+                    "Sportdigital Fussball 2",
+                    "Sportdigital+ App",
+                    "Sportdigital.de"
+                ]
+            },
             {
                 "country": "Canada",
                 "channels": [
@@ -3366,9 +3494,39 @@
                 ]
             },
             {
+                "country": "Hungary",
+                "channels": [
+                    "Sport 1 Hungary"
+                ]
+            },
+            {
                 "country": "Norway",
                 "channels": [
                     "VG TV"
+                ]
+            },
+            {
+                "country": "Poland",
+                "channels": [
+                    "Eleven Sports 1"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "channels": [
+                    "Canal a confirmar"
+                ]
+            },
+            {
+                "country": "Slovakia",
+                "channels": [
+                    "Arena Sport 1"
+                ]
+            },
+            {
+                "country": "Switzerland",
+                "channels": [
+                    "Sportdigital Fussball 2"
                 ]
             },
             {
@@ -3402,12 +3560,18 @@
         "fixture": "Moreirense vs Braga",
         "league_id": 61,
         "league": "Liga Portugal",
-        "venue": "Estadio C. Joaquim de Almeida Freitas",
+        "venue": "Parque Desportivo Comendador Joaquim de Almeida Freitas",
         "tv_channels": [
             {
                 "country": "France",
                 "channels": [
                     "beIN Sports MAX 5 (FR)"
+                ]
+            },
+            {
+                "country": "Portugal",
+                "channels": [
+                    "Canal a confirmar"
                 ]
             }
         ]
@@ -3491,15 +3655,6 @@
                 ]
             }
         ]
-    },
-    {
-        "match_id": 5888018,
-        "kickoff": 1786294800,
-        "fixture": "Benfica B vs Leixoes",
-        "league_id": 185,
-        "league": "Liga Portugal 2",
-        "venue": "TBA",
-        "tv_channels": []
     },
     {
         "match_id": 5954299,
@@ -3878,8 +4033,17 @@
         ]
     },
     {
-        "match_id": 5954760,
+        "match_id": 5954758,
         "kickoff": 1786204800,
+        "fixture": "Mamelodi Sundowns FC vs Polokwane City",
+        "league_id": 9474,
+        "league": "MTN8",
+        "venue": "Lucas Masterpieces Moripe Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5954760,
+        "kickoff": 1786280400,
         "fixture": "AmaZulu FC vs Sekhukhune United",
         "league_id": 9474,
         "league": "MTN8",
@@ -3888,26 +4052,8 @@
     },
     {
         "match_id": 5954759,
-        "kickoff": 1786204800,
+        "kickoff": 1786291200,
         "fixture": "Kaizer Chiefs vs Lamontville Golden Arrows",
-        "league_id": 9474,
-        "league": "MTN8",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5954758,
-        "kickoff": 1786204800,
-        "fixture": "Mamelodi Sundowns FC vs Polokwane City",
-        "league_id": 9474,
-        "league": "MTN8",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5954757,
-        "kickoff": 1786204800,
-        "fixture": "Orlando Pirates vs Durban City",
         "league_id": 9474,
         "league": "MTN8",
         "venue": "TBA",
@@ -3959,18 +4105,18 @@
         "tv_channels": []
     },
     {
-        "match_id": 5974667,
+        "match_id": 5974665,
         "kickoff": 1786284000,
-        "fixture": "UN Käerjeng 97 vs US Hostert",
+        "fixture": "Swift Hesperange vs FC Wiltz 71",
         "league_id": 229,
         "league": "National Division",
         "venue": "TBA",
         "tv_channels": []
     },
     {
-        "match_id": 5974665,
-        "kickoff": 1786291200,
-        "fixture": "Swift Hesperange vs FC Wiltz 71",
+        "match_id": 5974667,
+        "kickoff": 1786284000,
+        "fixture": "UN Käerjeng 97 vs US Hostert",
         "league_id": 229,
         "league": "National Division",
         "venue": "TBA",
@@ -4390,7 +4536,14 @@
         "league_id": 267,
         "league": "Premier League",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Croatia",
+                "channels": [
+                    "MAXtv To Go"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5927565,
@@ -4399,7 +4552,14 @@
         "league_id": 267,
         "league": "Premier League",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Croatia",
+                "channels": [
+                    "MAXtv To Go"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5927567,
@@ -4936,7 +5096,15 @@
         "league_id": 8972,
         "league": "USL Championship",
         "venue": "ONEOK Field",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "CBS Sports Golazo Network",
+                    "Paramount+ (US)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5109873,
@@ -5011,6 +5179,7 @@
             {
                 "country": "United States",
                 "channels": [
+                    "CBS Sports Golazo Network",
                     "ESPN Select",
                     "ESPN Unlimited",
                     "WWAX"
@@ -5025,7 +5194,14 @@
         "league_id": 10210,
         "league": "Women's Premier Division",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOITV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5101074,
@@ -5034,7 +5210,14 @@
         "league_id": 10210,
         "league": "Women's Premier Division",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOITV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5101075,
@@ -5043,7 +5226,14 @@
         "league_id": 10210,
         "league": "Women's Premier Division",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "LOITV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5164031,
@@ -5804,7 +5994,8 @@
             {
                 "country": "Croatia",
                 "channels": [
-                    "Arena Sport 1"
+                    "Arena Sport 1",
+                    "MAXtv To Go"
                 ]
             },
             {
@@ -7644,6 +7835,7 @@
             {
                 "country": "Sweden",
                 "channels": [
+                    "TV4 Play Sport",
                     "TV4 Play Sport Fotboll"
                 ]
             }
@@ -8568,7 +8760,8 @@
             {
                 "country": "Croatia",
                 "channels": [
-                    "Arena Sport 3 Croatia"
+                    "Arena Sport 3 Croatia",
+                    "MAXtv To Go"
                 ]
             },
             {
@@ -8700,6 +8893,12 @@
                 ]
             },
             {
+                "country": "Croatia",
+                "channels": [
+                    "MAXtv To Go"
+                ]
+            },
+            {
                 "country": "Finland",
                 "channels": [
                     "Viaplay FI"
@@ -8769,7 +8968,7 @@
         "fixture": "Agropecuario vs Atletico Guemes",
         "league_id": 8965,
         "league": "Primera Nacional",
-        "venue": "TBA",
+        "venue": "Estadio Ofelia Rosenzuaig",
         "tv_channels": [
             {
                 "country": "Argentina",
@@ -8929,7 +9128,7 @@
         "fixture": "Almirante Brown vs Ciudad de Bolivar",
         "league_id": 8965,
         "league": "Primera Nacional",
-        "venue": "TBA",
+        "venue": "Estadio Fragata Presidente Sarmiento",
         "tv_channels": [
             {
                 "country": "Argentina",
@@ -9089,7 +9288,7 @@
         "fixture": "Club Atlético Estudiantes vs Deportivo Madryn",
         "league_id": 8965,
         "league": "Primera Nacional",
-        "venue": "TBA",
+        "venue": "Estadio Ciudad de Caseros",
         "tv_channels": [
             {
                 "country": "Argentina",
@@ -9249,7 +9448,7 @@
         "fixture": "Atletico Rafaela vs Chacarita Juniors",
         "league_id": 8965,
         "league": "Primera Nacional",
-        "venue": "TBA",
+        "venue": "Estadio Nuevo Monumental",
         "tv_channels": [
             {
                 "country": "Argentina",
@@ -9409,7 +9608,7 @@
         "fixture": "Los Andes vs Ferro Carril Oeste",
         "league_id": 8965,
         "league": "Primera Nacional",
-        "venue": "TBA",
+        "venue": "Estadio Eduardo Gallardón",
         "tv_channels": [
             {
                 "country": "Argentina",
@@ -9569,7 +9768,7 @@
         "fixture": "Colegiales vs Patronato de Parana",
         "league_id": 8965,
         "league": "Primera Nacional",
-        "venue": "TBA",
+        "venue": "Estadio de Colegiales",
         "tv_channels": [
             {
                 "country": "Argentina",
@@ -9729,7 +9928,7 @@
         "fixture": "Deportivo Moron vs Acassuso",
         "league_id": 8965,
         "league": "Primera Nacional",
-        "venue": "TBA",
+        "venue": "Estadio Nuevo Francisco Urbano",
         "tv_channels": [
             {
                 "country": "Argentina",
@@ -9889,7 +10088,7 @@
         "fixture": "Colon vs San Telmo",
         "league_id": 8965,
         "league": "Primera Nacional",
-        "venue": "TBA",
+        "venue": "Estadio Brigadier General Estanislao López",
         "tv_channels": [
             {
                 "country": "Argentina",
@@ -10049,7 +10248,7 @@
         "fixture": "Club Atletico Mitre vs CA Defensores de Belgrano",
         "league_id": 8965,
         "league": "Primera Nacional",
-        "venue": "TBA",
+        "venue": "Estadio Aurinegro",
         "tv_channels": [
             {
                 "country": "Argentina",
@@ -10209,7 +10408,7 @@
         "fixture": "Racing de Cordoba vs CA San Miguel",
         "league_id": 8965,
         "league": "Primera Nacional",
-        "venue": "TBA",
+        "venue": "Estadio Miguel Sancho",
         "tv_channels": [
             {
                 "country": "Argentina",
@@ -10369,7 +10568,7 @@
         "fixture": "Godoy Cruz vs CA Chaco For Ever",
         "league_id": 8965,
         "league": "Primera Nacional",
-        "venue": "TBA",
+        "venue": "Estadio Feliciano Gambarte",
         "tv_channels": [
             {
                 "country": "Argentina",
@@ -10529,7 +10728,7 @@
         "fixture": "Quilmes vs Almagro",
         "league_id": 8965,
         "league": "Primera Nacional",
-        "venue": "TBA",
+        "venue": "Estadio Centenario Ciudad de Quilmes",
         "tv_channels": [
             {
                 "country": "Argentina",
@@ -10689,7 +10888,7 @@
         "fixture": "Gimnasia y Tiro vs Nueva Chicago",
         "league_id": 8965,
         "league": "Primera Nacional",
-        "venue": "TBA",
+        "venue": "Estadio El Gigante del Norte",
         "tv_channels": [
             {
                 "country": "Argentina",
@@ -10849,7 +11048,7 @@
         "fixture": "San Martin de Tucuman vs San Martin San Juan",
         "league_id": 8965,
         "league": "Primera Nacional",
-        "venue": "TBA",
+        "venue": "Estadio La Ciudadela",
         "tv_channels": [
             {
                 "country": "Argentina",
@@ -11432,6 +11631,12 @@
                 ]
             },
             {
+                "country": "Finland",
+                "channels": [
+                    "DAZN (FI)"
+                ]
+            },
+            {
                 "country": "France",
                 "channels": [
                     "DAZN.com (FR)"
@@ -11573,6 +11778,12 @@
                 "country": "Norway",
                 "channels": [
                     "DAZN NO"
+                ]
+            },
+            {
+                "country": "Sweden",
+                "channels": [
+                    "DAZN Sverige"
                 ]
             },
             {
@@ -12453,7 +12664,14 @@
         "league_id": 196,
         "league": "Ekstraklasa",
         "venue": "Stadion Miejski im. Floriana Krygiera",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Croatia",
+                "channels": [
+                    "MAXtv To Go"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5803934,
@@ -12463,6 +12681,12 @@
         "league": "Ekstraklasa",
         "venue": "EXBUD Arena",
         "tv_channels": [
+            {
+                "country": "Croatia",
+                "channels": [
+                    "MAXtv To Go"
+                ]
+            },
             {
                 "country": "Poland",
                 "channels": [
@@ -12534,6 +12758,12 @@
                 "channels": [
                     "CANAL+ 4K ULTRA HD",
                     "CANAL+ Sport 3"
+                ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "GOL"
                 ]
             }
         ]
@@ -13407,7 +13637,14 @@
         "league_id": 252,
         "league": "HNL",
         "venue": "ŠRC Velika Gorica",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Croatia",
+                "channels": [
+                    "MAXtv To Go"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5765900,
@@ -13416,7 +13653,14 @@
         "league_id": 252,
         "league": "HNL",
         "venue": "Stadion Maksimir",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Croatia",
+                "channels": [
+                    "MAXtv To Go"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5765903,
@@ -13434,7 +13678,14 @@
         "league_id": 252,
         "league": "HNL",
         "venue": "Stadion Poljud",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Croatia",
+                "channels": [
+                    "MAXtv To Go"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5803526,
@@ -13479,7 +13730,6 @@
             {
                 "country": "Argentina",
                 "channels": [
-                    "Canal por confirmar",
                     "ESPN Premium"
                 ]
             },
@@ -13502,7 +13752,6 @@
             {
                 "country": "Argentina",
                 "channels": [
-                    "Canal por confirmar",
                     "TNT Sports Premium",
                     "TNT Sports en HBO MAX"
                 ]
@@ -13526,9 +13775,21 @@
             {
                 "country": "Argentina",
                 "channels": [
-                    "Canal por confirmar",
                     "TNT Sports Premium",
                     "TNT Sports en HBO MAX"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Premier Sports 2 ROI"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports 2 UK",
+                    "Premier Sports Player"
                 ]
             },
             {
@@ -13545,13 +13806,25 @@
         "fixture": "Boca Juniors vs Velez Sarsfield",
         "league_id": 112,
         "league": "Liga Profesional Clausura",
-        "venue": "Estadio Alberto José Armando",
+        "venue": "Estadio Tomás Adolfo Ducó",
         "tv_channels": [
             {
                 "country": "Argentina",
                 "channels": [
-                    "Canal por confirmar",
                     "ESPN Premium"
+                ]
+            },
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Premier Sports 2 ROI"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports 2 UK",
+                    "Premier Sports Player"
                 ]
             },
             {
@@ -13573,11 +13846,26 @@
             {
                 "country": "Argentina",
                 "channels": [
-                    "Canal por confirmar",
                     "TNT Sports Premium",
                     "TNT Sports en HBO MAX"
                 ]
             },
+            {
+                "country": "United States",
+                "channels": [
+                    "Fanatiz"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5115927,
+        "kickoff": 1786235400,
+        "fixture": "Instituto vs Gimnasia Mendoza",
+        "league_id": 112,
+        "league": "Liga Profesional Clausura",
+        "venue": "TBA",
+        "tv_channels": [
             {
                 "country": "United States",
                 "channels": [
@@ -13597,7 +13885,6 @@
             {
                 "country": "Argentina",
                 "channels": [
-                    "Canal por confirmar",
                     "ESPN Premium",
                     "TNT Sports Premium",
                     "TNT Sports en HBO MAX"
@@ -13606,6 +13893,7 @@
             {
                 "country": "United States",
                 "channels": [
+                    "FOX Deportes",
                     "Fanatiz"
                 ]
             }
@@ -13622,7 +13910,6 @@
             {
                 "country": "Argentina",
                 "channels": [
-                    "Canal por confirmar",
                     "ESPN Premium"
                 ]
             },
@@ -13645,7 +13932,6 @@
             {
                 "country": "Argentina",
                 "channels": [
-                    "Canal por confirmar",
                     "TNT Sports Premium",
                     "TNT Sports en HBO MAX"
                 ]
@@ -13750,7 +14036,7 @@
         "fixture": "Bukovyna Chernivtsi vs Obolon Kyiv",
         "league_id": 441,
         "league": "Premier League",
-        "venue": "TBA",
+        "venue": "Stadion Ukrajina",
         "tv_channels": []
     },
     {
@@ -13978,6 +14264,12 @@
                 "channels": [
                     "Migu"
                 ]
+            },
+            {
+                "country": "Spain",
+                "channels": [
+                    "GOL"
+                ]
             }
         ]
     },
@@ -14001,7 +14293,8 @@
             {
                 "country": "Croatia",
                 "channels": [
-                    "Arena Sport 3 Croatia"
+                    "Arena Sport 3 Croatia",
+                    "MAXtv To Go"
                 ]
             },
             {
@@ -14025,7 +14318,8 @@
             {
                 "country": "Croatia",
                 "channels": [
-                    "Arena Sport 3 Croatia"
+                    "Arena Sport 3 Croatia",
+                    "MAXtv To Go"
                 ]
             },
             {
@@ -14583,6 +14877,7 @@
             {
                 "country": "United States",
                 "channels": [
+                    "CBS Sports Golazo Network",
                     "Paramount+ (US)"
                 ]
             }
@@ -16946,7 +17241,7 @@
     },
     {
         "match_id": 1000007701,
-        "kickoff": 1786302000,
+        "kickoff": 1786291200,
         "fixture": "Philadelphia Union II vs FC Cincinnati 2",
         "league_id": 10282,
         "league": "MLS Next Pro",
@@ -17066,6 +17361,35 @@
         "tv_channels": []
     },
     {
+        "match_id": 1000014082,
+        "kickoff": 1786215600,
+        "fixture": "Santa Fe vs Chico FC",
+        "league_id": 274,
+        "league": "Primera A",
+        "venue": "Estadio Nemesio Camacho El Campín",
+        "tv_channels": [
+            {
+                "country": "Colombia",
+                "channels": [
+                    "Win Fútbol +",
+                    "Win Play"
+                ]
+            },
+            {
+                "country": "Saint Barthélemy",
+                "channels": [
+                    "Sport TV"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Fanatiz"
+                ]
+            }
+        ]
+    },
+    {
         "match_id": 1000014080,
         "kickoff": 1786224000,
         "fixture": "Fortaleza FC vs Cucuta",
@@ -17078,6 +17402,12 @@
                 "channels": [
                     "Win Fútbol +",
                     "Win Play"
+                ]
+            },
+            {
+                "country": "Saint Barthélemy",
+                "channels": [
+                    "Sport TV"
                 ]
             },
             {
@@ -17123,22 +17453,6 @@
         ]
     },
     {
-        "match_id": 1000014082,
-        "kickoff": 1786302000,
-        "fixture": "Santa Fe vs Chico FC",
-        "league_id": 274,
-        "league": "Primera A",
-        "venue": "Estadio Nemesio Camacho El Campín",
-        "tv_channels": [
-            {
-                "country": "United States",
-                "channels": [
-                    "Fanatiz"
-                ]
-            }
-        ]
-    },
-    {
         "match_id": 1000007263,
         "kickoff": 1786206600,
         "fixture": "Union San Felipe vs Deportes Recoleta",
@@ -17149,7 +17463,8 @@
             {
                 "country": "Chile",
                 "channels": [
-                    "HBO MAX"
+                    "HBO MAX",
+                    "TNT Sports"
                 ]
             }
         ]
@@ -17165,7 +17480,8 @@
             {
                 "country": "Chile",
                 "channels": [
-                    "HBO MAX"
+                    "HBO MAX",
+                    "TNT Sports"
                 ]
             }
         ]
@@ -17181,7 +17497,8 @@
             {
                 "country": "Chile",
                 "channels": [
-                    "HBO MAX"
+                    "HBO MAX",
+                    "TNT Sports Premium"
                 ]
             }
         ]
@@ -17197,7 +17514,8 @@
             {
                 "country": "Chile",
                 "channels": [
-                    "HBO MAX"
+                    "HBO MAX",
+                    "TNT Sports Premium"
                 ]
             }
         ]
@@ -17213,7 +17531,8 @@
             {
                 "country": "Chile",
                 "channels": [
-                    "HBO MAX"
+                    "HBO MAX",
+                    "TNT Sports Premium"
                 ]
             }
         ]
@@ -17233,15 +17552,6 @@
                 ]
             }
         ]
-    },
-    {
-        "match_id": 1000013673,
-        "kickoff": 1786215600,
-        "fixture": "Patriotas vs Barranquilla FC",
-        "league_id": 9125,
-        "league": "Primera B",
-        "venue": "Estadio de La Independencia",
-        "tv_channels": []
     },
     {
         "match_id": 1000016448,
@@ -17437,6 +17747,7 @@
             {
                 "country": "Russian Federation",
                 "channels": [
+                    "Sportbox.ru",
                     "matchtv.ru"
                 ]
             },
@@ -17493,6 +17804,7 @@
             {
                 "country": "Russian Federation",
                 "channels": [
+                    "Sportbox.ru",
                     "matchtv.ru"
                 ]
             },
@@ -17652,6 +17964,7 @@
             {
                 "country": "Spain",
                 "channels": [
+                    "M+ #Vamos Bar 2",
                     "M+ Vamos 2"
                 ]
             },
@@ -18052,7 +18365,20 @@
         "league_id": 182,
         "league": "Super Liga",
         "venue": "Stadion Rajko Mitić",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Mongolia",
+                "channels": [
+                    "Arena 1 Premium"
+                ]
+            },
+            {
+                "country": "Serbia",
+                "channels": [
+                    "Arena 1 Premium"
+                ]
+            }
+        ]
     },
     {
         "match_id": 1000015090,
@@ -18360,6 +18686,13 @@
                 ]
             },
             {
+                "country": "Lao People's Democratic Republic",
+                "channels": [
+                    "Sportacentrs TV",
+                    "TV4 Latvia"
+                ]
+            },
+            {
                 "country": "Mexico",
                 "channels": [
                     "OneFootball PPV"
@@ -18520,6 +18853,12 @@
                 ]
             },
             {
+                "country": "Lao People's Democratic Republic",
+                "channels": [
+                    "Sportacentrs TV"
+                ]
+            },
+            {
                 "country": "Mexico",
                 "channels": [
                     "OneFootball PPV"
@@ -18677,6 +19016,13 @@
                 "country": "Japan",
                 "channels": [
                     "OneFootball PPV"
+                ]
+            },
+            {
+                "country": "Lao People's Democratic Republic",
+                "channels": [
+                    "Sportacentrs TV",
+                    "TV4 Latvia"
                 ]
             },
             {
@@ -18880,7 +19226,14 @@
         "league_id": 203,
         "league": "1. Divisjon",
         "venue": "Åsane Arena",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Norway",
+                "channels": [
+                    "TV 2 Play (NO)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5105210,
@@ -19593,7 +19946,7 @@
     },
     {
         "match_id": 5225704,
-        "kickoff": 1786302900,
+        "kickoff": 1786306500,
         "fixture": "Breidablik vs Valur",
         "league_id": 215,
         "league": "Besta deildin",
