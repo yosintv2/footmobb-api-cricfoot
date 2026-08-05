@@ -294,7 +294,21 @@
         "league_id": 489,
         "league": "Club Friendlies",
         "venue": "SIGNAL IDUNA PARK",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "DAZN UK"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "DAZN US",
+                    "DAZN US (Español)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5900189,
@@ -819,6 +833,65 @@
         "tv_channels": []
     },
     {
+        "match_id": 5973532,
+        "kickoff": 1786812300,
+        "fixture": "Dundee United vs Celtic",
+        "league_id": 180,
+        "league": "League Cup",
+        "venue": "Tannadice Park",
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Premier Sports 1 ROI"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports 1 UK",
+                    "Premier Sports Player"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 5973534,
+        "kickoff": 1786885200,
+        "fixture": "Hearts vs Inverness CT",
+        "league_id": 180,
+        "league": "League Cup",
+        "venue": "Tynecastle Park",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5973535,
+        "kickoff": 1786885200,
+        "fixture": "Hibernian vs Partick Thistle",
+        "league_id": 180,
+        "league": "League Cup",
+        "venue": "Easter Road Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5973538,
+        "kickoff": 1786885200,
+        "fixture": "Stenhousemuir vs Motherwell",
+        "league_id": 180,
+        "league": "League Cup",
+        "venue": "Ochilview Park",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5973537,
+        "kickoff": 1786892400,
+        "fixture": "Rangers vs St. Mirren",
+        "league_id": 180,
+        "league": "League Cup",
+        "venue": "Ibrox Stadium",
+        "tv_channels": []
+    },
+    {
         "match_id": 5991199,
         "kickoff": 1786809600,
         "fixture": "Vianense vs Trofense",
@@ -1067,7 +1140,7 @@
         "fixture": "Arouca vs Moreirense",
         "league_id": 61,
         "league": "Liga Portugal",
-        "venue": "Municipal de Arouca",
+        "venue": "Estádio Municipal de Arouca",
         "tv_channels": []
     },
     {
@@ -1094,7 +1167,7 @@
         "fixture": "Famalicao vs Maritimo",
         "league_id": 61,
         "league": "Liga Portugal",
-        "venue": "Municipal 22 de Junho",
+        "venue": "Estádio Municipal 22 de Junho",
         "tv_channels": []
     },
     {
@@ -1886,7 +1959,7 @@
         "fixture": "1. FC Phönix Lübeck vs Lübeck",
         "league_id": 512,
         "league": "Regionalliga North",
-        "venue": "Stadion Buniamshof",
+        "venue": "Stadion an der Lohmühle",
         "tv_channels": []
     },
     {
@@ -2157,7 +2230,14 @@
         "league_id": 10699,
         "league": "USL Super League",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "Peacock"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5887360,
@@ -2166,7 +2246,14 @@
         "league_id": 10699,
         "league": "USL Super League",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "Peacock"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5887361,
@@ -2175,7 +2262,14 @@
         "league_id": 10699,
         "league": "USL Super League",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United States",
+                "channels": [
+                    "Peacock"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5887362,
@@ -2337,7 +2431,14 @@
         "league_id": 141,
         "league": "Coppa Italia",
         "venue": "Stadio Nicola Ceravolo",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports Player"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5852776,
@@ -2346,7 +2447,21 @@
         "league_id": 141,
         "league": "Coppa Italia",
         "venue": "Bluenergy Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Premier Sports 2 ROI"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports 2 UK",
+                    "Premier Sports Player"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5852777,
@@ -2355,7 +2470,21 @@
         "league_id": 141,
         "league": "Coppa Italia",
         "venue": "Stadio Pier Luigi Penzo",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Premier Sports 2 ROI"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports 2 UK",
+                    "Premier Sports Player"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5852778,
@@ -2364,7 +2493,14 @@
         "league_id": 141,
         "league": "Coppa Italia",
         "venue": "Stadio Olimpico Grande Torino",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports Player"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5852779,
@@ -2409,7 +2545,23 @@
         "league_id": 48,
         "league": "Championship",
         "venue": "Bramall Lane",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Sky Sports Football",
+                    "Sky Sports Main Event",
+                    "Sky Sports UHD",
+                    "Sky Sports+ app"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Paramount+ (US)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5836763,
@@ -3029,7 +3181,7 @@
         "fixture": "Agropecuario vs Ciudad de Bolivar",
         "league_id": 8965,
         "league": "Primera Nacional",
-        "venue": "TBA",
+        "venue": "Estadio Ofelia Rosenzuaig",
         "tv_channels": []
     },
     {
@@ -3056,7 +3208,7 @@
         "fixture": "CA San Miguel vs Colegiales",
         "league_id": 8965,
         "league": "Primera Nacional",
-        "venue": "TBA",
+        "venue": "Estadio Malvinas Argentinas",
         "tv_channels": []
     },
     {
@@ -3074,7 +3226,7 @@
         "fixture": "Club Atlético Estudiantes vs Chacarita Juniors",
         "league_id": 8965,
         "league": "Primera Nacional",
-        "venue": "TBA",
+        "venue": "Estadio Ciudad de Caseros",
         "tv_channels": []
     },
     {
@@ -3083,7 +3235,7 @@
         "fixture": "Club Atletico Mitre vs Atletico Guemes",
         "league_id": 8965,
         "league": "Primera Nacional",
-        "venue": "TBA",
+        "venue": "Estadio Aurinegro",
         "tv_channels": []
     },
     {
@@ -3101,7 +3253,7 @@
         "fixture": "Deportivo Moron vs Almagro",
         "league_id": 8965,
         "league": "Primera Nacional",
-        "venue": "TBA",
+        "venue": "Estadio Nuevo Francisco Urbano",
         "tv_channels": []
     },
     {
@@ -3110,7 +3262,7 @@
         "fixture": "Ferro Carril Oeste vs Atlanta",
         "league_id": 8965,
         "league": "Primera Nacional",
-        "venue": "TBA",
+        "venue": "Estadio Arquitecto Ricardo Etcheverry",
         "tv_channels": []
     },
     {
@@ -3128,7 +3280,7 @@
         "fixture": "Godoy Cruz vs Deportivo Maipu",
         "league_id": 8965,
         "league": "Primera Nacional",
-        "venue": "TBA",
+        "venue": "Estadio Feliciano Gambarte",
         "tv_channels": []
     },
     {
@@ -3137,7 +3289,7 @@
         "fixture": "Quilmes vs San Telmo",
         "league_id": 8965,
         "league": "Primera Nacional",
-        "venue": "TBA",
+        "venue": "Estadio Centenario Ciudad de Quilmes",
         "tv_channels": []
     },
     {
@@ -3678,7 +3830,14 @@
         "league_id": 87,
         "league": "LaLiga",
         "venue": "Estadio Ramón Sánchez Pizjuán",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Disney+ (UK)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5868017,
@@ -4856,7 +5015,7 @@
         "fixture": "Aucas vs LDU de Quito",
         "league_id": 246,
         "league": "Serie A",
-        "venue": "TBA",
+        "venue": "Estadio Cooprogreso Gonzalo Pozo Ripalda",
         "tv_channels": []
     },
     {
@@ -4865,7 +5024,7 @@
         "fixture": "CSD Macara vs Universidad Catolica",
         "league_id": 246,
         "league": "Serie A",
-        "venue": "TBA",
+        "venue": "Estadio Bellavista Universidad Indoamérica",
         "tv_channels": []
     },
     {
@@ -4874,7 +5033,7 @@
         "fixture": "Emelec vs Tecnico Universitario",
         "league_id": 246,
         "league": "Serie A",
-        "venue": "TBA",
+        "venue": "Estadio George Capwell Banco del Austro",
         "tv_channels": []
     },
     {
@@ -4883,7 +5042,7 @@
         "fixture": "Independiente del Valle vs Delfin",
         "league_id": 246,
         "league": "Serie A",
-        "venue": "TBA",
+        "venue": "Estadio Banco Guayaquil",
         "tv_channels": []
     },
     {
@@ -4892,7 +5051,7 @@
         "fixture": "Orense vs Deportivo Cuenca",
         "league_id": 246,
         "league": "Serie A",
-        "venue": "TBA",
+        "venue": "Estadio 9 de Mayo Banco de Machala",
         "tv_channels": []
     },
     {
@@ -4901,7 +5060,7 @@
         "fixture": "Guayaquil City vs Libertad",
         "league_id": 246,
         "league": "Serie A",
-        "venue": "TBA",
+        "venue": "Estadio Christian Benítez Betancourt",
         "tv_channels": []
     },
     {
@@ -4910,7 +5069,7 @@
         "fixture": "Manta vs Leones del Norte",
         "league_id": 246,
         "league": "Serie A",
-        "venue": "TBA",
+        "venue": "Estadio Jocay",
         "tv_channels": []
     },
     {
@@ -4995,12 +5154,12 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000009504,
+        "match_id": 1000009505,
         "kickoff": 1786906800,
-        "fixture": "Confianca vs Maringa FC",
+        "fixture": "Floresta vs Anapolis FC",
         "league_id": 8971,
         "league": "Serie C",
-        "venue": "Estádio Estadual Lourival Baptista",
+        "venue": "Estádio Municipal Presidente Getúlio Vargas",
         "tv_channels": []
     },
     {

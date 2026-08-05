@@ -157,6 +157,7 @@
             {
                 "country": "Brazil",
                 "channels": [
+                    "Canal GoLBrasil YouTube",
                     "Xsports"
                 ]
             },
@@ -1066,6 +1067,12 @@
                 ]
             },
             {
+                "country": "India",
+                "channels": [
+                    "Tata Play Fancode Sports"
+                ]
+            },
+            {
                 "country": "Ireland",
                 "channels": [
                     "Arsenal.com",
@@ -1168,12 +1175,6 @@
                 ]
             },
             {
-                "country": "Sweden",
-                "channels": [
-                    "Arsenal.com"
-                ]
-            },
-            {
                 "country": "Switzerland",
                 "channels": [
                     "DAZN"
@@ -1182,7 +1183,6 @@
             {
                 "country": "United Kingdom",
                 "channels": [
-                    "Arsenal.com",
                     "Premier Sports 1 UK",
                     "Premier Sports Player"
                 ]
@@ -1190,7 +1190,6 @@
             {
                 "country": "United States",
                 "channels": [
-                    "Arsenal.com",
                     "CBS Sports Network",
                     "FOX Deportes",
                     "FOX One",
@@ -1441,7 +1440,8 @@
             {
                 "country": "United States",
                 "channels": [
-                    "DAZN US"
+                    "DAZN US",
+                    "DAZN US (Español)"
                 ]
             },
             {
@@ -6189,69 +6189,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5851872,
-        "kickoff": 1785943800,
-        "fixture": "Fakel vs Dinamo",
-        "league_id": 193,
-        "league": "Cup Grp. B",
-        "venue": "Central'nyi Stadion Profsoyuzov",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5851873,
-        "kickoff": 1785951900,
-        "fixture": "Krasnodar vs Akhmat",
-        "league_id": 193,
-        "league": "Cup Grp. B",
-        "venue": "Ozon Arena",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5164026,
-        "kickoff": 1785942000,
-        "fixture": "OLS vs TPV",
-        "league_id": 8969,
-        "league": "Ykkonen",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5164027,
-        "kickoff": 1785943800,
-        "fixture": "RoPS vs FC Jazz",
-        "league_id": 8969,
-        "league": "Ykkonen",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5164025,
-        "kickoff": 1785943800,
-        "fixture": "SalPa vs JJK Jyväskylä",
-        "league_id": 8969,
-        "league": "Ykkonen",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5164028,
-        "kickoff": 1785943800,
-        "fixture": "Tampere United vs KPV",
-        "league_id": 8969,
-        "league": "Ykkonen",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5164029,
-        "kickoff": 1785945600,
-        "fixture": "VJS vs PK Keski-Uusimaa",
-        "league_id": 8969,
-        "league": "Ykkonen",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 5113003,
         "kickoff": 1785952800,
         "fixture": "Almagro vs Gimnasia y Tiro",
@@ -6410,6 +6347,69 @@
                 ]
             }
         ]
+    },
+    {
+        "match_id": 5851872,
+        "kickoff": 1785943800,
+        "fixture": "Fakel vs Dinamo",
+        "league_id": 193,
+        "league": "Cup Grp. B",
+        "venue": "Central'nyi Stadion Profsoyuzov",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5851873,
+        "kickoff": 1785951900,
+        "fixture": "Krasnodar vs Akhmat",
+        "league_id": 193,
+        "league": "Cup Grp. B",
+        "venue": "Ozon Arena",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5164026,
+        "kickoff": 1785942000,
+        "fixture": "OLS vs TPV",
+        "league_id": 8969,
+        "league": "Ykkonen",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5164027,
+        "kickoff": 1785943800,
+        "fixture": "RoPS vs FC Jazz",
+        "league_id": 8969,
+        "league": "Ykkonen",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5164025,
+        "kickoff": 1785943800,
+        "fixture": "SalPa vs JJK Jyväskylä",
+        "league_id": 8969,
+        "league": "Ykkonen",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5164028,
+        "kickoff": 1785943800,
+        "fixture": "Tampere United vs KPV",
+        "league_id": 8969,
+        "league": "Ykkonen",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5164029,
+        "kickoff": 1785945600,
+        "fixture": "VJS vs PK Keski-Uusimaa",
+        "league_id": 8969,
+        "league": "Ykkonen",
+        "venue": "TBA",
+        "tv_channels": []
     },
     {
         "match_id": 1000012774,

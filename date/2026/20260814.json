@@ -467,6 +467,12 @@
                 "channels": [
                     "Apple TV (UK)"
                 ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Apple TV (US)"
+                ]
             }
         ]
     },
@@ -483,6 +489,12 @@
                 "channels": [
                     "Apple TV (UK)"
                 ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Apple TV (US)"
+                ]
             }
         ]
     },
@@ -493,7 +505,20 @@
         "league_id": 10043,
         "league": "Leagues Cup",
         "venue": "Q2 Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Apple TV (UK)"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Apple TV (US)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5844874,
@@ -502,7 +527,20 @@
         "league_id": 10043,
         "league": "Leagues Cup",
         "venue": "SeatGeek Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Apple TV (UK)"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Apple TV (US)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5844875,
@@ -511,7 +549,20 @@
         "league_id": 10043,
         "league": "Leagues Cup",
         "venue": "Providence Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Apple TV (UK)"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "Apple TV (US)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5898683,
@@ -955,6 +1006,29 @@
         "tv_channels": []
     },
     {
+        "match_id": 5973536,
+        "kickoff": 1786733100,
+        "fixture": "Kilmarnock vs Ayr United",
+        "league_id": 180,
+        "league": "League Cup",
+        "venue": "The BBSP Stadium, Rugby Park",
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Premier Sports 1 ROI"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports 1 UK",
+                    "Premier Sports Player"
+                ]
+            }
+        ]
+    },
+    {
         "match_id": 5991289,
         "kickoff": 1786735800,
         "fixture": "Santarem vs Oliveirense",
@@ -1285,7 +1359,21 @@
         "league_id": 141,
         "league": "Coppa Italia",
         "venue": "U-Power Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "Ireland",
+                "channels": [
+                    "Premier Sports 2 ROI"
+                ]
+            },
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Premier Sports 2 UK",
+                    "Premier Sports Player"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5852774,
@@ -1303,7 +1391,24 @@
         "league_id": 48,
         "league": "Championship",
         "venue": "Molineux Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Sky Sports Football",
+                    "Sky Sports Main Event",
+                    "Sky Sports UHD",
+                    "Sky Sports+ app"
+                ]
+            },
+            {
+                "country": "United States",
+                "channels": [
+                    "CBS Sports Network",
+                    "Paramount+ (US)"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5886483,
@@ -1726,7 +1831,14 @@
         "league_id": 116,
         "league": "Premier League",
         "venue": "The Hollingsworth Group Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Cymru Football TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5882041,
@@ -1735,7 +1847,14 @@
         "league_id": 116,
         "league": "Premier League",
         "venue": "Jenner Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Cymru Football TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5882042,
@@ -1744,7 +1863,17 @@
         "league_id": 116,
         "league": "Premier League",
         "venue": "The Go Goodwins Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "BBC iPlayer",
+                    "Cymru Football TV",
+                    "S4C",
+                    "S4C Clic"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5882043,
@@ -1753,7 +1882,14 @@
         "league_id": 116,
         "league": "Premier League",
         "venue": "King George's New Field",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Cymru Football TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5882044,
@@ -1762,7 +1898,14 @@
         "league_id": 116,
         "league": "Premier League",
         "venue": "Deeside Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Cymru Football TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5882045,
@@ -1771,7 +1914,14 @@
         "league_id": 116,
         "league": "Premier League",
         "venue": "Bridge Meadow Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Cymru Football TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5882046,
@@ -1780,7 +1930,14 @@
         "league_id": 116,
         "league": "Premier League",
         "venue": "The Go Goodwins Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Cymru Football TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5882047,
@@ -1789,7 +1946,14 @@
         "league_id": 116,
         "league": "Premier League",
         "venue": "Park Hall Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "United Kingdom",
+                "channels": [
+                    "Cymru Football TV"
+                ]
+            }
+        ]
     },
     {
         "match_id": 5904710,
