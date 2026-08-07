@@ -1,4 +1,4 @@
-name: Fotmob Football Fixtures Locally
+name: Fotmob Football Fixtures
 
 on:
   schedule:
@@ -22,7 +22,7 @@ jobs:
           cache: "pip"
 
       - name: Install dependencies
-        run: pip install curl_cffi
+        run: pip install curl_cffi requests typing_extensions
 
       - name: Fetch Fotmob Football Data
         run: python fetch_fotmob_football.py
