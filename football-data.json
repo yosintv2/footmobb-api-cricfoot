@@ -1054,32 +1054,6 @@
       "football_data": null
     },
     {
-      "team1": "Stade Nyonnais",
-      "team2": "Etoile Carouge",
-      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/2442.png",
-      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/1594.png",
-      "league": "Challenge League",
-      "start": "2026-08-21T17:30Z",
-      "duration": 2.2,
-      "details_url": "https://home.getemoji.online/?yosintv=stadenyonnais",
-      "streaming_url": "https://cdn.singhs.com.np/stadenyonnais.json",
-      "event_id": 5804567,
-      "football_data": null
-    },
-    {
-      "team1": "Xamax",
-      "team2": "FC Stade Lausanne-Ouchy",
-      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/7955.png",
-      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/289334.png",
-      "league": "Challenge League",
-      "start": "2026-08-21T17:30Z",
-      "duration": 2.2,
-      "details_url": "https://home.getemoji.online/?yosintv=xamax",
-      "streaming_url": "https://cdn.singhs.com.np/xamax.json",
-      "event_id": 5804568,
-      "football_data": null
-    },
-    {
       "team1": "Real Zaragoza",
       "team2": "Athletic Club",
       "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8394.png",
@@ -1129,6 +1103,32 @@
       "details_url": "https://home.getemoji.online/?yosintv=petrolulploiesti",
       "streaming_url": "https://cdn.singhs.com.np/petrolulploiesti.json",
       "event_id": 5853476,
+      "football_data": null
+    },
+    {
+      "team1": "Xamax",
+      "team2": "FC Stade Lausanne-Ouchy",
+      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/7955.png",
+      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/289334.png",
+      "league": "Challenge League",
+      "start": "2026-08-21T17:30Z",
+      "duration": 2.2,
+      "details_url": "https://home.getemoji.online/?yosintv=xamax",
+      "streaming_url": "https://cdn.singhs.com.np/xamax.json",
+      "event_id": 5804568,
+      "football_data": null
+    },
+    {
+      "team1": "Stade Nyonnais",
+      "team2": "Etoile Carouge",
+      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/2442.png",
+      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/1594.png",
+      "league": "Challenge League",
+      "start": "2026-08-21T17:30Z",
+      "duration": 2.2,
+      "details_url": "https://home.getemoji.online/?yosintv=stadenyonnais",
+      "streaming_url": "https://cdn.singhs.com.np/stadenyonnais.json",
+      "event_id": 5804567,
       "football_data": null
     },
     {
@@ -1510,9 +1510,9 @@
     },
     {
       "team1": "Stoke City U21",
-      "team2": "Brentford U21",
+      "team2": "Brentford Academy",
       "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/773650.png",
-      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/2128221.png",
+      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/2054260.png",
       "league": "Premier League 2",
       "start": "2026-08-21T18:00Z",
       "duration": 2.2,
@@ -1532,19 +1532,6 @@
       "details_url": "https://home.getemoji.online/?yosintv=westhamunitedu21",
       "streaming_url": "https://cdn.singhs.com.np/westhamunitedu21.json",
       "event_id": 1000019091,
-      "football_data": null
-    },
-    {
-      "team1": "FC Rapperswil-Jona",
-      "team2": "Winterthur",
-      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/185504.png",
-      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/7894.png",
-      "league": "Challenge League",
-      "start": "2026-08-21T18:15Z",
-      "duration": 2.2,
-      "details_url": "https://home.getemoji.online/?yosintv=fcrapperswiljona",
-      "streaming_url": "https://cdn.singhs.com.np/fcrapperswiljona.json",
-      "event_id": 5804569,
       "football_data": null
     },
     {
@@ -1571,6 +1558,19 @@
       "details_url": "https://home.getemoji.online/?yosintv=olimpijaljubljana",
       "streaming_url": "https://cdn.singhs.com.np/olimpijaljubljana.json",
       "event_id": 5833561,
+      "football_data": null
+    },
+    {
+      "team1": "FC Rapperswil-Jona",
+      "team2": "Winterthur",
+      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/185504.png",
+      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/7894.png",
+      "league": "Challenge League",
+      "start": "2026-08-21T18:15Z",
+      "duration": 2.2,
+      "details_url": "https://home.getemoji.online/?yosintv=fcrapperswiljona",
+      "streaming_url": "https://cdn.singhs.com.np/fcrapperswiljona.json",
+      "event_id": 5804569,
       "football_data": null
     },
     {
@@ -2351,6 +2351,19 @@
       "details_url": "https://home.getemoji.online/?yosintv=brooklynfcw",
       "streaming_url": "https://cdn.singhs.com.np/brooklynfcw.json",
       "event_id": 5887365,
+      "football_data": null
+    },
+    {
+      "team1": "Juventud Antoniana",
+      "team2": "Villa Mitre",
+      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/213600.png",
+      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/213550.png",
+      "league": "Federal A Promotion Zona B",
+      "start": "2026-08-22T00:00Z",
+      "duration": 2.2,
+      "details_url": "https://home.getemoji.online/?yosintv=juventudantoniana",
+      "streaming_url": "https://cdn.singhs.com.np/juventudantoniana.json",
+      "event_id": 5978480,
       "football_data": null
     },
     {
@@ -7866,32 +7879,6 @@
       "football_data": null
     },
     {
-      "team1": "Qarabag FK",
-      "team2": "FC Kapaz",
-      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/7981.png",
-      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/4150.png",
-      "league": "Premier League",
-      "start": "2026-08-22T15:00Z",
-      "duration": 2.2,
-      "details_url": "https://home.getemoji.online/?yosintv=qarabagfk",
-      "streaming_url": "https://cdn.singhs.com.np/qarabagfk.json",
-      "event_id": 5987499,
-      "football_data": null
-    },
-    {
-      "team1": "Sabah FK",
-      "team2": "Sumqayit",
-      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/951893.png",
-      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/213987.png",
-      "league": "Premier League",
-      "start": "2026-08-22T15:00Z",
-      "duration": 2.2,
-      "details_url": "https://home.getemoji.online/?yosintv=sabahfk",
-      "streaming_url": "https://cdn.singhs.com.np/sabahfk.json",
-      "event_id": 5987500,
-      "football_data": null
-    },
-    {
       "team1": "Rilski Sportist",
       "team2": "Montana",
       "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10147.png",
@@ -8292,19 +8279,6 @@
       "details_url": "https://home.getemoji.online/?yosintv=tatranpresov",
       "streaming_url": "https://cdn.singhs.com.np/tatranpresov.json",
       "event_id": 5820717,
-      "football_data": null
-    },
-    {
-      "team1": "Wil",
-      "team2": "Kriens",
-      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10175.png",
-      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6404.png",
-      "league": "Challenge League",
-      "start": "2026-08-22T16:00Z",
-      "duration": 2.2,
-      "details_url": "https://home.getemoji.online/?yosintv=wil",
-      "streaming_url": "https://cdn.singhs.com.np/wil.json",
-      "event_id": 5804570,
       "football_data": null
     },
     {
@@ -9358,6 +9332,19 @@
       "details_url": "https://home.getemoji.online/?yosintv=slaviaprague",
       "streaming_url": "https://cdn.singhs.com.np/slaviaprague.json",
       "event_id": 5831146,
+      "football_data": null
+    },
+    {
+      "team1": "Circulo Deportivo",
+      "team2": "Costa Brava",
+      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/1076357.png",
+      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/1723154.png",
+      "league": "Federal A Relegation Zona B",
+      "start": "2026-08-22T18:00Z",
+      "duration": 2.2,
+      "details_url": "https://home.getemoji.online/?yosintv=circulodeportivo",
+      "streaming_url": "https://cdn.singhs.com.np/circulodeportivo.json",
+      "event_id": 5978554,
       "football_data": null
     },
     {
@@ -12169,19 +12156,6 @@
       "football_data": null
     },
     {
-      "team1": "Yverdon",
-      "team2": "Aarau",
-      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6447.png",
-      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9930.png",
-      "league": "Challenge League",
-      "start": "2026-08-23T12:00Z",
-      "duration": 2.2,
-      "details_url": "https://home.getemoji.online/?yosintv=yverdon",
-      "streaming_url": "https://cdn.singhs.com.np/yverdon.json",
-      "event_id": 5804571,
-      "football_data": null
-    },
-    {
       "team1": "Piteå IF (W)",
       "team2": "IK Uppsala Fotboll (W)",
       "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/181471.png",
@@ -13297,6 +13271,19 @@
       "details_url": "https://home.getemoji.online/?yosintv=hammarby",
       "streaming_url": "https://cdn.singhs.com.np/hammarby.json",
       "event_id": 5107574,
+      "football_data": null
+    },
+    {
+      "team1": "Fundacion Amigos",
+      "team2": "Sol de Mayo",
+      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/1925738.png",
+      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/837626.png",
+      "league": "Federal A Relegation Zona B",
+      "start": "2026-08-23T14:30Z",
+      "duration": 2.2,
+      "details_url": "https://home.getemoji.online/?yosintv=fundacionamigos",
+      "streaming_url": "https://cdn.singhs.com.np/fundacionamigos.json",
+      "event_id": 5978556,
       "football_data": null
     },
     {
@@ -14782,6 +14769,45 @@
       "football_data": null
     },
     {
+      "team1": "Deportivo Rincon",
+      "team2": "Juventud Unida Universitario",
+      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/927587.png",
+      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/213588.png",
+      "league": "Federal A Relegation Zona B",
+      "start": "2026-08-23T18:00Z",
+      "duration": 2.2,
+      "details_url": "https://home.getemoji.online/?yosintv=deportivorincon",
+      "streaming_url": "https://cdn.singhs.com.np/deportivorincon.json",
+      "event_id": 5978555,
+      "football_data": null
+    },
+    {
+      "team1": "Germinal",
+      "team2": "San Martin Mendoza",
+      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/1442515.png",
+      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/1442518.png",
+      "league": "Federal A Relegation Zona B",
+      "start": "2026-08-23T18:00Z",
+      "duration": 2.2,
+      "details_url": "https://home.getemoji.online/?yosintv=germinal",
+      "streaming_url": "https://cdn.singhs.com.np/germinal.json",
+      "event_id": 5978557,
+      "football_data": null
+    },
+    {
+      "team1": "Guillermo Brown",
+      "team2": "Santamarina",
+      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/213542.png",
+      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/203830.png",
+      "league": "Federal A Relegation Zona B",
+      "start": "2026-08-23T18:00Z",
+      "duration": 2.2,
+      "details_url": "https://home.getemoji.online/?yosintv=guillermobrown",
+      "streaming_url": "https://cdn.singhs.com.np/guillermobrown.json",
+      "event_id": 5978558,
+      "football_data": null
+    },
+    {
       "team1": "Torque",
       "team2": "Montevideo Wanderers",
       "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/395613.png",
@@ -14883,6 +14909,19 @@
       "details_url": "https://home.getemoji.online/?yosintv=alulafc",
       "streaming_url": "https://cdn.singhs.com.np/alulafc.json",
       "event_id": 1000018422,
+      "football_data": null
+    },
+    {
+      "team1": "Atletico Escobar",
+      "team2": "Gimnasia y Esgrima de Concepcion",
+      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/1925627.png",
+      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/213599.png",
+      "league": "Federal A Relegation Zona A",
+      "start": "2026-08-23T18:00Z",
+      "duration": 2.2,
+      "details_url": "https://home.getemoji.online/?yosintv=atleticoescobar",
+      "streaming_url": "https://cdn.singhs.com.np/atleticoescobar.json",
+      "event_id": 5978514,
       "football_data": null
     },
     {
@@ -15039,6 +15078,84 @@
       "details_url": "https://home.getemoji.online/?yosintv=cfrcluj",
       "streaming_url": "https://cdn.singhs.com.np/cfrcluj.json",
       "event_id": 5853472,
+      "football_data": null
+    },
+    {
+      "team1": "Defensores de Belgrano de Villa Ramallo",
+      "team2": "Gimnasia y Esgrima de Chivilcoy",
+      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/278653.png",
+      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/1723190.png",
+      "league": "Federal A Promotion Zona A",
+      "start": "2026-08-23T18:30Z",
+      "duration": 2.2,
+      "details_url": "https://home.getemoji.online/?yosintv=defensoresdebelgranodevillaramallo",
+      "streaming_url": "https://cdn.singhs.com.np/defensoresdebelgranodevillaramallo.json",
+      "event_id": 5978443,
+      "football_data": null
+    },
+    {
+      "team1": "CA Alvarado",
+      "team2": "Argentino Monte Maiz",
+      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/354496.png",
+      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/1344071.png",
+      "league": "Federal A Promotion Zona B",
+      "start": "2026-08-23T18:30Z",
+      "duration": 2.2,
+      "details_url": "https://home.getemoji.online/?yosintv=caalvarado",
+      "streaming_url": "https://cdn.singhs.com.np/caalvarado.json",
+      "event_id": 5978478,
+      "football_data": null
+    },
+    {
+      "team1": "Club Cipolletti",
+      "team2": "Sportivo Atenas",
+      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/213539.png",
+      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/1442519.png",
+      "league": "Federal A Promotion Zona B",
+      "start": "2026-08-23T18:30Z",
+      "duration": 2.2,
+      "details_url": "https://home.getemoji.online/?yosintv=clubcipolletti",
+      "streaming_url": "https://cdn.singhs.com.np/clubcipolletti.json",
+      "event_id": 5978479,
+      "football_data": null
+    },
+    {
+      "team1": "Olimpo",
+      "team2": "Kimberley",
+      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10100.png",
+      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/1618060.png",
+      "league": "Federal A Promotion Zona B",
+      "start": "2026-08-23T18:30Z",
+      "duration": 2.2,
+      "details_url": "https://home.getemoji.online/?yosintv=olimpo",
+      "streaming_url": "https://cdn.singhs.com.np/olimpo.json",
+      "event_id": 5978481,
+      "football_data": null
+    },
+    {
+      "team1": "Defensores de Vilelas",
+      "team2": "El Linqueno",
+      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/1925720.png",
+      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/1442522.png",
+      "league": "Federal A Relegation Zona A",
+      "start": "2026-08-23T18:30Z",
+      "duration": 2.2,
+      "details_url": "https://home.getemoji.online/?yosintv=defensoresdevilelas",
+      "streaming_url": "https://cdn.singhs.com.np/defensoresdevilelas.json",
+      "event_id": 5978516,
+      "football_data": null
+    },
+    {
+      "team1": "Independiente Chivilcoy",
+      "team2": "Tucuman Central",
+      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/568723.png",
+      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/1925718.png",
+      "league": "Federal A Relegation Zona A",
+      "start": "2026-08-23T18:30Z",
+      "duration": 2.2,
+      "details_url": "https://home.getemoji.online/?yosintv=independientechivilcoy",
+      "streaming_url": "https://cdn.singhs.com.np/independientechivilcoy.json",
+      "event_id": 5978517,
       "football_data": null
     },
     {
@@ -15419,6 +15536,58 @@
       "football_data": null
     },
     {
+      "team1": "CA Bartolome Mitre",
+      "team2": "Douglas Haig",
+      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/1723191.png",
+      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/213541.png",
+      "league": "Federal A Promotion Zona A",
+      "start": "2026-08-23T19:00Z",
+      "duration": 2.2,
+      "details_url": "https://home.getemoji.online/?yosintv=cabartolomemitre",
+      "streaming_url": "https://cdn.singhs.com.np/cabartolomemitre.json",
+      "event_id": 5978442,
+      "football_data": null
+    },
+    {
+      "team1": "San Martin de Formosa",
+      "team2": "9 de Julio Rafaela",
+      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/739766.png",
+      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/213595.png",
+      "league": "Federal A Promotion Zona A",
+      "start": "2026-08-23T19:00Z",
+      "duration": 2.2,
+      "details_url": "https://home.getemoji.online/?yosintv=sanmartindeformosa",
+      "streaming_url": "https://cdn.singhs.com.np/sanmartindeformosa.json",
+      "event_id": 5978444,
+      "football_data": null
+    },
+    {
+      "team1": "Sarmiento de La Banda",
+      "team2": "Sportivo Belgrano",
+      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/1618062.png",
+      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/213593.png",
+      "league": "Federal A Promotion Zona A",
+      "start": "2026-08-23T19:00Z",
+      "duration": 2.2,
+      "details_url": "https://home.getemoji.online/?yosintv=sarmientodelabanda",
+      "streaming_url": "https://cdn.singhs.com.np/sarmientodelabanda.json",
+      "event_id": 5978445,
+      "football_data": null
+    },
+    {
+      "team1": "Boca Unidos",
+      "team2": "Sportivo Las Parejas",
+      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/178273.png",
+      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/622756.png",
+      "league": "Federal A Relegation Zona A",
+      "start": "2026-08-23T19:00Z",
+      "duration": 2.2,
+      "details_url": "https://home.getemoji.online/?yosintv=bocaunidos",
+      "streaming_url": "https://cdn.singhs.com.np/bocaunidos.json",
+      "event_id": 5978515,
+      "football_data": null
+    },
+    {
       "team1": "Vikingur Reykjavik",
       "team2": "Valur",
       "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6017.png",
@@ -15533,227 +15702,6 @@
       "details_url": "https://home.getemoji.online/?yosintv=asa",
       "streaming_url": "https://cdn.singhs.com.np/asa.json",
       "event_id": 1000019981,
-      "football_data": null
-    },
-    {
-      "team1": "CA Bartolome Mitre",
-      "team2": "Douglas Haig",
-      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/1723191.png",
-      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/213541.png",
-      "league": "Federal A Promotion Zona A",
-      "start": "2026-08-23T20:00Z",
-      "duration": 2.2,
-      "details_url": "https://home.getemoji.online/?yosintv=cabartolomemitre",
-      "streaming_url": "https://cdn.singhs.com.np/cabartolomemitre.json",
-      "event_id": 5978442,
-      "football_data": null
-    },
-    {
-      "team1": "Defensores de Belgrano de Villa Ramallo",
-      "team2": "Gimnasia y Esgrima de Chivilcoy",
-      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/278653.png",
-      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/1723190.png",
-      "league": "Federal A Promotion Zona A",
-      "start": "2026-08-23T20:00Z",
-      "duration": 2.2,
-      "details_url": "https://home.getemoji.online/?yosintv=defensoresdebelgranodevillaramallo",
-      "streaming_url": "https://cdn.singhs.com.np/defensoresdebelgranodevillaramallo.json",
-      "event_id": 5978443,
-      "football_data": null
-    },
-    {
-      "team1": "San Martin de Formosa",
-      "team2": "9 de Julio Rafaela",
-      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/739766.png",
-      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/213595.png",
-      "league": "Federal A Promotion Zona A",
-      "start": "2026-08-23T20:00Z",
-      "duration": 2.2,
-      "details_url": "https://home.getemoji.online/?yosintv=sanmartindeformosa",
-      "streaming_url": "https://cdn.singhs.com.np/sanmartindeformosa.json",
-      "event_id": 5978444,
-      "football_data": null
-    },
-    {
-      "team1": "Sarmiento de La Banda",
-      "team2": "Sportivo Belgrano",
-      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/1618062.png",
-      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/213593.png",
-      "league": "Federal A Promotion Zona A",
-      "start": "2026-08-23T20:00Z",
-      "duration": 2.2,
-      "details_url": "https://home.getemoji.online/?yosintv=sarmientodelabanda",
-      "streaming_url": "https://cdn.singhs.com.np/sarmientodelabanda.json",
-      "event_id": 5978445,
-      "football_data": null
-    },
-    {
-      "team1": "CA Alvarado",
-      "team2": "Argentino Monte Maiz",
-      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/354496.png",
-      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/1344071.png",
-      "league": "Federal A Promotion Zona B",
-      "start": "2026-08-23T20:00Z",
-      "duration": 2.2,
-      "details_url": "https://home.getemoji.online/?yosintv=caalvarado",
-      "streaming_url": "https://cdn.singhs.com.np/caalvarado.json",
-      "event_id": 5978478,
-      "football_data": null
-    },
-    {
-      "team1": "Club Cipolletti",
-      "team2": "Sportivo Atenas",
-      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/213539.png",
-      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/1442519.png",
-      "league": "Federal A Promotion Zona B",
-      "start": "2026-08-23T20:00Z",
-      "duration": 2.2,
-      "details_url": "https://home.getemoji.online/?yosintv=clubcipolletti",
-      "streaming_url": "https://cdn.singhs.com.np/clubcipolletti.json",
-      "event_id": 5978479,
-      "football_data": null
-    },
-    {
-      "team1": "Juventud Antoniana",
-      "team2": "Villa Mitre",
-      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/213600.png",
-      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/213550.png",
-      "league": "Federal A Promotion Zona B",
-      "start": "2026-08-23T20:00Z",
-      "duration": 2.2,
-      "details_url": "https://home.getemoji.online/?yosintv=juventudantoniana",
-      "streaming_url": "https://cdn.singhs.com.np/juventudantoniana.json",
-      "event_id": 5978480,
-      "football_data": null
-    },
-    {
-      "team1": "Olimpo",
-      "team2": "Kimberley",
-      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10100.png",
-      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/1618060.png",
-      "league": "Federal A Promotion Zona B",
-      "start": "2026-08-23T20:00Z",
-      "duration": 2.2,
-      "details_url": "https://home.getemoji.online/?yosintv=olimpo",
-      "streaming_url": "https://cdn.singhs.com.np/olimpo.json",
-      "event_id": 5978481,
-      "football_data": null
-    },
-    {
-      "team1": "Atletico Escobar",
-      "team2": "Gimnasia y Esgrima de Concepcion",
-      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/1925627.png",
-      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/213599.png",
-      "league": "Federal A Relegation Zona A",
-      "start": "2026-08-23T20:00Z",
-      "duration": 2.2,
-      "details_url": "https://home.getemoji.online/?yosintv=atleticoescobar",
-      "streaming_url": "https://cdn.singhs.com.np/atleticoescobar.json",
-      "event_id": 5978514,
-      "football_data": null
-    },
-    {
-      "team1": "Boca Unidos",
-      "team2": "Sportivo Las Parejas",
-      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/178273.png",
-      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/622756.png",
-      "league": "Federal A Relegation Zona A",
-      "start": "2026-08-23T20:00Z",
-      "duration": 2.2,
-      "details_url": "https://home.getemoji.online/?yosintv=bocaunidos",
-      "streaming_url": "https://cdn.singhs.com.np/bocaunidos.json",
-      "event_id": 5978515,
-      "football_data": null
-    },
-    {
-      "team1": "Defensores de Vilelas",
-      "team2": "El Linqueno",
-      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/1925720.png",
-      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/1442522.png",
-      "league": "Federal A Relegation Zona A",
-      "start": "2026-08-23T20:00Z",
-      "duration": 2.2,
-      "details_url": "https://home.getemoji.online/?yosintv=defensoresdevilelas",
-      "streaming_url": "https://cdn.singhs.com.np/defensoresdevilelas.json",
-      "event_id": 5978516,
-      "football_data": null
-    },
-    {
-      "team1": "Independiente Chivilcoy",
-      "team2": "Tucuman Central",
-      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/568723.png",
-      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/1925718.png",
-      "league": "Federal A Relegation Zona A",
-      "start": "2026-08-23T20:00Z",
-      "duration": 2.2,
-      "details_url": "https://home.getemoji.online/?yosintv=independientechivilcoy",
-      "streaming_url": "https://cdn.singhs.com.np/independientechivilcoy.json",
-      "event_id": 5978517,
-      "football_data": null
-    },
-    {
-      "team1": "Circulo Deportivo",
-      "team2": "Costa Brava",
-      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/1076357.png",
-      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/1723154.png",
-      "league": "Federal A Relegation Zona B",
-      "start": "2026-08-23T20:00Z",
-      "duration": 2.2,
-      "details_url": "https://home.getemoji.online/?yosintv=circulodeportivo",
-      "streaming_url": "https://cdn.singhs.com.np/circulodeportivo.json",
-      "event_id": 5978554,
-      "football_data": null
-    },
-    {
-      "team1": "Deportivo Rincon",
-      "team2": "Juventud Unida Universitario",
-      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/927587.png",
-      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/213588.png",
-      "league": "Federal A Relegation Zona B",
-      "start": "2026-08-23T20:00Z",
-      "duration": 2.2,
-      "details_url": "https://home.getemoji.online/?yosintv=deportivorincon",
-      "streaming_url": "https://cdn.singhs.com.np/deportivorincon.json",
-      "event_id": 5978555,
-      "football_data": null
-    },
-    {
-      "team1": "Fundacion Amigos",
-      "team2": "Sol de Mayo",
-      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/1925738.png",
-      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/837626.png",
-      "league": "Federal A Relegation Zona B",
-      "start": "2026-08-23T20:00Z",
-      "duration": 2.2,
-      "details_url": "https://home.getemoji.online/?yosintv=fundacionamigos",
-      "streaming_url": "https://cdn.singhs.com.np/fundacionamigos.json",
-      "event_id": 5978556,
-      "football_data": null
-    },
-    {
-      "team1": "Germinal",
-      "team2": "San Martin Mendoza",
-      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/1442515.png",
-      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/1442518.png",
-      "league": "Federal A Relegation Zona B",
-      "start": "2026-08-23T20:00Z",
-      "duration": 2.2,
-      "details_url": "https://home.getemoji.online/?yosintv=germinal",
-      "streaming_url": "https://cdn.singhs.com.np/germinal.json",
-      "event_id": 5978557,
-      "football_data": null
-    },
-    {
-      "team1": "Guillermo Brown",
-      "team2": "Santamarina",
-      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/213542.png",
-      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/203830.png",
-      "league": "Federal A Relegation Zona B",
-      "start": "2026-08-23T20:00Z",
-      "duration": 2.2,
-      "details_url": "https://home.getemoji.online/?yosintv=guillermobrown",
-      "streaming_url": "https://cdn.singhs.com.np/guillermobrown.json",
-      "event_id": 5978558,
       "football_data": null
     },
     {
@@ -16589,6 +16537,19 @@
       "football_data": null
     },
     {
+      "team1": "Mainz 05 (W)",
+      "team2": "Werder Bremen (W)",
+      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/1638033.png",
+      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/672089.png",
+      "league": "Frauen-Bundesliga",
+      "start": "2026-08-24T16:00Z",
+      "duration": 2.2,
+      "details_url": "https://home.getemoji.online/?yosintv=mainz05w",
+      "streaming_url": "https://cdn.singhs.com.np/mainz05w.json",
+      "event_id": 5934505,
+      "football_data": null
+    },
+    {
       "team1": "SC Verl",
       "team2": "Hamburger SV",
       "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/7783.png",
@@ -16625,32 +16586,6 @@
       "details_url": "https://home.getemoji.online/?yosintv=wrzburgerkickers",
       "streaming_url": "https://cdn.singhs.com.np/wrzburgerkickers.json",
       "event_id": 5750690,
-      "football_data": null
-    },
-    {
-      "team1": "Botev Vratsa",
-      "team2": "Botev Plovdiv",
-      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/187880.png",
-      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10131.png",
-      "league": "First Professional League",
-      "start": "2026-08-24T16:00Z",
-      "duration": 2.2,
-      "details_url": "https://home.getemoji.online/?yosintv=botevvratsa",
-      "streaming_url": "https://cdn.singhs.com.np/botevvratsa.json",
-      "event_id": 5760468,
-      "football_data": null
-    },
-    {
-      "team1": "Mainz 05 (W)",
-      "team2": "Werder Bremen (W)",
-      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/1638033.png",
-      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/672089.png",
-      "league": "Frauen-Bundesliga",
-      "start": "2026-08-24T16:00Z",
-      "duration": 2.2,
-      "details_url": "https://home.getemoji.online/?yosintv=mainz05w",
-      "streaming_url": "https://cdn.singhs.com.np/mainz05w.json",
-      "event_id": 5934505,
       "football_data": null
     },
     {
@@ -16693,6 +16628,19 @@
       "football_data": null
     },
     {
+      "team1": "Botev Vratsa",
+      "team2": "Botev Plovdiv",
+      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/187880.png",
+      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10131.png",
+      "league": "First Professional League",
+      "start": "2026-08-24T16:00Z",
+      "duration": 2.2,
+      "details_url": "https://home.getemoji.online/?yosintv=botevvratsa",
+      "streaming_url": "https://cdn.singhs.com.np/botevvratsa.json",
+      "event_id": 5760468,
+      "football_data": null
+    },
+    {
       "team1": "Malavan",
       "team2": "Fajr Sepasi",
       "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/101612.png",
@@ -16732,19 +16680,6 @@
       "football_data": null
     },
     {
-      "team1": "Bologna",
-      "team2": "Lazio",
-      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9857.png",
-      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8543.png",
-      "league": "Serie A",
-      "start": "2026-08-24T16:30Z",
-      "duration": 2.2,
-      "details_url": "https://home.getemoji.online/?yosintv=bologna",
-      "streaming_url": "https://cdn.singhs.com.np/bologna.json",
-      "event_id": 5749642,
-      "football_data": null
-    },
-    {
       "team1": "Veles Moscow",
       "team2": "Arsenal",
       "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/859606.png",
@@ -16755,6 +16690,19 @@
       "details_url": "https://home.getemoji.online/?yosintv=velesmoscow",
       "streaming_url": "https://cdn.singhs.com.np/velesmoscow.json",
       "event_id": 5897583,
+      "football_data": null
+    },
+    {
+      "team1": "Bologna",
+      "team2": "Lazio",
+      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9857.png",
+      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8543.png",
+      "league": "Serie A",
+      "start": "2026-08-24T16:30Z",
+      "duration": 2.2,
+      "details_url": "https://home.getemoji.online/?yosintv=bologna",
+      "streaming_url": "https://cdn.singhs.com.np/bologna.json",
+      "event_id": 5749642,
       "football_data": null
     },
     {
@@ -16823,19 +16771,6 @@
       "football_data": null
     },
     {
-      "team1": "Celta Fortuna",
-      "team2": "FC Andorra",
-      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/161743.png",
-      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/494050.png",
-      "league": "LaLiga2",
-      "start": "2026-08-24T17:00Z",
-      "duration": 2.2,
-      "details_url": "https://home.getemoji.online/?yosintv=celtafortuna",
-      "streaming_url": "https://cdn.singhs.com.np/celtafortuna.json",
-      "event_id": 5868406,
-      "football_data": null
-    },
-    {
       "team1": "IFK Värnamo",
       "team2": "Landskrona BoIS",
       "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6181.png",
@@ -16859,6 +16794,19 @@
       "details_url": "https://home.getemoji.online/?yosintv=stersundsfk",
       "streaming_url": "https://cdn.singhs.com.np/stersundsfk.json",
       "event_id": 5125603,
+      "football_data": null
+    },
+    {
+      "team1": "Celta Fortuna",
+      "team2": "FC Andorra",
+      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/161743.png",
+      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/494050.png",
+      "league": "LaLiga2",
+      "start": "2026-08-24T17:00Z",
+      "duration": 2.2,
+      "details_url": "https://home.getemoji.online/?yosintv=celtafortuna",
+      "streaming_url": "https://cdn.singhs.com.np/celtafortuna.json",
+      "event_id": 5868406,
       "football_data": null
     },
     {
@@ -16966,6 +16914,19 @@
       "football_data": null
     },
     {
+      "team1": "Coastal Union",
+      "team2": "TRA United",
+      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/287669.png",
+      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/1524586.png",
+      "league": "Premier League",
+      "start": "2026-08-24T17:30Z",
+      "duration": 2.2,
+      "details_url": "https://home.getemoji.online/?yosintv=coastalunion",
+      "streaming_url": "https://cdn.singhs.com.np/coastalunion.json",
+      "event_id": 5998293,
+      "football_data": null
+    },
+    {
       "team1": "Osasuna",
       "team2": "Levante",
       "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8371.png",
@@ -17002,19 +16963,6 @@
       "details_url": "https://home.getemoji.online/?yosintv=torpedozhodino",
       "streaming_url": "https://cdn.singhs.com.np/torpedozhodino.json",
       "event_id": 5215501,
-      "football_data": null
-    },
-    {
-      "team1": "Coastal Union",
-      "team2": "TRA United",
-      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/287669.png",
-      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/1524586.png",
-      "league": "Premier League",
-      "start": "2026-08-24T17:30Z",
-      "duration": 2.2,
-      "details_url": "https://home.getemoji.online/?yosintv=coastalunion",
-      "streaming_url": "https://cdn.singhs.com.np/coastalunion.json",
-      "event_id": 5998293,
       "football_data": null
     },
     {
@@ -17135,19 +17083,6 @@
       "football_data": null
     },
     {
-      "team1": "Sivasspor",
-      "team2": "Manisa Futbol Kulübü",
-      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6265.png",
-      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/658812.png",
-      "league": "1. Lig",
-      "start": "2026-08-24T18:30Z",
-      "duration": 2.2,
-      "details_url": "https://home.getemoji.online/?yosintv=sivasspor",
-      "streaming_url": "https://cdn.singhs.com.np/sivasspor.json",
-      "event_id": 5908602,
-      "football_data": null
-    },
-    {
       "team1": "Livorno",
       "team2": "Torres",
       "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8537.png",
@@ -17158,6 +17093,19 @@
       "details_url": "https://home.getemoji.online/?yosintv=livorno",
       "streaming_url": "https://cdn.singhs.com.np/livorno.json",
       "event_id": 5990816,
+      "football_data": null
+    },
+    {
+      "team1": "Sivasspor",
+      "team2": "Manisa Futbol Kulübü",
+      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6265.png",
+      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/658812.png",
+      "league": "1. Lig",
+      "start": "2026-08-24T18:30Z",
+      "duration": 2.2,
+      "details_url": "https://home.getemoji.online/?yosintv=sivasspor",
+      "streaming_url": "https://cdn.singhs.com.np/sivasspor.json",
+      "event_id": 5908602,
       "football_data": null
     },
     {
@@ -17187,19 +17135,6 @@
       "football_data": null
     },
     {
-      "team1": "Roma",
-      "team2": "Fiorentina",
-      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8686.png",
-      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8535.png",
-      "league": "Serie A",
-      "start": "2026-08-24T18:45Z",
-      "duration": 2.2,
-      "details_url": "https://home.getemoji.online/?yosintv=roma",
-      "streaming_url": "https://cdn.singhs.com.np/roma.json",
-      "event_id": 5749640,
-      "football_data": null
-    },
-    {
       "team1": "Hallescher FC",
       "team2": "Schalke 04",
       "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/7761.png",
@@ -17213,6 +17148,19 @@
       "football_data": null
     },
     {
+      "team1": "Roma",
+      "team2": "Fiorentina",
+      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8686.png",
+      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8535.png",
+      "league": "Serie A",
+      "start": "2026-08-24T18:45Z",
+      "duration": 2.2,
+      "details_url": "https://home.getemoji.online/?yosintv=roma",
+      "streaming_url": "https://cdn.singhs.com.np/roma.json",
+      "event_id": 5749640,
+      "football_data": null
+    },
+    {
       "team1": "Reims",
       "team2": "Annecy FC",
       "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9837.png",
@@ -17223,32 +17171,6 @@
       "details_url": "https://home.getemoji.online/?yosintv=reims",
       "streaming_url": "https://cdn.singhs.com.np/reims.json",
       "event_id": 5803233,
-      "football_data": null
-    },
-    {
-      "team1": "Fulham",
-      "team2": "Chelsea",
-      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9879.png",
-      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8455.png",
-      "league": "Premier League",
-      "start": "2026-08-24T19:00Z",
-      "duration": 2.2,
-      "details_url": "https://home.getemoji.online/?yosintv=fulham",
-      "streaming_url": "https://cdn.singhs.com.np/fulham.json",
-      "event_id": 5795372,
-      "football_data": null
-    },
-    {
-      "team1": "Atletico Guemes",
-      "team2": "Atletico Rafaela",
-      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/719912.png",
-      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10085.png",
-      "league": "Primera Nacional",
-      "start": "2026-08-24T19:00Z",
-      "duration": 2.2,
-      "details_url": "https://home.getemoji.online/?yosintv=atleticoguemes",
-      "streaming_url": "https://cdn.singhs.com.np/atleticoguemes.json",
-      "event_id": 5113041,
       "football_data": null
     },
     {
@@ -17317,6 +17239,32 @@
       "football_data": null
     },
     {
+      "team1": "Atletico Guemes",
+      "team2": "Atletico Rafaela",
+      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/719912.png",
+      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10085.png",
+      "league": "Primera Nacional",
+      "start": "2026-08-24T19:00Z",
+      "duration": 2.2,
+      "details_url": "https://home.getemoji.online/?yosintv=atleticoguemes",
+      "streaming_url": "https://cdn.singhs.com.np/atleticoguemes.json",
+      "event_id": 5113041,
+      "football_data": null
+    },
+    {
+      "team1": "Fulham",
+      "team2": "Chelsea",
+      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9879.png",
+      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8455.png",
+      "league": "Premier League",
+      "start": "2026-08-24T19:00Z",
+      "duration": 2.2,
+      "details_url": "https://home.getemoji.online/?yosintv=fulham",
+      "streaming_url": "https://cdn.singhs.com.np/fulham.json",
+      "event_id": 5795372,
+      "football_data": null
+    },
+    {
       "team1": "Nacional",
       "team2": "Luqueno",
       "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/49689.png",
@@ -17369,19 +17317,6 @@
       "football_data": null
     },
     {
-      "team1": "Malaga",
-      "team2": "Deportivo A Coruña",
-      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9864.png",
-      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9783.png",
-      "league": "LaLiga",
-      "start": "2026-08-24T19:30Z",
-      "duration": 2.2,
-      "details_url": "https://home.getemoji.online/?yosintv=malaga",
-      "streaming_url": "https://cdn.singhs.com.np/malaga.json",
-      "event_id": 5868027,
-      "football_data": null
-    },
-    {
       "team1": "Granada",
       "team2": "Mallorca",
       "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/7878.png",
@@ -17392,6 +17327,19 @@
       "details_url": "https://home.getemoji.online/?yosintv=granada",
       "streaming_url": "https://cdn.singhs.com.np/granada.json",
       "event_id": 5868411,
+      "football_data": null
+    },
+    {
+      "team1": "Malaga",
+      "team2": "Deportivo A Coruña",
+      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9864.png",
+      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9783.png",
+      "league": "LaLiga",
+      "start": "2026-08-24T19:30Z",
+      "duration": 2.2,
+      "details_url": "https://home.getemoji.online/?yosintv=malaga",
+      "streaming_url": "https://cdn.singhs.com.np/malaga.json",
+      "event_id": 5868027,
       "football_data": null
     },
     {
@@ -17912,6 +17860,19 @@
       "details_url": "https://home.getemoji.online/?yosintv=avarta",
       "streaming_url": "https://cdn.singhs.com.np/avarta.json",
       "event_id": 6011801,
+      "football_data": null
+    },
+    {
+      "team1": "FC Helsingør",
+      "team2": "Hørsholm Usserød IK",
+      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9843.png",
+      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/946241.png",
+      "league": "DBU Pokalen",
+      "start": "2026-08-25T15:30Z",
+      "duration": 2.2,
+      "details_url": "https://home.getemoji.online/?yosintv=fchelsingr",
+      "streaming_url": "https://cdn.singhs.com.np/fchelsingr.json",
+      "event_id": 6011803,
       "football_data": null
     },
     {
@@ -20590,19 +20551,6 @@
       "details_url": "https://home.getemoji.online/?yosintv=brnderslevif",
       "streaming_url": "https://cdn.singhs.com.np/brnderslevif.json",
       "event_id": 6011796,
-      "football_data": null
-    },
-    {
-      "team1": "FC Helsingør",
-      "team2": "Hørsholm Usserød IK",
-      "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9843.png",
-      "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/946241.png",
-      "league": "DBU Pokalen",
-      "start": "2026-08-26T15:30Z",
-      "duration": 2.2,
-      "details_url": "https://home.getemoji.online/?yosintv=fchelsingr",
-      "streaming_url": "https://cdn.singhs.com.np/fchelsingr.json",
-      "event_id": 6011803,
       "football_data": null
     },
     {
