@@ -22,7 +22,7 @@ jobs:
           cache: "pip"
 
       - name: Install dependencies
-        run: pip install curl_cffi requests typing_extensions
+        run: pip install -r requirements.txt
 
       - name: Fetch Fotmob Football Data
         run: python fetch_fotmob_football.py

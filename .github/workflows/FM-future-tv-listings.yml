@@ -24,7 +24,8 @@ jobs:
 
       - name: Install Dependencies
         run: |
-          pip install curl_cffi pycountry awscli
+          pip install -r requirements.txt
+          pip install awscli
 
       - name: Run Scraper
         run: |
