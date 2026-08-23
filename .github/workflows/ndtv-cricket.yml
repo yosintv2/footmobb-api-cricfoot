@@ -2,7 +2,7 @@ name: NDTV Cricket Fixtures
 
 on:
   schedule:
-    - cron: '0 * * * *'   # every hour
+    - cron: '0 0 * * 0'   # weekly on Sunday at midnight UTC
   workflow_dispatch:
 
 permissions:
