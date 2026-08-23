@@ -45,9 +45,9 @@ def fetch_gamestate(gs_value):
     params = {**PARAMS, "gamestate": gs_value}
     url = BASE_URL + "?" + "&".join(f"{k}={v}" for k, v in params.items())
     if USE_CURL_CFFI:
-        r = requests.get(url, impersonate="chrome124", headers=HEADERS, timeout=30)
+        r = requests.get(url, impersonate="chrome124", headers=HEADERS, timeout=60)
     else:
-        r = requests.get(url, headers=HEADERS, timeout=30)
+        r = requests.get(url, headers=HEADERS, timeout=60)
     r.raise_for_status()
     return r.json()
 

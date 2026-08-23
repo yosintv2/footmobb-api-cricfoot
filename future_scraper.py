@@ -8,8 +8,22 @@ from curl_cffi.requests import AsyncSession
 FM_BASE = "https://www.fotmob.com/api/data"
 
 ALL_COUNTRY_CODES = [c.alpha_2 for c in pycountry.countries]
-TV_BATCH_SIZE = 100
-MATCH_CONCURRENCY = 3
+
+MAJOR_COUNTRIES = [
+    "US", "GB", "DE", "FR", "ES", "IT", "BR", "AR", "MX", "NL", "PT", "BE",
+    "TR", "RU", "PL", "UA", "CZ", "GR", "RO", "HU", "AT", "CH", "SE", "NO",
+    "DK", "FI", "IE", "IL", "SA", "AE", "QA", "KW", "BH", "OM", "JO", "LB",
+    "IN", "PK", "BD", "LK", "NP", "CN", "JP", "KR", "TW", "HK", "SG", "MY",
+    "TH", "VN", "ID", "PH", "MM", "KH", "LA", "MN", "AU", "NZ", "CA", "ZA",
+    "NG", "KE", "GH", "EG", "MA", "CO", "PE", "CL", "EC", "BO", "PY", "UY",
+    "VE", "CA"
+]
+
+TV_BATCH_SIZE = 25
+MATCH_CONCURRENCY = 10
+TV_TIMEOUT = 5
+ENABLE_TV_CHANNELS = False
+ENABLE_VENUE = True
 
 
 def cleanup_old_files():
@@ -116,7 +130,7 @@ async def get_fotmob_venue(session, match_id):
 
 async def fetch_tv_for_country(session, match_id, country_code):
     url = f"{FM_BASE}/tvlisting?matchId={match_id}&countryCode={country_code}"
-    data = await fetch_json(session, url, timeout=5)
+    data = await fetch_json(session, url, timeout=TV_TIMEOUT)
     if not data:
         return None
 
@@ -136,8 +150,8 @@ async def fetch_tv_for_country(session, match_id, country_code):
 async def get_tv_channels(session, match_id):
     results = []
 
-    for i in range(0, len(ALL_COUNTRY_CODES), TV_BATCH_SIZE):
-        batch = ALL_COUNTRY_CODES[i:i + TV_BATCH_SIZE]
+    for i in range(0, len(MAJOR_COUNTRIES), TV_BATCH_SIZE):
+        batch = MAJOR_COUNTRIES[i:i + TV_BATCH_SIZE]
         tasks = [fetch_tv_for_country(session, match_id, cc) for cc in batch]
         batch_results = await asyncio.gather(*tasks)
 
@@ -152,10 +166,16 @@ async def process_one_match(session, m, index, total):
     match_id = m["match_id"]
     print(f"  [{index}/{total}] Match {match_id}: {m['home_name']} vs {m['away_name']}")
 
-    venue_task = get_fotmob_venue(session, match_id)
-    tv_task = get_tv_channels(session, match_id)
+    tasks = []
+    if ENABLE_VENUE:
+        tasks.append(get_fotmob_venue(session, match_id))
+    if ENABLE_TV_CHANNELS:
+        tasks.append(get_tv_channels(session, match_id))
 
-    venue, tv_channels = await asyncio.gather(venue_task, tv_task)
+    results = await asyncio.gather(*tasks) if tasks else []
+    
+    venue = results[0] if ENABLE_VENUE and results else "TBA"
+    tv_channels = results[-1] if ENABLE_TV_CHANNELS and results else []
 
     return {
         "match_id": match_id,
@@ -194,7 +214,6 @@ async def process_day(session, days_offset):
         ]
         results = await asyncio.gather(*tasks)
         final_data.extend(results)
-        await asyncio.sleep(1)
 
     year_folder = target_date.strftime("%Y")
     save_dir = os.path.join("date", year_folder)
