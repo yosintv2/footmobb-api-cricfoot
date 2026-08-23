@@ -85,7 +85,7 @@ def logo_url(name):
 
 def parse_start_utc(s):
     """
-    Convert NDTV date strings to JST ISO 8601 (UTC+9).
+    Convert NDTV date strings to JST ISO 8601 with timezone offset (UTC+9).
     Handles: 'YYYY-MM-DDTHH:MM+05:30', 'YYYY-MM-DDTHH:MM:SS+05:30', 'YYYY-MM-DD HH:MM:SS'
     """
     if not s:
@@ -100,7 +100,7 @@ def parse_start_utc(s):
             offset = timedelta(hours=int(m.group(2)), minutes=int(m.group(3)))
             utc_dt = naive - offset
             jst_dt = utc_dt + timedelta(hours=9)
-            return jst_dt.strftime("%Y-%m-%dT%H:%M")
+            return jst_dt.strftime("%Y-%m-%dT%H:%M:%S+09:00")
         # Space-separated IST: 2026-07-02 08:00:00
         m2 = re.match(r"(\d{4}-\d{2}-\d{2}) (\d{2}:\d{2}(?::\d{2})?)", s)
         if m2:
@@ -108,7 +108,7 @@ def parse_start_utc(s):
             naive = datetime.strptime(f"{m2.group(1)}T{m2.group(2)}", fmt)
             utc_dt = naive - timedelta(hours=5, minutes=30)
             jst_dt = utc_dt + timedelta(hours=9)
-            return jst_dt.strftime("%Y-%m-%dT%H:%M")
+            return jst_dt.strftime("%Y-%m-%dT%H:%M:%S+09:00")
     except Exception:
         pass
     return str(s)
@@ -201,8 +201,11 @@ def main():
                     # For completed matches, skip anything older than the window
                     if label == "completed" and m["start"]:
                         try:
-                            match_dt = datetime.strptime(m["start"], "%Y-%m-%dT%H:%M").replace(tzinfo=timezone.utc)
-                            if match_dt < cutoff:
+                            # Parse JST format with timezone offset
+                            match_dt = datetime.strptime(m["start"], "%Y-%m-%dT%H:%M:%S%z")
+                            # Convert to UTC for comparison
+                            match_dt_utc = match_dt.astimezone(timezone.utc)
+                            if match_dt_utc < cutoff:
                                 continue
                         except Exception:
                             pass
