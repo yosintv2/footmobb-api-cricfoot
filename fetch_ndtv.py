@@ -135,10 +135,13 @@ def transform_match(item):
     event_fmt = (item.get("event_format") or item.get("match_type") or item.get("mtp") or "").lower()
     if "test" in event_fmt:
         duration = 10   # hours
+        match_format = "Test"
     elif "odi" in event_fmt or "one_day" in event_fmt or "one day" in event_fmt:
         duration = 8    # hours
+        match_format = "ODI"
     else:
         duration = 5    # hours (T20 / unknown)
+        match_format = "T20"
 
     event_id = item.get("match_id") or item.get("mid") or item.get("event_id") or item.get("id")
     try:
@@ -156,6 +159,7 @@ def transform_match(item):
         "league": league,
         "start": start,
         "duration": duration,
+        "format": match_format,
         "details_url": f"https://home.getemoji.online/?yosintv={slug}",
         "streaming_url": f"https://cdn.singhs.com.np/{slug}.json",
         "event_id": event_id,
