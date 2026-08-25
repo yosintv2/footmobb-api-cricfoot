@@ -2,7 +2,7 @@
     {
         "match_id": 5820724,
         "kickoff": 1788188400,
-        "fixture": "Malzenice vs MFK Bytca",
+        "fixture": "Malženice vs MFK Bytca",
         "league_id": 8973,
         "league": "2. Liga",
         "venue": "TBA",
@@ -11,7 +11,7 @@
     {
         "match_id": 5900547,
         "kickoff": 1788191100,
-        "fixture": "Dziugas Telsiai vs Hegelmann",
+        "fixture": "Džiugas Telšiai vs Hegelmann",
         "league_id": 228,
         "league": "A Lyga",
         "venue": "TBA",
@@ -110,7 +110,7 @@
     {
         "match_id": 5944165,
         "kickoff": 1788193800,
-        "fixture": "Skenderbeu vs FC Dinamo City",
+        "fixture": "Skënderbeu vs FC Dinamo City",
         "league_id": 260,
         "league": "Kategoria Superiore",
         "venue": "TBA",
@@ -131,16 +131,16 @@
         "fixture": "Benfica vs Estoril",
         "league_id": 61,
         "league": "Liga Portugal",
-        "venue": "Estadio da Luz",
+        "venue": "Estádio do Sport Lisboa e Benfica (da Luz)",
         "tv_channels": []
     },
     {
         "match_id": 5887612,
         "kickoff": 1788205500,
-        "fixture": "Braga vs Vitoria de Guimaraes",
+        "fixture": "Braga vs Vitória de Guimarães",
         "league_id": 61,
         "league": "Liga Portugal",
-        "venue": "Estadio Municipal de Braga",
+        "venue": "Estádio Municipal de Braga",
         "tv_channels": []
     },
     {
@@ -155,7 +155,7 @@
     {
         "match_id": 5922769,
         "kickoff": 1788197400,
-        "fixture": "Szeged-Csanad Grosics Akademia vs Kazincbarcikai BSC",
+        "fixture": "Szeged-Csanád Grosics Akademia vs Kazincbarcikai BSC",
         "league_id": 9117,
         "league": "NB II",
         "venue": "TBA",
@@ -288,21 +288,21 @@
         "tv_channels": []
     },
     {
-        "match_id": 5996707,
-        "kickoff": 1788282000,
-        "fixture": "Al Ahly SC vs Smouha SC",
-        "league_id": 519,
-        "league": "Premier League",
-        "venue": "Cairo International Stadium",
-        "tv_channels": []
-    },
-    {
         "match_id": 5996708,
         "kickoff": 1788282000,
         "fixture": "Wadi Degla FC vs Olympic El Qanah FC",
         "league_id": 519,
         "league": "Premier League",
         "venue": "Al Salam Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5987507,
+        "kickoff": 1788192900,
+        "fixture": "Sumqayıt vs Qarabağ FK",
+        "league_id": 262,
+        "league": "Premier League",
+        "venue": "TBA",
         "tv_channels": []
     },
     {
@@ -389,7 +389,7 @@
     {
         "match_id": 5883236,
         "kickoff": 1788195600,
-        "fixture": "Logrones vs CD Extremadura",
+        "fixture": "Logroñés vs CD Extremadura",
         "league_id": 8968,
         "league": "Primera Federacion - Group 1",
         "venue": "TBA",
@@ -558,42 +558,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5908913,
-        "kickoff": 1788267600,
-        "fixture": "Bandırmaspor vs Antalyaspor",
-        "league_id": 165,
-        "league": "1. Lig",
-        "venue": "Bandırma 17 Eylül Stadı",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5908915,
-        "kickoff": 1788271200,
-        "fixture": "Ümraniyespor vs Muglaspor",
-        "league_id": 165,
-        "league": "1. Lig",
-        "venue": "Ümrani̇ye Beledi̇yesi̇ Şehi̇r Stadyumu",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5908916,
-        "kickoff": 1788282000,
-        "fixture": "Boluspor vs Keçiörengücü",
-        "league_id": 165,
-        "league": "1. Lig",
-        "venue": "Bolu Atatürk Stadyumu",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5908914,
-        "kickoff": 1788282000,
-        "fixture": "Sariyer vs Pendikspor",
-        "league_id": 165,
-        "league": "1. Lig",
-        "venue": "Yusuf Ziya Öniş Stadyumu",
-        "tv_channels": []
-    },
-    {
         "match_id": 5832845,
         "kickoff": 1788199200,
         "fixture": "Jong AZ Alkmaar vs Jong FC Utrecht",
@@ -623,16 +587,43 @@
     {
         "match_id": 5868419,
         "kickoff": 1788204600,
-        "fixture": "Celta Fortuna vs Castellon",
+        "fixture": "Celta Fortuna vs Castellón",
         "league_id": 140,
         "league": "LaLiga2",
         "venue": "Estadio Abanca-Balaídos",
         "tv_channels": []
     },
     {
+        "match_id": 5832545,
+        "kickoff": 1788192000,
+        "fixture": "Hapoel Afula vs Hapoel Raanana",
+        "league_id": 128,
+        "league": "Leumit League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5832544,
+        "kickoff": 1788192000,
+        "fixture": "Hapoel Ironi Akko vs Bnei Yehuda Tel Aviv",
+        "league_id": 128,
+        "league": "Leumit League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5832549,
+        "kickoff": 1788192000,
+        "fixture": "Maccabi Bnei Raina vs FC Ashdod",
+        "league_id": 128,
+        "league": "Leumit League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5803238,
         "kickoff": 1788201900,
-        "fixture": "Dijon vs Saint-Etienne",
+        "fixture": "Dijon vs Saint-Étienne",
         "league_id": 110,
         "league": "Ligue 2",
         "venue": "Stade Gaston-Gérard",
@@ -740,7 +731,7 @@
     {
         "match_id": 5115967,
         "kickoff": 1788213600,
-        "fixture": "Defensa y Justicia vs Club Atletico Platense",
+        "fixture": "Defensa y Justicia vs Club Atlético Platense",
         "league_id": 112,
         "league": "Liga Profesional Clausura",
         "venue": "Estadio Norberto Tito Tomaghello",
@@ -848,7 +839,7 @@
     {
         "match_id": 5853484,
         "kickoff": 1788197400,
-        "fixture": "Rapid Bucuresti vs Universitatea Craiova",
+        "fixture": "Rapid București vs Universitatea Craiova",
         "league_id": 189,
         "league": "Superliga",
         "venue": "Arena Giulești",
@@ -915,6 +906,42 @@
         "league_id": 46,
         "league": "Superligaen",
         "venue": "Parken",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5908913,
+        "kickoff": 1788267600,
+        "fixture": "Bandırmaspor vs Antalyaspor",
+        "league_id": 165,
+        "league": "1. Lig",
+        "venue": "Bandırma 17 Eylül Stadı",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5908915,
+        "kickoff": 1788271200,
+        "fixture": "Ümraniyespor vs Muglaspor",
+        "league_id": 165,
+        "league": "1. Lig",
+        "venue": "Ümrani̇ye Beledi̇yesi̇ Şehi̇r Stadyumu",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5908914,
+        "kickoff": 1788282000,
+        "fixture": "Sariyer vs Pendikspor",
+        "league_id": 165,
+        "league": "1. Lig",
+        "venue": "Yusuf Ziya Öniş Stadyumu",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5908916,
+        "kickoff": 1788282000,
+        "fixture": "Boluspor vs Keçiörengücü",
+        "league_id": 165,
+        "league": "1. Lig",
+        "venue": "Bolu Atatürk Stadyumu",
         "tv_channels": []
     },
     {
@@ -1485,15 +1512,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5836790,
-        "kickoff": 1788288300,
-        "fixture": "Birmingham vs Southampton",
-        "league_id": 48,
-        "league": "Championship",
-        "venue": "St. Andrew's @ Knighthead Park",
-        "tv_channels": []
-    },
-    {
         "match_id": 5836791,
         "kickoff": 1788288300,
         "fixture": "Lincoln vs Blackburn",
@@ -1545,6 +1563,15 @@
         "league_id": 48,
         "league": "Championship",
         "venue": "London Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5836790,
+        "kickoff": 1788289200,
+        "fixture": "Birmingham vs Southampton",
+        "league_id": 48,
+        "league": "Championship",
+        "venue": "St. Andrew's @ Knighthead Park",
         "tv_channels": []
     },
     {

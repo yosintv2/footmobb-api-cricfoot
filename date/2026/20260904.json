@@ -20,7 +20,7 @@
     {
         "match_id": 5875200,
         "kickoff": 1788451200,
-        "fixture": "Banga Gargzdai vs FK Panevezys",
+        "fixture": "Banga Gargzdai vs FK Panevėžys",
         "league_id": 228,
         "league": "A Lyga",
         "venue": "TBA",
@@ -38,7 +38,7 @@
     {
         "match_id": 5898712,
         "kickoff": 1788483600,
-        "fixture": "Tepatitlan FC vs Dorados",
+        "fixture": "Tepatitlán FC vs Dorados",
         "league_id": 8976,
         "league": "Liga de Expansion MX Apertura",
         "venue": "Estadio Gregorio Tepa Gómez",
@@ -83,7 +83,7 @@
     {
         "match_id": 5989818,
         "kickoff": 1788548400,
-        "fixture": "CR Belouizdad vs ES Sétif",
+        "fixture": "CR Bélouizdad vs ES Sétif",
         "league_id": 516,
         "league": "Ligue 1",
         "venue": "TBA",
@@ -101,7 +101,7 @@
     {
         "match_id": 5865439,
         "kickoff": 1788456600,
-        "fixture": "Györi ETO vs Ferencvaros",
+        "fixture": "Györi ETO vs Ferencváros",
         "league_id": 212,
         "league": "NB I",
         "venue": "ETO Park",
@@ -110,10 +110,19 @@
     {
         "match_id": 5865458,
         "kickoff": 1788539400,
-        "fixture": "Vasas Budapest vs Nyiregyhaza Spartacus FC",
+        "fixture": "Vasas Budapest vs Nyíregyháza Spartacus FC",
         "league_id": 212,
         "league": "NB I",
         "venue": "Stadion Illovsky Rudolf",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5996707,
+        "kickoff": 1788454800,
+        "fixture": "Al Ahly SC vs Smouha SC",
+        "league_id": 519,
+        "league": "Premier League",
+        "venue": "Cairo International Stadium",
         "tv_channels": []
     },
     {
@@ -127,7 +136,7 @@
     },
     {
         "match_id": 5972960,
-        "kickoff": 1788534000,
+        "kickoff": 1788537600,
         "fixture": "FC Noah vs Gandzasar",
         "league_id": 118,
         "league": "Premier League",
@@ -299,7 +308,7 @@
     {
         "match_id": 6059501,
         "kickoff": 1788519600,
-        "fixture": "Cong An Ha Noi vs Hong Linh Ha Tinh",
+        "fixture": "Công An Hà Nội vs Hong Linh Ha Tinh",
         "league_id": 9088,
         "league": "V-League",
         "venue": "TBA",
@@ -308,7 +317,7 @@
     {
         "match_id": 6059503,
         "kickoff": 1788519600,
-        "fixture": "Cong An Ho Chi Minh City vs Ha Noi FC",
+        "fixture": "Cong An Ho Chí Minh City vs Ha Nội FC",
         "league_id": 9088,
         "league": "V-League",
         "venue": "TBA",
@@ -317,7 +326,7 @@
     {
         "match_id": 6059502,
         "kickoff": 1788519600,
-        "fixture": "Hai Phong vs Ninh Binh Club",
+        "fixture": "Hải Phòng vs Ninh Bình Club",
         "league_id": 9088,
         "league": "V-League",
         "venue": "TBA",
@@ -326,7 +335,7 @@
     {
         "match_id": 6059504,
         "kickoff": 1788519600,
-        "fixture": "Nam Dinh vs Hoang Anh Gia Lai",
+        "fixture": "Nam Định vs Hoàng Anh Gia Lai",
         "league_id": 9088,
         "league": "V-League",
         "venue": "TBA",
@@ -344,7 +353,7 @@
     {
         "match_id": 6059506,
         "kickoff": 1788519600,
-        "fixture": "Thanh Hoa FC vs Da Nang",
+        "fixture": "Thanh Hòa FC vs Da Nẵng",
         "league_id": 9088,
         "league": "V-League",
         "venue": "TBA",
@@ -353,7 +362,7 @@
     {
         "match_id": 6059507,
         "kickoff": 1788519600,
-        "fixture": "Truong Tuoi Dong Nai vs Viettel",
+        "fixture": "Trường Tươi Đồng Nai vs Viettel",
         "league_id": 9088,
         "league": "V-League",
         "venue": "TBA",
@@ -384,24 +393,6 @@
         "league_id": 8970,
         "league": "Ligue 3",
         "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5908919,
-        "kickoff": 1788454800,
-        "fixture": "Bodrum FK vs Esenler Erokspor",
-        "league_id": 165,
-        "league": "1. Lig",
-        "venue": "Grey Beton Bodrum Stadyumu",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5908912,
-        "kickoff": 1788454800,
-        "fixture": "Bursaspor vs Istanbulspor",
-        "league_id": 165,
-        "league": "1. Lig",
-        "venue": "Matlı Stadyumu Atatürk Spor Kompleksi",
         "tv_channels": []
     },
     {
@@ -576,6 +567,24 @@
         "tv_channels": []
     },
     {
+        "match_id": 5908912,
+        "kickoff": 1788454800,
+        "fixture": "Bursaspor vs Istanbulspor",
+        "league_id": 165,
+        "league": "1. Lig",
+        "venue": "Matlı Stadyumu Atatürk Spor Kompleksi",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5908919,
+        "kickoff": 1788454800,
+        "fixture": "Bodrum FK vs Esenler Erokspor",
+        "league_id": 165,
+        "league": "1. Lig",
+        "venue": "Grey Beton Bodrum Stadyumu",
+        "tv_channels": []
+    },
+    {
         "match_id": 1000013772,
         "kickoff": 1788519600,
         "fixture": "Manila Digger vs Kasuka",
@@ -675,6 +684,33 @@
         "tv_channels": []
     },
     {
+        "match_id": 5952261,
+        "kickoff": 1788452100,
+        "fixture": "Al-Sailiya vs Al-Arabi",
+        "league_id": 535,
+        "league": "Qatar Stars League",
+        "venue": "Khalifa International Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5952262,
+        "kickoff": 1788530400,
+        "fixture": "Al-Shamal vs Al-Shahaniya",
+        "league_id": 535,
+        "league": "Qatar Stars League",
+        "venue": "Al Bayt Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5952263,
+        "kickoff": 1788538500,
+        "fixture": "Lusail SC vs Al-Wakrah",
+        "league_id": 535,
+        "league": "Qatar Stars League",
+        "venue": "Lusail Stadium",
+        "tv_channels": []
+    },
+    {
         "match_id": 1000009091,
         "kickoff": 1788462000,
         "fixture": "Universidad Catolica vs Aucas",
@@ -758,7 +794,7 @@
     {
         "match_id": 5820727,
         "kickoff": 1788537600,
-        "fixture": "Liptovsky Mikulas vs Inter Bratislava",
+        "fixture": "Liptovský Mikuláš vs Inter Bratislava",
         "league_id": 8973,
         "league": "2. Liga",
         "venue": "TBA",
@@ -902,7 +938,7 @@
     {
         "match_id": 5944169,
         "kickoff": 1788539400,
-        "fixture": "Egnatia vs Skenderbeu",
+        "fixture": "Egnatia vs Skënderbeu",
         "league_id": 260,
         "league": "Kategoria Superiore",
         "venue": "TBA",
@@ -1046,7 +1082,7 @@
     {
         "match_id": 5911859,
         "kickoff": 1788543000,
-        "fixture": "SV Drochtersen/Assel vs Eimsbutteler TV",
+        "fixture": "SV Drochtersen/Assel vs Eimsbütteler TV",
         "league_id": 512,
         "league": "Regionalliga North",
         "venue": "Kehdinger Stadion",
@@ -1352,7 +1388,7 @@
     {
         "match_id": 5868431,
         "kickoff": 1788546600,
-        "fixture": "Las Palmas vs Leganes",
+        "fixture": "Las Palmas vs Leganés",
         "league_id": 140,
         "league": "LaLiga2",
         "venue": "Estadio de Gran Canaria",
@@ -1604,7 +1640,7 @@
     {
         "match_id": 5853488,
         "kickoff": 1788543000,
-        "fixture": "CFR Cluj vs FCV Farul Constanta",
+        "fixture": "CFR Cluj vs FCV Farul Constanța",
         "league_id": 189,
         "league": "Superliga",
         "venue": "Stadionul Dr. Constantin Rădulescu",
@@ -1752,6 +1788,15 @@
         "league_id": 144,
         "league": "Primera División",
         "venue": "Estadio Jesús Bermúdez",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000016469,
+        "kickoff": 1788546900,
+        "fixture": "Hibernian LFC vs Glasgow City",
+        "league_id": 10791,
+        "league": "SWPL 1",
+        "venue": "Meadowbank Stadium",
         "tv_channels": []
     },
     {
