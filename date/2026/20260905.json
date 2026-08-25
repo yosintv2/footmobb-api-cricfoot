@@ -252,18 +252,18 @@
         "tv_channels": []
     },
     {
-        "match_id": 5143578,
-        "kickoff": 1788606000,
-        "fixture": "Stjørdals Blink vs Eidsvold TF",
+        "match_id": 5143579,
+        "kickoff": 1788609600,
+        "fixture": "Skeid vs Kjelsås",
         "league_id": 204,
         "league": "2. Divisjon Avd. 2",
         "venue": "TBA",
         "tv_channels": []
     },
     {
-        "match_id": 5143579,
-        "kickoff": 1788609600,
-        "fixture": "Skeid vs Kjelsås",
+        "match_id": 5143578,
+        "kickoff": 1788615000,
+        "fixture": "Stjørdals Blink vs Eidsvold TF",
         "league_id": 204,
         "league": "2. Divisjon Avd. 2",
         "venue": "TBA",
@@ -630,8 +630,17 @@
         "tv_channels": []
     },
     {
-        "match_id": 5125927,
+        "match_id": 5125931,
         "kickoff": 1788613200,
+        "fixture": "Sandvikens IF (W) vs Örebro (W)",
+        "league_id": 10308,
+        "league": "Elitettan",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5125927,
+        "kickoff": 1788616800,
         "fixture": "Alingsås IF (W) vs Linköpings FC (W)",
         "league_id": 10308,
         "league": "Elitettan",
@@ -640,17 +649,8 @@
     },
     {
         "match_id": 5125929,
-        "kickoff": 1788613200,
+        "kickoff": 1788616800,
         "fixture": "BK Häcken B (W) vs Enskede IK (W)",
-        "league_id": 10308,
-        "league": "Elitettan",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5125931,
-        "kickoff": 1788613200,
-        "fixture": "Sandvikens IF (W) vs Örebro (W)",
         "league_id": 10308,
         "league": "Elitettan",
         "venue": "TBA",
@@ -784,7 +784,7 @@
     },
     {
         "match_id": 5127919,
-        "kickoff": 1788616800,
+        "kickoff": 1788620400,
         "fixture": "Utsiktens BK vs Lunds BK",
         "league_id": 169,
         "league": "Ettan Soedra",
@@ -2097,6 +2097,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 5204238,
+        "kickoff": 1788606000,
+        "fixture": "Okzhetpes Kokshetau vs Ordabasy Shymkent",
+        "league_id": 225,
+        "league": "Premier League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5204084,
         "kickoff": 1788609600,
         "fixture": "Kaspiy Aktau vs Kairat Almaty",
@@ -2106,18 +2115,18 @@
         "tv_channels": []
     },
     {
-        "match_id": 5204238,
-        "kickoff": 1788609600,
-        "fixture": "Okzhetpes Kokshetau vs Ordabasy Shymkent",
+        "match_id": 5204240,
+        "kickoff": 1788613200,
+        "fixture": "Zhetysu Taldykorgan vs Irtysh Pavlodar",
         "league_id": 225,
         "league": "Premier League",
         "venue": "TBA",
         "tv_channels": []
     },
     {
-        "match_id": 5204240,
-        "kickoff": 1788613200,
-        "fixture": "Zhetysu Taldykorgan vs Irtysh Pavlodar",
+        "match_id": 5204233,
+        "kickoff": 1788616800,
+        "fixture": "Aktobe vs Zhenis",
         "league_id": 225,
         "league": "Premier League",
         "venue": "TBA",
@@ -2480,6 +2489,33 @@
         "fixture": "Unionistas de Salamanca vs Real Union",
         "league_id": 8968,
         "league": "Primera Federacion - Group 1",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5833570,
+        "kickoff": 1788545700,
+        "fixture": "Nafta vs Radomlje",
+        "league_id": 173,
+        "league": "Prva Liga",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5833567,
+        "kickoff": 1788622200,
+        "fixture": "Aluminij vs NK Bravo",
+        "league_id": 173,
+        "league": "Prva Liga",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5833571,
+        "kickoff": 1788632100,
+        "fixture": "Olimpija Ljubljana vs Nk Brinje Grosuplje",
+        "league_id": 173,
+        "league": "Prva Liga",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -4968,6 +5004,24 @@
         "tv_channels": []
     },
     {
+        "match_id": 5215516,
+        "kickoff": 1788541200,
+        "fixture": "Slavia Mozyr vs FK Vitebsk",
+        "league_id": 263,
+        "league": "Premier League",
+        "venue": "Yunost Stadion, Mozyr",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5215517,
+        "kickoff": 1788611400,
+        "fixture": "Torpedo Zhodino vs Gomel",
+        "league_id": 263,
+        "league": "Premier League",
+        "venue": "Torpedo Stadium, Zhodino",
+        "tv_channels": []
+    },
+    {
         "match_id": 5882072,
         "kickoff": 1788547500,
         "fixture": "Briton Ferry Llansawel vs Airbus UK Broughton",
@@ -5828,7 +5882,7 @@
         "fixture": "Philadelphia Union II vs Columbus Crew 2",
         "league_id": 10282,
         "league": "MLS Next Pro",
-        "venue": "Subaru Park",
+        "venue": "WSFS Bank Sportsplex",
         "tv_channels": []
     },
     {
@@ -6966,51 +7020,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5833567,
-        "kickoff": 1788624000,
-        "fixture": "Aluminij vs NK Bravo",
-        "league_id": 173,
-        "league": "Prva Liga",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5833569,
-        "kickoff": 1788624000,
-        "fixture": "Maribor vs Mura",
-        "league_id": 173,
-        "league": "Prva Liga",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5833570,
-        "kickoff": 1788624000,
-        "fixture": "Nafta vs Radomlje",
-        "league_id": 173,
-        "league": "Prva Liga",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5833568,
-        "kickoff": 1788624000,
-        "fixture": "NK Celje vs Koper",
-        "league_id": 173,
-        "league": "Prva Liga",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5833571,
-        "kickoff": 1788624000,
-        "fixture": "Olimpija Ljubljana vs Nk Brinje Grosuplje",
-        "league_id": 173,
-        "league": "Prva Liga",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 5804929,
         "kickoff": 1788620400,
         "fixture": "FK Bregalnica Stip vs Shkendija Haracine",
@@ -7512,78 +7521,6 @@
         "league_id": 252,
         "league": "HNL",
         "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5215510,
-        "kickoff": 1788620400,
-        "fixture": "Baranovichi vs Dnyapro Mogilev",
-        "league_id": 263,
-        "league": "Premier League",
-        "venue": "Lokomotiv Stadium",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5215511,
-        "kickoff": 1788620400,
-        "fixture": "Belshina Bobruisk vs Neman Grodno",
-        "league_id": 263,
-        "league": "Premier League",
-        "venue": "Spartak Stadion, Babruisk",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5215512,
-        "kickoff": 1788620400,
-        "fixture": "Dynamo Brest vs BATE Borisov",
-        "league_id": 263,
-        "league": "Premier League",
-        "venue": "OSK Brestskiy, Brest",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5215513,
-        "kickoff": 1788620400,
-        "fixture": "Isloch vs Arsenal Dzerzhinsk",
-        "league_id": 263,
-        "league": "Premier League",
-        "venue": "FC Minsk Stadium",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5215514,
-        "kickoff": 1788620400,
-        "fixture": "ML Vitebsk vs Dinamo Minsk",
-        "league_id": 263,
-        "league": "Premier League",
-        "venue": "Vitebskij CSK",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5215515,
-        "kickoff": 1788620400,
-        "fixture": "Naftan Novopolotsk vs FC Minsk",
-        "league_id": 263,
-        "league": "Premier League",
-        "venue": "Atlant Stadion",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5215516,
-        "kickoff": 1788620400,
-        "fixture": "Slavia Mozyr vs FK Vitebsk",
-        "league_id": 263,
-        "league": "Premier League",
-        "venue": "Yunost Stadion, Mozyr",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5215517,
-        "kickoff": 1788620400,
-        "fixture": "Torpedo Zhodino vs Gomel",
-        "league_id": 263,
-        "league": "Premier League",
-        "venue": "Torpedo Stadium, Zhodino",
         "tv_channels": []
     },
     {
