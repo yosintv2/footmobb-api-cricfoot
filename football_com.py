@@ -1,6 +1,5 @@
 import requests
 import json
-import time
 from datetime import datetime, timezone
 
 URL = "https://www.football.com/api/ng/factsCenter/event/firstSearch"
@@ -11,52 +10,41 @@ HEADERS = {
     "Referer": "https://www.football.com/",
     "Origin": "https://www.football.com",
 }
-KEYWORDS = [
-    "BestOdds", "live", "all", "football", "soccer", "match",
-    "league", "cup", "premier", "la liga", "serie", "bundesliga",
-    "champions", "europa", "liga", "world cup", "friendly",
-]
-PAGE_SIZE = 100
 
 
 def fetch_all():
     seen = set()
     all_matches = []
 
-    for kw in KEYWORDS:
-        offset = 0
-        while True:
-            resp = requests.get(
-                URL,
-                params={"keyword": kw, "offset": offset, "pageSize": PAGE_SIZE},
-                headers=HEADERS,
-            )
-            resp.raise_for_status()
-            body = resp.json()
-            if body.get("bizCode") != 10000:
-                break
+    resp = requests.get(
+        URL,
+        params={"keyword": "BestOdds", "offset": 0, "pageSize": 500},
+        headers=HEADERS,
+        timeout=15,
+    )
+    resp.raise_for_status()
+    body = resp.json()
 
-            live = body["data"].get("live", [])
-            pre = body["data"].get("pre", [])
+    if body.get("bizCode") != 10000:
+        raise RuntimeError(f"API error: {body.get('message')}")
 
-            for m in live + pre:
-                raw_id = m.get("eventId", "")
-                match_id = raw_id.split(":")[-1] if ":" in raw_id else raw_id
-                if match_id in seen:
-                    continue
-                seen.add(match_id)
-                ts = m.get("estimateStartTime", 0) / 1000
-                all_matches.append({
-                    "matchId": match_id,
-                    "estimateStartTime": m.get("estimateStartTime"),
-                    "time": datetime.fromtimestamp(ts, tz=timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),
-                    "homeTeamName": m.get("homeTeamName"),
-                    "awayTeamName": m.get("awayTeamName"),
-                })
+    live = body["data"].get("live", [])
+    pre = body["data"].get("preMatch", [])
 
-            if len(live) + len(pre) < PAGE_SIZE:
-                break
-            offset += PAGE_SIZE
+    for m in live + pre:
+        raw_id = m.get("eventId", "")
+        match_id = raw_id.split(":")[-1] if ":" in raw_id else raw_id
+        if match_id in seen:
+            continue
+        seen.add(match_id)
+        ts = m.get("estimateStartTime", 0) / 1000
+        all_matches.append({
+            "matchId": match_id,
+            "estimateStartTime": m.get("estimateStartTime"),
+            "time": datetime.fromtimestamp(ts, tz=timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),
+            "homeTeamName": m.get("homeTeamName"),
+            "awayTeamName": m.get("awayTeamName"),
+        })
 
     return all_matches
 
