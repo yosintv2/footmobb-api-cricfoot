@@ -185,7 +185,7 @@
         "fixture": "PAOK Thessaloniki vs OFI Crete",
         "league_id": 145,
         "league": "Cup Group Stage",
-        "venue": "TBA",
+        "venue": "Stadio Toumbas",
         "tv_channels": []
     },
     {
@@ -194,7 +194,7 @@
         "fixture": "Panserraikos FC vs Atromitos",
         "league_id": 145,
         "league": "Cup Group Stage",
-        "venue": "TBA",
+        "venue": "Dimotiko Stadio Serron",
         "tv_channels": []
     },
     {
@@ -203,6 +203,42 @@
         "fixture": "Panathinaikos vs Niki Volou",
         "league_id": 145,
         "league": "Cup Group Stage",
+        "venue": "Stadio Apóstolos Nikolaidis",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6093744,
+        "kickoff": 1788361200,
+        "fixture": "Gloria Bistrița vs Csikszereda Miercurea Ciuc",
+        "league_id": 190,
+        "league": "Cup Grp. C",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6093743,
+        "kickoff": 1788373800,
+        "fixture": "FC Argeș Pitesti vs FCSB",
+        "league_id": 190,
+        "league": "Cup Grp. C",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6093753,
+        "kickoff": 1788364800,
+        "fixture": "Sporting Liesti vs Dinamo București",
+        "league_id": 190,
+        "league": "Cup Grp. D",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6093752,
+        "kickoff": 1788445800,
+        "fixture": "FC Bacău vs Universitatea Craiova",
+        "league_id": 190,
+        "league": "Cup Grp. D",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -1233,6 +1269,24 @@
         "tv_channels": []
     },
     {
+        "match_id": 5868070,
+        "kickoff": 1788462000,
+        "fixture": "Real Sociedad vs Celta Vigo",
+        "league_id": 87,
+        "league": "LaLiga",
+        "venue": "Estadio Municipal de Anoeta",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5802926,
+        "kickoff": 1788461100,
+        "fixture": "Toulouse vs Lille",
+        "league_id": 53,
+        "league": "Ligue 1",
+        "venue": "Stadium de Toulouse",
+        "tv_channels": []
+    },
+    {
         "match_id": 5796342,
         "kickoff": 1788454800,
         "fixture": "Mornar vs FK Bokelj",
@@ -1251,12 +1305,48 @@
         "tv_channels": []
     },
     {
+        "match_id": 5107513,
+        "kickoff": 1788454800,
+        "fixture": "Mjällby vs Djurgården",
+        "league_id": 67,
+        "league": "Allsvenskan",
+        "venue": "Strandvallen",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6093724,
+        "kickoff": 1788456600,
+        "fixture": "ASU Politehnica Timișoara vs Rapid București",
+        "league_id": 190,
+        "league": "Cup Grp. A",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 6011806,
         "kickoff": 1788451200,
         "fixture": "Thisted vs Sønderjyske",
         "league_id": 242,
         "league": "DBU Pokalen",
         "venue": "Sparekassen Thy Arena",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5803957,
+        "kickoff": 1788451200,
+        "fixture": "Raków Częstochowa vs Górnik Zabrze",
+        "league_id": 196,
+        "league": "Ekstraklasa",
+        "venue": "Miejski Stadion Piłkarski Raków",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5803953,
+        "kickoff": 1788460200,
+        "fixture": "Lech Poznań vs Jagiellonia Białystok",
+        "league_id": 196,
+        "league": "Ekstraklasa",
+        "venue": "Enea Stadion",
         "tv_channels": []
     },
     {
@@ -1274,6 +1364,15 @@
         "fixture": "JS El Biar vs Olympique Akbou",
         "league_id": 516,
         "league": "Ligue 1",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5886517,
+        "kickoff": 1788461100,
+        "fixture": "Rouen vs Valenciennes",
+        "league_id": 8970,
+        "league": "Ligue 3",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -1365,60 +1464,6 @@
         "league_id": 524,
         "league": "Stars League",
         "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5886517,
-        "kickoff": 1788461100,
-        "fixture": "Rouen vs Valenciennes",
-        "league_id": 8970,
-        "league": "Ligue 3",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5107513,
-        "kickoff": 1788454800,
-        "fixture": "Mjällby vs Djurgården",
-        "league_id": 67,
-        "league": "Allsvenskan",
-        "venue": "Strandvallen",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5803957,
-        "kickoff": 1788451200,
-        "fixture": "Raków Częstochowa vs Górnik Zabrze",
-        "league_id": 196,
-        "league": "Ekstraklasa",
-        "venue": "Miejski Stadion Piłkarski Raków",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5803953,
-        "kickoff": 1788460200,
-        "fixture": "Lech Poznań vs Jagiellonia Białystok",
-        "league_id": 196,
-        "league": "Ekstraklasa",
-        "venue": "Enea Stadion",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5868070,
-        "kickoff": 1788462000,
-        "fixture": "Real Sociedad vs Celta Vigo",
-        "league_id": 87,
-        "league": "LaLiga",
-        "venue": "Estadio Municipal de Anoeta",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5802926,
-        "kickoff": 1788461100,
-        "fixture": "Toulouse vs Lille",
-        "league_id": 53,
-        "league": "Ligue 1",
-        "venue": "Stadium de Toulouse",
         "tv_channels": []
     }
 ]

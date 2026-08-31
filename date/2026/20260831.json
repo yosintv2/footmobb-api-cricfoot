@@ -1044,24 +1044,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5832545,
-        "kickoff": 1788105600,
-        "fixture": "Hapoel Afula vs Hapoel Raanana",
-        "league_id": 128,
-        "league": "Leumit League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5832544,
-        "kickoff": 1788105600,
-        "fixture": "Hapoel Ironi Akko vs Bnei Yehuda Tel Aviv",
-        "league_id": 128,
-        "league": "Leumit League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 5832546,
         "kickoff": 1788105600,
         "fixture": "Hapoel Kfar Shalem vs Kiryat Yam",
@@ -1089,15 +1071,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5832549,
-        "kickoff": 1788105600,
-        "fixture": "Maccabi Bnei Raina vs FC Ashdod",
-        "league_id": 128,
-        "league": "Leumit League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 5832551,
         "kickoff": 1788105600,
         "fixture": "Maccabi Herzliya vs Hapoel Kfar Saba",
@@ -1110,6 +1083,33 @@
         "match_id": 5832550,
         "kickoff": 1788105600,
         "fixture": "Maccabi Kabilio Jaffa vs Maccabi Ahi Nazareth",
+        "league_id": 128,
+        "league": "Leumit League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5832545,
+        "kickoff": 1788192000,
+        "fixture": "Hapoel Afula vs Hapoel Raanana",
+        "league_id": 128,
+        "league": "Leumit League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5832544,
+        "kickoff": 1788192000,
+        "fixture": "Hapoel Ironi Akko vs Bnei Yehuda Tel Aviv",
+        "league_id": 128,
+        "league": "Leumit League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5832549,
+        "kickoff": 1788192000,
+        "fixture": "Maccabi Bnei Raina vs FC Ashdod",
         "league_id": 128,
         "league": "Leumit League",
         "venue": "TBA",
@@ -1827,6 +1827,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 5144549,
+        "kickoff": 1788102900,
+        "fixture": "Finnsnes vs Lillestrøm 2",
+        "league_id": 205,
+        "league": "3. Divisjon Avd. 5",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5144547,
         "kickoff": 1788105600,
         "fixture": "Harstad vs Fløya",
@@ -1962,15 +1971,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 6012136,
-        "kickoff": 1788102000,
-        "fixture": "Abia Warriors vs Kun Khalifat",
-        "league_id": 533,
-        "league": "NPFL",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 6012137,
         "kickoff": 1788102000,
         "fixture": "Barau vs Nasarawa United",
@@ -1983,15 +1983,6 @@
         "match_id": 6012138,
         "kickoff": 1788102000,
         "fixture": "Bendel Insurance vs Warri Wolves FC",
-        "league_id": 533,
-        "league": "NPFL",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6012139,
-        "kickoff": 1788102000,
-        "fixture": "Doma United vs Sporting Lagos",
         "league_id": 533,
         "league": "NPFL",
         "venue": "TBA",
@@ -2037,6 +2028,24 @@
         "match_id": 6012144,
         "kickoff": 1788102000,
         "fixture": "Rivers United FC vs Plateau United",
+        "league_id": 533,
+        "league": "NPFL",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6012139,
+        "kickoff": 1788103800,
+        "fixture": "Doma United vs Sporting Lagos",
+        "league_id": 533,
+        "league": "NPFL",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6012136,
+        "kickoff": 1788159600,
+        "fixture": "Abia Warriors vs Kun Khalifat",
         "league_id": 533,
         "league": "NPFL",
         "venue": "TBA",
@@ -2286,17 +2295,8 @@
         "tv_channels": []
     },
     {
-        "match_id": 6072425,
-        "kickoff": 1788104400,
-        "fixture": "Kazma vs Al Sahel SC",
-        "league_id": 529,
-        "league": "Premier League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 6018561,
-        "kickoff": 1788112500,
+        "kickoff": 1788104400,
         "fixture": "Al Nasr vs Al Fahaheel",
         "league_id": 529,
         "league": "Premier League",
@@ -2325,15 +2325,6 @@
         "match_id": 6018562,
         "kickoff": 1788198900,
         "fixture": "Al-Qadsia vs Kuwait SC",
-        "league_id": 529,
-        "league": "Premier League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6018563,
-        "kickoff": 1788198900,
-        "fixture": "Al-Tadhamon vs Al-Salmiyah",
         "league_id": 529,
         "league": "Premier League",
         "venue": "TBA",
@@ -3978,66 +3969,12 @@
         "tv_channels": []
     },
     {
-        "match_id": 5107582,
-        "kickoff": 1788195600,
-        "fixture": "Djurgården vs Mjällby",
-        "league_id": 67,
-        "league": "Allsvenskan",
-        "venue": "3Arena",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5107584,
-        "kickoff": 1788195600,
-        "fixture": "GAIS vs Brommapojkarna",
-        "league_id": 67,
-        "league": "Allsvenskan",
-        "venue": "Gamla Ullevi",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5107587,
-        "kickoff": 1788195600,
-        "fixture": "Sirius vs Malmö FF",
-        "league_id": 67,
-        "league": "Allsvenskan",
-        "venue": "Studenternas IP",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5832845,
-        "kickoff": 1788199200,
-        "fixture": "Jong AZ Alkmaar vs Jong FC Utrecht",
-        "league_id": 111,
-        "league": "Eerste Divisie",
-        "venue": "AFAS Trainingscomplex",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5832846,
-        "kickoff": 1788199200,
-        "fixture": "Jong PSV vs Jong Ajax",
-        "league_id": 111,
-        "league": "Eerste Divisie",
-        "venue": "TenCate Stadion De Herdgang",
-        "tv_channels": []
-    },
-    {
         "match_id": 5127561,
         "kickoff": 1788195600,
         "fixture": "Hammarby TFF vs Karlbergs BK",
         "league_id": 169,
         "league": "Ettan Norra",
         "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5803238,
-        "kickoff": 1788201900,
-        "fixture": "Dijon vs Saint-Étienne",
-        "league_id": 110,
-        "league": "Ligue 2",
-        "venue": "Stade Gaston-Gérard",
         "tv_channels": []
     },
     {
@@ -4128,6 +4065,60 @@
         "league_id": 331,
         "league": "Toppserien",
         "venue": "Røabanen",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5832845,
+        "kickoff": 1788199200,
+        "fixture": "Jong AZ Alkmaar vs Jong FC Utrecht",
+        "league_id": 111,
+        "league": "Eerste Divisie",
+        "venue": "AFAS Trainingscomplex",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5832846,
+        "kickoff": 1788199200,
+        "fixture": "Jong PSV vs Jong Ajax",
+        "league_id": 111,
+        "league": "Eerste Divisie",
+        "venue": "TenCate Stadion De Herdgang",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5803238,
+        "kickoff": 1788201900,
+        "fixture": "Dijon vs Saint-Étienne",
+        "league_id": 110,
+        "league": "Ligue 2",
+        "venue": "Stade Gaston-Gérard",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5107582,
+        "kickoff": 1788195600,
+        "fixture": "Djurgården vs Mjällby",
+        "league_id": 67,
+        "league": "Allsvenskan",
+        "venue": "3Arena",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5107584,
+        "kickoff": 1788195600,
+        "fixture": "GAIS vs Brommapojkarna",
+        "league_id": 67,
+        "league": "Allsvenskan",
+        "venue": "Gamla Ullevi",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5107587,
+        "kickoff": 1788195600,
+        "fixture": "Sirius vs Malmö FF",
+        "league_id": 67,
+        "league": "Allsvenskan",
+        "venue": "Studenternas IP",
         "tv_channels": []
     },
     {
