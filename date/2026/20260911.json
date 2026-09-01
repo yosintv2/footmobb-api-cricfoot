@@ -27,15 +27,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5864693,
-        "kickoff": 1789059600,
-        "fixture": "Fremad Amager vs HIK",
-        "league_id": 239,
-        "league": "2. Division",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 6119120,
         "kickoff": 1789088760,
         "fixture": "CD Marathón vs LD Alajuelense",
@@ -248,7 +239,7 @@
         "fixture": "Estrela da Amadora vs Braga",
         "league_id": 61,
         "league": "Liga Portugal",
-        "venue": "Estadio Jose Gomes",
+        "venue": "Estádio José Gomes",
         "tv_channels": []
     },
     {
@@ -293,6 +284,15 @@
         "fixture": "CR Bélouizdad vs ES Sétif",
         "league_id": 516,
         "league": "Ligue 1",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6133358,
+        "kickoff": 1789056000,
+        "fixture": "Grorud (W) vs Frigg (W)",
+        "league_id": 333,
+        "league": "NM Kvinner",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -366,87 +366,6 @@
         "league_id": 512,
         "league": "Regionalliga Northeast",
         "venue": "Spree-Arena",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5970135,
-        "kickoff": 1789063200,
-        "fixture": "Al Ahli vs Al Hazem",
-        "league_id": 536,
-        "league": "Saudi Pro League",
-        "venue": "King Abdullah Sports City",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5970136,
-        "kickoff": 1789063200,
-        "fixture": "Al Diriyah vs Abha",
-        "league_id": 536,
-        "league": "Saudi Pro League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5970138,
-        "kickoff": 1789063200,
-        "fixture": "Al Khaleej vs Al Nassr FC",
-        "league_id": 536,
-        "league": "Saudi Pro League",
-        "venue": "Prince Mohamed bin Fahd Stadium",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5970139,
-        "kickoff": 1789063200,
-        "fixture": "Al Qadsiah vs Al-Ettifaq",
-        "league_id": 536,
-        "league": "Saudi Pro League",
-        "venue": "Prince Saud bin Jalawi Stadium",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5970140,
-        "kickoff": 1789063200,
-        "fixture": "Al Riyadh vs Al Kholood",
-        "league_id": 536,
-        "league": "Saudi Pro League",
-        "venue": "Prince Faisal bin Fahd Stadium",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5970141,
-        "kickoff": 1789063200,
-        "fixture": "Al Shabab vs Al-Fayha",
-        "league_id": 536,
-        "league": "Saudi Pro League",
-        "venue": "SHG Arena",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5970137,
-        "kickoff": 1789063200,
-        "fixture": "Al-Faisaly vs Al Ittihad",
-        "league_id": 536,
-        "league": "Saudi Pro League",
-        "venue": "Majmaah Sports City",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5970142,
-        "kickoff": 1789063200,
-        "fixture": "Al-Taawoun vs Al Hilal",
-        "league_id": 536,
-        "league": "Saudi Pro League",
-        "venue": "Al-Taawoun Club Stadium",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5970143,
-        "kickoff": 1789063200,
-        "fixture": "Neom SC vs Al Fateh FC",
-        "league_id": 536,
-        "league": "Saudi Pro League",
-        "venue": "King Khalid Sport City Stadium",
         "tv_channels": []
     },
     {
@@ -990,6 +909,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 5864693,
+        "kickoff": 1789146000,
+        "fixture": "Fremad Amager vs HIK",
+        "league_id": 239,
+        "league": "2. Division",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5143586,
         "kickoff": 1789146000,
         "fixture": "Eidsvold TF vs Ull/Kisa",
@@ -1004,6 +932,15 @@
         "fixture": "FK Pohronie vs Liptovský Mikuláš",
         "league_id": 8973,
         "league": "2. Liga",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6135111,
+        "kickoff": 1789153200,
+        "fixture": "Afturelding vs Breiðablik",
+        "league_id": 217,
+        "league": "Cup",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -1260,6 +1197,33 @@
         "tv_channels": []
     },
     {
+        "match_id": 5970139,
+        "kickoff": 1789140300,
+        "fixture": "Al Qadsiah vs Al-Ettifaq",
+        "league_id": 536,
+        "league": "Saudi Pro League",
+        "venue": "Prince Saud bin Jalawi Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5970137,
+        "kickoff": 1789141500,
+        "fixture": "Al-Faisaly vs Al Ittihad",
+        "league_id": 536,
+        "league": "Saudi Pro League",
+        "venue": "Majmaah Sports City",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5970135,
+        "kickoff": 1789149600,
+        "fixture": "Al Ahli vs Al Hazem",
+        "league_id": 536,
+        "league": "Saudi Pro League",
+        "venue": "King Abdullah Sports City",
+        "tv_channels": []
+    },
+    {
         "match_id": 5991415,
         "kickoff": 1789153200,
         "fixture": "Audace Cerignola vs Giugliano",
@@ -1428,15 +1392,6 @@
         "league_id": 208,
         "league": "3. Liga",
         "venue": "Sportpark Höhenberg",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5881169,
-        "kickoff": 1789151400,
-        "fixture": "Union Berlin vs Schalke 04",
-        "league_id": 54,
-        "league": "Bundesliga",
-        "venue": "Stadion An der Alten Försterei",
         "tv_channels": []
     },
     {
@@ -1710,6 +1665,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 5881169,
+        "kickoff": 1789151400,
+        "fixture": "Union Berlin vs Schalke 04",
+        "league_id": 54,
+        "league": "Bundesliga",
+        "venue": "Stadion An der Alten Försterei",
+        "tv_channels": []
+    },
+    {
         "match_id": 5845983,
         "kickoff": 1789147800,
         "fixture": "Ried vs Salzburg",
@@ -1760,7 +1724,7 @@
         "fixture": "Sevilla vs Valencia",
         "league_id": 87,
         "league": "LaLiga",
-        "venue": "Estadio R. Sanchez Pizjuan",
+        "venue": "Estadio Ramón Sánchez Pizjuán",
         "tv_channels": []
     },
     {

@@ -829,7 +829,7 @@
     },
     {
         "match_id": 5765914,
-        "kickoff": 1788202800,
+        "kickoff": 1788204600,
         "fixture": "HNK Gorica vs Rijeka",
         "league_id": 252,
         "league": "HNL",
@@ -1908,15 +1908,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5949235,
-        "kickoff": 1788184800,
-        "fixture": "Gainsborough vs Cleethorpes Town",
-        "league_id": 8947,
-        "league": "Northern Premier Division",
-        "venue": "The Northolme",
-        "tv_channels": []
-    },
-    {
         "match_id": 5949234,
         "kickoff": 1788184800,
         "fixture": "Hyde United vs Bury",
@@ -1968,6 +1959,15 @@
         "league_id": 8947,
         "league": "Northern Premier Division",
         "venue": "Turnbull Ground",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5949235,
+        "kickoff": 1788185700,
+        "fixture": "Gainsborough vs Cleethorpes Town",
+        "league_id": 8947,
+        "league": "Northern Premier Division",
+        "venue": "The Northolme",
         "tv_channels": []
     },
     {
@@ -2116,7 +2116,7 @@
     },
     {
         "match_id": 5909139,
-        "kickoff": 1788102000,
+        "kickoff": 1788170400,
         "fixture": "Zorya vs FC Kharkiv",
         "league_id": 441,
         "league": "Premier League",
@@ -2344,6 +2344,33 @@
         "kickoff": 1788184800,
         "fixture": "FC Yelimay vs Kairat Almaty",
         "league_id": 225,
+        "league": "Premier League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5998306,
+        "kickoff": 1788181200,
+        "fixture": "Fountain Gate FC vs Young Africans",
+        "league_id": 9066,
+        "league": "Premier League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5998304,
+        "kickoff": 1788190200,
+        "fixture": "Simba SC vs Geita Gold FC",
+        "league_id": 9066,
+        "league": "Premier League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5998305,
+        "kickoff": 1788199200,
+        "fixture": "Kagera Sugar vs Azam FC",
+        "league_id": 9066,
         "league": "Premier League",
         "venue": "TBA",
         "tv_channels": []
@@ -3258,6 +3285,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 1000021300,
+        "kickoff": 1788177600,
+        "fixture": "Persib Bandung vs Manila Digger",
+        "league_id": 9469,
+        "league": "AFC Champions League Two Preliminary Round",
+        "venue": "Stadion Si Jalak Harupat",
+        "tv_channels": []
+    },
+    {
         "match_id": 5225719,
         "kickoff": 1788109200,
         "fixture": "Fram Reykjavík vs KA Akureyri",
@@ -3372,15 +3408,6 @@
         "league_id": 131,
         "league": "Liga 1",
         "venue": "Estadio Inca Garcilaso de la Vega",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000017213,
-        "kickoff": 1788206400,
-        "fixture": "Atlético Grau vs FBC Melgar",
-        "league_id": 131,
-        "league": "Liga 1",
-        "venue": "Estadio Municipal Ambrosio Maco Arroyo",
         "tv_channels": []
     },
     {
@@ -3521,7 +3548,7 @@
     {
         "match_id": 1000019107,
         "kickoff": 1788177600,
-        "fixture": "AFC Bournemouth Academy vs Middlesbrough U21",
+        "fixture": "Bournemouth U21 vs Middlesbrough U21",
         "league_id": 9084,
         "league": "Premier League 2",
         "venue": "The Wyatt Homes Stadium",
@@ -3530,7 +3557,7 @@
     {
         "match_id": 1000019108,
         "kickoff": 1788177600,
-        "fixture": "Brentford Academy vs Sunderland U21",
+        "fixture": "Brentford U21 vs Sunderland U21",
         "league_id": 9084,
         "league": "Premier League 2",
         "venue": "Wheatsheaf Park",
@@ -3809,7 +3836,7 @@
     {
         "match_id": 5103607,
         "kickoff": 1788116400,
-        "fixture": "Corinthians vs Santos FC",
+        "fixture": "Corinthians vs Santos",
         "league_id": 268,
         "league": "Série A",
         "venue": "Neo Química Arena",
@@ -3818,7 +3845,7 @@
     {
         "match_id": 5103604,
         "kickoff": 1788116400,
-        "fixture": "Flamengo vs Botafogo RJ",
+        "fixture": "Flamengo vs Botafogo",
         "league_id": 268,
         "league": "Série A",
         "venue": "Estadio Jornalista Mário Filho (Maracanã)",
@@ -3836,7 +3863,7 @@
     {
         "match_id": 5103610,
         "kickoff": 1788125400,
-        "fixture": "Grêmio vs Chapecoense AF",
+        "fixture": "Grêmio vs Chapecoense",
         "league_id": 268,
         "league": "Série A",
         "venue": "Arena do Grêmio",
@@ -3969,12 +3996,66 @@
         "tv_channels": []
     },
     {
+        "match_id": 5107582,
+        "kickoff": 1788195600,
+        "fixture": "Djurgården vs Mjällby",
+        "league_id": 67,
+        "league": "Allsvenskan",
+        "venue": "3Arena",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5107584,
+        "kickoff": 1788195600,
+        "fixture": "GAIS vs Brommapojkarna",
+        "league_id": 67,
+        "league": "Allsvenskan",
+        "venue": "Gamla Ullevi",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5107587,
+        "kickoff": 1788195600,
+        "fixture": "Sirius vs Malmö FF",
+        "league_id": 67,
+        "league": "Allsvenskan",
+        "venue": "Studenternas IP",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5832845,
+        "kickoff": 1788199200,
+        "fixture": "Jong AZ Alkmaar vs Jong FC Utrecht",
+        "league_id": 111,
+        "league": "Eerste Divisie",
+        "venue": "AFAS Trainingscomplex",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5832846,
+        "kickoff": 1788199200,
+        "fixture": "Jong PSV vs Jong Ajax",
+        "league_id": 111,
+        "league": "Eerste Divisie",
+        "venue": "TenCate Stadion De Herdgang",
+        "tv_channels": []
+    },
+    {
         "match_id": 5127561,
         "kickoff": 1788195600,
         "fixture": "Hammarby TFF vs Karlbergs BK",
         "league_id": 169,
         "league": "Ettan Norra",
         "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5803238,
+        "kickoff": 1788201900,
+        "fixture": "Dijon vs Saint-Étienne",
+        "league_id": 110,
+        "league": "Ligue 2",
+        "venue": "Stade Gaston-Gérard",
         "tv_channels": []
     },
     {
@@ -4023,24 +4104,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5998304,
-        "kickoff": 1788188400,
-        "fixture": "Simba SC vs Geita Gold FC",
-        "league_id": 9066,
-        "league": "Premier League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5998305,
-        "kickoff": 1788197400,
-        "fixture": "Kagera Sugar vs Azam FC",
-        "league_id": 9066,
-        "league": "Premier League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 5804928,
         "kickoff": 1788188400,
         "fixture": "GFK Tikves Kavadarci vs FK Vardar Skopje",
@@ -4065,60 +4128,6 @@
         "league_id": 331,
         "league": "Toppserien",
         "venue": "Røabanen",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5832845,
-        "kickoff": 1788199200,
-        "fixture": "Jong AZ Alkmaar vs Jong FC Utrecht",
-        "league_id": 111,
-        "league": "Eerste Divisie",
-        "venue": "AFAS Trainingscomplex",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5832846,
-        "kickoff": 1788199200,
-        "fixture": "Jong PSV vs Jong Ajax",
-        "league_id": 111,
-        "league": "Eerste Divisie",
-        "venue": "TenCate Stadion De Herdgang",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5803238,
-        "kickoff": 1788201900,
-        "fixture": "Dijon vs Saint-Étienne",
-        "league_id": 110,
-        "league": "Ligue 2",
-        "venue": "Stade Gaston-Gérard",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5107582,
-        "kickoff": 1788195600,
-        "fixture": "Djurgården vs Mjällby",
-        "league_id": 67,
-        "league": "Allsvenskan",
-        "venue": "3Arena",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5107584,
-        "kickoff": 1788195600,
-        "fixture": "GAIS vs Brommapojkarna",
-        "league_id": 67,
-        "league": "Allsvenskan",
-        "venue": "Gamla Ullevi",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5107587,
-        "kickoff": 1788195600,
-        "fixture": "Sirius vs Malmö FF",
-        "league_id": 67,
-        "league": "Allsvenskan",
-        "venue": "Studenternas IP",
         "tv_channels": []
     },
     {
