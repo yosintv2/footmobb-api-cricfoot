@@ -1,16 +1,25 @@
 [
     {
-        "match_id": 5991877,
-        "kickoff": 1790280000,
-        "fixture": "Costa Rica vs Curacao",
+        "match_id": 5991903,
+        "kickoff": 1790276400,
+        "fixture": "Puerto Rico vs Guyana",
         "league_id": 9821,
-        "league": "CONCACAF Nations League A Grp. 1",
-        "venue": "TBA",
+        "league": "CONCACAF Nations League B Grp. 1",
+        "venue": "Windsor Park Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5991904,
+        "kickoff": 1790294400,
+        "fixture": "Cayman Islands vs Dominica",
+        "league_id": 9821,
+        "league": "CONCACAF Nations League B Grp. 1",
+        "venue": "Windsor Park Stadium",
         "tv_channels": []
     },
     {
         "match_id": 5991879,
-        "kickoff": 1790280000,
+        "kickoff": 1790294400,
         "fixture": "Dominican Republic vs Nicaragua",
         "league_id": 9821,
         "league": "CONCACAF Nations League A Grp. 1",
@@ -19,7 +28,7 @@
     },
     {
         "match_id": 5991878,
-        "kickoff": 1790280000,
+        "kickoff": 1790294400,
         "fixture": "Haiti vs Trinidad and Tobago",
         "league_id": 9821,
         "league": "CONCACAF Nations League A Grp. 1",
@@ -27,21 +36,12 @@
         "tv_channels": []
     },
     {
-        "match_id": 5991904,
-        "kickoff": 1790280000,
-        "fixture": "Cayman Islands vs Dominica",
+        "match_id": 5991877,
+        "kickoff": 1790301600,
+        "fixture": "Costa Rica vs Curacao",
         "league_id": 9821,
-        "league": "CONCACAF Nations League B Grp. 1",
-        "venue": "Windsor Park Stadium",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5991903,
-        "kickoff": 1790280000,
-        "fixture": "Puerto Rico vs Guyana",
-        "league_id": 9821,
-        "league": "CONCACAF Nations League B Grp. 1",
-        "venue": "Windsor Park Stadium",
+        "league": "CONCACAF Nations League A Grp. 1",
+        "venue": "Estadio Ricardo Saprissa Aymá",
         "tv_channels": []
     },
     {
@@ -342,44 +342,8 @@
         "tv_channels": []
     },
     {
-        "match_id": 5991891,
-        "kickoff": 1790366400,
-        "fixture": "El Salvador vs Martinique",
-        "league_id": 9821,
-        "league": "CONCACAF Nations League A Grp. 2",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5991889,
-        "kickoff": 1790366400,
-        "fixture": "Honduras vs Suriname",
-        "league_id": 9821,
-        "league": "CONCACAF Nations League A Grp. 2",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5991890,
-        "kickoff": 1790366400,
-        "fixture": "Jamaica vs Guatemala",
-        "league_id": 9821,
-        "league": "CONCACAF Nations League A Grp. 2",
-        "venue": "National Stadium",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5991914,
-        "kickoff": 1790366400,
-        "fixture": "Barbados vs Saint Lucia",
-        "league_id": 9821,
-        "league": "CONCACAF Nations League B Grp. 2",
-        "venue": "Daren Sammy Cricket Ground",
-        "tv_channels": []
-    },
-    {
         "match_id": 5991913,
-        "kickoff": 1790366400,
+        "kickoff": 1790362800,
         "fixture": "Bermuda vs Guadeloupe",
         "league_id": 9821,
         "league": "CONCACAF Nations League B Grp. 2",
@@ -387,17 +351,8 @@
         "tv_channels": []
     },
     {
-        "match_id": 5991923,
-        "kickoff": 1790366400,
-        "fixture": "Bonaire vs St. Kitts and Nevis",
-        "league_id": 9821,
-        "league": "CONCACAF Nations League B Grp. 3",
-        "venue": "NBG Technical Center",
-        "tv_channels": []
-    },
-    {
         "match_id": 5991922,
-        "kickoff": 1790366400,
+        "kickoff": 1790370000,
         "fixture": "Grenada vs Cuba",
         "league_id": 9821,
         "league": "CONCACAF Nations League B Grp. 3",
@@ -564,6 +519,33 @@
         "league_id": 512,
         "league": "Regionalliga Bayern",
         "venue": "ELSNER Sportpark Erlangen",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5910869,
+        "kickoff": 1790355600,
+        "fixture": "BFC Dynamo vs Greifswalder FC",
+        "league_id": 512,
+        "league": "Regionalliga Northeast",
+        "venue": "Sportforum Berlin",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5910874,
+        "kickoff": 1790355600,
+        "fixture": "Magdeburg II vs VSG Altglienicke",
+        "league_id": 512,
+        "league": "Regionalliga Northeast",
+        "venue": "Avnet Arena",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5910876,
+        "kickoff": 1790355600,
+        "fixture": "Tasmania Berlin vs Carl Zeiss Jena",
+        "league_id": 512,
+        "league": "Regionalliga Northeast",
+        "venue": "Werner-Seelenbinder-Sportpark",
         "tv_channels": []
     },
     {

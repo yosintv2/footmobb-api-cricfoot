@@ -225,35 +225,17 @@
         "tv_channels": []
     },
     {
-        "match_id": 5991882,
-        "kickoff": 1790539200,
-        "fixture": "Curacao vs Nicaragua",
+        "match_id": 5991905,
+        "kickoff": 1790535600,
+        "fixture": "Guyana vs Cayman Islands",
         "league_id": 9821,
-        "league": "CONCACAF Nations League A Grp. 1",
-        "venue": "Stadion Ergilio Hato",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5991880,
-        "kickoff": 1790539200,
-        "fixture": "Haiti vs Costa Rica",
-        "league_id": 9821,
-        "league": "CONCACAF Nations League A Grp. 1",
-        "venue": "Sabina Park",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5991881,
-        "kickoff": 1790539200,
-        "fixture": "Trinidad and Tobago vs Dominican Republic",
-        "league_id": 9821,
-        "league": "CONCACAF Nations League A Grp. 1",
-        "venue": "TBA",
+        "league": "CONCACAF Nations League B Grp. 1",
+        "venue": "Windsor Park Stadium",
         "tv_channels": []
     },
     {
         "match_id": 5991906,
-        "kickoff": 1790539200,
+        "kickoff": 1790553600,
         "fixture": "Dominica vs Puerto Rico",
         "league_id": 9821,
         "league": "CONCACAF Nations League B Grp. 1",
@@ -261,12 +243,30 @@
         "tv_channels": []
     },
     {
-        "match_id": 5991905,
-        "kickoff": 1790539200,
-        "fixture": "Guyana vs Cayman Islands",
+        "match_id": 5991880,
+        "kickoff": 1790550000,
+        "fixture": "Haiti vs Costa Rica",
         "league_id": 9821,
-        "league": "CONCACAF Nations League B Grp. 1",
-        "venue": "Windsor Park Stadium",
+        "league": "CONCACAF Nations League A Grp. 1",
+        "venue": "Sabina Park",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5991882,
+        "kickoff": 1790553600,
+        "fixture": "Curacao vs Nicaragua",
+        "league_id": 9821,
+        "league": "CONCACAF Nations League A Grp. 1",
+        "venue": "Stadion Ergilio Hato",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5991881,
+        "kickoff": 1790557200,
+        "fixture": "Trinidad and Tobago vs Dominican Republic",
+        "league_id": 9821,
+        "league": "CONCACAF Nations League A Grp. 1",
+        "venue": "Hasely Crawford Stadium",
         "tv_channels": []
     },
     {
@@ -284,6 +284,15 @@
         "fixture": "Denmark U21 vs Belarus U21",
         "league_id": 10437,
         "league": "EURO U21 Qualification Grp. I",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6140729,
+        "kickoff": 1790523000,
+        "fixture": "Malta vs Liechtenstein",
+        "league_id": 114,
+        "league": "Friendlies",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -1269,6 +1278,78 @@
         "tv_channels": []
     },
     {
+        "match_id": 6140204,
+        "kickoff": 1790521200,
+        "fixture": "AE Larissa vs PAOK Thessaloniki B",
+        "league_id": 8815,
+        "league": "Super League 2",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6140205,
+        "kickoff": 1790521200,
+        "fixture": "Athens Kallithea FC vs Asteras Tripolis B",
+        "league_id": 8815,
+        "league": "Super League 2",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6140208,
+        "kickoff": 1790521200,
+        "fixture": "GS Marko vs Panthrakikos Komotini",
+        "league_id": 8815,
+        "league": "Super League 2",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6140206,
+        "kickoff": 1790521200,
+        "fixture": "Hellas Syros vs Pyrgos AFC",
+        "league_id": 8815,
+        "league": "Super League 2",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6140207,
+        "kickoff": 1790521200,
+        "fixture": "Kalamaria vs Anagennisi Karditsas",
+        "league_id": 8815,
+        "league": "Super League 2",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6140209,
+        "kickoff": 1790521200,
+        "fixture": "Niki Volou vs Nestos Chrisoupolis",
+        "league_id": 8815,
+        "league": "Super League 2",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6140210,
+        "kickoff": 1790521200,
+        "fixture": "Panionios vs Zakynthos APS",
+        "league_id": 8815,
+        "league": "Super League 2",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6140211,
+        "kickoff": 1790521200,
+        "fixture": "Panserraikos FC vs Olympiacos B",
+        "league_id": 8815,
+        "league": "Super League 2",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 1000014586,
         "kickoff": 1790532000,
         "fixture": "Pumas vs San Luis",
@@ -1388,7 +1469,7 @@
     {
         "match_id": 5190733,
         "kickoff": 1790544600,
-        "fixture": "Fortaleza vs Athletic Club",
+        "fixture": "Fortaleza vs Athletic Club MG",
         "league_id": 8814,
         "league": "Série B",
         "venue": "Estádio Governador Plácido Aderaldo Castelo",
@@ -1413,35 +1494,8 @@
         "tv_channels": []
     },
     {
-        "match_id": 5991893,
-        "kickoff": 1790625600,
-        "fixture": "Guatemala vs El Salvador",
-        "league_id": 9821,
-        "league": "CONCACAF Nations League A Grp. 2",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5991892,
-        "kickoff": 1790625600,
-        "fixture": "Jamaica vs Honduras",
-        "league_id": 9821,
-        "league": "CONCACAF Nations League A Grp. 2",
-        "venue": "National Stadium",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5991894,
-        "kickoff": 1790625600,
-        "fixture": "Suriname vs Martinique",
-        "league_id": 9821,
-        "league": "CONCACAF Nations League A Grp. 2",
-        "venue": "Dr. Ir. Franklin Essed Stadion",
-        "tv_channels": []
-    },
-    {
         "match_id": 5991915,
-        "kickoff": 1790625600,
+        "kickoff": 1790622000,
         "fixture": "Guadeloupe vs Barbados",
         "league_id": 9821,
         "league": "CONCACAF Nations League B Grp. 2",
@@ -1449,27 +1503,9 @@
         "tv_channels": []
     },
     {
-        "match_id": 5991916,
-        "kickoff": 1790625600,
-        "fixture": "Saint Lucia vs Bermuda",
-        "league_id": 9821,
-        "league": "CONCACAF Nations League B Grp. 2",
-        "venue": "Daren Sammy Cricket Ground",
-        "tv_channels": []
-    },
-    {
         "match_id": 5991924,
-        "kickoff": 1790625600,
+        "kickoff": 1790629200,
         "fixture": "Cuba vs Bonaire",
-        "league_id": 9821,
-        "league": "CONCACAF Nations League B Grp. 3",
-        "venue": "NBG Technical Center",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5991925,
-        "kickoff": 1790625600,
-        "fixture": "St. Kitts and Nevis vs Grenada",
         "league_id": 9821,
         "league": "CONCACAF Nations League B Grp. 3",
         "venue": "NBG Technical Center",

@@ -441,44 +441,8 @@
         "tv_channels": []
     },
     {
-        "match_id": 5991891,
-        "kickoff": 1790366400,
-        "fixture": "El Salvador vs Martinique",
-        "league_id": 9821,
-        "league": "CONCACAF Nations League A Grp. 2",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5991889,
-        "kickoff": 1790366400,
-        "fixture": "Honduras vs Suriname",
-        "league_id": 9821,
-        "league": "CONCACAF Nations League A Grp. 2",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5991890,
-        "kickoff": 1790366400,
-        "fixture": "Jamaica vs Guatemala",
-        "league_id": 9821,
-        "league": "CONCACAF Nations League A Grp. 2",
-        "venue": "National Stadium",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5991914,
-        "kickoff": 1790366400,
-        "fixture": "Barbados vs Saint Lucia",
-        "league_id": 9821,
-        "league": "CONCACAF Nations League B Grp. 2",
-        "venue": "Daren Sammy Cricket Ground",
-        "tv_channels": []
-    },
-    {
         "match_id": 5991913,
-        "kickoff": 1790366400,
+        "kickoff": 1790362800,
         "fixture": "Bermuda vs Guadeloupe",
         "league_id": 9821,
         "league": "CONCACAF Nations League B Grp. 2",
@@ -486,8 +450,26 @@
         "tv_channels": []
     },
     {
+        "match_id": 5991914,
+        "kickoff": 1790380800,
+        "fixture": "Barbados vs Saint Lucia",
+        "league_id": 9821,
+        "league": "CONCACAF Nations League B Grp. 2",
+        "venue": "Daren Sammy Cricket Ground",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5991922,
+        "kickoff": 1790370000,
+        "fixture": "Grenada vs Cuba",
+        "league_id": 9821,
+        "league": "CONCACAF Nations League B Grp. 3",
+        "venue": "NBG Technical Center",
+        "tv_channels": []
+    },
+    {
         "match_id": 5991923,
-        "kickoff": 1790366400,
+        "kickoff": 1790380800,
         "fixture": "Bonaire vs St. Kitts and Nevis",
         "league_id": 9821,
         "league": "CONCACAF Nations League B Grp. 3",
@@ -495,12 +477,30 @@
         "tv_channels": []
     },
     {
-        "match_id": 5991922,
-        "kickoff": 1790366400,
-        "fixture": "Grenada vs Cuba",
+        "match_id": 5991890,
+        "kickoff": 1790380800,
+        "fixture": "Jamaica vs Guatemala",
         "league_id": 9821,
-        "league": "CONCACAF Nations League B Grp. 3",
-        "venue": "NBG Technical Center",
+        "league": "CONCACAF Nations League A Grp. 2",
+        "venue": "National Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5991889,
+        "kickoff": 1790384400,
+        "fixture": "Honduras vs Suriname",
+        "league_id": 9821,
+        "league": "CONCACAF Nations League A Grp. 2",
+        "venue": "Estadio Nacional Chelato Uclés",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5991891,
+        "kickoff": 1790391600,
+        "fixture": "El Salvador vs Martinique",
+        "league_id": 9821,
+        "league": "CONCACAF Nations League A Grp. 2",
+        "venue": "Estadio Jorge “El Mágico” Gonzalez",
         "tv_channels": []
     },
     {
@@ -1896,6 +1896,60 @@
         "league_id": 512,
         "league": "Regionalliga North",
         "venue": "Weserstadion Platz 11",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5910869,
+        "kickoff": 1790355600,
+        "fixture": "BFC Dynamo vs Greifswalder FC",
+        "league_id": 512,
+        "league": "Regionalliga Northeast",
+        "venue": "Sportforum Berlin",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5910874,
+        "kickoff": 1790355600,
+        "fixture": "Magdeburg II vs VSG Altglienicke",
+        "league_id": 512,
+        "league": "Regionalliga Northeast",
+        "venue": "Avnet Arena",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5910876,
+        "kickoff": 1790355600,
+        "fixture": "Tasmania Berlin vs Carl Zeiss Jena",
+        "league_id": 512,
+        "league": "Regionalliga Northeast",
+        "venue": "Werner-Seelenbinder-Sportpark",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5910870,
+        "kickoff": 1790424000,
+        "fixture": "Hallescher FC vs BFC Preussen",
+        "league_id": 512,
+        "league": "Regionalliga Northeast",
+        "venue": "Leuna-Chemie-Stadion",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5910872,
+        "kickoff": 1790424000,
+        "fixture": "Lokomotive Leipzig vs RW Erfurt",
+        "league_id": 512,
+        "league": "Regionalliga Northeast",
+        "venue": "Bruno-Plache-Stadion",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5910875,
+        "kickoff": 1790431200,
+        "fixture": "RSV Eintracht 1949 vs Chemnitzer FC",
+        "league_id": 512,
+        "league": "Regionalliga Northeast",
+        "venue": "Preußenstadion",
         "tv_channels": []
     },
     {
@@ -3350,7 +3404,7 @@
     {
         "match_id": 5190738,
         "kickoff": 1790379000,
-        "fixture": "Vila Nova vs Londrina EC",
+        "fixture": "Vila Nova vs Londrina",
         "league_id": 8814,
         "league": "Série B",
         "venue": "Estádio Onésio Brasileiro Alvarenga",
@@ -3359,7 +3413,7 @@
     {
         "match_id": 5190732,
         "kickoff": 1790449200,
-        "fixture": "Operário vs Ceará",
+        "fixture": "Operário-PR vs Ceará",
         "league_id": 8814,
         "league": "Série B",
         "venue": "Estádio Germano Krüger",
@@ -3380,7 +3434,7 @@
         "fixture": "Botafogo-PB vs Maringá",
         "league_id": 8971,
         "league": "Série C",
-        "venue": "TBA",
+        "venue": "Estádio José Américo de Almeida Filho",
         "tv_channels": []
     },
     {
@@ -3389,7 +3443,7 @@
         "fixture": "Brusque vs Ferroviária",
         "league_id": 8971,
         "league": "Série C",
-        "venue": "TBA",
+        "venue": "Arena Simon",
         "tv_channels": []
     },
     {
@@ -3398,7 +3452,7 @@
         "fixture": "Floresta vs Santa Cruz",
         "league_id": 8971,
         "league": "Série C",
-        "venue": "TBA",
+        "venue": "Estádio Municipal Presidente Getúlio Vargas",
         "tv_channels": []
     },
     {
@@ -3407,7 +3461,7 @@
         "fixture": "Inter de Limeira vs Paysandu",
         "league_id": 8971,
         "league": "Série C",
-        "venue": "TBA",
+        "venue": "Estádio Major José Levy Sobrinho",
         "tv_channels": []
     },
     {
@@ -3492,39 +3546,12 @@
         "tv_channels": []
     },
     {
-        "match_id": 5991930,
-        "kickoff": 1790452800,
-        "fixture": "Saint Vincent and The Grenadines vs French Guiana",
-        "league_id": 9821,
-        "league": "CONCACAF Nations League B Grp. 4",
-        "venue": "FFB Stadium",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5991931,
-        "kickoff": 1790452800,
-        "fixture": "Sint Maarten vs Belize",
-        "league_id": 9821,
-        "league": "CONCACAF Nations League B Grp. 4",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 5991939,
-        "kickoff": 1790452800,
+        "kickoff": 1790449200,
         "fixture": "Montserrat vs British Virgin Islands",
         "league_id": 9821,
         "league": "CONCACAF Nations League C Grp. 1",
         "venue": "TCIFA National Stadium",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5991945,
-        "kickoff": 1790452800,
-        "fixture": "Antigua and Barbuda vs Anguilla",
-        "league_id": 9821,
-        "league": "CONCACAF Nations League C Grp. 2",
-        "venue": "Sir Vivian Richards Stadium",
         "tv_channels": []
     },
     {
@@ -3534,6 +3561,15 @@
         "league_id": 9821,
         "league": "CONCACAF Nations League C Grp. 3",
         "venue": "Bethlehem Soccer Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5991930,
+        "kickoff": 1790456400,
+        "fixture": "Saint Vincent and The Grenadines vs French Guiana",
+        "league_id": 9821,
+        "league": "CONCACAF Nations League B Grp. 4",
+        "venue": "FFB Stadium",
         "tv_channels": []
     },
     {
@@ -4434,6 +4470,15 @@
         "league_id": 10872,
         "league": "Northern Super League",
         "venue": "York Lions Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000007318,
+        "kickoff": 1790445600,
+        "fixture": "Cobreloa vs Santiago Wanderers",
+        "league_id": 9126,
+        "league": "Primera B",
+        "venue": "Estadio Zorros del Desierto",
         "tv_channels": []
     },
     {
