@@ -32,7 +32,7 @@
         "fixture": "Foresters FC vs Wiliete Benguela",
         "league_id": 10619,
         "league": "CAF Champions League Qualification",
-        "venue": "TBA",
+        "venue": "Estádio Nacional da Tundavala",
         "tv_channels": []
     },
     {
@@ -41,7 +41,7 @@
         "fixture": "AS Sobemap vs Enugu Rangers",
         "league_id": 10619,
         "league": "CAF Champions League Qualification",
-        "venue": "TBA",
+        "venue": "Stade de Kégué",
         "tv_channels": []
     },
     {
@@ -50,7 +50,7 @@
         "fixture": "APR FC vs Aigles du Congo",
         "league_id": 10619,
         "league": "CAF Champions League Qualification",
-        "venue": "TBA",
+        "venue": "Stade Amahoro",
         "tv_channels": []
     },
     {
@@ -68,6 +68,15 @@
         "fixture": "Firpo vs CD Olimpia",
         "league_id": 9682,
         "league": "CONCACAF Central American Cup",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6133876,
+        "kickoff": 1789056000,
+        "fixture": "Sundby BK vs FC Midtjylland",
+        "league_id": 242,
+        "league": "DBU Pokalen",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -192,6 +201,15 @@
         "match_id": 5862834,
         "kickoff": 1789120800,
         "fixture": "Sokół Kleczew vs Olimpia Grudziądz",
+        "league_id": 8935,
+        "league": "II Liga",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5862684,
+        "kickoff": 1789140600,
+        "fixture": "Resovia vs Lechia Zielona Góra",
         "league_id": 8935,
         "league": "II Liga",
         "venue": "TBA",
@@ -441,24 +459,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5200643,
-        "kickoff": 1789052400,
-        "fixture": "Andijon vs Kokand 1912",
-        "league_id": 540,
-        "league": "Superliga",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5200645,
-        "kickoff": 1789052400,
-        "fixture": "Dinamo Samarkand vs Qizilqum Zarafshon",
-        "league_id": 540,
-        "league": "Superliga",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 5200649,
         "kickoff": 1789052400,
         "fixture": "Xorazm vs Sogdiana",
@@ -469,7 +469,7 @@
     },
     {
         "match_id": 5200644,
-        "kickoff": 1789138800,
+        "kickoff": 1789135200,
         "fixture": "Buxoro vs Navbahor Namangan",
         "league_id": 540,
         "league": "Superliga",
@@ -478,7 +478,7 @@
     },
     {
         "match_id": 5200722,
-        "kickoff": 1789138800,
+        "kickoff": 1789135200,
         "fixture": "Lokomotiv Tashkent vs Mashal Muborak",
         "league_id": 540,
         "league": "Superliga",
@@ -699,6 +699,15 @@
         "league_id": 223,
         "league": "J. League",
         "venue": "NOEVIR Stadium Kobe",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5943229,
+        "kickoff": 1789063200,
+        "fixture": "Panathinaikos vs Kifisia FC",
+        "league_id": 135,
+        "league": "Super League",
+        "venue": "Olympiako Stadio Spyros Louis",
         "tv_channels": []
     },
     {
@@ -1062,6 +1071,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 5882286,
+        "kickoff": 1789152300,
+        "fixture": "Deportivo de A Coruña (W) vs Real Madrid (W)",
+        "league_id": 9907,
+        "league": "Liga F",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5974705,
         "kickoff": 1789149600,
         "fixture": "UN Käerjeng 97 vs FC Victoria Rosport",
@@ -1215,33 +1233,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5970139,
-        "kickoff": 1789140300,
-        "fixture": "Al Qadsiah vs Al-Ettifaq",
-        "league_id": 536,
-        "league": "Saudi Pro League",
-        "venue": "Prince Mohammed Bin Fahd Stadium",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5970137,
-        "kickoff": 1789141500,
-        "fixture": "Al-Faisaly vs Al Ittihad",
-        "league_id": 536,
-        "league": "Saudi Pro League",
-        "venue": "Al Majma'ah Sports City Stadium",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5970135,
-        "kickoff": 1789149600,
-        "fixture": "Al Ahli vs Al Hazem",
-        "league_id": 536,
-        "league": "Saudi Pro League",
-        "venue": "Prince Abdullah Al Faisal Sports City Stadium",
-        "tv_channels": []
-    },
-    {
         "match_id": 5991415,
         "kickoff": 1789153200,
         "fixture": "Audace Cerignola vs Giugliano",
@@ -1293,6 +1284,15 @@
         "league_id": 331,
         "league": "Toppserien",
         "venue": "Aspmyra Stadion",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6145937,
+        "kickoff": 1789140600,
+        "fixture": "FC Jazz vs KPV",
+        "league_id": 8969,
+        "league": "Ykkonen Relegation Group",
+        "venue": "TBA",
         "tv_channels": []
     },
     {
@@ -1824,6 +1824,33 @@
         "league_id": 55,
         "league": "Serie A",
         "venue": "Stadio Pier Luigi Penzo",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5904747,
+        "kickoff": 1789146000,
+        "fixture": "Beşiktaş vs Erzurumspor FK",
+        "league_id": 71,
+        "league": "Super Lig",
+        "venue": "Tupras Stadyumu",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5853498,
+        "kickoff": 1789138800,
+        "fixture": "FCV Farul Constanța vs UTA Arad",
+        "league_id": 189,
+        "league": "Superliga",
+        "venue": "Stadionul Viitorul",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5853497,
+        "kickoff": 1789149600,
+        "fixture": "Csikszereda Miercurea Ciuc vs Dinamo București",
+        "league_id": 189,
+        "league": "Superliga",
+        "venue": "Stadionul Municipal, Miercurea Ciuc",
         "tv_channels": []
     },
     {
