@@ -878,7 +878,7 @@
         "fixture": "Degerfors vs Halmstads BK",
         "league_id": 67,
         "league": "Allsvenskan",
-        "venue": "Stora Valla B-plan",
+        "venue": "Stora Valla",
         "tv_channels": []
     },
     {
@@ -1233,18 +1233,18 @@
         "tv_channels": []
     },
     {
-        "match_id": 5207215,
-        "kickoff": 1788606000,
-        "fixture": "Changchun Yatai vs Ningbo Professional",
+        "match_id": 5207216,
+        "kickoff": 1788593400,
+        "fixture": "Shaanxi Union vs Dingnan United",
         "league_id": 9137,
         "league": "China League",
         "venue": "TBA",
         "tv_channels": []
     },
     {
-        "match_id": 5207216,
+        "match_id": 5207215,
         "kickoff": 1788606000,
-        "fixture": "Shaanxi Union vs Dingnan United",
+        "fixture": "Changchun Yatai vs Ningbo Professional",
         "league_id": 9137,
         "league": "China League",
         "venue": "TBA",
@@ -3834,6 +3834,51 @@
         "tv_channels": []
     },
     {
+        "match_id": 5144189,
+        "kickoff": 1788606000,
+        "fixture": "Stord vs Fana",
+        "league_id": 205,
+        "league": "3. Divisjon Avd. 3",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5144188,
+        "kickoff": 1788609600,
+        "fixture": "Djerv 1919 vs Askøy",
+        "league_id": 205,
+        "league": "3. Divisjon Avd. 3",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5144192,
+        "kickoff": 1788612300,
+        "fixture": "Austevoll vs Varegg",
+        "league_id": 205,
+        "league": "3. Divisjon Avd. 3",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5144190,
+        "kickoff": 1788613200,
+        "fixture": "Os vs Førde",
+        "league_id": 205,
+        "league": "3. Divisjon Avd. 3",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5144191,
+        "kickoff": 1788613200,
+        "fixture": "Sogndal 2 vs FK Fyllingsdalen",
+        "league_id": 205,
+        "league": "3. Divisjon Avd. 3",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5144370,
         "kickoff": 1788606000,
         "fixture": "Våg vs Åkra",
@@ -3956,51 +4001,6 @@
         "fixture": "Nardo vs Spjelkavik",
         "league_id": 205,
         "league": "3. Divisjon Avd. 2",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5144188,
-        "kickoff": 1788609600,
-        "fixture": "Djerv 1919 vs Askøy",
-        "league_id": 205,
-        "league": "3. Divisjon Avd. 3",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5144189,
-        "kickoff": 1788609600,
-        "fixture": "Stord vs Fana",
-        "league_id": 205,
-        "league": "3. Divisjon Avd. 3",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5144192,
-        "kickoff": 1788613200,
-        "fixture": "Austevoll vs Varegg",
-        "league_id": 205,
-        "league": "3. Divisjon Avd. 3",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5144190,
-        "kickoff": 1788613200,
-        "fixture": "Os vs Førde",
-        "league_id": 205,
-        "league": "3. Divisjon Avd. 3",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5144191,
-        "kickoff": 1788613200,
-        "fixture": "Sogndal 2 vs FK Fyllingsdalen",
-        "league_id": 205,
-        "league": "3. Divisjon Avd. 3",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -4455,15 +4455,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 6022231,
-        "kickoff": 1788606000,
-        "fixture": "Leeds U18 vs Burnley U18",
-        "league_id": 10068,
-        "league": "Premier League U18",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 6022232,
         "kickoff": 1788606000,
         "fixture": "Man United U18 vs Middlesbrough U18",
@@ -4485,6 +4476,15 @@
         "match_id": 6022237,
         "kickoff": 1788609600,
         "fixture": "Birmingham U18 vs Ipswich U18",
+        "league_id": 10068,
+        "league": "Premier League U18",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6022231,
+        "kickoff": 1788609600,
+        "fixture": "Leeds U18 vs Burnley U18",
         "league_id": 10068,
         "league": "Premier League U18",
         "venue": "TBA",
@@ -4654,7 +4654,7 @@
     },
     {
         "match_id": 5883633,
-        "kickoff": 1788606000,
+        "kickoff": 1788602400,
         "fixture": "Real Madrid Castilla vs Juventud Torremolinos CF",
         "league_id": 8968,
         "league": "Primera Federacion - Group 2",
@@ -5869,11 +5869,11 @@
     },
     {
         "match_id": 1000015460,
-        "kickoff": 1788616800,
+        "kickoff": 1788607800,
         "fixture": "Gent U23 vs Anderlecht Futures",
         "league_id": 264,
         "league": "First Division B",
-        "venue": "Planet Group Arena",
+        "venue": "Burg Van De Wielestadion",
         "tv_channels": []
     },
     {
@@ -6170,7 +6170,7 @@
         "fixture": "Bavel vs AZSV",
         "league_id": 10668,
         "league": "KNVB Beker Women",
-        "venue": "Sportpark De Roosberg veld B",
+        "venue": "Sportpark De Roosberg veld A",
         "tv_channels": []
     },
     {
@@ -6296,7 +6296,7 @@
         "fixture": "Zaandijk vs RV & AV Sparta",
         "league_id": 10668,
         "league": "KNVB Beker Women",
-        "venue": "TBA",
+        "venue": "Sportpark Schanszicht",
         "tv_channels": []
     },
     {
@@ -6372,15 +6372,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000007752,
-        "kickoff": 1788561000,
-        "fixture": "Carolina Core FC vs New England Revolution II",
-        "league_id": 10282,
-        "league": "MLS Next Pro",
-        "venue": "Truist Point Stadium",
-        "tv_channels": []
-    },
-    {
         "match_id": 1000007754,
         "kickoff": 1788562800,
         "fixture": "Inter Miami CF II vs Orlando City B",
@@ -6414,6 +6405,15 @@
         "league_id": 10282,
         "league": "MLS Next Pro",
         "venue": "SaberCats Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000007752,
+        "kickoff": 1788564600,
+        "fixture": "Carolina Core FC vs New England Revolution II",
+        "league_id": 10282,
+        "league": "MLS Next Pro",
+        "venue": "Truist Point Stadium",
         "tv_channels": []
     },
     {
@@ -6570,15 +6570,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000013227,
-        "kickoff": 1788568200,
-        "fixture": "Deportes Concepción vs Audax Italiano",
-        "league_id": 273,
-        "league": "Primera División",
-        "venue": "Estadio Municipal Alcaldesa Ester Roa Rebolledo",
-        "tv_channels": []
-    },
-    {
         "match_id": 1000019032,
         "kickoff": 1788548400,
         "fixture": "CDT Real Oruro vs San Antonio Bulo Bulo",
@@ -6603,6 +6594,15 @@
         "league_id": 144,
         "league": "Primera División",
         "venue": "Estadio Gilberto Parada",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000013227,
+        "kickoff": 1788568200,
+        "fixture": "Deportes Concepción vs Audax Italiano",
+        "league_id": 273,
+        "league": "Primera División",
+        "venue": "Estadio Municipal Alcaldesa Ester Roa Rebolledo",
         "tv_channels": []
     },
     {
@@ -7092,9 +7092,9 @@
         "tv_channels": []
     },
     {
-        "match_id": 5975010,
+        "match_id": 5975012,
         "kickoff": 1788620400,
-        "fixture": "Port City vs Ashanti Gold",
+        "fixture": "Vision FC vs Young Apostles",
         "league_id": 522,
         "league": "Premier League",
         "venue": "TBA",
@@ -7232,6 +7232,15 @@
         "fixture": "Atletico Madrid C vs Real Ávila",
         "league_id": 9138,
         "league": "Segunda Federacion - Group 5",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5885197,
+        "kickoff": 1788634800,
+        "fixture": "CD Estepona vs Xerez",
+        "league_id": 9138,
+        "league": "Segunda Federacion - Group 4",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -7399,29 +7408,11 @@
     },
     {
         "match_id": 1000014131,
-        "kickoff": 1788634800,
+        "kickoff": 1788642000,
         "fixture": "Chicó FC vs Once Caldas",
         "league_id": 274,
         "league": "Primera A",
         "venue": "Estadio de La Independencia",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000014130,
-        "kickoff": 1788642000,
-        "fixture": "Santa Fe vs Fortaleza FC",
-        "league_id": 274,
-        "league": "Primera A",
-        "venue": "Estadio Nemesio Camacho El Campín",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000018905,
-        "kickoff": 1788642000,
-        "fixture": "Portuguesa FC vs Zamora FC",
-        "league_id": 339,
-        "league": "Primera División",
-        "venue": "Estadio General José Antonio Páez",
         "tv_channels": []
     },
     {
