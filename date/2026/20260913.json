@@ -1621,7 +1621,7 @@
     },
     {
         "match_id": 5127572,
-        "kickoff": 1789308000,
+        "kickoff": 1789304400,
         "fixture": "AFC Eskilstuna vs Piteå",
         "league_id": 169,
         "league": "Ettan Norra",
@@ -5491,7 +5491,7 @@
     },
     {
         "match_id": 1000021891,
-        "kickoff": 1789257600,
+        "kickoff": 1789308000,
         "fixture": "Stjarnan vs ÍBV Vestmannaeyjar",
         "league_id": 215,
         "league": "Besta deildin",
@@ -5500,7 +5500,7 @@
     },
     {
         "match_id": 1000021892,
-        "kickoff": 1789257600,
+        "kickoff": 1789308000,
         "fixture": "FH Hafnarfjörður vs KA Akureyri",
         "league_id": 215,
         "league": "Besta deildin",
@@ -5509,7 +5509,7 @@
     },
     {
         "match_id": 1000021893,
-        "kickoff": 1789257600,
+        "kickoff": 1789308000,
         "fixture": "Valur vs Thór Akureyri",
         "league_id": 215,
         "league": "Besta deildin",
@@ -5517,30 +5517,12 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000021876,
-        "kickoff": 1789257600,
-        "fixture": "Víkingur Reykjavík vs Keflavík",
-        "league_id": 215,
-        "league": "Besta deildin",
-        "venue": "Víkingsvöllur",
-        "tv_channels": []
-    },
-    {
         "match_id": 1000021877,
-        "kickoff": 1789257600,
+        "kickoff": 1789308000,
         "fixture": "KR Reykjavík vs ÍA Akranes",
         "league_id": 215,
         "league": "Besta deildin",
         "venue": "Meistaravellir",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000021878,
-        "kickoff": 1789257600,
-        "fixture": "Fram Reykjavík vs Breiðablik",
-        "league_id": 215,
-        "league": "Besta deildin",
-        "venue": "Lambhagavöllurinn",
         "tv_channels": []
     },
     {
@@ -5699,7 +5681,7 @@
     {
         "match_id": 1000021798,
         "kickoff": 1789257600,
-        "fixture": "Linense vs TBC",
+        "fixture": "Linense vs Grêmio Prudente",
         "league_id": 11646,
         "league": "Copa Paulista",
         "venue": "TBA",
@@ -5708,7 +5690,7 @@
     {
         "match_id": 1000021799,
         "kickoff": 1789257600,
-        "fixture": "São José-SP vs TBC",
+        "fixture": "São José-SP vs Comercial SP",
         "league_id": 11646,
         "league": "Copa Paulista",
         "venue": "TBA",
@@ -5717,7 +5699,7 @@
     {
         "match_id": 1000021800,
         "kickoff": 1789257600,
-        "fixture": "Juventus-SP vs TBC",
+        "fixture": "Juventus-SP vs União São João",
         "league_id": 11646,
         "league": "Copa Paulista",
         "venue": "TBA",
@@ -5726,10 +5708,37 @@
     {
         "match_id": 1000021801,
         "kickoff": 1789257600,
-        "fixture": "Noroeste vs TBC",
+        "fixture": "Noroeste vs Primavera SP",
         "league_id": 11646,
         "league": "Copa Paulista",
         "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000017405,
+        "kickoff": 1789239600,
+        "fixture": "Guaraní vs Cerro Porteño",
+        "league_id": 199,
+        "league": "Division Profesional",
+        "venue": "Estadio Luís Alfonso Giagni",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000017406,
+        "kickoff": 1789248600,
+        "fixture": "Recoleta vs Sportivo Trinidense",
+        "league_id": 199,
+        "league": "Division Profesional",
+        "venue": "Estadio Ricardo Gregor",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000017407,
+        "kickoff": 1789326000,
+        "fixture": "Olimpia vs Luqueño",
+        "league_id": 199,
+        "league": "Division Profesional",
+        "venue": "Estadio ueno Defensores del Chaco",
         "tv_channels": []
     },
     {
@@ -5811,6 +5820,51 @@
         "league_id": 9116,
         "league": "K League 2",
         "venue": "Suwon Sports Complex",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000021909,
+        "kickoff": 1789225200,
+        "fixture": "SV Orion vs Be Quick '28",
+        "league_id": 10668,
+        "league": "KNVB Beker Women",
+        "venue": "Sportpark Mariënbosch",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000021911,
+        "kickoff": 1789228800,
+        "fixture": "Ajax Amateurs vs UDI '19",
+        "league_id": 10668,
+        "league": "KNVB Beker Women",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000021912,
+        "kickoff": 1789228800,
+        "fixture": "VV Hoogland vs RV & AV Sparta",
+        "league_id": 10668,
+        "league": "KNVB Beker Women",
+        "venue": "Sportpark Langenoord",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000021913,
+        "kickoff": 1789228800,
+        "fixture": "ADO '20 vs DTS Ede",
+        "league_id": 10668,
+        "league": "KNVB Beker Women",
+        "venue": "Sportpark De Vlotter",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000021914,
+        "kickoff": 1789228800,
+        "fixture": "RKSV Nuenen vs Berkel",
+        "league_id": 10668,
+        "league": "KNVB Beker Women",
+        "venue": "Sportpark Oude Landen",
         "tv_channels": []
     },
     {
@@ -5923,7 +5977,7 @@
     },
     {
         "match_id": 1000014570,
-        "kickoff": 1789261200,
+        "kickoff": 1789261800,
         "fixture": "Monterrey vs Tigres",
         "league_id": 230,
         "league": "Liga MX",
@@ -5932,7 +5986,7 @@
     },
     {
         "match_id": 1000014567,
-        "kickoff": 1789268400,
+        "kickoff": 1789269300,
         "fixture": "Cruz Azul vs América",
         "league_id": 230,
         "league": "Liga MX",
@@ -6084,15 +6138,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000019123,
-        "kickoff": 1789225200,
-        "fixture": "Fulham U21 vs Aston Villa U21",
-        "league_id": 9084,
-        "league": "Premier League 2",
-        "venue": "Motspur Park",
-        "tv_channels": []
-    },
-    {
         "match_id": 1000019124,
         "kickoff": 1789236000,
         "fixture": "Manchester City U21 vs Manchester United U21",
@@ -6125,7 +6170,7 @@
         "fixture": "Chippa United vs Mamelodi Sundowns FC",
         "league_id": 537,
         "league": "Premier Soccer League",
-        "venue": "Nelson Mandela Bay Stadium",
+        "venue": "Buffalo City Stadium",
         "tv_channels": []
     },
     {
@@ -6462,66 +6507,21 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000009105,
-        "kickoff": 1789257600,
-        "fixture": "CSD Macará vs Emelec",
-        "league_id": 246,
-        "league": "Serie A",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 1000009106,
-        "kickoff": 1789257600,
+        "kickoff": 1789239600,
         "fixture": "Manta vs Aucas",
         "league_id": 246,
         "league": "Serie A",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000009107,
-        "kickoff": 1789257600,
-        "fixture": "Libertad vs Independiente del Valle",
-        "league_id": 246,
-        "league": "Serie A",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000009108,
-        "kickoff": 1789257600,
-        "fixture": "Leones del Norte vs Técnico Universitario",
-        "league_id": 246,
-        "league": "Serie A",
-        "venue": "TBA",
+        "venue": "Estadio Jocay",
         "tv_channels": []
     },
     {
         "match_id": 1000009109,
-        "kickoff": 1789257600,
+        "kickoff": 1789248600,
         "fixture": "Guayaquil City vs Mushuc Runa",
         "league_id": 246,
         "league": "Serie A",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000009110,
-        "kickoff": 1789257600,
-        "fixture": "Barcelona SC vs Delfín",
-        "league_id": 246,
-        "league": "Serie A",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000009111,
-        "kickoff": 1789257600,
-        "fixture": "Universidad Católica vs Orense",
-        "league_id": 246,
-        "league": "Serie A",
-        "venue": "TBA",
+        "venue": "Estadio Christian Benítez Betancourt",
         "tv_channels": []
     },
     {
@@ -6530,7 +6530,7 @@
         "fixture": "LDU de Quito vs Deportivo Cuenca",
         "league_id": 246,
         "league": "Serie A",
-        "venue": "TBA",
+        "venue": "Estadio Rodrigo Paz Delgado",
         "tv_channels": []
     },
     {
@@ -6652,11 +6652,20 @@
     },
     {
         "match_id": 1000015131,
-        "kickoff": 1789311600,
+        "kickoff": 1789308000,
         "fixture": "Radnički Niš vs OFK Beograd",
         "league_id": 182,
         "league": "Super Liga",
         "venue": "Gradski Stadion Čair",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000015129,
+        "kickoff": 1789311600,
+        "fixture": "Partizan Beograd vs Vojvodina",
+        "league_id": 182,
+        "league": "Super Liga",
+        "venue": "Stadion Partizana",
         "tv_channels": []
     },
     {
@@ -6666,15 +6675,6 @@
         "league_id": 182,
         "league": "Super Liga",
         "venue": "Stadion Lagator",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000015129,
-        "kickoff": 1789326000,
-        "fixture": "Partizan Beograd vs Vojvodina",
-        "league_id": 182,
-        "league": "Super Liga",
-        "venue": "Stadion Partizana",
         "tv_channels": []
     },
     {
@@ -7075,7 +7075,7 @@
     },
     {
         "match_id": 5144380,
-        "kickoff": 1789317000,
+        "kickoff": 1789315200,
         "fixture": "Stabæk 2 vs Vindbjart",
         "league_id": 205,
         "league": "3. Divisjon Avd. 4",
