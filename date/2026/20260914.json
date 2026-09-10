@@ -2,7 +2,7 @@
     {
         "match_id": 5795452,
         "kickoff": 1789313400,
-        "fixture": "Man United vs Man City",
+        "fixture": "Manchester United vs Manchester City",
         "league_id": 47,
         "league": "Premier League",
         "venue": "Old Trafford",
@@ -11,7 +11,7 @@
     {
         "match_id": 5795450,
         "kickoff": 1789412400,
-        "fixture": "Leeds vs Newcastle",
+        "fixture": "Leeds United vs Newcastle United",
         "league_id": 47,
         "league": "Premier League",
         "venue": "Elland Road",
@@ -65,7 +65,7 @@
     {
         "match_id": 5802929,
         "kickoff": 1789325100,
-        "fixture": "Brest vs PSG",
+        "fixture": "Brest vs Paris Saint-Germain",
         "league_id": 53,
         "league": "Ligue 1",
         "venue": "Stade Francis-Le Blé",
@@ -74,7 +74,7 @@
     {
         "match_id": 5071363,
         "kickoff": 1789335000,
-        "fixture": "Chicago vs New England",
+        "fixture": "Chicago Fire FC vs New England Revolution",
         "league_id": 130,
         "league": "Major League Soccer",
         "venue": "Soldier Field",
@@ -83,7 +83,7 @@
     {
         "match_id": 5071364,
         "kickoff": 1789338600,
-        "fixture": "Vancouver vs Austin FC",
+        "fixture": "Vancouver Whitecaps vs Austin FC",
         "league_id": 130,
         "league": "Major League Soccer",
         "venue": "BC Place",
@@ -92,7 +92,7 @@
     {
         "match_id": 5071365,
         "kickoff": 1789347600,
-        "fixture": "San Diego FC vs Philadelphia",
+        "fixture": "San Diego FC vs Philadelphia Union",
         "league_id": 130,
         "league": "Major League Soccer",
         "venue": "Snapdragon Stadium",
@@ -227,7 +227,7 @@
     {
         "match_id": 5105255,
         "kickoff": 1789311600,
-        "fixture": "Raufoss vs Odd",
+        "fixture": "Raufoss vs Odds Ballklubb",
         "league_id": 203,
         "league": "1. Divisjon",
         "venue": "NAMMO stadion",
@@ -497,7 +497,7 @@
     {
         "match_id": 5105006,
         "kickoff": 1789311600,
-        "fixture": "HamKam vs Molde",
+        "fixture": "Hamarkameratene vs Molde",
         "league_id": 59,
         "league": "Eliteserien",
         "venue": "Briskeby Arena",
@@ -911,7 +911,7 @@
     {
         "match_id": 6148068,
         "kickoff": 1789327800,
-        "fixture": "Peñarol vs Albion",
+        "fixture": "Club Atletico Peñarol vs Albion",
         "league_id": 161,
         "league": "Liga AUF Uruguaya Clausura",
         "venue": "TBA",
@@ -929,7 +929,7 @@
     {
         "match_id": 5898721,
         "kickoff": 1789322400,
-        "fixture": "UDG vs Atlético La Paz",
+        "fixture": "Leones Negros vs Atlético La Paz",
         "league_id": 8976,
         "league": "Liga de Expansion MX Apertura",
         "venue": "Estadio Jalisco",
@@ -1143,6 +1143,33 @@
         "tv_channels": []
     },
     {
+        "match_id": 6050498,
+        "kickoff": 1789311600,
+        "fixture": "CS Hammam-Lif vs Espérance",
+        "league_id": 544,
+        "league": "Ligue I",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6050499,
+        "kickoff": 1789311600,
+        "fixture": "JS Omrane vs Etoile Métlaoui",
+        "league_id": 544,
+        "league": "Ligue I",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6050501,
+        "kickoff": 1789311600,
+        "fixture": "Olympique de Béja vs PS Sakiet Eddaïer",
+        "league_id": 544,
+        "league": "Ligue I",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5954331,
         "kickoff": 1789333200,
         "fixture": "Herrera FC vs UMECIT FC",
@@ -1226,7 +1253,7 @@
     {
         "match_id": 5144382,
         "kickoff": 1789401600,
-        "fixture": "Åkra vs Odd 2",
+        "fixture": "Åkra vs Odds Ballklubb 2",
         "league_id": 205,
         "league": "3. Divisjon Avd. 4",
         "venue": "TBA",
@@ -1343,7 +1370,7 @@
     {
         "match_id": 5847179,
         "kickoff": 1789317000,
-        "fixture": "Krasnodar vs Akron Togliatti",
+        "fixture": "FC Krasnodar vs Akron Togliatti",
         "league_id": 63,
         "league": "Premier League",
         "venue": "Ozon Arena",
@@ -1499,6 +1526,24 @@
         "fixture": "Kagera Sugar vs Fountain Gate FC",
         "league_id": 9066,
         "league": "Premier League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5114047,
+        "kickoff": 1789322400,
+        "fixture": "Argentino de Quilmes vs Deportivo Merlo",
+        "league_id": 9213,
+        "league": "Primera B Metropolitana",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5114053,
+        "kickoff": 1789322400,
+        "fixture": "Flandria vs CASD Camioneros",
+        "league_id": 9213,
+        "league": "Primera B Metropolitana",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -2088,53 +2133,8 @@
         "tv_channels": []
     },
     {
-        "match_id": 6140188,
-        "kickoff": 1789311600,
-        "fixture": "AE Larissa vs Zakynthos APS",
-        "league_id": 8815,
-        "league": "Super League 2",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6140191,
-        "kickoff": 1789311600,
-        "fixture": "GS Marko vs Athens Kallithea FC",
-        "league_id": 8815,
-        "league": "Super League 2",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6140190,
-        "kickoff": 1789311600,
-        "fixture": "Hellas Syros vs Anagennisi Karditsas",
-        "league_id": 8815,
-        "league": "Super League 2",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6140189,
-        "kickoff": 1789311600,
-        "fixture": "Nestos Chrisoupolis vs Pyrgos AFC",
-        "league_id": 8815,
-        "league": "Super League 2",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6140192,
-        "kickoff": 1789311600,
-        "fixture": "Niki Volou vs Olympiacos B",
-        "league_id": 8815,
-        "league": "Super League 2",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 6140193,
-        "kickoff": 1789311600,
+        "kickoff": 1789390800,
         "fixture": "Panionios vs Kalamaria",
         "league_id": 8815,
         "league": "Super League 2",
@@ -2142,17 +2142,8 @@
         "tv_channels": []
     },
     {
-        "match_id": 6140194,
-        "kickoff": 1789311600,
-        "fixture": "Panserraikos FC vs Asteras Tripolis B",
-        "league_id": 8815,
-        "league": "Super League 2",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 6140195,
-        "kickoff": 1789311600,
+        "kickoff": 1789394400,
         "fixture": "Panthrakikos Komotini vs PAOK Thessaloniki B",
         "league_id": 8815,
         "league": "Super League 2",
@@ -2255,7 +2246,7 @@
         "fixture": "FCSB vs Petrolul Ploiești",
         "league_id": 189,
         "league": "Superliga",
-        "venue": "Stadionul Steaua",
+        "venue": "Arena Naţională",
         "tv_channels": []
     },
     {
@@ -2324,7 +2315,7 @@
     {
         "match_id": 5908625,
         "kickoff": 1789318800,
-        "fixture": "Karagümrük vs Manisa Futbol Kulübü",
+        "fixture": "Fatih Karagümrük vs Manisa Futbol Kulübü",
         "league_id": 165,
         "league": "1. Lig",
         "venue": "Yusuf Ziya Öniş Stadyumu",
@@ -2412,6 +2403,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 1000021803,
+        "kickoff": 1789326000,
+        "fixture": "Comercial SP vs São José-SP",
+        "league_id": 11646,
+        "league": "Copa Paulista",
+        "venue": "Estádio Dr. Francisco de Palma Travassos",
+        "tv_channels": []
+    },
+    {
         "match_id": 1000017407,
         "kickoff": 1789326000,
         "fixture": "Olimpia vs Luqueño",
@@ -2439,6 +2439,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 1000021915,
+        "kickoff": 1789322400,
+        "fixture": "AZSV vs SV Saestum II",
+        "league_id": 10668,
+        "league": "KNVB Beker Women",
+        "venue": "Sportpark Villekamp",
+        "tv_channels": []
+    },
+    {
         "match_id": 1000017232,
         "kickoff": 1789322400,
         "fixture": "Sport Boys vs Deportivo Garcilaso",
@@ -2459,7 +2468,7 @@
     {
         "match_id": 1000014568,
         "kickoff": 1789344000,
-        "fixture": "Santos vs Juárez",
+        "fixture": "Santos Laguna vs FC Juárez",
         "league_id": 230,
         "league": "Liga MX",
         "venue": "Estadio Corona",
@@ -2648,7 +2657,7 @@
     {
         "match_id": 1000020022,
         "kickoff": 1789313400,
-        "fixture": "Kheybar vs Persepolis",
+        "fixture": "Kheybar Khorramabad vs Persepolis",
         "league_id": 523,
         "league": "Persian Gulf",
         "venue": "Takhti Stadium",
@@ -2657,7 +2666,7 @@
     {
         "match_id": 1000020023,
         "kickoff": 1789313400,
-        "fixture": "Mes Shahr Babak vs Nassaji",
+        "fixture": "Mes Shahr Babak vs Nassaji Mazandaran FC",
         "league_id": 523,
         "league": "Persian Gulf",
         "venue": "Sardar Soleimani Stadium",
@@ -2666,7 +2675,7 @@
     {
         "match_id": 1000020024,
         "kickoff": 1789313400,
-        "fixture": "Malavan vs Foolad",
+        "fixture": "Malavan vs Foolad Khuzestan",
         "league_id": 523,
         "league": "Persian Gulf",
         "venue": "Sirous Ghayeghran Stadium",
@@ -2675,7 +2684,7 @@
     {
         "match_id": 1000020025,
         "kickoff": 1789315200,
-        "fixture": "Fajr Sepasi vs Aluminium",
+        "fixture": "Fajr Sepasi vs Aluminium Arak",
         "league_id": 523,
         "league": "Persian Gulf",
         "venue": "Grand Shiraz Stadium",
@@ -2714,7 +2723,7 @@
         "fixture": "Deportivo Pereira vs Bucaramanga",
         "league_id": 274,
         "league": "Primera A",
-        "venue": "TBA",
+        "venue": "Estadio Deportivo Cali",
         "tv_channels": []
     },
     {
@@ -2862,6 +2871,33 @@
         "tv_channels": []
     },
     {
+        "match_id": 1000018915,
+        "kickoff": 1789327800,
+        "fixture": "Rayo Zuliano vs Portuguesa FC",
+        "league_id": 339,
+        "league": "Primera División",
+        "venue": "Estadio Olímpico José Encarnación Pachencho Romero",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000018910,
+        "kickoff": 1789329600,
+        "fixture": "Zamora FC vs Trujillanos FC",
+        "league_id": 339,
+        "league": "Primera División",
+        "venue": "Estadio Rafael Agustín Tovar",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000018909,
+        "kickoff": 1789335000,
+        "fixture": "Caracas vs Monagas SC",
+        "league_id": 339,
+        "league": "Primera División",
+        "venue": "Estadio Olímpico de la UCV",
+        "tv_channels": []
+    },
+    {
         "match_id": 1000018450,
         "kickoff": 1789313400,
         "fixture": "Hajer vs Al Jabalain",
@@ -2949,6 +2985,42 @@
         "league_id": 536,
         "league": "Saudi Pro League",
         "venue": "Al-Awwal Park",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000009108,
+        "kickoff": 1789322400,
+        "fixture": "Leones del Norte vs Técnico Universitario",
+        "league_id": 246,
+        "league": "Serie A",
+        "venue": "Estadio Olímpico de Ibarra",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000009105,
+        "kickoff": 1789331400,
+        "fixture": "CSD Macará vs Emelec",
+        "league_id": 246,
+        "league": "Serie A",
+        "venue": "Estadio Bellavista Universidad Indoamérica",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000009107,
+        "kickoff": 1789340400,
+        "fixture": "Libertad vs Independiente del Valle",
+        "league_id": 246,
+        "league": "Serie A",
+        "venue": "Estadio Federativo Reina del Cisne",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000009110,
+        "kickoff": 1789340400,
+        "fixture": "Barcelona SC vs Delfín",
+        "league_id": 246,
+        "league": "Serie A",
+        "venue": "Estadio Monumental Banco Pichincha",
         "tv_channels": []
     },
     {
@@ -3152,7 +3224,7 @@
     {
         "match_id": 5897610,
         "kickoff": 1789403400,
-        "fixture": "Veles Moscow vs Sochi",
+        "fixture": "Veles Moscow vs PFC Sochi",
         "league_id": 338,
         "league": "First League",
         "venue": "TBA",
