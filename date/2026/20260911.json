@@ -55,7 +55,7 @@
     },
     {
         "match_id": 5796347,
-        "kickoff": 1789059600,
+        "kickoff": 1789063200,
         "fixture": "Budućnost Podgorica vs Jezero",
         "league_id": 232,
         "league": "1. CFL",
@@ -64,7 +64,7 @@
     },
     {
         "match_id": 5796345,
-        "kickoff": 1789059600,
+        "kickoff": 1789063200,
         "fixture": "FK Arsenal Tivat vs OFK Mladost Donja Gorica",
         "league_id": 232,
         "league": "1. CFL",
@@ -73,7 +73,7 @@
     },
     {
         "match_id": 5796346,
-        "kickoff": 1789059600,
+        "kickoff": 1789063200,
         "fixture": "FK Bokelj vs Otrant",
         "league_id": 232,
         "league": "1. CFL",
@@ -87,6 +87,15 @@
         "league_id": 10619,
         "league": "CAF Champions League Qualification",
         "venue": "Estádio Nacional da Tundavala",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6019475,
+        "kickoff": 1789135200,
+        "fixture": "15 de Agosto vs Fomboni",
+        "league_id": 10619,
+        "league": "CAF Champions League Qualification",
+        "venue": "Stade Omnisport Ahmadou Ahidjo",
         "tv_channels": []
     },
     {
@@ -316,7 +325,7 @@
     },
     {
         "match_id": 5861253,
-        "kickoff": 1789084800,
+        "kickoff": 1789088400,
         "fixture": "Deportivo Malacateco vs Antigua Guatemala",
         "league_id": 336,
         "league": "Liga Nacional Apertura",
@@ -406,7 +415,7 @@
     },
     {
         "match_id": 5909155,
-        "kickoff": 1789129800,
+        "kickoff": 1789120800,
         "fixture": "FC Kolos Kovalivka vs Karpaty",
         "league_id": 441,
         "league": "Premier League",
@@ -450,20 +459,20 @@
         "tv_channels": []
     },
     {
-        "match_id": 5962416,
-        "kickoff": 1789084800,
-        "fixture": "Inter Santa Tecla vs CD FAS",
-        "league_id": 335,
-        "league": "Primera Division - Apertura",
+        "match_id": 5804934,
+        "kickoff": 1789135200,
+        "fixture": "Arsimi vs KF Shkendija",
+        "league_id": 249,
+        "league": "Prva Liga",
         "venue": "TBA",
         "tv_channels": []
     },
     {
-        "match_id": 5962417,
-        "kickoff": 1789092000,
-        "fixture": "Alianza FC vs Fuerte San Francisco",
-        "league_id": 335,
-        "league": "Primera Division - Apertura",
+        "match_id": 5804938,
+        "kickoff": 1789135200,
+        "fixture": "GFK Tikves Kavadarci vs FK Struga",
+        "league_id": 249,
+        "league": "Prva Liga",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -496,7 +505,7 @@
     },
     {
         "match_id": 6028552,
-        "kickoff": 1789066800,
+        "kickoff": 1789061400,
         "fixture": "Al Quwa Al Jawiya vs Al Zawraa",
         "league_id": 524,
         "league": "Stars League",
@@ -519,15 +528,6 @@
         "league_id": 8983,
         "league": "Super League",
         "venue": "Pakansari Stadium",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6011839,
-        "kickoff": 1789115400,
-        "fixture": "Isenmulang Kalteng vs Bali United FC",
-        "league_id": 8983,
-        "league": "Super League",
-        "venue": "Tuah Pahoe Stadium",
         "tv_channels": []
     },
     {
@@ -783,15 +783,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000007308,
-        "kickoff": 1789081200,
-        "fixture": "Antofagasta vs Cobreloa",
-        "league_id": 9126,
-        "league": "Primera B",
-        "venue": "Estadio Regional Calvo y Bascuñán",
-        "tv_channels": []
-    },
-    {
         "match_id": 1000013669,
         "kickoff": 1789077600,
         "fixture": "Orsomarso vs Tigres FC",
@@ -807,6 +798,15 @@
         "league_id": 9125,
         "league": "Primera B",
         "venue": "Estadio de La Independencia",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000007308,
+        "kickoff": 1789081200,
+        "fixture": "Antofagasta vs Cobreloa",
+        "league_id": 9126,
+        "league": "Primera B",
+        "venue": "Estadio Regional Calvo y Bascuñán",
         "tv_channels": []
     },
     {
@@ -882,21 +882,21 @@
         "tv_channels": []
     },
     {
-        "match_id": 5190700,
-        "kickoff": 1789079400,
-        "fixture": "São Bernardo vs Londrina",
-        "league_id": 8814,
-        "league": "Série B",
-        "venue": "Estádio Primeiro de Maio",
-        "tv_channels": []
-    },
-    {
         "match_id": 5190708,
         "kickoff": 1789079400,
         "fixture": "Vila Nova vs Goiás",
         "league_id": 8814,
         "league": "Série B",
         "venue": "Estádio Onésio Brasileiro Alvarenga",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5190700,
+        "kickoff": 1789084800,
+        "fixture": "São Bernardo vs Londrina",
+        "league_id": 8814,
+        "league": "Série B",
+        "venue": "Estádio Primeiro de Maio",
         "tv_channels": []
     },
     {
@@ -1687,6 +1687,15 @@
         "kickoff": 1789147800,
         "fixture": "AB Argir vs B68 Toftir",
         "league_id": 250,
+        "league": "Premier League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5927600,
+        "kickoff": 1789149600,
+        "fixture": "Čelik Zenica vs Radnik Bijeljina",
+        "league_id": 267,
         "league": "Premier League",
         "venue": "TBA",
         "tv_channels": []
