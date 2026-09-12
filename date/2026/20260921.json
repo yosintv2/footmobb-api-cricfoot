@@ -644,7 +644,7 @@
         "fixture": "Tapatío vs Tlaxcala FC",
         "league_id": 8976,
         "league": "Liga de Expansion MX Apertura",
-        "venue": "Estadio Akron",
+        "venue": "Estadio Jalisco",
         "tv_channels": []
     },
     {
@@ -1215,6 +1215,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 5113467,
+        "kickoff": 1789927200,
+        "fixture": "Deportivo Morón vs Godoy Cruz",
+        "league_id": 8965,
+        "league": "Primera Nacional",
+        "venue": "Estadio Nuevo Francisco Urbano",
+        "tv_channels": []
+    },
+    {
         "match_id": 5113083,
         "kickoff": 1789927200,
         "fixture": "Tristán Suárez vs Atlanta",
@@ -1239,15 +1248,6 @@
         "league_id": 8965,
         "league": "Primera Nacional",
         "venue": "Estadio Omar Higinio Sperdutti",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5113467,
-        "kickoff": 1789929000,
-        "fixture": "Deportivo Morón vs Godoy Cruz",
-        "league_id": 8965,
-        "league": "Primera Nacional",
-        "venue": "Estadio Nuevo Francisco Urbano",
         "tv_channels": []
     },
     {
@@ -1404,11 +1404,20 @@
         "tv_channels": []
     },
     {
-        "match_id": 5921176,
-        "kickoff": 1789916400,
-        "fixture": "Atlético Astorga vs Marino Luanco",
-        "league_id": 9138,
-        "league": "Segunda Federacion - Group 1",
+        "match_id": 6219801,
+        "kickoff": 1789923600,
+        "fixture": "Cerrito vs River Plate",
+        "league_id": 9122,
+        "league": "Segunda Division",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6219802,
+        "kickoff": 1789934400,
+        "fixture": "Rentistas vs Oriental",
+        "league_id": 9122,
+        "league": "Segunda Division",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -1422,45 +1431,9 @@
         "tv_channels": []
     },
     {
-        "match_id": 5884138,
-        "kickoff": 1789916400,
-        "fixture": "CD Basconia vs Arosa SC",
-        "league_id": 9138,
-        "league": "Segunda Federacion - Group 1",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 5884129,
         "kickoff": 1789916400,
         "fixture": "Compostela vs Sestao",
-        "league_id": 9138,
-        "league": "Segunda Federacion - Group 1",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5884166,
-        "kickoff": 1789916400,
-        "fixture": "Deportivo Alavés B vs Real Oviedo B",
-        "league_id": 9138,
-        "league": "Segunda Federacion - Group 1",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5884132,
-        "kickoff": 1789916400,
-        "fixture": "Ourense vs Eibar B",
-        "league_id": 9138,
-        "league": "Segunda Federacion - Group 1",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5884134,
-        "kickoff": 1789916400,
-        "fixture": "Rayo Cantabria vs SD Amorebieta",
         "league_id": 9138,
         "league": "Segunda Federacion - Group 1",
         "venue": "TBA",
@@ -1485,33 +1458,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5884498,
-        "kickoff": 1789916400,
-        "fixture": "Barbastro vs Barça Atlètic",
-        "league_id": 9138,
-        "league": "Segunda Federacion - Group 2",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5884501,
-        "kickoff": 1789916400,
-        "fixture": "Osasuna B vs Ebro",
-        "league_id": 9138,
-        "league": "Segunda Federacion - Group 2",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5884503,
-        "kickoff": 1789916400,
-        "fixture": "Reus vs Náxara",
-        "league_id": 9138,
-        "league": "Segunda Federacion - Group 2",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 5884504,
         "kickoff": 1789916400,
         "fixture": "SD Logroñés vs Girona B",
@@ -1530,6 +1476,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 5884498,
+        "kickoff": 1789918200,
+        "fixture": "Barbastro vs Barça Atlètic",
+        "league_id": 9138,
+        "league": "Segunda Federacion - Group 2",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5884506,
         "kickoff": 1789920000,
         "fixture": "Tudelano vs CE Manresa",
@@ -1539,83 +1494,20 @@
         "tv_channels": []
     },
     {
-        "match_id": 5884848,
-        "kickoff": 1789916400,
-        "fixture": "Deportiva Minera vs Orihuela",
+        "match_id": 5884501,
+        "kickoff": 1789921800,
+        "fixture": "Osasuna B vs Ebro",
         "league_id": 9138,
-        "league": "Segunda Federacion - Group 3",
+        "league": "Segunda Federacion - Group 2",
         "venue": "TBA",
         "tv_channels": []
     },
     {
-        "match_id": 5884857,
-        "kickoff": 1789916400,
-        "fixture": "Lorca Deportiva vs CF Intercity",
-        "league_id": 9138,
-        "league": "Segunda Federacion - Group 3",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5884840,
-        "kickoff": 1789916400,
-        "fixture": "Murcia B vs Mallorca B",
-        "league_id": 9138,
-        "league": "Segunda Federacion - Group 3",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5884842,
-        "kickoff": 1789916400,
-        "fixture": "Yeclano vs La Nucía",
-        "league_id": 9138,
-        "league": "Segunda Federacion - Group 3",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5885183,
-        "kickoff": 1789916400,
-        "fixture": "CA Antoniano vs Mijas-Las Lagunas",
-        "league_id": 9138,
-        "league": "Segunda Federacion - Group 4",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5885208,
-        "kickoff": 1789916400,
-        "fixture": "Marbella FC vs Atletico Central",
-        "league_id": 9138,
-        "league": "Segunda Federacion - Group 4",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6147881,
-        "kickoff": 1789916400,
-        "fixture": "Puente Genil vs CD Estepona",
-        "league_id": 9138,
-        "league": "Segunda Federacion - Group 4",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5885205,
-        "kickoff": 1789920000,
-        "fixture": "CD Badajoz vs Betis Deportivo Balompie",
-        "league_id": 9138,
-        "league": "Segunda Federacion - Group 4",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5885211,
+        "match_id": 5884503,
         "kickoff": 1789923600,
-        "fixture": "Xerez vs Don Benito",
+        "fixture": "Reus vs Náxara",
         "league_id": 9138,
-        "league": "Segunda Federacion - Group 4",
+        "league": "Segunda Federacion - Group 2",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -1629,29 +1521,56 @@
         "tv_channels": []
     },
     {
-        "match_id": 5885529,
-        "kickoff": 1789916400,
-        "fixture": "Real Madrid C vs CD Guadalajara",
-        "league_id": 9138,
-        "league": "Segunda Federacion - Group 5",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5885524,
-        "kickoff": 1789916400,
-        "fixture": "Real Valladolid B vs Albacete B",
-        "league_id": 9138,
-        "league": "Segunda Federacion - Group 5",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 5885528,
         "kickoff": 1789918200,
         "fixture": "Real Ávila vs CS Puertollano",
         "league_id": 9138,
         "league": "Segunda Federacion - Group 5",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5884842,
+        "kickoff": 1789920000,
+        "fixture": "Yeclano vs La Nucía",
+        "league_id": 9138,
+        "league": "Segunda Federacion - Group 3",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5885205,
+        "kickoff": 1789920000,
+        "fixture": "CD Badajoz vs Betis Deportivo Balompie",
+        "league_id": 9138,
+        "league": "Segunda Federacion - Group 4",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5885208,
+        "kickoff": 1789920000,
+        "fixture": "Marbella FC vs Atletico Central",
+        "league_id": 9138,
+        "league": "Segunda Federacion - Group 4",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5885183,
+        "kickoff": 1789923600,
+        "fixture": "CA Antoniano vs Mijas-Las Lagunas",
+        "league_id": 9138,
+        "league": "Segunda Federacion - Group 4",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5885211,
+        "kickoff": 1789923600,
+        "fixture": "Xerez vs Don Benito",
+        "league_id": 9138,
+        "league": "Segunda Federacion - Group 4",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -1800,6 +1719,42 @@
         "tv_channels": []
     },
     {
+        "match_id": 5943259,
+        "kickoff": 1789916400,
+        "fixture": "NFC Volos vs AEK Athens",
+        "league_id": 135,
+        "league": "Super League",
+        "venue": "Panthessaliko Stadio",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5943257,
+        "kickoff": 1789920000,
+        "fixture": "OFI Crete vs Asteras Tripolis",
+        "league_id": 135,
+        "league": "Super League",
+        "venue": "Pankritio Stadio",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5943255,
+        "kickoff": 1789921800,
+        "fixture": "Kalamata vs Panathinaikos",
+        "league_id": 135,
+        "league": "Super League",
+        "venue": "Dimotiko Gipedo Neapolis Nikaias",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5943258,
+        "kickoff": 1789927200,
+        "fixture": "Panetolikos vs PAOK Thessaloniki",
+        "league_id": 135,
+        "league": "Super League",
+        "venue": "Gipedo Panetolikou",
+        "tv_channels": []
+    },
+    {
         "match_id": 6140198,
         "kickoff": 1789916400,
         "fixture": "Anagennisi Karditsas vs Panionios",
@@ -1926,35 +1881,8 @@
         "tv_channels": []
     },
     {
-        "match_id": 5200650,
-        "kickoff": 1789916400,
-        "fixture": "Andijon vs Nasaf Qarshi",
-        "league_id": 540,
-        "league": "Superliga",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5200652,
-        "kickoff": 1789916400,
-        "fixture": "Lokomotiv Tashkent vs Neftchi Fargona",
-        "league_id": 540,
-        "league": "Superliga",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5200655,
-        "kickoff": 1789916400,
-        "fixture": "Sogdiana vs AGMK",
-        "league_id": 540,
-        "league": "Superliga",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 5200656,
-        "kickoff": 1790002800,
+        "kickoff": 1789995600,
         "fixture": "Surkhon-2011 vs Kokand 1912",
         "league_id": 540,
         "league": "Superliga",
@@ -1963,7 +1891,7 @@
     },
     {
         "match_id": 5200657,
-        "kickoff": 1790002800,
+        "kickoff": 1790003700,
         "fixture": "Xorazm vs Qizilqum Zarafshon",
         "league_id": 540,
         "league": "Superliga",
@@ -2570,7 +2498,7 @@
         "fixture": "Paysandu vs Inter de Limeira",
         "league_id": 8971,
         "league": "Série C",
-        "venue": "Estádio Estadual Jornalista Edgar Augusto Proença",
+        "venue": "Estádio Leônidas Sodré de Castro",
         "tv_channels": []
     },
     {
