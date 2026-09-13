@@ -378,21 +378,21 @@
         "tv_channels": []
     },
     {
-        "match_id": 5881664,
-        "kickoff": 1789210800,
-        "fixture": "Eintracht Braunschweig vs Dynamo Dresden",
-        "league_id": 146,
-        "league": "2. Bundesliga",
-        "venue": "Eintracht-Stadion",
-        "tv_channels": []
-    },
-    {
         "match_id": 5881668,
         "kickoff": 1789210800,
         "fixture": "Magdeburg vs Kaiserslautern",
         "league_id": 146,
         "league": "2. Bundesliga",
         "venue": "Avnet Arena",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5881664,
+        "kickoff": 1789211700,
+        "fixture": "Eintracht Braunschweig vs Dynamo Dresden",
+        "league_id": 146,
+        "league": "2. Bundesliga",
+        "venue": "Eintracht-Stadion",
         "tv_channels": []
     },
     {
@@ -477,6 +477,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 6142270,
+        "kickoff": 1789228800,
+        "fixture": "AEP Polemidion vs Spartakos Kitiou",
+        "league_id": 9100,
+        "league": "2. Division",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 6142263,
         "kickoff": 1789228800,
         "fixture": "Anagennisi Deryneia vs Enosis Paralimni",
@@ -525,15 +534,6 @@
         "match_id": 6142269,
         "kickoff": 1789228800,
         "fixture": "PAEEK vs Ethnikos Achnas",
-        "league_id": 9100,
-        "league": "2. Division",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6142270,
-        "kickoff": 1789228800,
-        "fixture": "Polemidion vs Spartakos Kitiou",
         "league_id": 9100,
         "league": "2. Division",
         "venue": "TBA",
@@ -918,12 +918,12 @@
         "tv_channels": []
     },
     {
-        "match_id": 6019482,
+        "match_id": 6019520,
         "kickoff": 1789218000,
-        "fixture": "Young Africans vs Gaborone United",
+        "fixture": "TP Mazembe vs Medeama SC",
         "league_id": 10619,
         "league": "CAF Champions League Qualification",
-        "venue": "Azam Complex Stadium",
+        "venue": "Stade du TP Mazembe",
         "tv_channels": []
     },
     {
@@ -933,15 +933,6 @@
         "league_id": 10619,
         "league": "CAF Champions League Qualification",
         "venue": "Dobsonville Stadium",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6019520,
-        "kickoff": 1789221600,
-        "fixture": "TP Mazembe vs Medeama SC",
-        "league_id": 10619,
-        "league": "CAF Champions League Qualification",
-        "venue": "Stade du TP Mazembe",
         "tv_channels": []
     },
     {
@@ -972,8 +963,17 @@
         "tv_channels": []
     },
     {
-        "match_id": 6019498,
+        "match_id": 6019482,
         "kickoff": 1789228800,
+        "fixture": "Young Africans vs Gaborone United",
+        "league_id": 10619,
+        "league": "CAF Champions League Qualification",
+        "venue": "Azam Complex Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6019498,
+        "kickoff": 1789230600,
         "fixture": "Medina United FC vs Star Sport Academy",
         "league_id": 10619,
         "league": "CAF Champions League Qualification",
@@ -3942,15 +3942,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5909156,
-        "kickoff": 1789207200,
-        "fixture": "Kryvbas vs FC Kharkiv",
-        "league_id": 441,
-        "league": "Premier League",
-        "venue": "Hirnyk Stadium",
-        "tv_channels": []
-    },
-    {
         "match_id": 5909158,
         "kickoff": 1789207200,
         "fixture": "LNZ Cherkasy vs Obolon Kyiv",
@@ -3960,8 +3951,17 @@
         "tv_channels": []
     },
     {
+        "match_id": 5909156,
+        "kickoff": 1789216200,
+        "fixture": "Kryvbas vs FC Kharkiv",
+        "league_id": 441,
+        "league": "Premier League",
+        "venue": "Hirnyk Stadium",
+        "tv_channels": []
+    },
+    {
         "match_id": 5909160,
-        "kickoff": 1789225200,
+        "kickoff": 1789232100,
         "fixture": "Veres Rivne vs Kudrivka",
         "league_id": 441,
         "league": "Premier League",
@@ -6157,16 +6157,16 @@
     },
     {
         "match_id": 1000021240,
-        "kickoff": 1789228800,
+        "kickoff": 1789218000,
         "fixture": "Welwalo Adigrat University vs Al-Hilal",
         "league_id": 9468,
         "league": "CAF Confed Cup 1st Preliminary Round",
-        "venue": "TBA",
+        "venue": "Dire Dawa Stadium",
         "tv_channels": []
     },
     {
         "match_id": 1000021243,
-        "kickoff": 1789228800,
+        "kickoff": 1789221600,
         "fixture": "Kitara FC vs Mogadishu",
         "league_id": 9468,
         "league": "CAF Confed Cup 1st Preliminary Round",
@@ -6675,15 +6675,6 @@
         "league_id": 131,
         "league": "Liga 1",
         "venue": "Estadio Juan Maldonado Gamarra",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000017234,
-        "kickoff": 1789244100,
-        "fixture": "Club Deportivo Moquegua vs Sporting Cristal",
-        "league_id": 131,
-        "league": "Liga 1",
-        "venue": "Estadio 25 de Noviembre",
         "tv_channels": []
     },
     {
@@ -7578,18 +7569,18 @@
         "tv_channels": []
     },
     {
-        "match_id": 6028553,
-        "kickoff": 1789236000,
-        "fixture": "Al Shorta vs Ghaz Al-Shamal SC",
+        "match_id": 6028554,
+        "kickoff": 1789227000,
+        "fixture": "Diyala vs Al-Gharraf",
         "league_id": 524,
         "league": "Stars League",
         "venue": "TBA",
         "tv_channels": []
     },
     {
-        "match_id": 6028554,
+        "match_id": 6028553,
         "kickoff": 1789236000,
-        "fixture": "Diyala vs Al-Gharraf",
+        "fixture": "Al Shorta vs Ghaz Al-Shamal SC",
         "league_id": 524,
         "league": "Stars League",
         "venue": "TBA",

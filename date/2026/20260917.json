@@ -590,7 +590,7 @@
         "fixture": "Aris Thessaloniki vs GS Marko",
         "league_id": 145,
         "league": "Cup Group Stage",
-        "venue": "TBA",
+        "venue": "Stadio Harilaou Kleánthis Vikelídis",
         "tv_channels": []
     },
     {
@@ -599,7 +599,7 @@
         "fixture": "Atromitos vs PAOK Thessaloniki",
         "league_id": 145,
         "league": "Cup Group Stage",
-        "venue": "TBA",
+        "venue": "Dimotiko Stadio Peristeriou",
         "tv_channels": []
     },
     {
@@ -1422,15 +1422,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5852088,
-        "kickoff": 1789576200,
-        "fixture": "1D (W) vs 3BEF (W)",
-        "league_id": 10369,
-        "league": "Women's World Cup U20",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 5852089,
         "kickoff": 1789576200,
         "fixture": "1F (W) vs 2E (W)",
@@ -1440,9 +1431,9 @@
         "tv_channels": []
     },
     {
-        "match_id": 5852090,
-        "kickoff": 1789650000,
-        "fixture": "1C (W) vs 3ABF (W)",
+        "match_id": 5852088,
+        "kickoff": 1789576200,
+        "fixture": "Italy U20 (W) vs 3BEF (W)",
         "league_id": 10369,
         "league": "Women's World Cup U20",
         "venue": "TBA",
@@ -1458,9 +1449,18 @@
         "tv_channels": []
     },
     {
+        "match_id": 5852090,
+        "kickoff": 1789650000,
+        "fixture": "France U20 (W) vs Canada U20 (W)",
+        "league_id": 10369,
+        "league": "Women's World Cup U20",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5852092,
         "kickoff": 1789662600,
-        "fixture": "1E (W) vs 2D (W)",
+        "fixture": "1E (W) vs Japan U20 (W)",
         "league_id": 10369,
         "league": "Women's World Cup U20",
         "venue": "TBA",
@@ -1719,6 +1719,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 1000021915,
+        "kickoff": 1789581600,
+        "fixture": "AZSV vs SV Saestum II",
+        "league_id": 10668,
+        "league": "KNVB Beker Women",
+        "venue": "Sportpark Villekamp",
+        "tv_channels": []
+    },
+    {
         "match_id": 1000016984,
         "kickoff": 1789584300,
         "fixture": "Gala Fairydean Rovers vs Bonnyrigg Rose",
@@ -1828,7 +1837,7 @@
     },
     {
         "match_id": 1000019051,
-        "kickoff": 1789597800,
+        "kickoff": 1789596000,
         "fixture": "Nacional Potosí vs Always Ready",
         "league_id": 144,
         "league": "Primera División",
@@ -1878,6 +1887,15 @@
         "league_id": 9498,
         "league": "Thai League 2",
         "venue": "Loei Rjabhat University Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000021402,
+        "kickoff": 1789574400,
+        "fixture": "HJK U19 vs Ballkani U19",
+        "league_id": 9741,
+        "league": "UEFA Youth League 1st Round",
+        "venue": "Bolt Arena",
         "tv_channels": []
     },
     {

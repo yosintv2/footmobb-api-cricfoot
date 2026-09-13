@@ -2583,6 +2583,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 1000017234,
+        "kickoff": 1789311600,
+        "fixture": "Club Deportivo Moquegua vs Sporting Cristal",
+        "league_id": 131,
+        "league": "Liga 1",
+        "venue": "Estadio 25 de Noviembre",
+        "tv_channels": []
+    },
+    {
         "match_id": 1000017232,
         "kickoff": 1789322400,
         "fixture": "Sport Boys vs Deportivo Garcilaso",
@@ -2664,15 +2673,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000007771,
-        "kickoff": 1789322400,
-        "fixture": "Chicago Fire FC II vs Philadelphia Union II",
-        "league_id": 10282,
-        "league": "MLS Next Pro",
-        "venue": "SeatGeek Stadium",
-        "tv_channels": []
-    },
-    {
         "match_id": 1000007770,
         "kickoff": 1789326000,
         "fixture": "Chattanooga FC vs Atlanta United 2",
@@ -2682,12 +2682,12 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000007780,
-        "kickoff": 1789329600,
-        "fixture": "Portland Timbers 2 vs St. Louis City 2",
+        "match_id": 1000007771,
+        "kickoff": 1789326000,
+        "fixture": "Chicago Fire FC II vs Philadelphia Union II",
         "league_id": 10282,
         "league": "MLS Next Pro",
-        "venue": "Providence Park",
+        "venue": "SeatGeek Stadium",
         "tv_channels": []
     },
     {
@@ -2778,6 +2778,15 @@
         "league_id": 10282,
         "league": "MLS Next Pro",
         "venue": "CEFCU Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000007780,
+        "kickoff": 1789416000,
+        "fixture": "Portland Timbers 2 vs St. Louis City 2",
+        "league_id": 10282,
+        "league": "MLS Next Pro",
+        "venue": "Providence Park",
         "tv_channels": []
     },
     {
@@ -2889,33 +2898,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000007322,
-        "kickoff": 1789313400,
-        "fixture": "Magallanes vs Puerto Montt",
-        "league_id": 9126,
-        "league": "Primera B",
-        "venue": "Estadio Municipal Luis Navarro Avilés",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000007320,
-        "kickoff": 1789322400,
-        "fixture": "San Marcos vs Curicó Unido",
-        "league_id": 9126,
-        "league": "Primera B",
-        "venue": "Estadio Carlos Dittborn",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000007319,
-        "kickoff": 1789419600,
-        "fixture": "Deportes Santa Cruz vs Deportes Recoleta",
-        "league_id": 9126,
-        "league": "Primera B",
-        "venue": "Estadio Municipal Joaquín Muñoz García",
-        "tv_channels": []
-    },
-    {
         "match_id": 1000013717,
         "kickoff": 1789331400,
         "fixture": "Boca Juniors de Cali vs Real Santander",
@@ -2943,30 +2925,30 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000013230,
+        "match_id": 1000007322,
+        "kickoff": 1789313400,
+        "fixture": "Magallanes vs Puerto Montt",
+        "league_id": 9126,
+        "league": "Primera B",
+        "venue": "Estadio Municipal Luis Navarro Avilés",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000007320,
         "kickoff": 1789322400,
-        "fixture": "La Serena vs Universidad de Chile",
-        "league_id": 273,
-        "league": "Primera División",
-        "venue": "Estadio La Portada",
+        "fixture": "San Marcos vs Curicó Unido",
+        "league_id": 9126,
+        "league": "Primera B",
+        "venue": "Estadio Carlos Dittborn",
         "tv_channels": []
     },
     {
-        "match_id": 1000013228,
-        "kickoff": 1789331400,
-        "fixture": "Colo Colo vs Deportes Concepción",
-        "league_id": 273,
-        "league": "Primera División",
-        "venue": "Estadio Monumental David Arellano",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000013232,
-        "kickoff": 1789340400,
-        "fixture": "Audax Italiano vs O'Higgins",
-        "league_id": 273,
-        "league": "Primera División",
-        "venue": "Estadio Bicentenario Municipal de La Florida",
+        "match_id": 1000007319,
+        "kickoff": 1789419600,
+        "fixture": "Deportes Santa Cruz vs Deportes Recoleta",
+        "league_id": 9126,
+        "league": "Primera B",
+        "venue": "Estadio Municipal Joaquín Muñoz García",
         "tv_channels": []
     },
     {
@@ -2994,6 +2976,33 @@
         "league_id": 144,
         "league": "Primera División",
         "venue": "Estadio IV Centenario",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000013230,
+        "kickoff": 1789322400,
+        "fixture": "La Serena vs Universidad de Chile",
+        "league_id": 273,
+        "league": "Primera División",
+        "venue": "Estadio La Portada",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000013228,
+        "kickoff": 1789331400,
+        "fixture": "Colo Colo vs Deportes Concepción",
+        "league_id": 273,
+        "league": "Primera División",
+        "venue": "Estadio Monumental David Arellano",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000013232,
+        "kickoff": 1789340400,
+        "fixture": "Audax Italiano vs O'Higgins",
+        "league_id": 273,
+        "league": "Primera División",
+        "venue": "Estadio Bicentenario Municipal de La Florida",
         "tv_channels": []
     },
     {
