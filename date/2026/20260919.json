@@ -2682,6 +2682,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 5989828,
+        "kickoff": 1789743600,
+        "fixture": "JS El Biar vs JS Saoura",
+        "league_id": 516,
+        "league": "Ligue 1",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5989827,
         "kickoff": 1789743600,
         "fixture": "USM Khenchela vs ES Ben Aknoun",
@@ -2703,15 +2712,6 @@
         "match_id": 5989824,
         "kickoff": 1789761600,
         "fixture": "ASO Chlef vs MC Oran",
-        "league_id": 516,
-        "league": "Ligue 1",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5989828,
-        "kickoff": 1789761600,
-        "fixture": "JS El Biar vs JS Saoura",
         "league_id": 516,
         "league": "Ligue 1",
         "venue": "TBA",
@@ -3627,6 +3627,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 5136422,
+        "kickoff": 1789826400,
+        "fixture": "Víkingur vs 07 Vestur",
+        "league_id": 250,
+        "league": "Premier League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5136421,
         "kickoff": 1789828200,
         "fixture": "B68 Toftir vs EB/Streymur",
@@ -3639,15 +3648,6 @@
         "match_id": 5136420,
         "kickoff": 1789828200,
         "fixture": "HB Tórshavn vs AB Argir",
-        "league_id": 250,
-        "league": "Premier League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5136422,
-        "kickoff": 1789828200,
-        "fixture": "Víkingur vs 07 Vestur",
         "league_id": 250,
         "league": "Premier League",
         "venue": "TBA",
@@ -4044,15 +4044,6 @@
         "match_id": 5114065,
         "kickoff": 1789840800,
         "fixture": "CD UAI Urquiza vs Excursionistas",
-        "league_id": 9213,
-        "league": "Primera B Metropolitana",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5114058,
-        "kickoff": 1789840800,
-        "fixture": "Deportivo Merlo vs Flandria",
         "league_id": 9213,
         "league": "Primera B Metropolitana",
         "venue": "TBA",
@@ -4869,6 +4860,24 @@
         "tv_channels": []
     },
     {
+        "match_id": 6140198,
+        "kickoff": 1789822800,
+        "fixture": "Anagennisi Karditsas vs Panionios",
+        "league_id": 8815,
+        "league": "Super League 2",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6140203,
+        "kickoff": 1789822800,
+        "fixture": "Zakynthos APS vs Hellas Syros",
+        "league_id": 8815,
+        "league": "Super League 2",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5904750,
         "kickoff": 1789750800,
         "fixture": "Kasımpaşa vs Konyaspor",
@@ -5384,7 +5393,7 @@
     {
         "match_id": 5852094,
         "kickoff": 1789822800,
-        "fixture": "Argentina U20/South Korea U20 (W) vs Italy U20/China U20 (W)",
+        "fixture": "South Korea U20 (W) vs Italy U20 (W)",
         "league_id": 10369,
         "league": "Women's World Cup U20",
         "venue": "TBA",
@@ -5393,7 +5402,7 @@
     {
         "match_id": 5852095,
         "kickoff": 1789835400,
-        "fixture": "Brazil U20/USA U20 (W) vs Spain U20/Portugal U20 (W)",
+        "fixture": "Brazil U20 (W) vs Spain U20 (W)",
         "league_id": 10369,
         "league": "Women's World Cup U20",
         "venue": "TBA",
@@ -5530,17 +5539,8 @@
         "kickoff": 1789826400,
         "fixture": "KR Reykjavík vs Víkingur Reykjavík",
         "league_id": 215,
-        "league": "Besta deildin",
+        "league": "Besta deildin - Championship Round",
         "venue": "Meistaravellir",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000021896,
-        "kickoff": 1789846200,
-        "fixture": "KA Akureyri vs Thór Akureyri",
-        "league_id": 215,
-        "league": "Besta deildin",
-        "venue": "Greifavöllurinn",
         "tv_channels": []
     },
     {
@@ -5584,7 +5584,7 @@
         "kickoff": 1789826400,
         "fixture": "Arezzo vs Parma Calcio 1913",
         "league_id": 11014,
-        "league": "Coppa Italia Women",
+        "league": "Coppa Italia Women - 1st Round",
         "venue": "Stadio Comunale Bruno Nespoli",
         "tv_channels": []
     },
@@ -5620,7 +5620,7 @@
         "kickoff": 1789813800,
         "fixture": "Real Madrid U19 vs Santiago Wanderers U20",
         "league_id": 11032,
-        "league": "FIFA U20 Intercontinental Cup Final",
+        "league": "FIFA U20 Intercontinental Cup - Final",
         "venue": "Estadio Bernabéu",
         "tv_channels": []
     },
@@ -6318,6 +6318,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 1000022022,
+        "kickoff": 1789777800,
+        "fixture": "Aucas vs CSD Macará",
+        "league_id": 246,
+        "league": "Serie A - Championship Round",
+        "venue": "Estadio Cooprogreso Gonzalo Pozo Ripalda",
+        "tv_channels": []
+    },
+    {
         "match_id": 5190728,
         "kickoff": 1789770600,
         "fixture": "Vila Nova vs América-MG",
@@ -6579,6 +6588,24 @@
         "tv_channels": []
     },
     {
+        "match_id": 6273612,
+        "kickoff": 1789830000,
+        "fixture": "Boston River vs Club Atlético Progreso",
+        "league_id": 161,
+        "league": "Liga AUF Uruguaya Clausura",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6273613,
+        "kickoff": 1789842600,
+        "fixture": "Cerro vs Club Atletico Peñarol",
+        "league_id": 161,
+        "league": "Liga AUF Uruguaya Clausura",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 6103080,
         "kickoff": 1789830000,
         "fixture": "Ikorodu City vs Barau",
@@ -6795,11 +6822,29 @@
         "tv_channels": []
     },
     {
+        "match_id": 1000021896,
+        "kickoff": 1789846200,
+        "fixture": "KA Akureyri vs Thór Akureyri",
+        "league_id": 215,
+        "league": "Besta deildin - Relegation Round",
+        "venue": "Greifavöllurinn",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000021250,
+        "kickoff": 1789833600,
+        "fixture": "Hafia FC vs AS Douanes",
+        "league_id": 9468,
+        "league": "CAF Confed Cup - 1st Preliminary Round",
+        "venue": "Stade du 28 Septembre",
+        "tv_channels": []
+    },
+    {
         "match_id": 1000021801,
         "kickoff": 1789851600,
         "fixture": "Noroeste vs Primavera SP",
         "league_id": 11646,
-        "league": "Copa Paulista",
+        "league": "Copa Paulista - Quarter-finals",
         "venue": "Estádio Dr. Alfredo de Castilho",
         "tv_channels": []
     },
@@ -6912,15 +6957,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000022063,
-        "kickoff": 1789844400,
-        "fixture": "Manta vs Orense",
-        "league_id": 246,
-        "league": "Serie A",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 5103639,
         "kickoff": 1789844400,
         "fixture": "Atlético-MG vs Chapecoense",
@@ -6936,6 +6972,15 @@
         "league_id": 268,
         "league": "Série A",
         "venue": "Estádio José Maria de Campos Maia",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000022063,
+        "kickoff": 1789844400,
+        "fixture": "Manta vs Orense",
+        "league_id": 246,
+        "league": "Serie A - Relegation Round",
+        "venue": "Estadio Jocay",
         "tv_channels": []
     },
     {
