@@ -343,7 +343,7 @@
     },
     {
         "match_id": 5113080,
-        "kickoff": 1790020800,
+        "kickoff": 1790028000,
         "fixture": "Nueva Chicago vs Patronato de Parana",
         "league_id": 8965,
         "league": "Primera Nacional",
@@ -562,7 +562,7 @@
         "kickoff": 1790033400,
         "fixture": "Juventus-SP vs União São João",
         "league_id": 11646,
-        "league": "Copa Paulista",
+        "league": "Copa Paulista - Quarter-finals",
         "venue": "Mercado Livre Arena Pacaembu",
         "tv_channels": []
     },
@@ -571,7 +571,7 @@
         "kickoff": 1790065800,
         "fixture": "Nong Khai FC vs Nong Bua Pitchaya FC",
         "league_id": 11023,
-        "league": "FA Cup",
+        "league": "FA Cup - 1st Round",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -580,7 +580,7 @@
         "kickoff": 1790065800,
         "fixture": "Sing Ubon vs Suphanburi FC",
         "league_id": 11023,
-        "league": "FA Cup",
+        "league": "FA Cup - 1st Round",
         "venue": "Boonyachinda Stadium",
         "tv_channels": []
     },
@@ -589,7 +589,7 @@
         "kickoff": 1790065800,
         "fixture": "Futera United vs Pattaya City",
         "league_id": 11023,
-        "league": "FA Cup",
+        "league": "FA Cup - 1st Round",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -598,7 +598,7 @@
         "kickoff": 1790071200,
         "fixture": "Lopburi FC vs APD United",
         "league_id": 11023,
-        "league": "FA Cup",
+        "league": "FA Cup - 1st Round",
         "venue": "Jai Fah Academy 1 Football Training Center Stadium",
         "tv_channels": []
     },
@@ -607,7 +607,7 @@
         "kickoff": 1790074800,
         "fixture": "Kanchanaburi Power vs Phetchabun FC",
         "league_id": 11023,
-        "league": "FA Cup",
+        "league": "FA Cup - 1st Round",
         "venue": "Kanchanaburi Provincial Stadium",
         "tv_channels": []
     },
@@ -616,7 +616,7 @@
         "kickoff": 1790074800,
         "fixture": "Muang Thong United vs Phrae FC",
         "league_id": 11023,
-        "league": "FA Cup",
+        "league": "FA Cup - 1st Round",
         "venue": "Thunder Dome Stadium",
         "tv_channels": []
     },
@@ -625,7 +625,7 @@
         "kickoff": 1790074800,
         "fixture": "Roi Et Alan FC vs Songkhla United FC",
         "league_id": 11023,
-        "league": "FA Cup",
+        "league": "FA Cup - 1st Round",
         "venue": "Pride Arena Stadium",
         "tv_channels": []
     },
@@ -634,7 +634,7 @@
         "kickoff": 1790074800,
         "fixture": "Huasamrong Gateway vs Prime Bangkok",
         "league_id": 11023,
-        "league": "FA Cup",
+        "league": "FA Cup - 1st Round",
         "venue": "Stadium Chachoengsao",
         "tv_channels": []
     },
@@ -699,6 +699,15 @@
         "league_id": 9125,
         "league": "Primera B",
         "venue": "Estadio Olímpico Jaime Morón León",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000013724,
+        "kickoff": 1790110800,
+        "fixture": "Independiente Valle del Cauca vs Internacional FC de Palmira",
+        "league_id": 9125,
+        "league": "Primera B",
+        "venue": "Estadio Deportivo Cali",
         "tv_channels": []
     },
     {
@@ -778,8 +787,17 @@
         "kickoff": 1790037000,
         "fixture": "Barcelona SC vs Independiente del Valle",
         "league_id": 246,
-        "league": "Serie A",
+        "league": "Serie A - Championship Round",
         "venue": "Estadio Monumental Banco Pichincha",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000022063,
+        "kickoff": 1790017200,
+        "fixture": "Manta vs Orense",
+        "league_id": 246,
+        "league": "Serie A - Relegation Round",
+        "venue": "Estadio Jocay",
         "tv_channels": []
     },
     {
@@ -798,15 +816,6 @@
         "league_id": 8814,
         "league": "Série B",
         "venue": "Arena Pantanal",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000015139,
-        "kickoff": 1790010000,
-        "fixture": "Železničar Pančevo vs Čukarički",
-        "league_id": 182,
-        "league": "Super Liga",
-        "venue": "Sportsko-Rekreativni Centar Mladost",
         "tv_channels": []
     },
     {
