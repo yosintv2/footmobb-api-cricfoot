@@ -316,7 +316,7 @@
     },
     {
         "match_id": 6040200,
-        "kickoff": 1790352000,
+        "kickoff": 1790348400,
         "fixture": "Niger vs Lesotho",
         "league_id": 10608,
         "league": "Africa Cup of Nations Qualification Grp. A",
@@ -387,15 +387,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 6040396,
-        "kickoff": 1790362800,
-        "fixture": "Senegal vs Mozambique",
-        "league_id": 10608,
-        "league": "Africa Cup of Nations Qualification Grp. J",
-        "venue": "Stade Me Abdoulaye Wade",
-        "tv_channels": []
-    },
-    {
         "match_id": 6040373,
         "kickoff": 1790352000,
         "fixture": "Rwanda vs Liberia",
@@ -442,7 +433,7 @@
     },
     {
         "match_id": 6040248,
-        "kickoff": 1790438400,
+        "kickoff": 1790427600,
         "fixture": "South Africa vs Guinea",
         "league_id": 10608,
         "league": "Africa Cup of Nations Qualification Grp. D",
@@ -450,26 +441,8 @@
         "tv_channels": []
     },
     {
-        "match_id": 6232984,
-        "kickoff": 1790413200,
-        "fixture": "Pakistan vs Thailand",
-        "league_id": 13287,
-        "league": "ASEAN Cup Premier Division Grp. B",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6232985,
-        "kickoff": 1790425800,
-        "fixture": "Vietnam vs Philippines",
-        "league_id": 13287,
-        "league": "ASEAN Cup Premier Division Grp. B",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 6303283,
-        "kickoff": 1790406000,
+        "kickoff": 1790402400,
         "fixture": "China U23 vs Thailand U23",
         "league_id": 9833,
         "league": "Asian Games",
@@ -478,7 +451,7 @@
     },
     {
         "match_id": 6303284,
-        "kickoff": 1790422200,
+        "kickoff": 1790418600,
         "fixture": "Japan U23 vs North Korea U23",
         "league_id": 9833,
         "league": "Asian Games",
@@ -1197,6 +1170,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 4785905,
+        "kickoff": 1790348400,
+        "fixture": "Iceland U21 vs France U21",
+        "league_id": 10437,
+        "league": "EURO U21 Qualification Grp. C",
+        "venue": "PEPSI völlurinn",
+        "tv_channels": []
+    },
+    {
         "match_id": 4785903,
         "kickoff": 1790352000,
         "fixture": "Estonia U21 vs Faroe Islands U21",
@@ -1239,6 +1221,24 @@
         "league_id": 10437,
         "league": "EURO U21 Qualification Grp. G",
         "venue": "De Adelaarshorst",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6232984,
+        "kickoff": 1790413200,
+        "fixture": "Pakistan vs Thailand",
+        "league_id": 13287,
+        "league": "FIFA ASEAN Cup Premier Division Grp. B",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6232985,
+        "kickoff": 1790425800,
+        "fixture": "Vietnam vs Philippines",
+        "league_id": 13287,
+        "league": "FIFA ASEAN Cup Premier Division Grp. B",
+        "venue": "TBA",
         "tv_channels": []
     },
     {
@@ -2210,7 +2210,7 @@
         "fixture": "Tonbridge Angels vs Ebbsfleet United",
         "league_id": 8944,
         "league": "National League South",
-        "venue": "Longmead Stadium",
+        "venue": "Yeomans Community Stadium",
         "tv_channels": []
     },
     {
@@ -2763,15 +2763,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5962431,
-        "kickoff": 1790384400,
-        "fixture": "Alianza FC vs Inca Aruba",
-        "league_id": 335,
-        "league": "Primera Division - Apertura",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 5883660,
         "kickoff": 1790355600,
         "fixture": "Atlético Madrileño vs Villarreal B",
@@ -3101,7 +3092,7 @@
         "fixture": "Kickers Offenbach vs Aalen",
         "league_id": 512,
         "league": "Regionalliga Southwest",
-        "venue": "Stadion am Bieberer Berg",
+        "venue": "Plutos Stadion am Bieberer Berg",
         "tv_channels": []
     },
     {
@@ -4091,7 +4082,7 @@
         "fixture": "Rijeka vs Union Berlin",
         "league_id": 489,
         "league": "Club Friendlies",
-        "venue": "TBA",
+        "venue": "Stadion Kantrida",
         "tv_channels": []
     },
     {
@@ -4194,78 +4185,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5989839,
-        "kickoff": 1790434800,
-        "fixture": "ASO Chlef vs MC Alger",
-        "league_id": 516,
-        "league": "Ligue 1",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5989838,
-        "kickoff": 1790434800,
-        "fixture": "CR Temouchent vs MB Rouissat",
-        "league_id": 516,
-        "league": "Ligue 1",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5989840,
-        "kickoff": 1790434800,
-        "fixture": "ES Sétif vs JS Kabylie",
-        "league_id": 516,
-        "league": "Ligue 1",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5989843,
-        "kickoff": 1790434800,
-        "fixture": "JS El Biar vs CR Bélouizdad",
-        "league_id": 516,
-        "league": "Ligue 1",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5989844,
-        "kickoff": 1790434800,
-        "fixture": "Olympique Akbou vs ES Ben Aknoun",
-        "league_id": 516,
-        "league": "Ligue 1",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5989841,
-        "kickoff": 1790434800,
-        "fixture": "US Biskra vs MC Oran",
-        "league_id": 516,
-        "league": "Ligue 1",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5989845,
-        "kickoff": 1790434800,
-        "fixture": "USM Alger vs JS Saoura",
-        "league_id": 516,
-        "league": "Ligue 1",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5989842,
-        "kickoff": 1790434800,
-        "fixture": "USM Khenchela vs CS Constantine",
-        "league_id": 516,
-        "league": "Ligue 1",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 5886538,
         "kickoff": 1790448300,
         "fixture": "Bourg en Bresse Péronnas vs Concarneau",
@@ -4343,6 +4262,15 @@
         "fixture": "Sporting Lagos vs Barau",
         "league_id": 533,
         "league": "NPFL",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5975036,
+        "kickoff": 1790434800,
+        "fixture": "Karela United vs Hearts of Oak",
+        "league_id": 522,
+        "league": "Premier League",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -4483,7 +4411,7 @@
     },
     {
         "match_id": 6148418,
-        "kickoff": 1790452800,
+        "kickoff": 1790449200,
         "fixture": "Estudiantes vs Rosario Central",
         "league_id": 10832,
         "league": "Supercopa Internacional",
@@ -4505,7 +4433,7 @@
         "fixture": "Italy U20 (W) vs Colombia U20 (W)",
         "league_id": 10369,
         "league": "Women's World Cup U20",
-        "venue": "TBA",
+        "venue": "Stadion Miejski im. Władysława Króla",
         "tv_channels": []
     },
     {
