@@ -108,33 +108,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 6299697,
-        "kickoff": 1791021600,
-        "fixture": "Cameroon vs Ivory Coast",
-        "league_id": 114,
-        "league": "Friendlies",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5985687,
-        "kickoff": 1791021600,
-        "fixture": "India vs Brazil",
-        "league_id": 114,
-        "league": "Friendlies",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6210360,
-        "kickoff": 1791021600,
-        "fixture": "Russia vs Namibia",
-        "league_id": 114,
-        "league": "Friendlies",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 6299695,
         "kickoff": 1791021600,
         "fixture": "Sri Lanka vs Djibouti",
@@ -153,12 +126,39 @@
         "tv_channels": []
     },
     {
+        "match_id": 5985687,
+        "kickoff": 1791036000,
+        "fixture": "India vs Brazil",
+        "league_id": 114,
+        "league": "Friendlies",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6210360,
+        "kickoff": 1791039600,
+        "fixture": "Russia vs Namibia",
+        "league_id": 114,
+        "league": "Friendlies",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 6006644,
         "kickoff": 1791050400,
         "fixture": "Canada vs Peru",
         "league_id": 114,
         "league": "Friendlies",
         "venue": "Stade Saputo",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6299697,
+        "kickoff": 1791054000,
+        "fixture": "Cameroon vs Ivory Coast",
+        "league_id": 114,
+        "league": "Friendlies",
+        "venue": "TBA",
         "tv_channels": []
     },
     {
@@ -561,6 +561,15 @@
         "match_id": 6352629,
         "kickoff": 1790955000,
         "fixture": "Brøndby IF vs Sirius",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6359555,
+        "kickoff": 1791021600,
+        "fixture": "FC Midtjylland vs Fredericia",
         "league_id": 489,
         "league": "Club Friendlies",
         "venue": "TBA",
@@ -1832,7 +1841,7 @@
         "fixture": "Espanyol (W) vs Deportivo Alavés (W)",
         "league_id": 9907,
         "league": "Liga F",
-        "venue": "Ciutat Esportiva Dani Jarque",
+        "venue": "Ciutat Esportiva Dani Jarque Campo 1",
         "tv_channels": []
     },
     {
@@ -3773,7 +3782,7 @@
     {
         "match_id": 6052094,
         "kickoff": 1791039600,
-        "fixture": "1A vs 2B",
+        "fixture": "Saudi Arabia vs 2B",
         "league_id": 329,
         "league": "Gulf Cup",
         "venue": "TBA",
@@ -3870,6 +3879,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 5975048,
+        "kickoff": 1791039600,
+        "fixture": "Vision FC vs Bibiani Gold Stars",
+        "league_id": 522,
+        "league": "Premier League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5901174,
         "kickoff": 1791043200,
         "fixture": "Le Havre (W) vs Saint Malo (W)",
@@ -3916,7 +3934,7 @@
     },
     {
         "match_id": 5114080,
-        "kickoff": 1791057600,
+        "kickoff": 1791050400,
         "fixture": "CA Defensores Unidos vs Argentino de Quilmes",
         "league_id": 9213,
         "league": "Primera B Metropolitana",
@@ -3925,7 +3943,7 @@
     },
     {
         "match_id": 5114082,
-        "kickoff": 1791057600,
+        "kickoff": 1791050400,
         "fixture": "CASD Camioneros vs Laferrere",
         "league_id": 9213,
         "league": "Primera B Metropolitana",
@@ -3933,26 +3951,8 @@
         "tv_channels": []
     },
     {
-        "match_id": 5114088,
-        "kickoff": 1791057600,
-        "fixture": "CD UAI Urquiza vs Ituzaingó",
-        "league_id": 9213,
-        "league": "Primera B Metropolitana",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5114079,
-        "kickoff": 1791057600,
-        "fixture": "Comunicaciones vs Flandria",
-        "league_id": 9213,
-        "league": "Primera B Metropolitana",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 5114084,
-        "kickoff": 1791057600,
+        "kickoff": 1791050400,
         "fixture": "CS Deportivo Liniers vs Excursionistas",
         "league_id": 9213,
         "league": "Primera B Metropolitana",
@@ -3960,35 +3960,8 @@
         "tv_channels": []
     },
     {
-        "match_id": 5114081,
-        "kickoff": 1791057600,
-        "fixture": "Deportivo Merlo vs Brown de Adrogué",
-        "league_id": 9213,
-        "league": "Primera B Metropolitana",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5114083,
-        "kickoff": 1791057600,
-        "fixture": "Dock Sud vs Deportivo Armenio",
-        "league_id": 9213,
-        "league": "Primera B Metropolitana",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5114085,
-        "kickoff": 1791057600,
-        "fixture": "Real Pilar vs Villa Dálmine",
-        "league_id": 9213,
-        "league": "Primera B Metropolitana",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 5114086,
-        "kickoff": 1791057600,
+        "kickoff": 1791050400,
         "fixture": "San Martín Burzaco vs Argentino de Merlo",
         "league_id": 9213,
         "league": "Primera B Metropolitana",
@@ -3996,17 +3969,8 @@
         "tv_channels": []
     },
     {
-        "match_id": 5114087,
-        "kickoff": 1791057600,
-        "fixture": "Sportivo Italiano vs CA Talleres Remedios de Escalada",
-        "league_id": 9213,
-        "league": "Primera B Metropolitana",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 5114089,
-        "kickoff": 1791057600,
+        "kickoff": 1791050400,
         "fixture": "Villa San Carlos vs Arsenal Sarandi",
         "league_id": 9213,
         "league": "Primera B Metropolitana",
@@ -4016,7 +3980,7 @@
     {
         "match_id": 5962443,
         "kickoff": 1791061200,
-        "fixture": "CD Cacahuatique vs CD Águila",
+        "fixture": "CD Águila vs CD Cacahuatique",
         "league_id": 335,
         "league": "Primera Division - Apertura",
         "venue": "TBA",
@@ -4245,15 +4209,6 @@
         "league_id": 8971,
         "league": "Série C",
         "venue": "Itaipava Arena Pernambuco",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5109577,
-        "kickoff": 1791054000,
-        "fixture": "Chattanooga Red Wolves SC vs Corpus Christi",
-        "league_id": 9296,
-        "league": "USL League One",
-        "venue": "CHI Memorial Stadium",
         "tv_channels": []
     },
     {
