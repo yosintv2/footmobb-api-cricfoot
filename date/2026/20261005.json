@@ -64,7 +64,7 @@
     },
     {
         "match_id": 6299700,
-        "kickoff": 1791133200,
+        "kickoff": 1791136800,
         "fixture": "Egypt vs South Africa",
         "league_id": 114,
         "league": "Friendlies",
@@ -73,11 +73,20 @@
     },
     {
         "match_id": 6299701,
-        "kickoff": 1791133200,
+        "kickoff": 1791136800,
         "fixture": "Morocco vs Ghana",
         "league_id": 114,
         "league": "Friendlies",
         "venue": "Grand Stade de Tanger",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6366104,
+        "kickoff": 1791153000,
+        "fixture": "Bolivia vs Gambia",
+        "league_id": 114,
+        "league": "Friendlies",
+        "venue": "TBA",
         "tv_channels": []
     },
     {
@@ -266,7 +275,7 @@
         "fixture": "O'Higgins vs Deportes Concepción",
         "league_id": 9091,
         "league": "Cup",
-        "venue": "TBA",
+        "venue": "Estadio Codelco El Teniente",
         "tv_channels": []
     },
     {
@@ -316,7 +325,7 @@
     },
     {
         "match_id": 6325801,
-        "kickoff": 1791133200,
+        "kickoff": 1791138600,
         "fixture": "CA Alvarado vs Defensores de Belgrano de Villa Ramallo",
         "league_id": 9213,
         "league": "Federal A Championship Playoff",
@@ -324,8 +333,17 @@
         "tv_channels": []
     },
     {
+        "match_id": 6325804,
+        "kickoff": 1791140400,
+        "fixture": "San Martín de Formosa vs Sportivo Atenas",
+        "league_id": 9213,
+        "league": "Federal A Championship Playoff",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 6325803,
-        "kickoff": 1791133200,
+        "kickoff": 1791144000,
         "fixture": "Club Cipolletti vs Sol de America Formosa",
         "league_id": 9213,
         "league": "Federal A Championship Playoff",
@@ -334,17 +352,8 @@
     },
     {
         "match_id": 6325802,
-        "kickoff": 1791133200,
+        "kickoff": 1791144000,
         "fixture": "Gimnasia y Esgrima de Chivilcoy vs Olimpo",
-        "league_id": 9213,
-        "league": "Federal A Championship Playoff",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6325804,
-        "kickoff": 1791133200,
-        "fixture": "San Martín de Formosa vs Sportivo Atenas",
         "league_id": 9213,
         "league": "Federal A Championship Playoff",
         "venue": "TBA",
@@ -579,15 +588,6 @@
         "match_id": 6103113,
         "kickoff": 1791126000,
         "fixture": "Inter Lagos vs Katsina United",
-        "league_id": 533,
-        "league": "NPFL",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6103114,
-        "kickoff": 1791126000,
-        "fixture": "Kano Pillars vs Sporting Lagos",
         "league_id": 533,
         "league": "NPFL",
         "venue": "TBA",
@@ -909,6 +909,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 5113097,
+        "kickoff": 1791230400,
+        "fixture": "Nueva Chicago vs Deportivo Maipú",
+        "league_id": 8965,
+        "league": "Primera Nacional",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 6315930,
         "kickoff": 1791129600,
         "fixture": "Fénix vs Uruguay Montevideo",
@@ -1017,6 +1026,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 5884559,
+        "kickoff": 1791126000,
+        "fixture": "Reus vs CE Manresa",
+        "league_id": 9138,
+        "league": "Segunda Federacion - Group 2",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5884536,
         "kickoff": 1791126000,
         "fixture": "UD Logroñés B vs UE Olot",
@@ -1038,15 +1056,6 @@
         "match_id": 5884561,
         "kickoff": 1791129600,
         "fixture": "Tudelano vs Barça Atlètic",
-        "league_id": 9138,
-        "league": "Segunda Federacion - Group 2",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5884559,
-        "kickoff": 1791133200,
-        "fixture": "Reus vs CE Manresa",
         "league_id": 9138,
         "league": "Segunda Federacion - Group 2",
         "venue": "TBA",
@@ -1076,15 +1085,6 @@
         "fixture": "Ciudad Lucena vs Puente Genil",
         "league_id": 9138,
         "league": "Segunda Federacion - Group 4",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5885557,
-        "kickoff": 1791126000,
-        "fixture": "Albacete B vs CF Talavera de la Reina",
-        "league_id": 9138,
-        "league": "Segunda Federacion - Group 5",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -1170,15 +1170,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5991460,
-        "kickoff": 1791127800,
-        "fixture": "Monopoli vs Savoia",
-        "league_id": 147,
-        "league": "Serie C Grp. C",
-        "venue": "Stadio Comunale San Nicola",
-        "tv_channels": []
-    },
-    {
         "match_id": 5991461,
         "kickoff": 1791138600,
         "fixture": "Audace Cerignola vs Team Altamura",
@@ -1206,33 +1197,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 6140212,
-        "kickoff": 1791126000,
-        "fixture": "Asteras Tripolis B vs Anagennisi Karditsas",
-        "league_id": 8815,
-        "league": "Super League 2",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6140213,
-        "kickoff": 1791126000,
-        "fixture": "Nestos Chrisoupolis vs GS Marko",
-        "league_id": 8815,
-        "league": "Super League 2",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6140214,
-        "kickoff": 1791126000,
-        "fixture": "Niki Volou vs AE Larissa",
-        "league_id": 8815,
-        "league": "Super League 2",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 6140215,
         "kickoff": 1791126000,
         "fixture": "Olympiacos B vs Athens Kallithea FC",
@@ -1242,9 +1206,9 @@
         "tv_channels": []
     },
     {
-        "match_id": 6140216,
-        "kickoff": 1791126000,
-        "fixture": "Panthrakikos Komotini vs Panserraikos FC",
+        "match_id": 6140219,
+        "kickoff": 1791198000,
+        "fixture": "Zakynthos APS vs Kalamaria",
         "league_id": 8815,
         "league": "Super League 2",
         "venue": "TBA",
@@ -1252,7 +1216,7 @@
     },
     {
         "match_id": 6140217,
-        "kickoff": 1791126000,
+        "kickoff": 1791200700,
         "fixture": "PAOK Thessaloniki B vs Hellas Syros",
         "league_id": 8815,
         "league": "Super League 2",
@@ -1260,18 +1224,9 @@
         "tv_channels": []
     },
     {
-        "match_id": 6140218,
-        "kickoff": 1791126000,
-        "fixture": "Pyrgos AFC vs Panionios",
-        "league_id": 8815,
-        "league": "Super League 2",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6140219,
-        "kickoff": 1791126000,
-        "fixture": "Zakynthos APS vs Kalamaria",
+        "match_id": 6140213,
+        "kickoff": 1791201600,
+        "fixture": "Nestos Chrisoupolis vs GS Marko",
         "league_id": 8815,
         "league": "Super League 2",
         "venue": "TBA",
