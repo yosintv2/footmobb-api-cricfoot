@@ -86,7 +86,7 @@
         "fixture": "Morocco vs Mali",
         "league_id": 114,
         "league": "Friendlies",
-        "venue": "TBA",
+        "venue": "Grand Stade de Tanger",
         "tv_channels": []
     },
     {
@@ -104,7 +104,7 @@
         "fixture": "Ecuador vs Panama",
         "league_id": 114,
         "league": "Friendlies",
-        "venue": "TBA",
+        "venue": "MUFG Stadium",
         "tv_channels": []
     },
     {
@@ -122,7 +122,7 @@
         "fixture": "Japan vs New Zealand",
         "league_id": 114,
         "league": "Friendlies",
-        "venue": "TBA",
+        "venue": "MUFG Stadium",
         "tv_channels": []
     },
     {
@@ -230,6 +230,15 @@
         "fixture": "Molde vs Kristiansund",
         "league_id": 489,
         "league": "Club Friendlies",
+        "venue": "Aker Stadion",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6370244,
+        "kickoff": 1791129600,
+        "fixture": "Zenit St. Petersburg vs BATE Borisov",
+        "league_id": 489,
+        "league": "Club Friendlies",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -253,7 +262,7 @@
     },
     {
         "match_id": 5991942,
-        "kickoff": 1791140400,
+        "kickoff": 1791144000,
         "fixture": "Turks and Caicos Islands vs British Virgin Islands",
         "league_id": 9821,
         "league": "CONCACAF Nations League C Grp. 1",
@@ -378,15 +387,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 6325803,
-        "kickoff": 1791144000,
-        "fixture": "Club Cipolletti vs Sol de America Formosa",
-        "league_id": 9213,
-        "league": "Federal A Championship Playoff",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 6325802,
         "kickoff": 1791144000,
         "fixture": "Gimnasia y Esgrima de Chivilcoy vs Olimpo",
@@ -398,7 +398,7 @@
     {
         "match_id": 6232990,
         "kickoff": 1791190800,
-        "fixture": "Malaysia vs 2B",
+        "fixture": "Malaysia vs Vietnam",
         "league_id": 13287,
         "league": "FIFA ASEAN Cup Premier Division",
         "venue": "TBA",
@@ -407,7 +407,7 @@
     {
         "match_id": 6232991,
         "kickoff": 1791205200,
-        "fixture": "Indonesia vs 1B",
+        "fixture": "Indonesia vs Thailand",
         "league_id": 13287,
         "league": "FIFA ASEAN Cup Premier Division",
         "venue": "TBA",
@@ -585,9 +585,9 @@
         "tv_channels": []
     },
     {
-        "match_id": 5954350,
+        "match_id": 5954347,
         "kickoff": 1791155700,
-        "fixture": "Veraguas United vs Tauro FC",
+        "fixture": "Independiente de La Chorrera vs CD Árabe Unido",
         "league_id": 9039,
         "league": "LPF Apertura",
         "venue": "TBA",
@@ -606,6 +606,15 @@
         "match_id": 6103111,
         "kickoff": 1791126000,
         "fixture": "Bendel Insurance vs Barau",
+        "league_id": 533,
+        "league": "NPFL",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6103110,
+        "kickoff": 1791126000,
+        "fixture": "Doma United vs Warri Wolves FC",
         "league_id": 533,
         "league": "NPFL",
         "venue": "TBA",
@@ -720,15 +729,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5975043,
-        "kickoff": 1791126000,
-        "fixture": "Dreams FC vs Hearts of Oak",
-        "league_id": 522,
-        "league": "Premier League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 5975044,
         "kickoff": 1791126000,
         "fixture": "Heart of Lions vs Ashanti Gold",
@@ -768,24 +768,6 @@
         "match_id": 5114079,
         "kickoff": 1791136800,
         "fixture": "Comunicaciones vs Flandria",
-        "league_id": 9213,
-        "league": "Primera B Metropolitana",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5114083,
-        "kickoff": 1791136800,
-        "fixture": "Dock Sud vs Deportivo Armenio",
-        "league_id": 9213,
-        "league": "Primera B Metropolitana",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5114085,
-        "kickoff": 1791136800,
-        "fixture": "Real Pilar vs Villa Dálmine",
         "league_id": 9213,
         "league": "Primera B Metropolitana",
         "venue": "TBA",
@@ -1179,15 +1161,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5990495,
-        "kickoff": 1791127800,
-        "fixture": "Juventus Next Gen vs Lumezzane",
-        "league_id": 147,
-        "league": "Serie C Grp. A",
-        "venue": "Stadio Giuseppe Moccagatta",
-        "tv_channels": []
-    },
-    {
         "match_id": 5990496,
         "kickoff": 1791138600,
         "fixture": "Alcione Milano vs Trento",
@@ -1392,6 +1365,15 @@
         "league_id": 274,
         "league": "Primera A",
         "venue": "Estadio General Santander",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000014215,
+        "kickoff": 1791147900,
+        "fixture": "Internacional de Bogotá vs Once Caldas",
+        "league_id": 274,
+        "league": "Primera A",
+        "venue": "Estadio Metropolitano de Techo",
         "tv_channels": []
     },
     {
