@@ -893,16 +893,7 @@
     {
         "match_id": 6362347,
         "kickoff": 1791970200,
-        "fixture": "Urawa Red Diamonds vs Yokohama FC",
-        "league_id": 224,
-        "league": "League Cup",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6362340,
-        "kickoff": 1791972000,
-        "fixture": "Avispa Fukuoka vs Sagan Tosu",
+        "fixture": "Yokohama FC vs Urawa Red Diamonds",
         "league_id": 224,
         "league": "League Cup",
         "venue": "TBA",
@@ -911,25 +902,7 @@
     {
         "match_id": 6362341,
         "kickoff": 1791972000,
-        "fixture": "Cerezo Osaka vs Gainare Tottori",
-        "league_id": 224,
-        "league": "League Cup",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6362344,
-        "kickoff": 1791972000,
-        "fixture": "Fagiano Okayama FC vs Nagoya Grampus",
-        "league_id": 224,
-        "league": "League Cup",
-        "venue": "Himaraya Stadium Gifu",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6362342,
-        "kickoff": 1791972000,
-        "fixture": "FC Tokyo vs Mito Hollyhock",
+        "fixture": "Gainare Tottori vs Cerezo Osaka",
         "league_id": 224,
         "league": "League Cup",
         "venue": "TBA",
@@ -938,7 +911,7 @@
     {
         "match_id": 6362343,
         "kickoff": 1791972000,
-        "fixture": "Kawasaki Frontale vs Júbilo Iwata",
+        "fixture": "Júbilo Iwata vs Kawasaki Frontale",
         "league_id": 224,
         "league": "League Cup",
         "venue": "TBA",
@@ -947,7 +920,34 @@
     {
         "match_id": 6362345,
         "kickoff": 1791972000,
-        "fixture": "Sanfrecce Hiroshima vs Matsumoto Yamaga",
+        "fixture": "Matsumoto Yamaga vs Sanfrecce Hiroshima",
+        "league_id": 224,
+        "league": "League Cup",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6362342,
+        "kickoff": 1791972000,
+        "fixture": "Mito Hollyhock vs FC Tokyo",
+        "league_id": 224,
+        "league": "League Cup",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6362344,
+        "kickoff": 1791972000,
+        "fixture": "Nagoya Grampus vs Fagiano Okayama FC",
+        "league_id": 224,
+        "league": "League Cup",
+        "venue": "Himaraya Stadium Gifu",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6362340,
+        "kickoff": 1791972000,
+        "fixture": "Sagan Tosu vs Avispa Fukuoka",
         "league_id": 224,
         "league": "League Cup",
         "venue": "TBA",
@@ -956,7 +956,7 @@
     {
         "match_id": 6362346,
         "kickoff": 1791972000,
-        "fixture": "Shimizu S-Pulse vs Yokohama F.Marinos",
+        "fixture": "Yokohama F.Marinos vs Shimizu S-Pulse",
         "league_id": 224,
         "league": "League Cup",
         "venue": "TBA",
@@ -1944,12 +1944,30 @@
         "tv_channels": []
     },
     {
+        "match_id": 5955104,
+        "kickoff": 1791912600,
+        "fixture": "Kaizer Chiefs vs Stellenbosch FC",
+        "league_id": 537,
+        "league": "Premier Soccer League",
+        "venue": "FNB Stadium (Soccer City)",
+        "tv_channels": []
+    },
+    {
         "match_id": 5955106,
         "kickoff": 1791912600,
         "fixture": "Richards Bay vs Mamelodi Sundowns FC",
         "league_id": 537,
         "league": "Premier Soccer League",
         "venue": "Princess Magogo Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5955108,
+        "kickoff": 1791912600,
+        "fixture": "Orlando Pirates vs TS Galaxy",
+        "league_id": 537,
+        "league": "Premier Soccer League",
+        "venue": "Orlando Amstel Arena",
         "tv_channels": []
     },
     {
@@ -2169,21 +2187,21 @@
         "tv_channels": []
     },
     {
+        "match_id": 1000021418,
+        "kickoff": 1791979200,
+        "fixture": "AP Brera Strumica U19 vs FC Santa Coloma U19",
+        "league_id": 9741,
+        "league": "UEFA Youth League - 1st Round",
+        "venue": "Sportski Centar Pandev",
+        "tv_channels": []
+    },
+    {
         "match_id": 1000021413,
         "kickoff": 1791979200,
         "fixture": "Ballkani U19 vs HJK U19",
         "league_id": 9741,
         "league": "UEFA Youth League - 1st Round",
         "venue": "Kampi Nacional",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000021418,
-        "kickoff": 1791982800,
-        "fixture": "AP Brera Strumica U19 vs FC Santa Coloma U19",
-        "league_id": 9741,
-        "league": "UEFA Youth League - 1st Round",
-        "venue": "Sportski Centar Pandev",
         "tv_channels": []
     },
     {
@@ -2259,15 +2277,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000021115,
-        "kickoff": 1791975600,
-        "fixture": "Real Betis U19 vs FC Porto U19",
-        "league_id": 9741,
-        "league": "UEFA Youth League - League Stage",
-        "venue": "Ciudad Deportiva Luis de Sol",
-        "tv_channels": []
-    },
-    {
         "match_id": 1000021110,
         "kickoff": 1791979200,
         "fixture": "Roma U19 vs Real Madrid U19",
@@ -2301,6 +2310,15 @@
         "league_id": 9741,
         "league": "UEFA Youth League - League Stage",
         "venue": "Joie Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000021115,
+        "kickoff": 1791986400,
+        "fixture": "Real Betis U19 vs FC Porto U19",
+        "league_id": 9741,
+        "league": "UEFA Youth League - League Stage",
+        "venue": "Ciudad Deportiva Luis de Sol",
         "tv_channels": []
     },
     {
