@@ -153,21 +153,21 @@
         "tv_channels": []
     },
     {
-        "match_id": 6368653,
-        "kickoff": 1791313200,
-        "fixture": "Jordan vs Venezuela",
-        "league_id": 114,
-        "league": "Friendlies",
-        "venue": "King Abdullah International Stadium",
-        "tv_channels": []
-    },
-    {
         "match_id": 6366761,
-        "kickoff": 1791315000,
+        "kickoff": 1791306000,
         "fixture": "Algeria vs Niger",
         "league_id": 114,
         "league": "Friendlies",
         "venue": "Stade Hocine Aït Ahmed",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6368653,
+        "kickoff": 1791306000,
+        "fixture": "Jordan vs Venezuela",
+        "league_id": 114,
+        "league": "Friendlies",
+        "venue": "King Abdullah International Stadium",
         "tv_channels": []
     },
     {
@@ -226,7 +226,7 @@
     },
     {
         "match_id": 6385969,
-        "kickoff": 1791284400,
+        "kickoff": 1791285300,
         "fixture": "IFK Norrköping vs Kalmar FF",
         "league_id": 489,
         "league": "Club Friendlies",
@@ -297,6 +297,24 @@
         "tv_channels": []
     },
     {
+        "match_id": 4785850,
+        "kickoff": 1791216900,
+        "fixture": "Italy U21 vs Poland U21",
+        "league_id": 10437,
+        "league": "EURO U21 Qualification Grp. E",
+        "venue": "Stadio Adriatico - Giovanni Cornacchia",
+        "tv_channels": []
+    },
+    {
+        "match_id": 4785851,
+        "kickoff": 1791217800,
+        "fixture": "Sweden U21 vs North Macedonia U21",
+        "league_id": 10437,
+        "league": "EURO U21 Qualification Grp. E",
+        "venue": "Falcon Alkoholfri Arena",
+        "tv_channels": []
+    },
+    {
         "match_id": 4785879,
         "kickoff": 1791294300,
         "fixture": "Azerbaijan U21 vs Gibraltar U21",
@@ -348,24 +366,6 @@
         "league_id": 10437,
         "league": "EURO U21 Qualification Grp. D",
         "venue": "Turner's Cross",
-        "tv_channels": []
-    },
-    {
-        "match_id": 4785850,
-        "kickoff": 1791216900,
-        "fixture": "Italy U21 vs Poland U21",
-        "league_id": 10437,
-        "league": "EURO U21 Qualification Grp. E",
-        "venue": "Stadio Adriatico - Giovanni Cornacchia",
-        "tv_channels": []
-    },
-    {
-        "match_id": 4785851,
-        "kickoff": 1791217800,
-        "fixture": "Sweden U21 vs North Macedonia U21",
-        "league_id": 10437,
-        "league": "EURO U21 Qualification Grp. E",
-        "venue": "Falcon Alkoholfri Arena",
         "tv_channels": []
     },
     {
@@ -900,6 +900,69 @@
         "tv_channels": []
     },
     {
+        "match_id": 4785969,
+        "kickoff": 1791302400,
+        "fixture": "Germany U21 vs Georgia U21",
+        "league_id": 10437,
+        "league": "EURO U21 Qualification Grp. F",
+        "venue": "SchücoArena",
+        "tv_channels": []
+    },
+    {
+        "match_id": 4785968,
+        "kickoff": 1791302400,
+        "fixture": "Latvia U21 vs Malta U21",
+        "league_id": 10437,
+        "league": "EURO U21 Qualification Grp. F",
+        "venue": "Daugavas Stadionā",
+        "tv_channels": []
+    },
+    {
+        "match_id": 4785970,
+        "kickoff": 1791302400,
+        "fixture": "Northern Ireland U21 vs Greece U21",
+        "league_id": 10437,
+        "league": "EURO U21 Qualification Grp. F",
+        "venue": "Mourneview Park",
+        "tv_channels": []
+    },
+    {
+        "match_id": 4785816,
+        "kickoff": 1791304200,
+        "fixture": "Denmark U21 vs Belgium U21",
+        "league_id": 10437,
+        "league": "EURO U21 Qualification Grp. I",
+        "venue": "Vejle Stadion",
+        "tv_channels": []
+    },
+    {
+        "match_id": 4785817,
+        "kickoff": 1791304200,
+        "fixture": "Wales U21 vs Austria U21",
+        "league_id": 10437,
+        "league": "EURO U21 Qualification Grp. I",
+        "venue": "The Oval",
+        "tv_channels": []
+    },
+    {
+        "match_id": 4785819,
+        "kickoff": 1791305100,
+        "fixture": "Netherlands U21 vs Bosnia and Herzegovina U21",
+        "league_id": 10437,
+        "league": "EURO U21 Qualification Grp. G",
+        "venue": "Stadion De Vijverberg",
+        "tv_channels": []
+    },
+    {
+        "match_id": 4785820,
+        "kickoff": 1791305100,
+        "fixture": "Norway U21 vs Israel U21",
+        "league_id": 10437,
+        "league": "EURO U21 Qualification Grp. G",
+        "venue": "Lyse Arena",
+        "tv_channels": []
+    },
+    {
         "match_id": 4785756,
         "kickoff": 1791306000,
         "fixture": "Cyprus U21 vs San Marino U21",
@@ -954,51 +1017,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 4785969,
-        "kickoff": 1791302400,
-        "fixture": "Germany U21 vs Georgia U21",
-        "league_id": 10437,
-        "league": "EURO U21 Qualification Grp. F",
-        "venue": "SchücoArena",
-        "tv_channels": []
-    },
-    {
-        "match_id": 4785968,
-        "kickoff": 1791302400,
-        "fixture": "Latvia U21 vs Malta U21",
-        "league_id": 10437,
-        "league": "EURO U21 Qualification Grp. F",
-        "venue": "Daugavas Stadionā",
-        "tv_channels": []
-    },
-    {
-        "match_id": 4785970,
-        "kickoff": 1791302400,
-        "fixture": "Northern Ireland U21 vs Greece U21",
-        "league_id": 10437,
-        "league": "EURO U21 Qualification Grp. F",
-        "venue": "Mourneview Park",
-        "tv_channels": []
-    },
-    {
-        "match_id": 4785819,
-        "kickoff": 1791305100,
-        "fixture": "Netherlands U21 vs Bosnia and Herzegovina U21",
-        "league_id": 10437,
-        "league": "EURO U21 Qualification Grp. G",
-        "venue": "Stadion De Vijverberg",
-        "tv_channels": []
-    },
-    {
-        "match_id": 4785820,
-        "kickoff": 1791305100,
-        "fixture": "Norway U21 vs Israel U21",
-        "league_id": 10437,
-        "league": "EURO U21 Qualification Grp. G",
-        "venue": "Lyse Arena",
-        "tv_channels": []
-    },
-    {
         "match_id": 4785776,
         "kickoff": 1791306000,
         "fixture": "Lithuania U21 vs Croatia U21",
@@ -1014,24 +1032,6 @@
         "league_id": 10437,
         "league": "EURO U21 Qualification Grp. H",
         "venue": "Başakşehir Fatih Terim Stadyumu",
-        "tv_channels": []
-    },
-    {
-        "match_id": 4785816,
-        "kickoff": 1791304200,
-        "fixture": "Denmark U21 vs Belgium U21",
-        "league_id": 10437,
-        "league": "EURO U21 Qualification Grp. I",
-        "venue": "Vejle Stadion",
-        "tv_channels": []
-    },
-    {
-        "match_id": 4785817,
-        "kickoff": 1791304200,
-        "fixture": "Wales U21 vs Austria U21",
-        "league_id": 10437,
-        "league": "EURO U21 Qualification Grp. I",
-        "venue": "The Oval",
         "tv_channels": []
     },
     {
