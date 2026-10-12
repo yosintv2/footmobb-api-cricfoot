@@ -828,6 +828,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 5207252,
+        "kickoff": 1791703800,
+        "fixture": "Shaanxi Union vs Foshan Nanshi",
+        "league_id": 9137,
+        "league": "China League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5207254,
         "kickoff": 1791716400,
         "fixture": "Guangxi Hengchen vs Shenzhen Juniors",
@@ -840,15 +849,6 @@
         "match_id": 5207251,
         "kickoff": 1791716400,
         "fixture": "Ningbo Professional vs Nanjing City FC",
-        "league_id": 9137,
-        "league": "China League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5207252,
-        "kickoff": 1791716400,
-        "fixture": "Shaanxi Union vs Foshan Nanshi",
         "league_id": 9137,
         "league": "China League",
         "venue": "TBA",
@@ -1162,7 +1162,7 @@
     },
     {
         "match_id": 6327364,
-        "kickoff": 1791743400,
+        "kickoff": 1791741600,
         "fixture": "Costa Brava vs Villa Mitre",
         "league_id": 9213,
         "league": "Federal A Promotion Playoff",
@@ -1836,18 +1836,18 @@
         "tv_channels": []
     },
     {
-        "match_id": 5861285,
-        "kickoff": 1791673200,
-        "fixture": "CD Suchitepéquez vs Deportivo Mixco",
+        "match_id": 5861283,
+        "kickoff": 1791680400,
+        "fixture": "Deportivo Malacateco vs Guastatoya",
         "league_id": 336,
         "league": "Liga Nacional Apertura",
         "venue": "TBA",
         "tv_channels": []
     },
     {
-        "match_id": 5861283,
-        "kickoff": 1791680400,
-        "fixture": "Deportivo Malacateco vs Guastatoya",
+        "match_id": 5861285,
+        "kickoff": 1791736200,
+        "fixture": "CD Suchitepéquez vs Deportivo Mixco",
         "league_id": 336,
         "league": "Liga Nacional Apertura",
         "venue": "TBA",
@@ -4230,15 +4230,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 6140223,
-        "kickoff": 1791720000,
-        "fixture": "Anagennisi Karditsas vs Zakynthos APS",
-        "league_id": 8815,
-        "league": "Super League 2",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 6140222,
         "kickoff": 1791720000,
         "fixture": "Kalamaria vs Pyrgos AFC",
@@ -4725,6 +4716,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 1000017433,
+        "kickoff": 1791748800,
+        "fixture": "Rubio Ñú vs Olimpia",
+        "league_id": 199,
+        "league": "Division Profesional",
+        "venue": "Estadio La Arboleda",
+        "tv_channels": []
+    },
+    {
         "match_id": 1000015485,
         "kickoff": 1791655200,
         "fixture": "Beerschot vs FC Liège",
@@ -5022,24 +5022,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000013690,
-        "kickoff": 1791681300,
-        "fixture": "Bogotá FC vs Patriotas",
-        "league_id": 9125,
-        "league": "Primera B",
-        "venue": "Estadio Enrique Olaya Herrera",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000013684,
-        "kickoff": 1791748800,
-        "fixture": "Envigado vs Internacional FC de Palmira",
-        "league_id": 9125,
-        "league": "Primera B",
-        "venue": "Estadio Polideportivo Sur",
-        "tv_channels": []
-    },
-    {
         "match_id": 1000007328,
         "kickoff": 1791646200,
         "fixture": "Deportes Recoleta vs Magallanes",
@@ -5085,30 +5067,21 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000019057,
-        "kickoff": 1791658800,
-        "fixture": "Universitario de Vinto vs CDT Real Oruro",
-        "league_id": 144,
-        "league": "Primera División",
-        "venue": "Estadio Félix Capriles",
+        "match_id": 1000013690,
+        "kickoff": 1791681300,
+        "fixture": "Bogotá FC vs Patriotas",
+        "league_id": 9125,
+        "league": "Primera B",
+        "venue": "Estadio Enrique Olaya Herrera",
         "tv_channels": []
     },
     {
-        "match_id": 1000019058,
-        "kickoff": 1791675000,
-        "fixture": "Oriente Petrolero vs ABB",
-        "league_id": 144,
-        "league": "Primera División",
-        "venue": "Estadio Ramón Aguilera Costas",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000019059,
-        "kickoff": 1791745200,
-        "fixture": "Real Potosí vs The Strongest",
-        "league_id": 144,
-        "league": "Primera División",
-        "venue": "Estadio Víctor Agustín Ugarte de Potosí",
+        "match_id": 1000013684,
+        "kickoff": 1791748800,
+        "fixture": "Envigado vs Internacional FC de Palmira",
+        "league_id": 9125,
+        "league": "Primera B",
+        "venue": "Estadio Polideportivo Sur",
         "tv_channels": []
     },
     {
@@ -5163,6 +5136,33 @@
         "league_id": 273,
         "league": "Primera División",
         "venue": "Estadio Municipal Alcaldesa Ester Roa Rebolledo",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000019057,
+        "kickoff": 1791658800,
+        "fixture": "Universitario de Vinto vs CDT Real Oruro",
+        "league_id": 144,
+        "league": "Primera División",
+        "venue": "Estadio Félix Capriles",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000019058,
+        "kickoff": 1791675000,
+        "fixture": "Oriente Petrolero vs ABB",
+        "league_id": 144,
+        "league": "Primera División",
+        "venue": "Estadio Ramón Aguilera Costas",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000019059,
+        "kickoff": 1791745200,
+        "fixture": "Real Potosí vs The Strongest",
+        "league_id": 144,
+        "league": "Primera División",
+        "venue": "Estadio Víctor Agustín Ugarte de Potosí",
         "tv_channels": []
     },
     {
@@ -5235,15 +5235,6 @@
         "league_id": 536,
         "league": "Saudi Pro League",
         "venue": "Al Majma'ah Sports City Stadium",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5970144,
-        "kickoff": 1791732300,
-        "fixture": "Abha vs Al-Faisaly",
-        "league_id": 536,
-        "league": "Saudi Pro League",
-        "venue": "Dhamak Club Stadium",
         "tv_channels": []
     },
     {
@@ -5383,7 +5374,7 @@
     },
     {
         "match_id": 1000021207,
-        "kickoff": 1791741600,
+        "kickoff": 1791742800,
         "fixture": "Ferroviária vs Inter de Limeira",
         "league_id": 8971,
         "league": "Série C",
@@ -5594,7 +5585,7 @@
         "fixture": "PT Satun FC vs Khonkaen United FC",
         "league_id": 9498,
         "league": "Thai League 2",
-        "venue": "Satun Municipal Stadium",
+        "venue": "Satun Provincial Administrative Organization Stadium",
         "tv_channels": []
     },
     {
@@ -5612,7 +5603,7 @@
         "fixture": "Chanthaburi FC vs Nong Bua Pitchaya FC",
         "league_id": 9498,
         "league": "Thai League 2",
-        "venue": "Chanthaburi Stadium",
+        "venue": "Chanthaburi Provincial Stadium",
         "tv_channels": []
     },
     {
