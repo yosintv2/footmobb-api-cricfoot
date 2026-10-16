@@ -136,7 +136,7 @@
     },
     {
         "match_id": 5796366,
-        "kickoff": 1792335600,
+        "kickoff": 1792339200,
         "fixture": "Dečić Tuzi vs Budućnost Podgorica",
         "league_id": 232,
         "league": "1. CFL",
@@ -144,26 +144,8 @@
         "tv_channels": []
     },
     {
-        "match_id": 5796365,
-        "kickoff": 1792335600,
-        "fixture": "FK Arsenal Tivat vs Mornar",
-        "league_id": 232,
-        "league": "1. CFL",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5796367,
-        "kickoff": 1792335600,
-        "fixture": "OFK Mladost Donja Gorica vs Jezero",
-        "league_id": 232,
-        "league": "1. CFL",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 5796368,
-        "kickoff": 1792335600,
+        "kickoff": 1792414800,
         "fixture": "Petrovac vs Otrant",
         "league_id": 232,
         "league": "1. CFL",
@@ -172,7 +154,7 @@
     },
     {
         "match_id": 5796369,
-        "kickoff": 1792335600,
+        "kickoff": 1792425600,
         "fixture": "Sutjeska vs FK Bokelj",
         "league_id": 232,
         "league": "1. CFL",
@@ -369,6 +351,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 6250900,
+        "kickoff": 1792346400,
+        "fixture": "MAS Fès vs ASEC Mimosas",
+        "league_id": 10619,
+        "league": "CAF Champions League Qualification",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 6361386,
         "kickoff": 1792339200,
         "fixture": "Beerschot vs Anderlecht",
@@ -528,24 +519,6 @@
         "league_id": 57,
         "league": "Eredivisie",
         "venue": "Goffertstadion",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5165386,
-        "kickoff": 1792335600,
-        "fixture": "Torpedo Kutaisi vs FC Rustavi",
-        "league_id": 439,
-        "league": "Erovnuli Liga",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5165383,
-        "kickoff": 1792422000,
-        "fixture": "Dila Gori vs Iberia 1999",
-        "league_id": 439,
-        "league": "Erovnuli Liga",
-        "venue": "TBA",
         "tv_channels": []
     },
     {
@@ -963,9 +936,27 @@
         "tv_channels": []
     },
     {
+        "match_id": 5954355,
+        "kickoff": 1792357200,
+        "fixture": "Union Cocle vs Herrera FC",
+        "league_id": 9039,
+        "league": "LPF Apertura",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5954362,
         "kickoff": 1792365300,
         "fixture": "Alianza FC vs Sporting San Miguelito",
+        "league_id": 9039,
+        "league": "LPF Apertura",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5954356,
+        "kickoff": 1792365300,
+        "fixture": "UMECIT FC vs Alianza FC",
         "league_id": 9039,
         "league": "LPF Apertura",
         "venue": "TBA",
@@ -1071,15 +1062,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 6103139,
-        "kickoff": 1792335600,
-        "fixture": "Shooting Stars vs Ranchers Bees",
-        "league_id": 533,
-        "league": "NPFL",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 5161672,
         "kickoff": 1792342800,
         "fixture": "Houston Dash (W) vs Orlando Pride (W)",
@@ -1175,7 +1157,7 @@
         "fixture": "FC Kharkiv vs Liviy Bereh",
         "league_id": 441,
         "league": "Premier League",
-        "venue": "Stadion Metalist",
+        "venue": "Arena Liviy Bereh",
         "tv_channels": []
     },
     {
@@ -1219,6 +1201,24 @@
         "kickoff": 1792340100,
         "fixture": "Víkingur vs AB Argir",
         "league_id": 250,
+        "league": "Premier League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6140997,
+        "kickoff": 1792337400,
+        "fixture": "FK Velež Mostar vs Borac Banja Luka",
+        "league_id": 267,
+        "league": "Premier League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6140994,
+        "kickoff": 1792346400,
+        "fixture": "Čelik Zenica vs Zrinjski Mostar",
+        "league_id": 267,
         "league": "Premier League",
         "venue": "TBA",
         "tv_channels": []
@@ -1449,6 +1449,33 @@
         "tv_channels": []
     },
     {
+        "match_id": 5113504,
+        "kickoff": 1792348200,
+        "fixture": "Los Andes vs All Boys",
+        "league_id": 8965,
+        "league": "Primera Nacional",
+        "venue": "Estadio Eduardo Gallardón",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5113116,
+        "kickoff": 1792348200,
+        "fixture": "Nueva Chicago vs Gimnasia Jujuy",
+        "league_id": 8965,
+        "league": "Primera Nacional",
+        "venue": "Estadio República de Mataderos",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5113502,
+        "kickoff": 1792350000,
+        "fixture": "Ferro Carril Oeste vs Racing de Córdoba",
+        "league_id": 8965,
+        "league": "Primera Nacional",
+        "venue": "Estadio Arquitecto Ricardo Etcheverry",
+        "tv_channels": []
+    },
+    {
         "match_id": 5113114,
         "kickoff": 1792353600,
         "fixture": "Atlético Güemes vs Almagro",
@@ -1482,6 +1509,24 @@
         "league_id": 8965,
         "league": "Primera Nacional",
         "venue": "Estadio Ingeniero Hilario Sánchez",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5113118,
+        "kickoff": 1792359000,
+        "fixture": "San Martín de Tucumán vs CA Ferrocarril Midland",
+        "league_id": 8965,
+        "league": "Primera Nacional",
+        "venue": "Estadio La Ciudadela",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5113506,
+        "kickoff": 1792434600,
+        "fixture": "San Telmo vs CA Defensores de Belgrano",
+        "league_id": 8965,
+        "league": "Primera Nacional",
+        "venue": "Estadio Dr. Osvaldo Francisco Baletto",
         "tv_channels": []
     },
     {
@@ -1809,6 +1854,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 6028584,
+        "kickoff": 1792341900,
+        "fixture": "Erbil vs Al-Mosul",
+        "league_id": 524,
+        "league": "Stars League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 6028582,
         "kickoff": 1792344600,
         "fixture": "Al Shorta vs Al Karkh",
@@ -1836,44 +1890,8 @@
         "tv_channels": []
     },
     {
-        "match_id": 6140228,
-        "kickoff": 1792335600,
-        "fixture": "AE Larissa vs Panserraikos FC",
-        "league_id": 8815,
-        "league": "Super League 2",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6140229,
-        "kickoff": 1792335600,
-        "fixture": "Asteras Tripolis B vs Zakynthos APS",
-        "league_id": 8815,
-        "league": "Super League 2",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6140231,
-        "kickoff": 1792335600,
-        "fixture": "GS Marko vs Hellas Syros",
-        "league_id": 8815,
-        "league": "Super League 2",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6140230,
-        "kickoff": 1792335600,
-        "fixture": "Nestos Chrisoupolis vs Athens Kallithea FC",
-        "league_id": 8815,
-        "league": "Super League 2",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 6140232,
-        "kickoff": 1792335600,
+        "kickoff": 1792410300,
         "fixture": "Niki Volou vs Panionios",
         "league_id": 8815,
         "league": "Super League 2",
@@ -1881,27 +1899,9 @@
         "tv_channels": []
     },
     {
-        "match_id": 6140233,
-        "kickoff": 1792335600,
-        "fixture": "Panthrakikos Komotini vs Olympiacos B",
-        "league_id": 8815,
-        "league": "Super League 2",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 6140234,
-        "kickoff": 1792335600,
+        "kickoff": 1792411200,
         "fixture": "PAOK Thessaloniki B vs Kalamaria",
-        "league_id": 8815,
-        "league": "Super League 2",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6140235,
-        "kickoff": 1792335600,
-        "fixture": "Pyrgos AFC vs Anagennisi Karditsas",
         "league_id": 8815,
         "league": "Super League 2",
         "venue": "TBA",
@@ -2169,8 +2169,17 @@
         "tv_channels": []
     },
     {
+        "match_id": 1000017263,
+        "kickoff": 1792339200,
+        "fixture": "Sporting Cristal vs Comerciantes Unidos",
+        "league_id": 131,
+        "league": "Liga 1",
+        "venue": "Estadio Alberto Gallardo",
+        "tv_channels": []
+    },
+    {
         "match_id": 1000017262,
-        "kickoff": 1792346400,
+        "kickoff": 1792347300,
         "fixture": "FC Cajamarca vs Club Deportivo Moquegua",
         "league_id": 131,
         "league": "Liga 1",
@@ -2323,7 +2332,7 @@
     },
     {
         "match_id": 1000021991,
-        "kickoff": 1792415700,
+        "kickoff": 1792411200,
         "fixture": "Mes Shahr Babak vs Persepolis",
         "league_id": 523,
         "league": "Persian Gulf",
@@ -2745,6 +2754,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 5165383,
+        "kickoff": 1792422000,
+        "fixture": "Dila Gori vs Iberia 1999",
+        "league_id": 439,
+        "league": "Erovnuli Liga",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5948134,
         "kickoff": 1792435500,
         "fixture": "Aveley vs Maldon & Tiptree",
@@ -2880,21 +2898,21 @@
         "tv_channels": []
     },
     {
-        "match_id": 5100972,
-        "kickoff": 1792435500,
-        "fixture": "Derry City vs St. Patrick's Athletic",
-        "league_id": 126,
-        "league": "Premier Division",
-        "venue": "The Ryan McBride Brandywell Stadium",
-        "tv_channels": []
-    },
-    {
         "match_id": 5100975,
         "kickoff": 1792435500,
         "fixture": "Waterford FC vs Galway United FC",
         "league_id": 126,
         "league": "Premier Division",
         "venue": "Waterford Regional Sports Centre",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5100972,
+        "kickoff": 1792436400,
+        "fixture": "Derry City vs St. Patrick's Athletic",
+        "league_id": 126,
+        "league": "Premier Division",
+        "venue": "The Ryan McBride Brandywell Stadium",
         "tv_channels": []
     },
     {
