@@ -1,86 +1,5 @@
 [
     {
-        "match_id": 6106410,
-        "kickoff": 1792601100,
-        "fixture": "Como vs Manchester United",
-        "league_id": 42,
-        "league": "Champions League",
-        "venue": "Stadio Giuseppe Sinigaglia",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6106312,
-        "kickoff": 1792601100,
-        "fixture": "Lille vs Galatasaray",
-        "league_id": 42,
-        "league": "Champions League",
-        "venue": "Decathlon Arena - Stade Pierre-Mauroy",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6106285,
-        "kickoff": 1792609200,
-        "fixture": "Aston Villa vs Viking",
-        "league_id": 42,
-        "league": "Champions League",
-        "venue": "Villa Park",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6106238,
-        "kickoff": 1792609200,
-        "fixture": "Bayern München vs Arsenal",
-        "league_id": 42,
-        "league": "Champions League",
-        "venue": "Allianz Arena",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6106297,
-        "kickoff": 1792609200,
-        "fixture": "Club Brugge vs Lens",
-        "league_id": 42,
-        "league": "Champions League",
-        "venue": "Jan Breydelstadion",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6106252,
-        "kickoff": 1792609200,
-        "fixture": "Inter vs Shakhtar Donetsk",
-        "league_id": 42,
-        "league": "Champions League",
-        "venue": "Stadio Giuseppe Meazza",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6106300,
-        "kickoff": 1792609200,
-        "fixture": "Real Betis vs Feyenoord",
-        "league_id": 42,
-        "league": "Champions League",
-        "venue": "Estadio La Cartuja de Sevilla",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6106244,
-        "kickoff": 1792609200,
-        "fixture": "Real Madrid vs RB Leipzig",
-        "league_id": 42,
-        "league": "Champions League",
-        "venue": "Estadio Bernabéu",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6106281,
-        "kickoff": 1792609200,
-        "fixture": "Sporting CP vs LASK",
-        "league_id": 42,
-        "league": "Champions League",
-        "venue": "Estádio José Alvalade",
-        "tv_channels": []
-    },
-    {
         "match_id": 6112498,
         "kickoff": 1792679400,
         "fixture": "Kairat Almaty vs Panathinaikos",
@@ -253,7 +172,7 @@
     },
     {
         "match_id": 5071323,
-        "kickoff": 1792623600,
+        "kickoff": 1792624500,
         "fixture": "FC Cincinnati vs DC United",
         "league_id": 130,
         "league": "Major League Soccer",
@@ -315,17 +234,8 @@
         "tv_channels": []
     },
     {
-        "match_id": 6384117,
-        "kickoff": 1792598400,
-        "fixture": "AEK Larnaca vs Akritas Chlorakas",
-        "league_id": 330,
-        "league": "Cup",
-        "venue": "AEK Arena - George Karapatakis",
-        "tv_channels": []
-    },
-    {
         "match_id": 6356392,
-        "kickoff": 1792623600,
+        "kickoff": 1792620000,
         "fixture": "Universidad de Chile vs Antofagasta",
         "league_id": 9091,
         "league": "Cup",
@@ -410,6 +320,15 @@
         "fixture": "FC Bihor Oradea vs CSM Reșița",
         "league_id": 9113,
         "league": "Liga II",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5861295,
+        "kickoff": 1792598400,
+        "fixture": "Deportivo Malacateco vs Comunicaciones FC",
+        "league_id": 336,
+        "league": "Liga Nacional Apertura",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -577,7 +496,7 @@
     },
     {
         "match_id": 6028597,
-        "kickoff": 1792679400,
+        "kickoff": 1792677600,
         "fixture": "Zakho vs Erbil",
         "league_id": 524,
         "league": "Stars League",
@@ -585,18 +504,18 @@
         "tv_channels": []
     },
     {
-        "match_id": 6028592,
-        "kickoff": 1792687500,
-        "fixture": "Al Talaba vs Al Quwa Al Jawiya",
+        "match_id": 6028588,
+        "kickoff": 1792684800,
+        "fixture": "Al-Gharraf vs Al Naft",
         "league_id": 524,
         "league": "Stars League",
         "venue": "TBA",
         "tv_channels": []
     },
     {
-        "match_id": 6028588,
-        "kickoff": 1792695600,
-        "fixture": "Al-Gharraf vs Al Naft",
+        "match_id": 6028592,
+        "kickoff": 1792688400,
+        "fixture": "Al Talaba vs Al Quwa Al Jawiya",
         "league_id": 524,
         "league": "Stars League",
         "venue": "TBA",
@@ -640,7 +559,7 @@
     },
     {
         "match_id": 6289573,
-        "kickoff": 1792627200,
+        "kickoff": 1792627800,
         "fixture": "Columbus Crew vs St. Louis City",
         "league_id": 9441,
         "league": "US Open Cup",
@@ -747,6 +666,87 @@
         "tv_channels": []
     },
     {
+        "match_id": 6106312,
+        "kickoff": 1792601100,
+        "fixture": "Lille vs Galatasaray",
+        "league_id": 42,
+        "league": "Champions League - League Stage",
+        "venue": "Decathlon Arena - Stade Pierre-Mauroy",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6106410,
+        "kickoff": 1792601100,
+        "fixture": "Como vs Manchester United",
+        "league_id": 42,
+        "league": "Champions League - League Stage",
+        "venue": "Stadio Giuseppe Sinigaglia",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6106281,
+        "kickoff": 1792609200,
+        "fixture": "Sporting CP vs LASK",
+        "league_id": 42,
+        "league": "Champions League - League Stage",
+        "venue": "Estádio José Alvalade",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6106285,
+        "kickoff": 1792609200,
+        "fixture": "Aston Villa vs Viking",
+        "league_id": 42,
+        "league": "Champions League - League Stage",
+        "venue": "Villa Park",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6106252,
+        "kickoff": 1792609200,
+        "fixture": "Inter vs Shakhtar Donetsk",
+        "league_id": 42,
+        "league": "Champions League - League Stage",
+        "venue": "Stadio Giuseppe Meazza",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6106300,
+        "kickoff": 1792609200,
+        "fixture": "Real Betis vs Feyenoord",
+        "league_id": 42,
+        "league": "Champions League - League Stage",
+        "venue": "Estadio La Cartuja de Sevilla",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6106244,
+        "kickoff": 1792609200,
+        "fixture": "Real Madrid vs RB Leipzig",
+        "league_id": 42,
+        "league": "Champions League - League Stage",
+        "venue": "Estadio Bernabéu",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6106238,
+        "kickoff": 1792609200,
+        "fixture": "Bayern München vs Arsenal",
+        "league_id": 42,
+        "league": "Champions League - League Stage",
+        "venue": "Allianz Arena",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6106297,
+        "kickoff": 1792609200,
+        "fixture": "Club Brugge vs Lens",
+        "league_id": 42,
+        "league": "Champions League - League Stage",
+        "venue": "Jan Breydelstadion",
+        "tv_channels": []
+    },
+    {
         "match_id": 1000020616,
         "kickoff": 1792629000,
         "fixture": "Palmeiras vs Fluminense",
@@ -765,21 +765,21 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000022152,
-        "kickoff": 1792612800,
-        "fixture": "Colo Colo vs Caracas FC",
-        "league_id": 11021,
-        "league": "Copa Libertadores Femenina",
-        "venue": "Estadio Rodrigo Paz Delgado",
-        "tv_channels": []
-    },
-    {
         "match_id": 1000022155,
         "kickoff": 1792612800,
         "fixture": "Santa Fe vs Corinthians",
         "league_id": 11021,
         "league": "Copa Libertadores Femenina",
         "venue": "Estadio Banco Guayaquil",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000022152,
+        "kickoff": 1792615800,
+        "fixture": "Colo Colo vs Caracas FC",
+        "league_id": 11021,
+        "league": "Copa Libertadores Femenina",
+        "venue": "Estadio Rodrigo Paz Delgado",
         "tv_channels": []
     },
     {
@@ -833,7 +833,7 @@
         "fixture": "Surindra vs Phichit United",
         "league_id": 11023,
         "league": "FA Cup - 2nd Round",
-        "venue": "Sri-Narong Stadium",
+        "venue": "Rajamangala University of Technology Esarn Surin Campus Stadium",
         "tv_channels": []
     },
     {
@@ -1081,7 +1081,7 @@
     },
     {
         "match_id": 5109494,
-        "kickoff": 1792623600,
+        "kickoff": 1792625760,
         "fixture": "Cosmos vs Spokane Velocity FC",
         "league_id": 9296,
         "league": "USL League One",

@@ -1584,17 +1584,8 @@
         "tv_channels": []
     },
     {
-        "match_id": 5760530,
-        "kickoff": 1793381400,
-        "fixture": "CSKA Sofia vs Slavia Sofia",
-        "league_id": 270,
-        "league": "First Professional League",
-        "venue": "Bulgarska Armiya",
-        "tv_channels": []
-    },
-    {
         "match_id": 5760524,
-        "kickoff": 1793442600,
+        "kickoff": 1793381400,
         "fixture": "PFC Lokomotiv Sofia 1929 vs Botev Plovdiv",
         "league_id": 270,
         "league": "First Professional League",
@@ -1603,7 +1594,7 @@
     },
     {
         "match_id": 5760528,
-        "kickoff": 1793451600,
+        "kickoff": 1793448000,
         "fixture": "Lokomotiv Plovdiv vs Ludogorets Razgrad",
         "league_id": 270,
         "league": "First Professional League",
@@ -1612,11 +1603,20 @@
     },
     {
         "match_id": 5760527,
-        "kickoff": 1793460600,
+        "kickoff": 1793457000,
         "fixture": "Dunav Ruse vs Levski Sofia",
         "league_id": 270,
         "league": "First Professional League",
         "venue": "Gradski Stadion, Ruse",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5760530,
+        "kickoff": 1793467800,
+        "fixture": "CSKA Sofia vs Slavia Sofia",
+        "league_id": 270,
+        "league": "First Professional League",
+        "venue": "Bulgarska Armiya",
         "tv_channels": []
     },
     {
@@ -3056,7 +3056,7 @@
         "fixture": "Shakhtar Donetsk vs Obolon Kyiv",
         "league_id": 441,
         "league": "Premier League",
-        "venue": "Stadion NSK Olimpiyskiy, Kyiv",
+        "venue": "Arena Lviv",
         "tv_channels": []
     },
     {
@@ -4883,7 +4883,7 @@
         "fixture": "Mohammedan SC vs Shillong Lajong",
         "league_id": 8982,
         "league": "I League",
-        "venue": "Naihati Stadium",
+        "venue": "Kalyani Stadium",
         "tv_channels": []
     },
     {
@@ -5193,24 +5193,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000013252,
-        "kickoff": 1793397600,
-        "fixture": "Colo Colo vs Universidad de Concepción",
-        "league_id": 273,
-        "league": "Primera División",
-        "venue": "Estadio Monumental David Arellano",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000013255,
-        "kickoff": 1793397600,
-        "fixture": "Coquimbo Unido vs Unión La Calera",
-        "league_id": 273,
-        "league": "Primera División",
-        "venue": "Estadio Municipal Francisco Sánchez Rumoroso",
-        "tv_channels": []
-    },
-    {
         "match_id": 1000022363,
         "kickoff": 1793397600,
         "fixture": "Real Potosí vs Independiente Petrolero",
@@ -5238,21 +5220,21 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000022590,
-        "kickoff": 1793404800,
-        "fixture": "Academia Puerto Cabello vs Deportivo Táchira",
-        "league_id": 339,
+        "match_id": 1000013252,
+        "kickoff": 1793397600,
+        "fixture": "Colo Colo vs Universidad de Concepción",
+        "league_id": 273,
         "league": "Primera División",
-        "venue": "TBA",
+        "venue": "Estadio Monumental David Arellano",
         "tv_channels": []
     },
     {
-        "match_id": 1000022591,
-        "kickoff": 1793404800,
-        "fixture": "Caracas vs Monagas SC",
-        "league_id": 339,
+        "match_id": 1000013255,
+        "kickoff": 1793397600,
+        "fixture": "Coquimbo Unido vs Unión La Calera",
+        "league_id": 273,
         "league": "Primera División",
-        "venue": "TBA",
+        "venue": "Estadio Municipal Francisco Sánchez Rumoroso",
         "tv_channels": []
     },
     {
