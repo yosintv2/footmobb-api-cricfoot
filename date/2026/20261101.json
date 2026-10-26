@@ -4037,7 +4037,7 @@
         "fixture": "Strasbourg (W) vs Le Havre (W)",
         "league_id": 9677,
         "league": "Premiere Ligue",
-        "venue": "Stade de la Meinau",
+        "venue": "Parc des Sports",
         "tv_channels": []
     },
     {
@@ -5688,6 +5688,24 @@
         "tv_channels": []
     },
     {
+        "match_id": 6028598,
+        "kickoff": 1793462400,
+        "fixture": "Al Karkh vs Al-Gharraf",
+        "league_id": 524,
+        "league": "Stars League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6028605,
+        "kickoff": 1793464200,
+        "fixture": "Erbil vs Ghaz Al-Shamal SC",
+        "league_id": 524,
+        "league": "Stars League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5943283,
         "kickoff": 1793466000,
         "fixture": "Kifisia FC vs Olympiacos",
@@ -6932,7 +6950,7 @@
     {
         "match_id": 1000021794,
         "kickoff": 1793469600,
-        "fixture": "4th ranked vs 1st ranked",
+        "fixture": "4th ranked vs Montréal Roses FC",
         "league_id": 10872,
         "league": "Northern Super League - Championship - Semi-finals",
         "venue": "TBA",
@@ -7119,24 +7137,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000022590,
-        "kickoff": 1793482200,
-        "fixture": "Academia Puerto Cabello vs Deportivo Táchira",
-        "league_id": 339,
-        "league": "Primera División",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000022591,
-        "kickoff": 1793489400,
-        "fixture": "Caracas vs Monagas SC",
-        "league_id": 339,
-        "league": "Primera División",
-        "venue": "Estadio Olímpico de la UCV",
-        "tv_channels": []
-    },
-    {
         "match_id": 1000013257,
         "kickoff": 1793487600,
         "fixture": "O'Higgins vs Ñublense",
@@ -7170,6 +7170,24 @@
         "league_id": 273,
         "league": "Primera División",
         "venue": "Claro Arena",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000022590,
+        "kickoff": 1793482200,
+        "fixture": "Academia Puerto Cabello vs Deportivo Táchira",
+        "league_id": 339,
+        "league": "Primera División",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000022591,
+        "kickoff": 1793489400,
+        "fixture": "Caracas vs Monagas SC",
+        "league_id": 339,
+        "league": "Primera División",
+        "venue": "Estadio Olímpico de la UCV",
         "tv_channels": []
     },
     {
@@ -7381,7 +7399,7 @@
     },
     {
         "match_id": 1000015162,
-        "kickoff": 1793491200,
+        "kickoff": 1793462400,
         "fixture": "Mačva Šabac vs FK Crvena Zvezda",
         "league_id": 182,
         "league": "Super Liga",
@@ -7389,44 +7407,8 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000015163,
-        "kickoff": 1793491200,
-        "fixture": "OFK Beograd vs Vojvodina",
-        "league_id": 182,
-        "league": "Super Liga",
-        "venue": "Omladinski Stadion",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000015164,
-        "kickoff": 1793491200,
-        "fixture": "Mladost Lučani vs FK Radnik Surdulica",
-        "league_id": 182,
-        "league": "Super Liga",
-        "venue": "SRC MR Radoš Milovanović",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000015165,
-        "kickoff": 1793491200,
-        "fixture": "FK Radnički 1923 vs Novi Pazar",
-        "league_id": 182,
-        "league": "Super Liga",
-        "venue": "Stadion Čika Dača",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000015166,
-        "kickoff": 1793491200,
-        "fixture": "Radnički Niš vs Železničar Pančevo",
-        "league_id": 182,
-        "league": "Super Liga",
-        "venue": "Gradski Stadion Čair",
-        "tv_channels": []
-    },
-    {
         "match_id": 1000015167,
-        "kickoff": 1793491200,
+        "kickoff": 1793538000,
         "fixture": "FK IMT Beograd vs Čukarički",
         "league_id": 182,
         "league": "Super Liga",
@@ -7434,8 +7416,26 @@
         "tv_channels": []
     },
     {
+        "match_id": 1000015163,
+        "kickoff": 1793541600,
+        "fixture": "OFK Beograd vs Vojvodina",
+        "league_id": 182,
+        "league": "Super Liga",
+        "venue": "Omladinski Stadion",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000015165,
+        "kickoff": 1793545200,
+        "fixture": "FK Radnički 1923 vs Novi Pazar",
+        "league_id": 182,
+        "league": "Super Liga",
+        "venue": "Stadion Čika Dača",
+        "tv_channels": []
+    },
+    {
         "match_id": 1000015168,
-        "kickoff": 1793491200,
+        "kickoff": 1793548800,
         "fixture": "Partizan Beograd vs FK Zemun",
         "league_id": 182,
         "league": "Super Liga",
@@ -7794,12 +7794,39 @@
         "tv_channels": []
     },
     {
+        "match_id": 6499907,
+        "kickoff": 1793559600,
+        "fixture": "Lexington SC vs Colorado Springs Switchbacks FC",
+        "league_id": 8972,
+        "league": "USL Championship Playoff",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 1000019470,
         "kickoff": 1793559600,
         "fixture": "Palmeiras vs Vasco da Gama",
         "league_id": 9067,
         "league": "Copa do Brasil - Semi-finals",
         "venue": "Nubank Parque",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000022839,
+        "kickoff": 1793559600,
+        "fixture": "Atlético Ottawa vs Forge FC",
+        "league_id": 9986,
+        "league": "Premier League - Semi-finals",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000022840,
+        "kickoff": 1793566800,
+        "fixture": "Supra du Québec vs Cavalry FC",
+        "league_id": 9986,
+        "league": "Premier League - Semi-finals",
+        "venue": "TBA",
         "tv_channels": []
     }
 ]

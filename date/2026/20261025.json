@@ -370,7 +370,7 @@
     },
     {
         "match_id": 5749716,
-        "kickoff": 1792947600,
+        "kickoff": 1792947900,
         "fixture": "Lecce vs Juventus",
         "league_id": 55,
         "league": "Serie A",
@@ -2916,21 +2916,21 @@
         "tv_channels": []
     },
     {
-        "match_id": 5973207,
-        "kickoff": 1792927800,
-        "fixture": "FC Jurong vs Tampines Rovers FC",
-        "league_id": 461,
-        "league": "Premier League",
-        "venue": "Jurong East Stadium",
-        "tv_channels": []
-    },
-    {
         "match_id": 5973208,
-        "kickoff": 1792927800,
+        "kickoff": 1792929600,
         "fixture": "Lion City Sailors FC vs Tanjong Pagar United FC",
         "league_id": 461,
         "league": "Premier League",
         "venue": "Jalan Besar Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5973207,
+        "kickoff": 1792931400,
+        "fixture": "FC Jurong vs Tampines Rovers FC",
+        "league_id": 461,
+        "league": "Premier League",
+        "venue": "Jurong East Stadium",
         "tv_channels": []
     },
     {
@@ -4249,7 +4249,7 @@
     },
     {
         "match_id": 6028595,
-        "kickoff": 1792947600,
+        "kickoff": 1792935000,
         "fixture": "Ghaz Al-Shamal SC vs Naft Maysan",
         "league_id": 524,
         "league": "Stars League",
@@ -4857,6 +4857,15 @@
         "league_id": 9227,
         "league": "WSL",
         "venue": "Progress with Unity Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6460841,
+        "kickoff": 1792936800,
+        "fixture": "KäPa vs RoPS",
+        "league_id": 10713,
+        "league": "Ykkosliiga Qualification",
+        "venue": "TBA",
         "tv_channels": []
     },
     {
@@ -5589,69 +5598,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000007340,
-        "kickoff": 1792873800,
-        "fixture": "Rangers vs Cobreloa",
-        "league_id": 9126,
-        "league": "Primera B",
-        "venue": "Estadio Bicentenario Iván Azócar Bernales",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000007341,
-        "kickoff": 1792873800,
-        "fixture": "Unión Española vs Santiago Wanderers",
-        "league_id": 9126,
-        "league": "Primera B",
-        "venue": "Estadio Santa Laura-Universidad SEK",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000007342,
-        "kickoff": 1792873800,
-        "fixture": "Puerto Montt vs Unión San Felipe",
-        "league_id": 9126,
-        "league": "Primera B",
-        "venue": "Estadio Bicentenario de Chinquihue",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000007343,
-        "kickoff": 1792873800,
-        "fixture": "San Luis vs Deportes Recoleta",
-        "league_id": 9126,
-        "league": "Primera B",
-        "venue": "Estadio Municipal Lucio Fariña Fernández",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000007345,
-        "kickoff": 1792873800,
-        "fixture": "Deportes Copiapó vs Deportes Santa Cruz",
-        "league_id": 9126,
-        "league": "Primera B",
-        "venue": "Estadio Luis Valenzuela Hermosilla",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000007339,
-        "kickoff": 1792951200,
-        "fixture": "Deportes Temuco vs San Marcos",
-        "league_id": 9126,
-        "league": "Primera B",
-        "venue": "Estadio Municipal Bicentenario Germán Becker",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000007346,
-        "kickoff": 1792960200,
-        "fixture": "Antofagasta vs Curicó Unido",
-        "league_id": 9126,
-        "league": "Primera B",
-        "venue": "Estadio Regional Calvo y Bascuñán",
-        "tv_channels": []
-    },
-    {
         "match_id": 1000013763,
         "kickoff": 1792873800,
         "fixture": "Boca Juniors de Cali vs Internacional FC de Palmira",
@@ -5724,6 +5670,69 @@
         "tv_channels": []
     },
     {
+        "match_id": 1000007340,
+        "kickoff": 1792873800,
+        "fixture": "Rangers vs Cobreloa",
+        "league_id": 9126,
+        "league": "Primera B",
+        "venue": "Estadio Bicentenario Iván Azócar Bernales",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000007341,
+        "kickoff": 1792873800,
+        "fixture": "Unión Española vs Santiago Wanderers",
+        "league_id": 9126,
+        "league": "Primera B",
+        "venue": "Estadio Santa Laura-Universidad SEK",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000007342,
+        "kickoff": 1792873800,
+        "fixture": "Puerto Montt vs Unión San Felipe",
+        "league_id": 9126,
+        "league": "Primera B",
+        "venue": "Estadio Bicentenario de Chinquihue",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000007343,
+        "kickoff": 1792873800,
+        "fixture": "San Luis vs Deportes Recoleta",
+        "league_id": 9126,
+        "league": "Primera B",
+        "venue": "Estadio Municipal Lucio Fariña Fernández",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000007345,
+        "kickoff": 1792873800,
+        "fixture": "Deportes Copiapó vs Deportes Santa Cruz",
+        "league_id": 9126,
+        "league": "Primera B",
+        "venue": "Estadio Luis Valenzuela Hermosilla",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000007339,
+        "kickoff": 1792951200,
+        "fixture": "Deportes Temuco vs San Marcos",
+        "league_id": 9126,
+        "league": "Primera B",
+        "venue": "Estadio Municipal Bicentenario Germán Becker",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000007346,
+        "kickoff": 1792960200,
+        "fixture": "Antofagasta vs Curicó Unido",
+        "league_id": 9126,
+        "league": "Primera B",
+        "venue": "Estadio Regional Calvo y Bascuñán",
+        "tv_channels": []
+    },
+    {
         "match_id": 1000013245,
         "kickoff": 1792855800,
         "fixture": "La Serena vs Deportes Concepción",
@@ -5743,7 +5752,7 @@
     },
     {
         "match_id": 1000013250,
-        "kickoff": 1792940400,
+        "kickoff": 1792942200,
         "fixture": "Ñublense vs Coquimbo Unido",
         "league_id": 273,
         "league": "Primera División",
@@ -6476,15 +6485,6 @@
         "fixture": "Zimbru vs FC Bălți",
         "league_id": 231,
         "league": "Super Liga",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6460841,
-        "kickoff": 1792944000,
-        "fixture": "KäPa vs RoPS",
-        "league_id": 10713,
-        "league": "Ykkosliiga Qualification",
         "venue": "TBA",
         "tv_channels": []
     },
