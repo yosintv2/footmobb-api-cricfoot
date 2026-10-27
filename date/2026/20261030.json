@@ -288,9 +288,27 @@
         "tv_channels": []
     },
     {
+        "match_id": 6280506,
+        "kickoff": 1793291400,
+        "fixture": "Chrobry Głogów vs Polonia Bytom",
+        "league_id": 198,
+        "league": "FA Cup",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 6280514,
         "kickoff": 1793291400,
         "fixture": "Polonia Warszawa vs Korona Kielce",
+        "league_id": 198,
+        "league": "FA Cup",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6280510,
+        "kickoff": 1793296800,
+        "fixture": "Arka Gdynia vs Stal Rzeszów",
         "league_id": 198,
         "league": "FA Cup",
         "venue": "TBA",
@@ -513,42 +531,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5996755,
-        "kickoff": 1793293200,
-        "fixture": "Pyramids FC vs Wadi Degla FC",
-        "league_id": 519,
-        "league": "Premier League",
-        "venue": "30 June Air Defence Stadium",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5996756,
-        "kickoff": 1793372400,
-        "fixture": "Asyut Petroleum vs El Gouna FC",
-        "league_id": 519,
-        "league": "Premier League",
-        "venue": "Borg El Arab Stadium",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5996757,
-        "kickoff": 1793383200,
-        "fixture": "Al Ittihad Alexandria vs Tala'ea El Gaish",
-        "league_id": 519,
-        "league": "Premier League",
-        "venue": "Alexandria Stadium",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5996758,
-        "kickoff": 1793383200,
-        "fixture": "Olympic El Qanah FC vs Al Sharkeyah-ENPPI",
-        "league_id": 519,
-        "league": "Premier League",
-        "venue": "Suez Canal Stadium",
-        "tv_channels": []
-    },
-    {
         "match_id": 5987550,
         "kickoff": 1793370600,
         "fixture": "Turan Tovuz vs Sabah FK",
@@ -571,24 +553,6 @@
         "kickoff": 1793372400,
         "fixture": "Pyunik vs Urartu FC",
         "league_id": 118,
-        "league": "Premier League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6141486,
-        "kickoff": 1793370600,
-        "fixture": "Al-Tadhamon vs Al Sahel SC",
-        "league_id": 529,
-        "league": "Premier League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6141485,
-        "kickoff": 1793378700,
-        "fixture": "Al-Salibikhaet vs Al-Salmiyah",
-        "league_id": 529,
         "league": "Premier League",
         "venue": "TBA",
         "tv_channels": []
@@ -960,6 +924,42 @@
         "league_id": 523,
         "league": "Persian Gulf",
         "venue": "Shohadaye Foolad Khoozestan",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5996755,
+        "kickoff": 1793293200,
+        "fixture": "Pyramids FC vs Wadi Degla FC",
+        "league_id": 519,
+        "league": "Premier League",
+        "venue": "30 June Air Defence Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5996756,
+        "kickoff": 1793372400,
+        "fixture": "Asyut Petroleum vs El Gouna FC",
+        "league_id": 519,
+        "league": "Premier League",
+        "venue": "Borg El Arab Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5996757,
+        "kickoff": 1793383200,
+        "fixture": "Al Ittihad Alexandria vs Tala'ea El Gaish",
+        "league_id": 519,
+        "league": "Premier League",
+        "venue": "Alexandria Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5996758,
+        "kickoff": 1793383200,
+        "fixture": "Olympic El Qanah FC vs Al Sharkeyah-ENPPI",
+        "league_id": 519,
+        "league": "Premier League",
+        "venue": "Suez Canal Stadium",
         "tv_channels": []
     },
     {
@@ -1494,20 +1494,20 @@
         "tv_channels": []
     },
     {
-        "match_id": 5838020,
-        "kickoff": 1793389500,
-        "fixture": "Newport County vs Chesterfield",
-        "league_id": 109,
-        "league": "League Two",
-        "venue": "Rodney Parade",
-        "tv_channels": []
-    },
-    {
         "match_id": 5991229,
         "kickoff": 1793390400,
         "fixture": "AD Fafe vs Paços de Ferreira",
         "league_id": 9112,
         "league": "Liga 3 Zona A",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5976947,
+        "kickoff": 1793376000,
+        "fixture": "Steaua București vs CS Dinamo București",
+        "league_id": 9113,
+        "league": "Liga II",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -1521,11 +1521,29 @@
         "tv_channels": []
     },
     {
-        "match_id": 5888096,
-        "kickoff": 1793383200,
-        "fixture": "Tondela vs Felgueiras 1932",
-        "league_id": 185,
-        "league": "Liga Portugal 2",
+        "match_id": 5989869,
+        "kickoff": 1793378700,
+        "fixture": "ASO Chlef vs ES Sétif",
+        "league_id": 516,
+        "league": "Ligue 1",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5989866,
+        "kickoff": 1793378700,
+        "fixture": "JS Kabylie vs JS El Biar",
+        "league_id": 516,
+        "league": "Ligue 1",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5989865,
+        "kickoff": 1793386800,
+        "fixture": "MC Oran vs Olympique Akbou",
+        "league_id": 516,
+        "league": "Ligue 1",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -1998,6 +2016,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 5838020,
+        "kickoff": 1793389500,
+        "fixture": "Newport County vs Chesterfield",
+        "league_id": 109,
+        "league": "League Two",
+        "venue": "Rodney Parade",
+        "tv_channels": []
+    },
+    {
         "match_id": 5955109,
         "kickoff": 1793381400,
         "fixture": "Marumo Gallants vs Siwelele",
@@ -2011,7 +2038,7 @@
         "kickoff": 1793387700,
         "fixture": "Boroughmuir Thistle vs Heart of Midlothian",
         "league_id": 11019,
-        "league": "SWPL Cup - Quarter-finals",
+        "league": "SWPL Cup",
         "venue": "Meadowbank Stadium",
         "tv_channels": []
     }

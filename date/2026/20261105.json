@@ -207,15 +207,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5837118,
-        "kickoff": 1793821500,
-        "fixture": "Oxford United vs Reading",
-        "league_id": 108,
-        "league": "League One",
-        "venue": "The Kassam Stadium",
-        "tv_channels": []
-    },
-    {
         "match_id": 6365906,
         "kickoff": 1793826000,
         "fixture": "Olancho FC vs Lobos UPNFM",
@@ -248,6 +239,15 @@
         "fixture": "Genesis FC vs Real España",
         "league_id": 337,
         "league": "Liga Nacional - Apertura",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5989695,
+        "kickoff": 1793808000,
+        "fixture": "MC Alger vs MC Oran",
+        "league_id": 516,
+        "league": "Ligue 1",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -450,6 +450,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 5836918,
+        "kickoff": 1793822400,
+        "fixture": "Bristol City vs Wolverhampton Wanderers",
+        "league_id": 48,
+        "league": "Championship",
+        "venue": "Ashton Gate Stadium",
+        "tv_channels": []
+    },
+    {
         "match_id": 5836919,
         "kickoff": 1793821500,
         "fixture": "Cardiff City vs West Ham United",
@@ -465,15 +474,6 @@
         "league_id": 48,
         "league": "Championship",
         "venue": "Racecourse Ground",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5836918,
-        "kickoff": 1793822400,
-        "fixture": "Bristol City vs Wolverhampton Wanderers",
-        "league_id": 48,
-        "league": "Championship",
-        "venue": "Ashton Gate Stadium",
         "tv_channels": []
     },
     {
@@ -528,6 +528,24 @@
         "league_id": 11024,
         "league": "League Cup - Play-offs",
         "venue": "Stadium Chachoengsao",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5837118,
+        "kickoff": 1793821500,
+        "fixture": "Oxford United vs Reading",
+        "league_id": 108,
+        "league": "League One",
+        "venue": "The Kassam Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000017279,
+        "kickoff": 1793845800,
+        "fixture": "Universitario de Deportes vs Sport Boys",
+        "league_id": 131,
+        "league": "Liga 1",
+        "venue": "Estadio Monumental U Marathon",
         "tv_channels": []
     },
     {
@@ -666,21 +684,21 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000018626,
-        "kickoff": 1793809800,
-        "fixture": "Al-Bidda SC vs Muaither SC",
-        "league_id": 11030,
-        "league": "Second Division",
-        "venue": "Thani Bin Jassim Stadium (Al-Gharafah Stadium)",
-        "tv_channels": []
-    },
-    {
         "match_id": 1000018625,
         "kickoff": 1793888100,
         "fixture": "Al Markhiya vs Al-Waab SC",
         "league_id": 11030,
         "league": "Second Division",
         "venue": "Al-Khwar Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000018626,
+        "kickoff": 1793809800,
+        "fixture": "Al-Bidda SC vs Muaither SC",
+        "league_id": 11030,
+        "league": "Second Division",
+        "venue": "Thani Bin Jassim Stadium (Al-Gharafah Stadium)",
         "tv_channels": []
     },
     {
@@ -702,15 +720,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5103701,
-        "kickoff": 1793831400,
-        "fixture": "Athletico Paranaense vs Vasco da Gama",
-        "league_id": 268,
-        "league": "Série A",
-        "venue": "Estádio Mário Celso Petraglia",
-        "tv_channels": []
-    },
-    {
         "match_id": 5103695,
         "kickoff": 1793838600,
         "fixture": "Botafogo vs Atlético-MG",
@@ -729,39 +738,12 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000021452,
-        "kickoff": 1793806200,
-        "fixture": "Žilina U19 vs HJK U19",
-        "league_id": 9741,
-        "league": "UEFA Youth League - 2nd Round",
-        "venue": "Štadión Pod Dubňom",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000021447,
-        "kickoff": 1793808000,
-        "fixture": "FC Sheriff U19 vs FCV Farul Constanța U19",
-        "league_id": 9741,
-        "league": "UEFA Youth League - 2nd Round",
-        "venue": "Bolshaya Sportivnaya Arena",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000021450,
-        "kickoff": 1793808000,
-        "fixture": "SK Super Nova U19 vs Hammarby U19",
-        "league_id": 9741,
-        "league": "UEFA Youth League - 2nd Round",
-        "venue": "RFS Jāņa Skredeļa sporta komplekss Dabīgais segum",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000021445,
-        "kickoff": 1793809800,
-        "fixture": "Hradec Králové U19 vs Partizani U19",
-        "league_id": 9741,
-        "league": "UEFA Youth League - 2nd Round",
-        "venue": "FINEP Arena",
+        "match_id": 5103701,
+        "kickoff": 1793831400,
+        "fixture": "Athletico Paranaense vs Vasco da Gama",
+        "league_id": 268,
+        "league": "Série A",
+        "venue": "Estádio Mário Celso Petraglia",
         "tv_channels": []
     },
     {
@@ -774,12 +756,30 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000021457,
-        "kickoff": 1793811600,
-        "fixture": "Hoffenheim U19 vs AP Brera Strumica U19",
+        "match_id": 1000021443,
+        "kickoff": 1793817900,
+        "fixture": "Cardiff Met FC U19 vs Stabæk U19",
         "league_id": 9741,
         "league": "UEFA Youth League - 2nd Round",
-        "venue": "Dietmar-Hopp-Stadion",
+        "venue": "Cyncoed Campus Artificial Pitch",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000021445,
+        "kickoff": 1793809800,
+        "fixture": "Hradec Králové U19 vs Partizani U19",
+        "league_id": 9741,
+        "league": "UEFA Youth League - 2nd Round",
+        "venue": "FINEP Arena",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000021447,
+        "kickoff": 1793808000,
+        "fixture": "FC Sheriff U19 vs FCV Farul Constanța U19",
+        "league_id": 9741,
+        "league": "UEFA Youth League - 2nd Round",
+        "venue": "Bolshaya Sportivnaya Arena",
         "tv_channels": []
     },
     {
@@ -792,12 +792,21 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000021443,
-        "kickoff": 1793817900,
-        "fixture": "Cardiff Met FC U19 vs Stabæk U19",
+        "match_id": 1000021457,
+        "kickoff": 1793811600,
+        "fixture": "Hoffenheim U19 vs AP Brera Strumica U19",
         "league_id": 9741,
         "league": "UEFA Youth League - 2nd Round",
-        "venue": "Cyncoed Campus Artificial Pitch",
+        "venue": "Dietmar-Hopp-Stadion",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000021450,
+        "kickoff": 1793808000,
+        "fixture": "SK Super Nova U19 vs Hammarby U19",
+        "league_id": 9741,
+        "league": "UEFA Youth League - 2nd Round",
+        "venue": "RFS Jāņa Skredeļa sporta komplekss Dabīgais segum",
         "tv_channels": []
     },
     {
@@ -807,6 +816,15 @@
         "league_id": 9741,
         "league": "UEFA Youth League - 2nd Round",
         "venue": "Forthbank Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000021452,
+        "kickoff": 1793806200,
+        "fixture": "Žilina U19 vs HJK U19",
+        "league_id": 9741,
+        "league": "UEFA Youth League - 2nd Round",
+        "venue": "Štadión Pod Dubňom",
         "tv_channels": []
     },
     {

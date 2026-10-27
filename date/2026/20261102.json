@@ -81,6 +81,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 5802975,
+        "kickoff": 1793648700,
+        "fixture": "Lorient vs Brest",
+        "league_id": 53,
+        "league": "Ligue 1",
+        "venue": "Stade du Moustoir - Yves Allainmat",
+        "tv_channels": []
+    },
+    {
         "match_id": 5071481,
         "kickoff": 1793568600,
         "fixture": "Atlanta United vs Toronto FC",
@@ -447,6 +456,15 @@
         "league_id": 38,
         "league": "Bundesliga",
         "venue": "Generali Arena",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6437702,
+        "kickoff": 1793582100,
+        "fixture": "Santa Fe vs Once Caldas",
+        "league_id": 9490,
+        "league": "Cup",
+        "venue": "TBA",
         "tv_channels": []
     },
     {
@@ -1008,6 +1026,24 @@
         "tv_channels": []
     },
     {
+        "match_id": 5888092,
+        "kickoff": 1793547000,
+        "fixture": "Lusitânia Lourosa vs Farense",
+        "league_id": 185,
+        "league": "Liga Portugal 2",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5888094,
+        "kickoff": 1793642400,
+        "fixture": "Penafiel vs Feirense",
+        "league_id": 185,
+        "league": "Liga Portugal 2",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5954373,
         "kickoff": 1793566800,
         "fixture": "CD Universitario vs Veraguas United",
@@ -1278,8 +1314,17 @@
         "tv_channels": []
     },
     {
+        "match_id": 6018583,
+        "kickoff": 1793552400,
+        "fixture": "Al-Qadsia vs Al-Arabi",
+        "league_id": 529,
+        "league": "Premier League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 6018582,
-        "kickoff": 1793547900,
+        "kickoff": 1793634300,
         "fixture": "Al Nasr vs Al-Shabab SC",
         "league_id": 529,
         "league": "Premier League",
@@ -2138,7 +2183,7 @@
         "fixture": "Lexington SC vs Colorado Springs Switchbacks FC",
         "league_id": 8972,
         "league": "USL Championship Playoff",
-        "venue": "TBA",
+        "venue": "Lexington SC Stadium",
         "tv_channels": []
     },
     {
@@ -2147,7 +2192,7 @@
         "fixture": "New Mexico United vs Phoenix Rising FC",
         "league_id": 8972,
         "league": "USL Championship Playoff",
-        "venue": "TBA",
+        "venue": "Rio Grande Credit Union Field at Isotopes Park",
         "tv_channels": []
     },
     {
@@ -2156,7 +2201,7 @@
         "fixture": "Sacramento Republic FC vs FC Tulsa",
         "league_id": 8972,
         "league": "USL Championship Playoff",
-        "venue": "TBA",
+        "venue": "Heart Health Park",
         "tv_channels": []
     },
     {
@@ -2250,21 +2295,21 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000019470,
-        "kickoff": 1793559600,
-        "fixture": "Palmeiras vs Vasco da Gama",
-        "league_id": 9067,
-        "league": "Copa do Brasil - Semi-finals",
-        "venue": "Nubank Parque",
-        "tv_channels": []
-    },
-    {
         "match_id": 1000019468,
         "kickoff": 1793568600,
         "fixture": "Grêmio vs Atlético-MG",
         "league_id": 9067,
-        "league": "Copa do Brasil - Semi-finals",
+        "league": "Copa do Brasil",
         "venue": "Arena do Grêmio",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000019470,
+        "kickoff": 1793559600,
+        "fixture": "Palmeiras vs Vasco da Gama",
+        "league_id": 9067,
+        "league": "Copa do Brasil",
+        "venue": "Nubank Parque",
         "tv_channels": []
     },
     {
@@ -2295,6 +2340,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 1000017287,
+        "kickoff": 1793565000,
+        "fixture": "Atlético Grau vs Universitario de Deportes",
+        "league_id": 131,
+        "league": "Liga 1",
+        "venue": "Estadio Mansiche",
+        "tv_channels": []
+    },
+    {
         "match_id": 1000017289,
         "kickoff": 1793548800,
         "fixture": "Club Deportivo Moquegua vs Los Chankas",
@@ -2310,15 +2364,6 @@
         "league_id": 131,
         "league": "Liga 1",
         "venue": "Estadio Inca Garcilaso de la Vega",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000017287,
-        "kickoff": 1793565000,
-        "fixture": "Atlético Grau vs Universitario de Deportes",
-        "league_id": 131,
-        "league": "Liga 1",
-        "venue": "Estadio Mansiche",
         "tv_channels": []
     },
     {
@@ -2385,21 +2430,21 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000019613,
-        "kickoff": 1793568600,
-        "fixture": "Belgrano vs Barracas Central",
-        "league_id": 112,
-        "league": "Liga Profesional",
-        "venue": "Estadio Julio César Villagra",
-        "tv_channels": []
-    },
-    {
         "match_id": 1000019611,
         "kickoff": 1793576700,
         "fixture": "Lanús vs Gimnasia Mendoza",
         "league_id": 112,
         "league": "Liga Profesional",
         "venue": "Estadio Ciudad de Lanús - Néstor Díaz Pérez",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000019613,
+        "kickoff": 1793568600,
+        "fixture": "Belgrano vs Barracas Central",
+        "league_id": 112,
+        "league": "Liga Profesional",
+        "venue": "Estadio Julio César Villagra",
         "tv_channels": []
     },
     {
@@ -2412,15 +2457,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000015309,
-        "kickoff": 1793642400,
-        "fixture": "Hapoel Ramat Gan vs Maccabi Tel Aviv",
-        "league_id": 127,
-        "league": "Ligat ha'Al",
-        "venue": "Rehovot Stadium",
-        "tv_channels": []
-    },
-    {
         "match_id": 1000015304,
         "kickoff": 1793644200,
         "fixture": "Hapoel Tel Aviv vs Maccabi Haifa",
@@ -2430,12 +2466,30 @@
         "tv_channels": []
     },
     {
+        "match_id": 1000015309,
+        "kickoff": 1793642400,
+        "fixture": "Hapoel Ramat Gan vs Maccabi Tel Aviv",
+        "league_id": 127,
+        "league": "Ligat ha'Al",
+        "venue": "Rehovot Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6502801,
+        "kickoff": 1793570400,
+        "fixture": "Chattanooga FC vs Columbus Crew 2",
+        "league_id": 10282,
+        "league": "MLS Next Pro - Conference - Finals",
+        "venue": "Finley Stadium",
+        "tv_channels": []
+    },
+    {
         "match_id": 1000021795,
         "kickoff": 1793566800,
         "fixture": "3rd ranked vs 2nd ranked",
         "league_id": 10872,
         "league": "Northern Super League - Championship - Semi-finals",
-        "venue": "TBA",
+        "venue": "York Lions Stadium",
         "tv_channels": []
     },
     {
@@ -2443,8 +2497,8 @@
         "kickoff": 1793559600,
         "fixture": "Atlético Ottawa vs Forge FC",
         "league_id": 9986,
-        "league": "Premier League - Semi-finals",
-        "venue": "TBA",
+        "league": "Premier League",
+        "venue": "TD Place Stadium",
         "tv_channels": []
     },
     {
@@ -2452,8 +2506,8 @@
         "kickoff": 1793566800,
         "fixture": "Supra du Québec vs Cavalry FC",
         "league_id": 9986,
-        "league": "Premier League - Semi-finals",
-        "venue": "TBA",
+        "league": "Premier League",
+        "venue": "Stade Boréale",
         "tv_channels": []
     },
     {
@@ -2475,6 +2529,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 1000007347,
+        "kickoff": 1793556000,
+        "fixture": "Deportes Recoleta vs Deportes Iquique",
+        "league_id": 9126,
+        "league": "Primera B",
+        "venue": "Estadio Municipal de Recoleta Leonel Sánchez",
+        "tv_channels": []
+    },
+    {
         "match_id": 1000007349,
         "kickoff": 1793547000,
         "fixture": "Santiago Wanderers vs Deportes Copiapó",
@@ -2484,12 +2547,57 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000007347,
-        "kickoff": 1793556000,
-        "fixture": "Deportes Recoleta vs Deportes Iquique",
-        "league_id": 9126,
-        "league": "Primera B",
-        "venue": "Estadio Municipal de Recoleta Leonel Sánchez",
+        "match_id": 1000013253,
+        "kickoff": 1793564100,
+        "fixture": "Universidad Católica vs Universidad de Chile",
+        "league_id": 273,
+        "league": "Primera División",
+        "venue": "Claro Arena",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000013254,
+        "kickoff": 1793553300,
+        "fixture": "Cobresal vs Everton CD",
+        "league_id": 273,
+        "league": "Primera División",
+        "venue": "Estadio El Cobre Codelco Salvador",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000013258,
+        "kickoff": 1793545200,
+        "fixture": "Huachipato vs La Serena",
+        "league_id": 273,
+        "league": "Primera División",
+        "venue": "Estadio Huachipato-CAP Acero",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000013256,
+        "kickoff": 1793653200,
+        "fixture": "Deportes Limache vs Audax Italiano",
+        "league_id": 273,
+        "league": "Primera División",
+        "venue": "Estadio Municipal Nicolás Chahuán Nazar",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000022580,
+        "kickoff": 1793568600,
+        "fixture": "Deportivo La Guaira vs Portuguesa FC",
+        "league_id": 339,
+        "league": "Primera División",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000022581,
+        "kickoff": 1793575800,
+        "fixture": "Carabobo FC vs Metropolitanos FC",
+        "league_id": 339,
+        "league": "Primera División",
+        "venue": "Estadio Polideportivo Misael Delgado",
         "tv_channels": []
     },
     {
@@ -2526,60 +2634,6 @@
         "league_id": 144,
         "league": "Primera División",
         "venue": "Estadio IV Centenario",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000013258,
-        "kickoff": 1793545200,
-        "fixture": "Huachipato vs La Serena",
-        "league_id": 273,
-        "league": "Primera División",
-        "venue": "Estadio Huachipato-CAP Acero",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000013254,
-        "kickoff": 1793553300,
-        "fixture": "Cobresal vs Everton CD",
-        "league_id": 273,
-        "league": "Primera División",
-        "venue": "Estadio El Cobre Codelco Salvador",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000013253,
-        "kickoff": 1793564100,
-        "fixture": "Universidad Católica vs Universidad de Chile",
-        "league_id": 273,
-        "league": "Primera División",
-        "venue": "Claro Arena",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000013256,
-        "kickoff": 1793653200,
-        "fixture": "Deportes Limache vs Audax Italiano",
-        "league_id": 273,
-        "league": "Primera División",
-        "venue": "Estadio Municipal Nicolás Chahuán Nazar",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000022580,
-        "kickoff": 1793568600,
-        "fixture": "Deportivo La Guaira vs Portuguesa FC",
-        "league_id": 339,
-        "league": "Primera División",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000022581,
-        "kickoff": 1793575800,
-        "fixture": "Carabobo FC vs Metropolitanos FC",
-        "league_id": 339,
-        "league": "Primera División",
-        "venue": "Estadio Polideportivo Misael Delgado",
         "tv_channels": []
     },
     {
@@ -2646,12 +2700,30 @@
         "tv_channels": []
     },
     {
-        "match_id": 5190792,
-        "kickoff": 1793559600,
-        "fixture": "Londrina vs América-MG",
-        "league_id": 8814,
-        "league": "Série B",
-        "venue": "Estádio Vitorino Gonçalves Dias",
+        "match_id": 1000022032,
+        "kickoff": 1793548800,
+        "fixture": "Universidad Católica vs Aucas",
+        "league_id": 246,
+        "league": "Serie A - Championship Round",
+        "venue": "Estadio Olímpico Atahualpa",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000022033,
+        "kickoff": 1793557800,
+        "fixture": "Independiente del Valle vs LDU de Quito",
+        "league_id": 246,
+        "league": "Serie A - Championship Round",
+        "venue": "Estadio Banco Guayaquil",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000022058,
+        "kickoff": 1793566800,
+        "fixture": "Guayaquil City vs Libertad",
+        "league_id": 246,
+        "league": "Serie A - Copa Sudamericana Play-off",
+        "venue": "Estadio Christian Benítez Betancourt",
         "tv_channels": []
     },
     {
@@ -2664,6 +2736,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 5190792,
+        "kickoff": 1793559600,
+        "fixture": "Londrina vs América-MG",
+        "league_id": 8814,
+        "league": "Série B",
+        "venue": "Estádio Vitorino Gonçalves Dias",
+        "tv_channels": []
+    },
+    {
         "match_id": 5190797,
         "kickoff": 1793568600,
         "fixture": "Cuiabá vs São Bernardo",
@@ -2673,21 +2754,21 @@
         "tv_channels": []
     },
     {
-        "match_id": 5190793,
-        "kickoff": 1793646000,
-        "fixture": "Fortaleza vs Atlético-GO",
-        "league_id": 8814,
-        "league": "Série B",
-        "venue": "Estádio Governador Plácido Aderaldo Castelo",
-        "tv_channels": []
-    },
-    {
         "match_id": 5190791,
         "kickoff": 1793653200,
         "fixture": "Athletic Club MG vs Ceará",
         "league_id": 8814,
         "league": "Série B",
         "venue": "Estádio Joaquim Portugal",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5190793,
+        "kickoff": 1793646000,
+        "fixture": "Fortaleza vs Atlético-GO",
+        "league_id": 8814,
+        "league": "Série B",
+        "venue": "Estádio Governador Plácido Aderaldo Castelo",
         "tv_channels": []
     },
     {
@@ -2731,7 +2812,7 @@
         "kickoff": 1793548800,
         "fixture": "Motherwell vs Hibernian LFC",
         "league_id": 11019,
-        "league": "SWPL Cup - Quarter-finals",
+        "league": "SWPL Cup",
         "venue": "The Bumblebee Stadium",
         "tv_channels": []
     },
@@ -2750,7 +2831,7 @@
         "fixture": "Charlotte Independence vs FC Naples",
         "league_id": 9296,
         "league": "USL League One - Championship - Quarter-finals",
-        "venue": "Mecklenburg County Sportsplex at Matthews",
+        "venue": "American Legion Memorial Stadium",
         "tv_channels": []
     },
     {
@@ -2997,11 +3078,20 @@
         "tv_channels": []
     },
     {
-        "match_id": 5888094,
-        "kickoff": 1793642400,
-        "fixture": "Penafiel vs Feirense",
-        "league_id": 185,
-        "league": "Liga Portugal 2",
+        "match_id": 5989868,
+        "kickoff": 1793637900,
+        "fixture": "CR Temouchent vs US Biskra",
+        "league_id": 516,
+        "league": "Ligue 1",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5989863,
+        "kickoff": 1793646000,
+        "fixture": "CR Bélouizdad vs JS Saoura",
+        "league_id": 516,
+        "league": "Ligue 1",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -3084,6 +3174,15 @@
         "league_id": 253,
         "league": "FNL",
         "venue": "Městský stadion - Vítkovice Aréna",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000022075,
+        "kickoff": 1793651400,
+        "fixture": "Orense vs Técnico Universitario",
+        "league_id": 246,
+        "league": "Serie A - Relegation Round",
+        "venue": "Estadio 9 de Mayo Banco de Machala",
         "tv_channels": []
     }
 ]
