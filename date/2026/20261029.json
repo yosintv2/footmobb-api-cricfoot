@@ -351,12 +351,30 @@
         "tv_channels": []
     },
     {
+        "match_id": 6386083,
+        "kickoff": 1793210400,
+        "fixture": "CD Tarancon vs Levante",
+        "league_id": 138,
+        "league": "Copa del Rey",
+        "venue": "Polideportivo Estadio Municipal Tarancón",
+        "tv_channels": []
+    },
+    {
         "match_id": 6386054,
         "kickoff": 1793210400,
         "fixture": "Coruxo FC vs Zamora",
         "league_id": 138,
         "league": "Copa del Rey",
         "venue": "Campo do Vao",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6386069,
+        "kickoff": 1793210400,
+        "fixture": "Pamplona vs Eibar",
+        "league_id": 138,
+        "league": "Copa del Rey",
+        "venue": "Polideportivo Municipal Valle de Aranguren",
         "tv_channels": []
     },
     {
@@ -423,15 +441,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 6386083,
-        "kickoff": 1793214000,
-        "fixture": "CD Tarancon vs Levante",
-        "league_id": 138,
-        "league": "Copa del Rey",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 6386074,
         "kickoff": 1793214000,
         "fixture": "CS Puertollano vs Albacete",
@@ -456,15 +465,6 @@
         "league_id": 138,
         "league": "Copa del Rey",
         "venue": "Nuevo Estadio Los Pajaritos",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6386069,
-        "kickoff": 1793214000,
-        "fixture": "Pamplona vs Eibar",
-        "league_id": 138,
-        "league": "Copa del Rey",
-        "venue": "Polideportivo Municipal Valle de Aranguren",
         "tv_channels": []
     },
     {
@@ -581,7 +581,7 @@
         "fixture": "San Sebastian de los Reyes vs CD Coria",
         "league_id": 138,
         "league": "Copa del Rey",
-        "venue": "Estadio Municipal Nuevo Matapiñonera",
+        "venue": "Estadio Municipal José Luis de la Hoz",
         "tv_channels": []
     },
     {
@@ -1350,15 +1350,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5944200,
-        "kickoff": 1793203200,
-        "fixture": "KF Tirana vs FC Dinamo City",
-        "league_id": 260,
-        "league": "Kategoria Superiore",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 5944198,
         "kickoff": 1793208600,
         "fixture": "Elbasani vs Partizani",
@@ -1371,6 +1362,15 @@
         "match_id": 5944201,
         "kickoff": 1793208600,
         "fixture": "Skënderbeu vs Laçi",
+        "league_id": 260,
+        "league": "Kategoria Superiore",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5944200,
+        "kickoff": 1793277000,
+        "fixture": "KF Tirana vs FC Dinamo City",
         "league_id": 260,
         "league": "Kategoria Superiore",
         "venue": "TBA",
@@ -2493,8 +2493,53 @@
         "tv_channels": []
     },
     {
+        "match_id": 1000022847,
+        "kickoff": 1793235900,
+        "fixture": "Deportes Quindío vs Real Cundinamarca",
+        "league_id": 9125,
+        "league": "Primera B",
+        "venue": "Estadio Centenario de Armenia",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000022843,
+        "kickoff": 1793300400,
+        "fixture": "Envigado vs Independiente Valle del Cauca",
+        "league_id": 9125,
+        "league": "Primera B",
+        "venue": "Estadio Polideportivo Sur",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000022844,
+        "kickoff": 1793307600,
+        "fixture": "Boca Juniors de Cali vs Unión Magdalena",
+        "league_id": 9125,
+        "league": "Primera B",
+        "venue": "Estadio Raúl Miranda Yumbo",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000022848,
+        "kickoff": 1793307600,
+        "fixture": "Tigres FC vs Real Cartagena",
+        "league_id": 9125,
+        "league": "Primera B",
+        "venue": "Estadio Metropolitano de Techo",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000013237,
+        "kickoff": 1793230200,
+        "fixture": "Universidad Católica vs Audax Italiano",
+        "league_id": 273,
+        "league": "Primera División",
+        "venue": "Claro Arena",
+        "tv_channels": []
+    },
+    {
         "match_id": 1000022578,
-        "kickoff": 1793223000,
+        "kickoff": 1793230200,
         "fixture": "Carabobo FC vs Deportivo La Guaira",
         "league_id": 339,
         "league": "Primera División",
@@ -2508,15 +2553,6 @@
         "league_id": 339,
         "league": "Primera División",
         "venue": "Estadio Olímpico de la UCV",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000013237,
-        "kickoff": 1793230200,
-        "fixture": "Universidad Católica vs Audax Italiano",
-        "league_id": 273,
-        "league": "Primera División",
-        "venue": "Claro Arena",
         "tv_channels": []
     },
     {

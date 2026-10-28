@@ -234,15 +234,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 6386071,
-        "kickoff": 1793124000,
-        "fixture": "Atletico Pinatarense vs Elche",
-        "league_id": 138,
-        "league": "Copa del Rey",
-        "venue": "Estadio José Antonio Pérez",
-        "tv_channels": []
-    },
-    {
         "match_id": 6386048,
         "kickoff": 1793124000,
         "fixture": "CF Calamocha vs CE Europa",
@@ -258,6 +249,15 @@
         "league_id": 138,
         "league": "Copa del Rey",
         "venue": "Estadio Las Llanas",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6386071,
+        "kickoff": 1793124000,
+        "fixture": "UD Pinatar vs Elche",
+        "league_id": 138,
+        "league": "Copa del Rey",
+        "venue": "Estadio José Antonio Pérez",
         "tv_channels": []
     },
     {
@@ -396,12 +396,30 @@
         "tv_channels": []
     },
     {
+        "match_id": 6386083,
+        "kickoff": 1793210400,
+        "fixture": "CD Tarancon vs Levante",
+        "league_id": 138,
+        "league": "Copa del Rey",
+        "venue": "Polideportivo Estadio Municipal Tarancón",
+        "tv_channels": []
+    },
+    {
         "match_id": 6386054,
         "kickoff": 1793210400,
         "fixture": "Coruxo FC vs Zamora",
         "league_id": 138,
         "league": "Copa del Rey",
         "venue": "Campo do Vao",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6386069,
+        "kickoff": 1793210400,
+        "fixture": "Pamplona vs Eibar",
+        "league_id": 138,
+        "league": "Copa del Rey",
+        "venue": "Polideportivo Municipal Valle de Aranguren",
         "tv_channels": []
     },
     {
@@ -468,15 +486,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 6386083,
-        "kickoff": 1793214000,
-        "fixture": "CD Tarancon vs Levante",
-        "league_id": 138,
-        "league": "Copa del Rey",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 6386074,
         "kickoff": 1793214000,
         "fixture": "CS Puertollano vs Albacete",
@@ -501,15 +510,6 @@
         "league_id": 138,
         "league": "Copa del Rey",
         "venue": "Nuevo Estadio Los Pajaritos",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6386069,
-        "kickoff": 1793214000,
-        "fixture": "Pamplona vs Eibar",
-        "league_id": 138,
-        "league": "Copa del Rey",
-        "venue": "Polideportivo Municipal Valle de Aranguren",
         "tv_channels": []
     },
     {
@@ -738,6 +738,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 6284436,
+        "kickoff": 1793178000,
+        "fixture": "Mayak Sarny vs FC Kharkiv",
+        "league_id": 442,
+        "league": "Cup",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 6394254,
         "kickoff": 1793192400,
         "fixture": "Chernihiv vs Epitsentr Kamianets-Podilskyi",
@@ -766,7 +775,7 @@
     },
     {
         "match_id": 6368799,
-        "kickoff": 1793142000,
+        "kickoff": 1793140200,
         "fixture": "Club Atletico Peñarol vs Montevideo City Torque",
         "league_id": 10342,
         "league": "Cup",
@@ -873,6 +882,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 6420086,
+        "kickoff": 1793181600,
+        "fixture": "Kars 36 Spor vs Antalyaspor",
+        "league_id": 151,
+        "league": "Cup Qualification",
+        "venue": "Kars Şehir Stadyumu",
+        "tv_channels": []
+    },
+    {
         "match_id": 6420073,
         "kickoff": 1793183400,
         "fixture": "Ankara Demirspor vs Gemlik Sumerbey Spor",
@@ -927,21 +945,21 @@
         "tv_channels": []
     },
     {
-        "match_id": 6420086,
-        "kickoff": 1793183400,
-        "fixture": "Kars 36 Spor vs Antalyaspor",
-        "league_id": 151,
-        "league": "Cup Qualification",
-        "venue": "Kars Şehir Stadyumu",
-        "tv_channels": []
-    },
-    {
         "match_id": 6420057,
         "kickoff": 1793183400,
         "fixture": "Kastamonuspor 1966 vs 24 Erzincanspor",
         "league_id": 151,
         "league": "Cup Qualification",
         "venue": "Kastamonu Gazi Stadyumu",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6420077,
+        "kickoff": 1793183400,
+        "fixture": "Menemen vs Karacabey Belediye Spor",
+        "league_id": 151,
+        "league": "Cup Qualification",
+        "venue": "Serpil Hamdi Tüzün Sahası",
         "tv_channels": []
     },
     {
@@ -977,7 +995,7 @@
         "fixture": "Balıkesirspor vs Arnavutköy Belediyespor",
         "league_id": 151,
         "league": "Cup Qualification",
-        "venue": "Balıkesir Atatürk Stadyumu",
+        "venue": "Karacabey M. Fehmi Gerçeker Stadyumu",
         "tv_channels": []
     },
     {
@@ -986,7 +1004,7 @@
         "fixture": "Fatih Karagümrük vs Soma Spor Dernegi",
         "league_id": 151,
         "league": "Cup Qualification",
-        "venue": "Yusuf Ziya Öniş Stadyumu",
+        "venue": "Esenler Erokspor Stadyumu",
         "tv_channels": []
     },
     {
@@ -996,15 +1014,6 @@
         "league_id": 151,
         "league": "Cup Qualification",
         "venue": "Dr. Necmettin Şeyhoğlu Stadı",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6420077,
-        "kickoff": 1793188800,
-        "fixture": "Menemen vs Karacabey Belediye Spor",
-        "league_id": 151,
-        "league": "Cup Qualification",
-        "venue": "Menemen İlçe Stadı",
         "tv_channels": []
     },
     {
@@ -1022,7 +1031,7 @@
         "fixture": "Ümraniyespor vs Küçükçekmece Sinop Spor",
         "league_id": 151,
         "league": "Cup Qualification",
-        "venue": "Ümrani̇ye Beledi̇yesi̇ Şehi̇r Stadyumu",
+        "venue": "Maltepe Hasan Polat Stadı",
         "tv_channels": []
     },
     {
@@ -1542,15 +1551,6 @@
         "match_id": 5944202,
         "kickoff": 1793190600,
         "fixture": "Vora vs Vllaznia",
-        "league_id": 260,
-        "league": "Kategoria Superiore",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5944200,
-        "kickoff": 1793203200,
-        "fixture": "KF Tirana vs FC Dinamo City",
         "league_id": 260,
         "league": "Kategoria Superiore",
         "venue": "TBA",
@@ -2574,15 +2574,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5953958,
-        "kickoff": 1793130300,
-        "fixture": "Hanwell Town vs Havant and Waterlooville",
-        "league_id": 8947,
-        "league": "Southern Premier Division South",
-        "venue": "Powerday Stadium",
-        "tv_channels": []
-    },
-    {
         "match_id": 5953960,
         "kickoff": 1793130300,
         "fixture": "Plymouth Parkway vs Gloucester City",
@@ -2616,6 +2607,15 @@
         "league_id": 8947,
         "league": "Southern Premier Division South",
         "venue": "The Jelf Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5953958,
+        "kickoff": 1793131200,
+        "fixture": "Hanwell Town vs Havant and Waterlooville",
+        "league_id": 8947,
+        "league": "Southern Premier Division South",
+        "venue": "Powerday Stadium",
         "tv_channels": []
     },
     {
