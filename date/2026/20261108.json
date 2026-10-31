@@ -1035,6 +1035,42 @@
         "tv_channels": []
     },
     {
+        "match_id": 5900587,
+        "kickoff": 1794140100,
+        "fixture": "Banga Gargzdai vs Žalgiris Vilnius",
+        "league_id": 228,
+        "league": "A Lyga",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5900588,
+        "kickoff": 1794140100,
+        "fixture": "FK Panevėžys vs FA Šiauliai",
+        "league_id": 228,
+        "league": "A Lyga",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5900590,
+        "kickoff": 1794140100,
+        "fixture": "FK TransINVEST vs FK Kauno Žalgiris",
+        "league_id": 228,
+        "league": "A Lyga",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5900589,
+        "kickoff": 1794140100,
+        "fixture": "Sūduva vs Džiugas Telšiai",
+        "league_id": 228,
+        "league": "A Lyga",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5903861,
         "kickoff": 1794133800,
         "fixture": "FC Nordsjælland (W) vs ASA Aarhus (W)",
@@ -1859,15 +1895,6 @@
         "fixture": "Stal Mielec vs Ruch Chorzów",
         "league_id": 197,
         "league": "I Liga",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5862744,
-        "kickoff": 1794067200,
-        "fixture": "Sokół Kleczew vs Sandecja Nowy Sącz",
-        "league_id": 8935,
-        "league": "II Liga",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -2913,15 +2940,6 @@
         "league_id": 8944,
         "league": "National League North",
         "venue": "Victory Park",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5907150,
-        "kickoff": 1794063600,
-        "fixture": "Harborough Town FC vs Radcliffe",
-        "league_id": 8944,
-        "league": "National League North",
-        "venue": "Bowden Park",
         "tv_channels": []
     },
     {
@@ -4293,15 +4311,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5884934,
-        "kickoff": 1794066300,
-        "fixture": "Castellonense vs Alcoyano",
-        "league_id": 9138,
-        "league": "Segunda Federacion - Group 3",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 5884935,
         "kickoff": 1794067200,
         "fixture": "CF Intercity vs Elche Ilicitano",
@@ -4323,6 +4332,15 @@
         "match_id": 5884938,
         "kickoff": 1794133800,
         "fixture": "Poblense vs Cieza",
+        "league_id": 9138,
+        "league": "Segunda Federacion - Group 3",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5884934,
+        "kickoff": 1794134700,
+        "fixture": "Castellonense vs Alcoyano",
         "league_id": 9138,
         "league": "Segunda Federacion - Group 3",
         "venue": "TBA",
@@ -4779,15 +4797,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5953513,
-        "kickoff": 1794063600,
-        "fixture": "Alvechurch vs Leighton Town",
-        "league_id": 8947,
-        "league": "Southern Premier Division Central",
-        "venue": "Lye Meadow",
-        "tv_channels": []
-    },
-    {
         "match_id": 5953514,
         "kickoff": 1794063600,
         "fixture": "Banbury United vs Leamington",
@@ -4833,6 +4842,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 5953528,
+        "kickoff": 1794063600,
+        "fixture": "Leighton Town vs Hitchin Town",
+        "league_id": 8947,
+        "league": "Southern Premier Division Central",
+        "venue": "Bell Close",
+        "tv_channels": []
+    },
+    {
         "match_id": 5953520,
         "kickoff": 1794063600,
         "fixture": "Needham Market vs Stourbridge",
@@ -4866,15 +4884,6 @@
         "league_id": 8947,
         "league": "Southern Premier Division Central",
         "venue": "McMullen Park",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5953528,
-        "kickoff": 1794080700,
-        "fixture": "Leighton Town vs Hitchin Town",
-        "league_id": 8947,
-        "league": "Southern Premier Division Central",
-        "venue": "Bell Close",
         "tv_channels": []
     },
     {
@@ -5643,15 +5652,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000022620,
-        "kickoff": 1794139200,
-        "fixture": "TBC vs FAR Rabat",
-        "league_id": 11011,
-        "league": "CAF Women's Champions League",
-        "venue": "Suez Canal Stadium",
-        "tv_channels": []
-    },
-    {
         "match_id": 1000022621,
         "kickoff": 1794139200,
         "fixture": "Kawempe Muslim LFC vs USFAS Bamako",
@@ -5774,7 +5774,7 @@
         "fixture": "Libertad vs Cerro Porteño",
         "league_id": 199,
         "league": "Division Profesional",
-        "venue": "TBA",
+        "venue": "Estadio Tigo La Huerta",
         "tv_channels": []
     },
     {
@@ -5783,7 +5783,7 @@
         "fixture": "Nacional vs Sportivo San Lorenzo",
         "league_id": 199,
         "league": "Division Profesional",
-        "venue": "TBA",
+        "venue": "Estadio Arsenio Erico",
         "tv_channels": []
     },
     {
@@ -5792,7 +5792,7 @@
         "fixture": "Rubio Ñú vs Luqueño",
         "league_id": 199,
         "league": "Division Profesional",
-        "venue": "TBA",
+        "venue": "Estadio La Arboleda",
         "tv_channels": []
     },
     {
@@ -5801,7 +5801,7 @@
         "fixture": "2 de Mayo vs Sportivo Trinidense",
         "league_id": 199,
         "league": "Division Profesional",
-        "venue": "TBA",
+        "venue": "Estadio Monumental Río Parapití",
         "tv_channels": []
     },
     {
@@ -5810,7 +5810,7 @@
         "fixture": "Sportivo Ameliano vs Guaraní",
         "league_id": 199,
         "league": "Division Profesional",
-        "venue": "TBA",
+        "venue": "Estadio Ameliano Villeta",
         "tv_channels": []
     },
     {
@@ -5819,7 +5819,7 @@
         "fixture": "Olimpia vs Recoleta",
         "league_id": 199,
         "league": "Division Profesional",
-        "venue": "TBA",
+        "venue": "Estadio ueno Defensores del Chaco",
         "tv_channels": []
     },
     {
@@ -6053,7 +6053,7 @@
         "fixture": "Instituto vs Newell's Old Boys",
         "league_id": 112,
         "league": "Liga Profesional",
-        "venue": "Estadio Juan Domingo Perón",
+        "venue": "Estadio Monumental Presidente Perón",
         "tv_channels": []
     },
     {
@@ -6516,6 +6516,51 @@
         "tv_channels": []
     },
     {
+        "match_id": 1000013262,
+        "kickoff": 1794074400,
+        "fixture": "La Serena vs Palestino",
+        "league_id": 273,
+        "league": "Primera División",
+        "venue": "Estadio La Portada",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000013264,
+        "kickoff": 1794083400,
+        "fixture": "Everton CD vs Deportes Concepción",
+        "league_id": 273,
+        "league": "Primera División",
+        "venue": "Estadio Sausalito",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000013265,
+        "kickoff": 1794151800,
+        "fixture": "Audax Italiano vs Coquimbo Unido",
+        "league_id": 273,
+        "league": "Primera División",
+        "venue": "Estadio Bicentenario Municipal de La Florida",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000013266,
+        "kickoff": 1794160800,
+        "fixture": "Ñublense vs Colo Colo",
+        "league_id": 273,
+        "league": "Primera División",
+        "venue": "Estadio Bicentenario Municipal Nelson Oyarzún",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000013263,
+        "kickoff": 1794169800,
+        "fixture": "Unión La Calera vs Huachipato",
+        "league_id": 273,
+        "league": "Primera División",
+        "venue": "Estadio Municipal Nicolás Chahuán Nazar",
+        "tv_channels": []
+    },
+    {
         "match_id": 1000022594,
         "kickoff": 1794087000,
         "fixture": "Monagas SC vs Deportivo Táchira",
@@ -6531,78 +6576,6 @@
         "league_id": 339,
         "league": "Primera División",
         "venue": "Estadio Olímpico de la UCV",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000013260,
-        "kickoff": 1794096000,
-        "fixture": "Universidad de Chile vs Cobresal",
-        "league_id": 273,
-        "league": "Primera División",
-        "venue": "Estadio Nacional Julio Martínez Prádanos",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000013261,
-        "kickoff": 1794096000,
-        "fixture": "Universidad Católica vs Deportes Limache",
-        "league_id": 273,
-        "league": "Primera División",
-        "venue": "Claro Arena",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000013262,
-        "kickoff": 1794096000,
-        "fixture": "La Serena vs Palestino",
-        "league_id": 273,
-        "league": "Primera División",
-        "venue": "Estadio La Portada",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000013263,
-        "kickoff": 1794096000,
-        "fixture": "Unión La Calera vs Huachipato",
-        "league_id": 273,
-        "league": "Primera División",
-        "venue": "Estadio Municipal Nicolás Chahuán Nazar",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000013264,
-        "kickoff": 1794096000,
-        "fixture": "Everton CD vs Deportes Concepción",
-        "league_id": 273,
-        "league": "Primera División",
-        "venue": "Estadio Sausalito",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000013265,
-        "kickoff": 1794096000,
-        "fixture": "Audax Italiano vs Coquimbo Unido",
-        "league_id": 273,
-        "league": "Primera División",
-        "venue": "Estadio Bicentenario Municipal de La Florida",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000013266,
-        "kickoff": 1794096000,
-        "fixture": "Ñublense vs Colo Colo",
-        "league_id": 273,
-        "league": "Primera División",
-        "venue": "Estadio Bicentenario Municipal Nelson Oyarzún",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000013267,
-        "kickoff": 1794096000,
-        "fixture": "Universidad de Concepción vs O'Higgins",
-        "league_id": 273,
-        "league": "Primera División",
-        "venue": "Estadio Municipal Alcaldesa Ester Roa Rebolledo",
         "tv_channels": []
     },
     {
@@ -6692,7 +6665,7 @@
         "fixture": "Al Najma vs Al-Ula FC",
         "league_id": 10721,
         "league": "Saudi First Division",
-        "venue": "Al-Najma Club Stadium",
+        "venue": "Department of Education Stadium",
         "tv_channels": []
     },
     {

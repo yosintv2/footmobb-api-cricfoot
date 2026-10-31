@@ -1485,15 +1485,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5897647,
-        "kickoff": 1793440800,
-        "fixture": "FC Chelyabinsk vs Shinnik Yaroslavl",
-        "league_id": 338,
-        "league": "First League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 5897649,
         "kickoff": 1793444400,
         "fixture": "Leningradets vs FC Yenisey Krasnoyarsk",
@@ -2079,24 +2070,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5898774,
-        "kickoff": 1793408400,
-        "fixture": "Correcaminos de la UAT vs Venados FC",
-        "league_id": 8976,
-        "league": "Liga de Expansion MX Apertura",
-        "venue": "Estadio Olímpico Ing. Marte R. Gómez",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5898777,
-        "kickoff": 1793415600,
-        "fixture": "Atlético La Paz vs Dorados",
-        "league_id": 8976,
-        "league": "Liga de Expansion MX Apertura",
-        "venue": "Estadio Guaycura",
-        "tv_channels": []
-    },
-    {
         "match_id": 5882331,
         "kickoff": 1793444400,
         "fixture": "Granada (W) vs Atlético Madrid (W)",
@@ -2233,7 +2206,7 @@
     },
     {
         "match_id": 5977402,
-        "kickoff": 1793415600,
+        "kickoff": 1793416200,
         "fixture": "Monterrey (W) vs Pumas (W)",
         "league_id": 9906,
         "league": "Liga MX Femenil Apertura",
@@ -2368,7 +2341,7 @@
     },
     {
         "match_id": 5989867,
-        "kickoff": 1793458800,
+        "kickoff": 1793455200,
         "fixture": "MC Alger vs USM Khenchela",
         "league_id": 516,
         "league": "Ligue 1",
@@ -3375,18 +3348,18 @@
         "tv_channels": []
     },
     {
-        "match_id": 6022307,
+        "match_id": 6022308,
         "kickoff": 1793446200,
-        "fixture": "Leeds United U18 vs Derby County U18",
+        "fixture": "AFC Bournemouth U18 vs Tottenham Hotspur U18",
         "league_id": 10068,
         "league": "Premier League U18",
         "venue": "TBA",
         "tv_channels": []
     },
     {
-        "match_id": 6022308,
-        "kickoff": 1793448000,
-        "fixture": "AFC Bournemouth U18 vs Tottenham Hotspur U18",
+        "match_id": 6022307,
+        "kickoff": 1793446200,
+        "fixture": "Leeds United U18 vs Derby County U18",
         "league_id": 10068,
         "league": "Premier League U18",
         "venue": "TBA",
@@ -3479,7 +3452,7 @@
         "fixture": "Toulouse (W) vs Saint Malo (W)",
         "league_id": 9677,
         "league": "Premiere Ligue",
-        "venue": "Parc des Sports Stadium A1",
+        "venue": "Stade de la Ramée",
         "tv_channels": []
     },
     {
@@ -3534,42 +3507,6 @@
         "league_id": 129,
         "league": "Premiership",
         "venue": "Windsor Park",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5114129,
-        "kickoff": 1793383200,
-        "fixture": "Flandria vs Deportivo Armenio",
-        "league_id": 9213,
-        "league": "Primera B Metropolitana",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5114127,
-        "kickoff": 1793469600,
-        "fixture": "CASD Camioneros vs Excursionistas",
-        "league_id": 9213,
-        "league": "Primera B Metropolitana",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5114132,
-        "kickoff": 1793469600,
-        "fixture": "Sportivo Italiano vs Villa Dálmine",
-        "league_id": 9213,
-        "league": "Primera B Metropolitana",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5114126,
-        "kickoff": 1793471400,
-        "fixture": "Deportivo Merlo vs Arsenal Sarandi",
-        "league_id": 9213,
-        "league": "Primera B Metropolitana",
-        "venue": "TBA",
         "tv_channels": []
     },
     {
@@ -4284,9 +4221,9 @@
         "tv_channels": []
     },
     {
-        "match_id": 6028603,
+        "match_id": 6028605,
         "kickoff": 1793377800,
-        "fixture": "Al Shorta vs Newroz",
+        "fixture": "Erbil vs Ghaz Al-Shamal SC",
         "league_id": 524,
         "league": "Stars League",
         "venue": "TBA",
@@ -4320,9 +4257,9 @@
         "tv_channels": []
     },
     {
-        "match_id": 6028605,
+        "match_id": 6028603,
         "kickoff": 1793464200,
-        "fixture": "Erbil vs Ghaz Al-Shamal SC",
+        "fixture": "Al Shorta vs Newroz",
         "league_id": 524,
         "league": "Stars League",
         "venue": "TBA",
@@ -5283,6 +5220,24 @@
         "tv_channels": []
     },
     {
+        "match_id": 5898774,
+        "kickoff": 1793408400,
+        "fixture": "Correcaminos de la UAT vs Venados FC",
+        "league_id": 8976,
+        "league": "Liga de Expansión MX",
+        "venue": "Estadio Olímpico Ing. Marte R. Gómez",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5898777,
+        "kickoff": 1793415600,
+        "fixture": "Atlético La Paz vs Dorados",
+        "league_id": 8976,
+        "league": "Liga de Expansión MX",
+        "venue": "Estadio Guaycura",
+        "tv_channels": []
+    },
+    {
         "match_id": 1000014625,
         "kickoff": 1793408400,
         "fixture": "Atlético de San Luis vs Atlas",
@@ -5607,33 +5562,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000013252,
-        "kickoff": 1793397600,
-        "fixture": "Colo Colo vs Universidad de Concepción",
-        "league_id": 273,
-        "league": "Primera División",
-        "venue": "Estadio Monumental David Arellano",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000013255,
-        "kickoff": 1793397600,
-        "fixture": "Coquimbo Unido vs Unión La Calera",
-        "league_id": 273,
-        "league": "Primera División",
-        "venue": "Estadio Municipal Francisco Sánchez Rumoroso",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000013257,
-        "kickoff": 1793480400,
-        "fixture": "O'Higgins vs Ñublense",
-        "league_id": 273,
-        "league": "Primera División",
-        "venue": "Estadio Codelco El Teniente",
-        "tv_channels": []
-    },
-    {
         "match_id": 1000022363,
         "kickoff": 1793397600,
         "fixture": "Real Potosí vs Independiente Petrolero",
@@ -5658,6 +5586,33 @@
         "league_id": 144,
         "league": "Primera División",
         "venue": "Estadio Jesús Bermúdez",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000013252,
+        "kickoff": 1793397600,
+        "fixture": "Colo Colo vs Universidad de Concepción",
+        "league_id": 273,
+        "league": "Primera División",
+        "venue": "Estadio Monumental David Arellano",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000013255,
+        "kickoff": 1793397600,
+        "fixture": "Coquimbo Unido vs Unión La Calera",
+        "league_id": 273,
+        "league": "Primera División",
+        "venue": "Estadio Municipal Francisco Sánchez Rumoroso",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000013257,
+        "kickoff": 1793480400,
+        "fixture": "O'Higgins vs Ñublense",
+        "league_id": 273,
+        "league": "Primera División",
+        "venue": "Estadio Codelco El Teniente",
         "tv_channels": []
     },
     {
@@ -6765,6 +6720,51 @@
         "league_id": 64,
         "league": "Premiership",
         "venue": "Fir Park",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5114133,
+        "kickoff": 1793462400,
+        "fixture": "Villa San Carlos vs Real Pilar",
+        "league_id": 9213,
+        "league": "Primera B Metropolitana",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5114127,
+        "kickoff": 1793469600,
+        "fixture": "CASD Camioneros vs Excursionistas",
+        "league_id": 9213,
+        "league": "Primera B Metropolitana",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5114129,
+        "kickoff": 1793469600,
+        "fixture": "Flandria vs Deportivo Armenio",
+        "league_id": 9213,
+        "league": "Primera B Metropolitana",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5114132,
+        "kickoff": 1793469600,
+        "fixture": "Sportivo Italiano vs Villa Dálmine",
+        "league_id": 9213,
+        "league": "Primera B Metropolitana",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5114126,
+        "kickoff": 1793471400,
+        "fixture": "Deportivo Merlo vs Arsenal Sarandi",
+        "league_id": 9213,
+        "league": "Primera B Metropolitana",
+        "venue": "TBA",
         "tv_channels": []
     },
     {
