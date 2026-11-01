@@ -1517,7 +1517,7 @@
         "fixture": "Levante Badalona (W) vs Deportivo de A Coruña (W)",
         "league_id": 9907,
         "league": "Liga F",
-        "venue": "TBA",
+        "venue": "Estadio Nou Municipal de Palamós",
         "tv_channels": []
     },
     {
@@ -3672,6 +3672,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 5908707,
+        "kickoff": 1795266000,
+        "fixture": "Kayserispor vs Sarıyer",
+        "league_id": 165,
+        "league": "1. Lig",
+        "venue": "RHG Enertürk Enerji Stadyumu",
+        "tv_channels": []
+    },
+    {
         "match_id": 5908708,
         "kickoff": 1795257000,
         "fixture": "İstanbulspor vs Keçiörengücü",
@@ -3687,15 +3696,6 @@
         "league_id": 165,
         "league": "1. Lig",
         "venue": "21 Kasım Şehir Stadyumu",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5908707,
-        "kickoff": 1795266000,
-        "fixture": "Kayserispor vs Sarıyer",
-        "league_id": 165,
-        "league": "1. Lig",
-        "venue": "RHG Enertürk Enerji Stadyumu",
         "tv_channels": []
     },
     {
@@ -3987,12 +3987,30 @@
         "tv_channels": []
     },
     {
+        "match_id": 1000015761,
+        "kickoff": 1795264200,
+        "fixture": "Česká Lípa vs Hanácká Slavia Kromeriz",
+        "league_id": 253,
+        "league": "FNL",
+        "venue": "Městský stadion u Ploučnice",
+        "tv_channels": []
+    },
+    {
         "match_id": 1000015762,
         "kickoff": 1795190400,
         "fixture": "FC Silon Táborsko vs Slavia Prague B",
         "league_id": 253,
         "league": "FNL",
         "venue": "Stadion Kvapilova",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000015763,
+        "kickoff": 1795264200,
+        "fixture": "Třinec vs Dukla Praha",
+        "league_id": 253,
+        "league": "FNL",
+        "venue": "Stadion Rudolfa Labaje",
         "tv_channels": []
     },
     {
@@ -4011,24 +4029,6 @@
         "league_id": 253,
         "league": "FNL",
         "venue": "Městský Stadión",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000015761,
-        "kickoff": 1795264200,
-        "fixture": "Česká Lípa vs Hanácká Slavia Kromeriz",
-        "league_id": 253,
-        "league": "FNL",
-        "venue": "Městský stadion u Ploučnice",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000015763,
-        "kickoff": 1795264200,
-        "fixture": "Třinec vs Dukla Praha",
-        "league_id": 253,
-        "league": "FNL",
-        "venue": "Stadion Rudolfa Labaje",
         "tv_channels": []
     },
     {
@@ -4365,15 +4365,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5952307,
-        "kickoff": 1795188600,
-        "fixture": "Al-Duhail SC vs Qatar SC",
-        "league_id": 535,
-        "league": "Qatar Stars League",
-        "venue": "Abdullah bin Nasser bin Khalifa Stadium",
-        "tv_channels": []
-    },
-    {
         "match_id": 5952303,
         "kickoff": 1795266000,
         "fixture": "Al-Wakrah vs Al-Sailiya",
@@ -4383,102 +4374,21 @@
         "tv_channels": []
     },
     {
+        "match_id": 5952307,
+        "kickoff": 1795188600,
+        "fixture": "Al-Duhail SC vs Qatar SC",
+        "league_id": 535,
+        "league": "Qatar Stars League",
+        "venue": "Abdullah bin Nasser bin Khalifa Stadium",
+        "tv_channels": []
+    },
+    {
         "match_id": 5952306,
         "kickoff": 1795275000,
         "fixture": "Al-Shahaniya vs Al-Rayyan",
         "league_id": 535,
         "league": "Qatar Stars League",
         "venue": "Suheim Bin Hamad Stadium (Qatar SC Stadium)",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5103714,
-        "kickoff": 1795219200,
-        "fixture": "Fluminense vs Mirassol",
-        "league_id": 268,
-        "league": "Série A",
-        "venue": "Estadio Jornalista Mário Filho (Maracanã)",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5103715,
-        "kickoff": 1795219200,
-        "fixture": "Botafogo vs São Paulo",
-        "league_id": 268,
-        "league": "Série A",
-        "venue": "Estádio Olímpico Nilton Santos",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5103716,
-        "kickoff": 1795219200,
-        "fixture": "Santos vs Grêmio",
-        "league_id": 268,
-        "league": "Série A",
-        "venue": "MorumBIS",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5103717,
-        "kickoff": 1795219200,
-        "fixture": "Palmeiras vs Flamengo",
-        "league_id": 268,
-        "league": "Série A",
-        "venue": "Nubank Parque",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5103718,
-        "kickoff": 1795219200,
-        "fixture": "RB Bragantino vs Vasco da Gama",
-        "league_id": 268,
-        "league": "Série A",
-        "venue": "Estádio Municipal Cícero de Souza Marques",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5103719,
-        "kickoff": 1795219200,
-        "fixture": "Atlético-MG vs Corinthians",
-        "league_id": 268,
-        "league": "Série A",
-        "venue": "Arena MRV",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5103720,
-        "kickoff": 1795219200,
-        "fixture": "Internacional vs Vitória",
-        "league_id": 268,
-        "league": "Série A",
-        "venue": "Estádio José Pinheiro Borda",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5103721,
-        "kickoff": 1795219200,
-        "fixture": "Athletico Paranaense vs Remo",
-        "league_id": 268,
-        "league": "Série A",
-        "venue": "Estádio Mário Celso Petraglia",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5103722,
-        "kickoff": 1795219200,
-        "fixture": "Bahia vs Coritiba",
-        "league_id": 268,
-        "league": "Série A",
-        "venue": "Casa de Apostas Arena Fonte Nova",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5103723,
-        "kickoff": 1795219200,
-        "fixture": "Chapecoense vs Cruzeiro",
-        "league_id": 268,
-        "league": "Série A",
-        "venue": "Arena Condá",
         "tv_channels": []
     },
     {
@@ -6288,6 +6198,24 @@
         "league_id": 144,
         "league": "Primera División",
         "venue": "Estadio IV Centenario",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5103717,
+        "kickoff": 1795289400,
+        "fixture": "Palmeiras vs Flamengo",
+        "league_id": 268,
+        "league": "Série A",
+        "venue": "Nubank Parque",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5103722,
+        "kickoff": 1795293000,
+        "fixture": "Bahia vs Coritiba",
+        "league_id": 268,
+        "league": "Série A",
+        "venue": "Casa de Apostas Arena Fonte Nova",
         "tv_channels": []
     }
 ]

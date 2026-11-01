@@ -2836,10 +2836,19 @@
     },
     {
         "match_id": 5144802,
-        "kickoff": 1793455200,
+        "kickoff": 1793453400,
         "fixture": "Råde vs Oppsal",
         "league_id": 205,
         "league": "3. Divisjon Avd. 6",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6103150,
+        "kickoff": 1793455200,
+        "fixture": "Doma United vs Ikorodu City",
+        "league_id": 533,
+        "league": "NPFL",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -2922,15 +2931,6 @@
         "league_id": 441,
         "league": "Premier League",
         "venue": "Arena Lviv",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5909197,
-        "kickoff": 1793444400,
-        "fixture": "Liviy Bereh vs Bukovyna Chernivtsi",
-        "league_id": 441,
-        "league": "Premier League",
-        "venue": "Arena Liviy Bereh",
         "tv_channels": []
     },
     {
@@ -3271,6 +3271,24 @@
         "kickoff": 1793440800,
         "fixture": "Zhetysu Taldykorgan vs FC Astana",
         "league_id": 225,
+        "league": "Premier League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5998354,
+        "kickoff": 1793451600,
+        "fixture": "Coastal Union vs Dodoma Jiji FC",
+        "league_id": 9066,
+        "league": "Premier League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5998353,
+        "kickoff": 1793460600,
+        "fixture": "JKT Tanzania vs Azam FC",
+        "league_id": 9066,
         "league": "Premier League",
         "venue": "TBA",
         "tv_channels": []
@@ -4241,7 +4259,7 @@
     {
         "match_id": 6028604,
         "kickoff": 1793455200,
-        "fixture": "Diyala vs Al Zawraa",
+        "fixture": "Al Zawraa vs Diyala",
         "league_id": 524,
         "league": "Stars League",
         "venue": "TBA",
@@ -6660,37 +6678,10 @@
         "tv_channels": []
     },
     {
-        "match_id": 6103150,
-        "kickoff": 1793458800,
-        "fixture": "Doma United vs Ikorodu City",
-        "league_id": 533,
-        "league": "NPFL",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 5975084,
         "kickoff": 1793458800,
         "fixture": "Vision FC vs Port City",
         "league_id": 522,
-        "league": "Premier League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5998353,
-        "kickoff": 1793460600,
-        "fixture": "JKT Tanzania vs Azam FC",
-        "league_id": 9066,
-        "league": "Premier League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5998354,
-        "kickoff": 1793469600,
-        "fixture": "Coastal Union vs Dodoma Jiji FC",
-        "league_id": 9066,
         "league": "Premier League",
         "venue": "TBA",
         "tv_channels": []
@@ -6733,8 +6724,17 @@
     },
     {
         "match_id": 5114127,
-        "kickoff": 1793469600,
+        "kickoff": 1793466000,
         "fixture": "CASD Camioneros vs Excursionistas",
+        "league_id": 9213,
+        "league": "Primera B Metropolitana",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5114132,
+        "kickoff": 1793466000,
+        "fixture": "Sportivo Italiano vs Villa Dálmine",
         "league_id": 9213,
         "league": "Primera B Metropolitana",
         "venue": "TBA",
@@ -6744,15 +6744,6 @@
         "match_id": 5114129,
         "kickoff": 1793469600,
         "fixture": "Flandria vs Deportivo Armenio",
-        "league_id": 9213,
-        "league": "Primera B Metropolitana",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5114132,
-        "kickoff": 1793469600,
-        "fixture": "Sportivo Italiano vs Villa Dálmine",
         "league_id": 9213,
         "league": "Primera B Metropolitana",
         "venue": "TBA",
