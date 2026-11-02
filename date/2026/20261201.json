@@ -387,24 +387,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000015324,
-        "kickoff": 1796147100,
-        "fixture": "Maccabi Petach Tikva vs Hapoel Petah Tikva",
-        "league_id": 127,
-        "league": "Ligat ha'Al",
-        "venue": "Shlomo Insurance Stadium",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000015325,
-        "kickoff": 1796148000,
-        "fixture": "Hapoel Ironi Kiryat Shmona vs Maccabi Tel Aviv",
-        "league_id": 127,
-        "league": "Ligat ha'Al",
-        "venue": "Miriam Stadium",
-        "tv_channels": []
-    },
-    {
         "match_id": 1000015326,
         "kickoff": 1796146200,
         "fixture": "Ironi Tiberias vs Hapoel Ramat Gan",
@@ -414,12 +396,30 @@
         "tv_channels": []
     },
     {
+        "match_id": 1000015324,
+        "kickoff": 1796147100,
+        "fixture": "Maccabi Petach Tikva vs Hapoel Petah Tikva",
+        "league_id": 127,
+        "league": "Ligat ha'Al",
+        "venue": "Shlomo Insurance Stadium",
+        "tv_channels": []
+    },
+    {
         "match_id": 1000015327,
         "kickoff": 1796147100,
         "fixture": "Hapoel Jerusalem FC vs Hapoel Haifa",
         "league_id": 127,
         "league": "Ligat ha'Al",
         "venue": "Teddi Malcha Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000015325,
+        "kickoff": 1796148000,
+        "fixture": "Hapoel Ironi Kiryat Shmona vs Maccabi Tel Aviv",
+        "league_id": 127,
+        "league": "Ligat ha'Al",
+        "venue": "Miriam Stadium",
         "tv_channels": []
     },
     {
@@ -522,21 +522,21 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000018635,
-        "kickoff": 1796130000,
-        "fixture": "Al-Shamal II vs Umm Salal",
-        "league_id": 11030,
-        "league": "Second Division",
-        "venue": "Thani Bin Jassim Stadium (Al-Gharafah Stadium)",
-        "tv_channels": []
-    },
-    {
         "match_id": 1000018639,
         "kickoff": 1796052600,
         "fixture": "Al-Gharafa II vs Al-Waab SC",
         "league_id": 11030,
         "league": "Second Division",
         "venue": "Hamad bin Khalifa Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000018635,
+        "kickoff": 1796130000,
+        "fixture": "Al-Shamal II vs Umm Salal",
+        "league_id": 11030,
+        "league": "Second Division",
+        "venue": "Thani Bin Jassim Stadium (Al-Gharafah Stadium)",
         "tv_channels": []
     },
     {
@@ -582,6 +582,78 @@
         "league_id": 164,
         "league": "Cup",
         "venue": "Stade de la Tuilière",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6545818,
+        "kickoff": 1796144400,
+        "fixture": "Bayer Leverkusen vs RB Leipzig",
+        "league_id": 209,
+        "league": "DFB Pokal",
+        "venue": "BayArena",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6545819,
+        "kickoff": 1796144400,
+        "fixture": "Bayern München vs Hertha BSC",
+        "league_id": 209,
+        "league": "DFB Pokal",
+        "venue": "Allianz Arena",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6545823,
+        "kickoff": 1796144400,
+        "fixture": "Bochum vs Augsburg",
+        "league_id": 209,
+        "league": "DFB Pokal",
+        "venue": "Vonovia Ruhrstadion",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6545820,
+        "kickoff": 1796144400,
+        "fixture": "Borussia Mönchengladbach vs Darmstadt",
+        "league_id": 209,
+        "league": "DFB Pokal",
+        "venue": "Ista-Borussia-Park",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6545816,
+        "kickoff": 1796144400,
+        "fixture": "Eintracht Frankfurt vs Borussia Dortmund",
+        "league_id": 209,
+        "league": "DFB Pokal",
+        "venue": "Deutsche Bank Park",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6545822,
+        "kickoff": 1796144400,
+        "fixture": "Holstein Kiel vs 1. FC Köln",
+        "league_id": 209,
+        "league": "DFB Pokal",
+        "venue": "Holstein Stadion",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6545821,
+        "kickoff": 1796144400,
+        "fixture": "Kaiserslautern vs Freiburg",
+        "league_id": 209,
+        "league": "DFB Pokal",
+        "venue": "Fritz Walter Stadion",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6545817,
+        "kickoff": 1796144400,
+        "fixture": "VfB Stuttgart vs Dynamo Dresden",
+        "league_id": 209,
+        "league": "DFB Pokal",
+        "venue": "MHPArena",
         "tv_channels": []
     },
     {
@@ -819,6 +891,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 5837297,
+        "kickoff": 1796151600,
+        "fixture": "Leyton Orient vs Peterborough United",
+        "league_id": 108,
+        "league": "League One",
+        "venue": "BetWright Stadium",
+        "tv_channels": []
+    },
+    {
         "match_id": 5837291,
         "kickoff": 1796154300,
         "fixture": "Barnsley vs Wycombe Wanderers",
@@ -870,15 +951,6 @@
         "league_id": 108,
         "league": "League One",
         "venue": "Accu Stadium",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5837297,
-        "kickoff": 1796151600,
-        "fixture": "Leyton Orient vs Peterborough United",
-        "league_id": 108,
-        "league": "League One",
-        "venue": "BetWright Stadium",
         "tv_channels": []
     },
     {
