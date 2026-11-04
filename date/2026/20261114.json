@@ -648,6 +648,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 6551446,
+        "kickoff": 1794587400,
+        "fixture": "Poland U21 vs Norway U21",
+        "league_id": 344,
+        "league": "Friendlies U21",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5862756,
         "kickoff": 1794589200,
         "fixture": "Resovia vs Swit Skolwin",
@@ -1324,17 +1333,8 @@
     },
     {
         "match_id": 5874274,
-        "kickoff": 1794655800,
+        "kickoff": 1794659400,
         "fixture": "Marek Dupnitsa vs FC Chernomorets Burgas",
-        "league_id": 9096,
-        "league": "Second Professional League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5874271,
-        "kickoff": 1794664800,
-        "fixture": "Beroe vs Vihren Sandanski",
         "league_id": 9096,
         "league": "Second Professional League",
         "venue": "TBA",
@@ -1622,7 +1622,7 @@
     {
         "match_id": 1000020331,
         "kickoff": 1794628800,
-        "fixture": "Melbourne City FC vs Newcastle Jets",
+        "fixture": "Melbourne City FC (W) vs Newcastle Jets (W)",
         "league_id": 9495,
         "league": "A-League Women",
         "venue": "ctrl:cyber Pitch",
@@ -1631,7 +1631,7 @@
     {
         "match_id": 1000020332,
         "kickoff": 1794628800,
-        "fixture": "Melbourne Victory vs Adelaide United",
+        "fixture": "Melbourne Victory (W) vs Adelaide United (W)",
         "league_id": 9495,
         "league": "A-League Women",
         "venue": "Home of the Matildas Main Pitch",
@@ -1640,7 +1640,7 @@
     {
         "match_id": 1000020333,
         "kickoff": 1794636000,
-        "fixture": "Central Coast Mariners vs Perth Glory",
+        "fixture": "Central Coast Mariners (W) vs Perth Glory (W)",
         "league_id": 9495,
         "league": "A-League Women",
         "venue": "polytec Stadium",
@@ -1649,7 +1649,7 @@
     {
         "match_id": 1000022623,
         "kickoff": 1794657600,
-        "fixture": "Loser Semi-final 1 vs Loser Semi-final 2",
+        "fixture": "Loser Semi-final 1 (W) vs Loser Semi-final 2 (W)",
         "league_id": 11011,
         "league": "CAF Women's Champions League",
         "venue": "Ismaïlia Stadium",
@@ -2027,7 +2027,7 @@
     {
         "match_id": 1000016512,
         "kickoff": 1794665400,
-        "fixture": "Heart of Midlothian vs Hibernian LFC",
+        "fixture": "Heart of Midlothian (W) vs Hibernian LFC (W)",
         "league_id": 10791,
         "league": "SWPL 1",
         "venue": "The Vanloq Community Stadium",
@@ -2036,7 +2036,7 @@
     {
         "match_id": 1000015943,
         "kickoff": 1794632400,
-        "fixture": "AC Nagano Parceiro Ladies vs Nojima Stella",
+        "fixture": "AC Nagano Parceiro Ladies (W) vs Nojima Stella (W)",
         "league_id": 9500,
         "league": "WE League",
         "venue": "Minami Nagano Sports Park Stadium",
@@ -2045,7 +2045,7 @@
     {
         "match_id": 1000015945,
         "kickoff": 1794632400,
-        "fixture": "Sanfrecce Hiroshima Regina vs JEF Ladies",
+        "fixture": "Sanfrecce Hiroshima Regina (W) vs JEF Ladies (W)",
         "league_id": 9500,
         "league": "WE League",
         "venue": "Edion Peace Wing Hiroshima",
@@ -2054,7 +2054,7 @@
     {
         "match_id": 1000015940,
         "kickoff": 1794636000,
-        "fixture": "Urawa Ladies vs AS Elfen Saitama",
+        "fixture": "Urawa Ladies (W) vs AS Elfen Saitama (W)",
         "league_id": 9500,
         "league": "WE League",
         "venue": "Saitama Stadium 2002",
@@ -2063,7 +2063,7 @@
     {
         "match_id": 1000015942,
         "kickoff": 1794636000,
-        "fixture": "NTV Tokyo Verdy Beleza vs Albirex Niigata Ladies",
+        "fixture": "NTV Tokyo Verdy Beleza (W) vs Albirex Niigata Ladies (W)",
         "league_id": 9500,
         "league": "WE League",
         "venue": "Ajinomoto Field Nishigaoka",
@@ -2592,6 +2592,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 6551225,
+        "kickoff": 1794690000,
+        "fixture": "Atlanta vs Club Atlético Estudiantes",
+        "league_id": 8965,
+        "league": "Primera Nacional Promotion Playoff",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 6546953,
         "kickoff": 1794690000,
         "fixture": "Colón vs CA Ferrocarril Midland",
@@ -2622,6 +2631,24 @@
         "match_id": 6546956,
         "kickoff": 1794690000,
         "fixture": "Ferro Carril Oeste vs Gimnasia y Tiro",
+        "league_id": 8965,
+        "league": "Primera Nacional Promotion Playoff",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6551226,
+        "kickoff": 1794690000,
+        "fixture": "Gimnasia Jujuy vs Almirante Brown",
+        "league_id": 8965,
+        "league": "Primera Nacional Promotion Playoff",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6551227,
+        "kickoff": 1794690000,
+        "fixture": "Temperley vs Ciudad de Bolívar",
         "league_id": 8965,
         "league": "Primera Nacional Promotion Playoff",
         "venue": "TBA",
@@ -3008,7 +3035,7 @@
     {
         "match_id": 1000021793,
         "kickoff": 1794682800,
-        "fixture": "Montréal Roses FC/Vancouver Rise FC vs AFC Toronto/Ottawa Rapid FC",
+        "fixture": "Montréal Roses FC/Vancouver Rise FC (W) vs AFC Toronto/Ottawa Rapid FC (W)",
         "league_id": 10872,
         "league": "Northern Super League - Championship - Final",
         "venue": "TD Place Stadium",
@@ -3107,7 +3134,7 @@
     {
         "match_id": 1000018714,
         "kickoff": 1794679200,
-        "fixture": "Sheffield United vs Bristol City",
+        "fixture": "Sheffield United (W) vs Bristol City (W)",
         "league_id": 9294,
         "league": "WSL 2",
         "venue": "Bramall Lane",
