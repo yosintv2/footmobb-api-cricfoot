@@ -477,17 +477,8 @@
         "tv_channels": []
     },
     {
-        "match_id": 6526894,
-        "kickoff": 1793815200,
-        "fixture": "CA Lito vs Montevideo Wanderers",
-        "league_id": 10342,
-        "league": "Cup",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 6526895,
-        "kickoff": 1793826000,
+        "kickoff": 1793815200,
         "fixture": "CA San Carlos vs Boston River",
         "league_id": 10342,
         "league": "Cup",
@@ -498,6 +489,15 @@
         "match_id": 6526896,
         "kickoff": 1793836800,
         "fixture": "Ferro Carril vs Nacional",
+        "league_id": 10342,
+        "league": "Cup",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6526894,
+        "kickoff": 1793905200,
+        "fixture": "CA Lito vs Montevideo Wanderers",
         "league_id": 10342,
         "league": "Cup",
         "venue": "TBA",
@@ -577,7 +577,7 @@
     },
     {
         "match_id": 5989695,
-        "kickoff": 1793808000,
+        "kickoff": 1793818800,
         "fixture": "MC Alger vs MC Oran",
         "league_id": 516,
         "league": "Ligue 1",
@@ -606,6 +606,15 @@
         "match_id": 5962424,
         "kickoff": 1793840400,
         "fixture": "Firpo vs Alianza FC",
+        "league_id": 335,
+        "league": "Primera Division - Apertura",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5962490,
+        "kickoff": 1793840400,
+        "fixture": "Municipal Limeno vs Fuerte San Francisco",
         "league_id": 335,
         "league": "Primera Division - Apertura",
         "venue": "TBA",
@@ -1027,7 +1036,7 @@
     },
     {
         "match_id": 1000014209,
-        "kickoff": 1793835000,
+        "kickoff": 1793839500,
         "fixture": "Cúcuta vs Santa Fe",
         "league_id": 274,
         "league": "Primera A",
@@ -1062,17 +1071,8 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000021474,
-        "kickoff": 1793885100,
-        "fixture": "Al Kholood vs Al Khaleej",
-        "league_id": 536,
-        "league": "Saudi Pro League",
-        "venue": "Ar-Rass Stadium (Al Hazm Club Stadium)",
-        "tv_channels": []
-    },
-    {
         "match_id": 1000021469,
-        "kickoff": 1793891400,
+        "kickoff": 1793836800,
         "fixture": "Abha vs Al Shabab",
         "league_id": 536,
         "league": "Saudi Pro League",
@@ -1080,8 +1080,17 @@
         "tv_channels": []
     },
     {
+        "match_id": 1000021474,
+        "kickoff": 1793836800,
+        "fixture": "Al Kholood vs Al Khaleej",
+        "league_id": 536,
+        "league": "Saudi Pro League",
+        "venue": "Ar-Rass Stadium (Al Hazm Club Stadium)",
+        "tv_channels": []
+    },
+    {
         "match_id": 1000021476,
-        "kickoff": 1793899800,
+        "kickoff": 1793836800,
         "fixture": "Al Qadsiah vs Al-Fayha",
         "league_id": 536,
         "league": "Saudi Pro League",
@@ -1436,7 +1445,7 @@
         "fixture": "Volga Ulyanovsk vs Chertanovo Moscow",
         "league_id": 193,
         "league": "Cup",
-        "venue": "TBA",
+        "venue": "Stadion Trud im. L.I. Yashin",
         "tv_channels": []
     },
     {

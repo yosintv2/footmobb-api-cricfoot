@@ -514,7 +514,7 @@
     },
     {
         "match_id": 5802983,
-        "kickoff": 1794068100,
+        "kickoff": 1794074400,
         "fixture": "Auxerre vs Paris FC",
         "league_id": 53,
         "league": "Ligue 1",
@@ -523,7 +523,7 @@
     },
     {
         "match_id": 5802987,
-        "kickoff": 1794080700,
+        "kickoff": 1794081900,
         "fixture": "Paris Saint-Germain vs Troyes",
         "league_id": 53,
         "league": "Ligue 1",
@@ -780,6 +780,24 @@
         "league_id": 55,
         "league": "Serie A",
         "venue": "Stadio Artemio Franchi",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5796389,
+        "kickoff": 1794142800,
+        "fixture": "Sutjeska vs Petrovac",
+        "league_id": 232,
+        "league": "1. CFL",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5796388,
+        "kickoff": 1794153600,
+        "fixture": "Dečić Tuzi vs OFK Mladost Donja Gorica",
+        "league_id": 232,
+        "league": "1. CFL",
+        "venue": "TBA",
         "tv_channels": []
     },
     {
@@ -1787,24 +1805,6 @@
         "fixture": "Sollentuna FK vs FC Arlanda",
         "league_id": 169,
         "league": "Ettan Norra",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5897658,
-        "kickoff": 1794067200,
-        "fixture": "Shinnik Yaroslavl vs FC Ufa",
-        "league_id": 338,
-        "league": "First League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5897661,
-        "kickoff": 1794067200,
-        "fixture": "Torpedo Moscow vs Neftekhimik",
-        "league_id": 338,
-        "league": "First League",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -4518,6 +4518,24 @@
         "tv_channels": []
     },
     {
+        "match_id": 5885326,
+        "kickoff": 1794070800,
+        "fixture": "Recreativo Huelva vs Mijas-Las Lagunas",
+        "league_id": 9138,
+        "league": "Segunda Federacion - Group 4",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5885314,
+        "kickoff": 1794074400,
+        "fixture": "Ciudad Lucena vs CD Badajoz",
+        "league_id": 9138,
+        "league": "Segunda Federacion - Group 4",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5885319,
         "kickoff": 1794133800,
         "fixture": "Betis Deportivo Balompie vs Tenerife B",
@@ -4575,24 +4593,6 @@
         "match_id": 5885320,
         "kickoff": 1794153600,
         "fixture": "Atletico Central vs CA Antoniano",
-        "league_id": 9138,
-        "league": "Segunda Federacion - Group 4",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5885314,
-        "kickoff": 1794155400,
-        "fixture": "Ciudad Lucena vs CD Badajoz",
-        "league_id": 9138,
-        "league": "Segunda Federacion - Group 4",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5885326,
-        "kickoff": 1794155400,
-        "fixture": "Recreativo Huelva vs Mijas-Las Lagunas",
         "league_id": 9138,
         "league": "Segunda Federacion - Group 4",
         "venue": "TBA",
@@ -5271,6 +5271,51 @@
         "league_id": 8983,
         "league": "Super League",
         "venue": "Gelora Kie Raha",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6140256,
+        "kickoff": 1794133800,
+        "fixture": "Olympiacos B vs Hellas Syros",
+        "league_id": 8815,
+        "league": "Super League 2",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6140252,
+        "kickoff": 1794141900,
+        "fixture": "Athens Kallithea FC vs Panionios",
+        "league_id": 8815,
+        "league": "Super League 2",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6140255,
+        "kickoff": 1794142800,
+        "fixture": "Anagennisi Karditsas vs GS Marko",
+        "league_id": 8815,
+        "league": "Super League 2",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6140253,
+        "kickoff": 1794142800,
+        "fixture": "Nestos Chrisoupolis vs Asteras Tripolis B",
+        "league_id": 8815,
+        "league": "Super League 2",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6140258,
+        "kickoff": 1794142800,
+        "fixture": "Pyrgos AFC vs PAOK Thessaloniki B",
+        "league_id": 8815,
+        "league": "Super League 2",
+        "venue": "TBA",
         "tv_channels": []
     },
     {
@@ -5976,6 +6021,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 1000022912,
+        "kickoff": 1794153600,
+        "fixture": "Stellenbosch FC vs AmaZulu",
+        "league_id": 10708,
+        "league": "League Cup",
+        "venue": "Danie Craven Stadium",
+        "tv_channels": []
+    },
+    {
         "match_id": 1000017297,
         "kickoff": 1794074400,
         "fixture": "Asociación Deportiva Tarma vs Sporting Cristal",
@@ -6067,7 +6121,7 @@
     },
     {
         "match_id": 1000014638,
-        "kickoff": 1794092400,
+        "kickoff": 1794099600,
         "fixture": "Tigres vs Cruz Azul",
         "league_id": 230,
         "league": "Liga MX",
@@ -6507,6 +6561,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 1000013261,
+        "kickoff": 1794151800,
+        "fixture": "Universidad Católica vs Deportes Limache",
+        "league_id": 273,
+        "league": "Primera División",
+        "venue": "Claro Arena",
+        "tv_channels": []
+    },
+    {
         "match_id": 1000013265,
         "kickoff": 1794151800,
         "fixture": "Audax Italiano vs Coquimbo Unido",
@@ -6715,7 +6778,7 @@
     },
     {
         "match_id": 1000018511,
-        "kickoff": 1794150300,
+        "kickoff": 1794151200,
         "fixture": "Al Akhdoud vs Al Jabalain",
         "league_id": 10721,
         "league": "Saudi First Division",
@@ -6729,15 +6792,6 @@
         "league_id": 10721,
         "league": "Saudi First Division",
         "venue": "King Abdulaziz Sports City Stadium",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000021468,
-        "kickoff": 1794072600,
-        "fixture": "Al Ahli vs Al-Taawoun",
-        "league_id": 536,
-        "league": "Saudi Pro League",
-        "venue": "Alinma Bank Stadium at King Abdullah Sport City",
         "tv_channels": []
     },
     {
@@ -6756,15 +6810,6 @@
         "league_id": 246,
         "league": "Serie A - Copa Sudamericana Play-off",
         "venue": "Estadio Olímpico de Ibarra",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000022077,
-        "kickoff": 1794069000,
-        "fixture": "Deportivo Cuenca vs Orense",
-        "league_id": 246,
-        "league": "Serie A - Relegation Round",
-        "venue": "Estadio Alejandro Serrano Aguilar Banco del Austro",
         "tv_channels": []
     },
     {
@@ -7120,7 +7165,7 @@
     },
     {
         "match_id": 5975086,
-        "kickoff": 1794151800,
+        "kickoff": 1794150000,
         "fixture": "Ashanti Gold vs Young Apostles",
         "league_id": 522,
         "league": "Premier League",
@@ -7129,7 +7174,7 @@
     },
     {
         "match_id": 5975087,
-        "kickoff": 1794151800,
+        "kickoff": 1794150000,
         "fixture": "Bechem United vs Samartex",
         "league_id": 522,
         "league": "Premier League",
@@ -7138,7 +7183,7 @@
     },
     {
         "match_id": 5975088,
-        "kickoff": 1794151800,
+        "kickoff": 1794150000,
         "fixture": "Berekum Chelsea vs Asante Kotoko SC",
         "league_id": 522,
         "league": "Premier League",
@@ -7147,7 +7192,7 @@
     },
     {
         "match_id": 5975089,
-        "kickoff": 1794151800,
+        "kickoff": 1794150000,
         "fixture": "Bibiani Gold Stars vs Aduana Stars",
         "league_id": 522,
         "league": "Premier League",
@@ -7156,7 +7201,7 @@
     },
     {
         "match_id": 5975090,
-        "kickoff": 1794151800,
+        "kickoff": 1794150000,
         "fixture": "Dreams FC vs Debibi",
         "league_id": 522,
         "league": "Premier League",
@@ -7165,7 +7210,7 @@
     },
     {
         "match_id": 5975091,
-        "kickoff": 1794151800,
+        "kickoff": 1794150000,
         "fixture": "Hearts of Oak vs Heart of Lions",
         "league_id": 522,
         "league": "Premier League",
@@ -7173,17 +7218,8 @@
         "tv_channels": []
     },
     {
-        "match_id": 5975092,
-        "kickoff": 1794151800,
-        "fixture": "Karela United vs Vision FC",
-        "league_id": 522,
-        "league": "Premier League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 5975093,
-        "kickoff": 1794151800,
+        "kickoff": 1794150000,
         "fixture": "Medeama SC vs All Blacks",
         "league_id": 522,
         "league": "Premier League",
@@ -7192,7 +7228,7 @@
     },
     {
         "match_id": 5975094,
-        "kickoff": 1794151800,
+        "kickoff": 1794150000,
         "fixture": "Port City vs Holy Stars",
         "league_id": 522,
         "league": "Premier League",
@@ -7200,75 +7236,30 @@
         "tv_channels": []
     },
     {
-        "match_id": 6140255,
-        "kickoff": 1794153600,
-        "fixture": "Anagennisi Karditsas vs GS Marko",
-        "league_id": 8815,
-        "league": "Super League 2",
-        "venue": "TBA",
+        "match_id": 1000022036,
+        "kickoff": 1794154500,
+        "fixture": "CSD Macará vs Universidad Católica",
+        "league_id": 246,
+        "league": "Serie A - Championship Round",
+        "venue": "Estadio Bellavista Universidad Indoamérica",
         "tv_channels": []
     },
     {
-        "match_id": 6140252,
-        "kickoff": 1794153600,
-        "fixture": "Athens Kallithea FC vs Panionios",
-        "league_id": 8815,
-        "league": "Super League 2",
-        "venue": "TBA",
+        "match_id": 1000022035,
+        "kickoff": 1794163500,
+        "fixture": "Aucas vs Independiente del Valle",
+        "league_id": 246,
+        "league": "Serie A - Championship Round",
+        "venue": "Estadio Cooprogreso Gonzalo Pozo Ripalda",
         "tv_channels": []
     },
     {
-        "match_id": 6140254,
-        "kickoff": 1794153600,
-        "fixture": "Kalamaria vs Panserraikos FC",
-        "league_id": 8815,
-        "league": "Super League 2",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6140253,
-        "kickoff": 1794153600,
-        "fixture": "Nestos Chrisoupolis vs Asteras Tripolis B",
-        "league_id": 8815,
-        "league": "Super League 2",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6140256,
-        "kickoff": 1794153600,
-        "fixture": "Olympiacos B vs Hellas Syros",
-        "league_id": 8815,
-        "league": "Super League 2",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6140257,
-        "kickoff": 1794153600,
-        "fixture": "Panthrakikos Komotini vs AE Larissa",
-        "league_id": 8815,
-        "league": "Super League 2",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6140258,
-        "kickoff": 1794153600,
-        "fixture": "Pyrgos AFC vs PAOK Thessaloniki B",
-        "league_id": 8815,
-        "league": "Super League 2",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6140259,
-        "kickoff": 1794153600,
-        "fixture": "Zakynthos APS vs Niki Volou",
-        "league_id": 8815,
-        "league": "Super League 2",
-        "venue": "TBA",
+        "match_id": 1000022077,
+        "kickoff": 1794155400,
+        "fixture": "Deportivo Cuenca vs Orense",
+        "league_id": 246,
+        "league": "Serie A - Relegation Round",
+        "venue": "Estadio Alejandro Serrano Aguilar Banco del Austro",
         "tv_channels": []
     }
 ]
