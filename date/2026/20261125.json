@@ -297,6 +297,24 @@
         "tv_channels": []
     },
     {
+        "match_id": 5897677,
+        "kickoff": 1795608000,
+        "fixture": "Neftekhimik vs FC Rotor Volgograd",
+        "league_id": 338,
+        "league": "First League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5897675,
+        "kickoff": 1795622400,
+        "fixture": "KamAZ vs FC Yenisey Krasnoyarsk",
+        "league_id": 338,
+        "league": "First League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5948148,
         "kickoff": 1795549500,
         "fixture": "Cray Wanderers vs Wingate & Finchley",
@@ -1738,7 +1756,7 @@
     },
     {
         "match_id": 1000018630,
-        "kickoff": 1795611600,
+        "kickoff": 1795616100,
         "fixture": "Al-Kharaitiyat SC vs Al-Gharafa II",
         "league_id": 11030,
         "league": "Second Division",
@@ -1747,7 +1765,7 @@
     },
     {
         "match_id": 1000018631,
-        "kickoff": 1795620600,
+        "kickoff": 1795624200,
         "fixture": "Al-Bidda SC vs Al Markhiya",
         "league_id": 11030,
         "league": "Second Division",
@@ -1756,7 +1774,7 @@
     },
     {
         "match_id": 1000018634,
-        "kickoff": 1795620600,
+        "kickoff": 1795624200,
         "fixture": "Al-Khor vs Al-Shamal II",
         "league_id": 11030,
         "league": "Second Division",
@@ -1829,7 +1847,7 @@
     {
         "match_id": 1000021460,
         "kickoff": 1795564800,
-        "fixture": "Salzburg U19 vs FK Crvena Zvezda U19/NK Bravo U19",
+        "fixture": "Salzburg U19 vs FK Crvena Zvezda U19",
         "league_id": 9741,
         "league": "UEFA Youth League - 3rd Round",
         "venue": "TBA",
@@ -1838,7 +1856,7 @@
     {
         "match_id": 1000021461,
         "kickoff": 1795564800,
-        "fixture": "Dynamo Kyiv U19/Rangers U19 vs AZ Alkmaar U19",
+        "fixture": "Rangers U19 vs AZ Alkmaar U19",
         "league_id": 9741,
         "league": "UEFA Youth League - 3rd Round",
         "venue": "TBA",
@@ -1847,7 +1865,7 @@
     {
         "match_id": 1000021789,
         "kickoff": 1795564800,
-        "fixture": "Clermont Foot U19/Legia Warszawa U19 vs Hammarby U19/SK Super Nova U19",
+        "fixture": "Legia Warszawa U19 vs SK Super Nova U19",
         "league_id": 9741,
         "league": "UEFA Youth League - 3rd Round",
         "venue": "TBA",
@@ -1856,7 +1874,7 @@
     {
         "match_id": 1000021790,
         "kickoff": 1795564800,
-        "fixture": "Dinamo Tbilisi U19/FC København U19 vs Fiorentina U19/Septemvri Sofia U19",
+        "fixture": "FC København U19 vs Fiorentina U19",
         "league_id": 9741,
         "league": "UEFA Youth League - 3rd Round",
         "venue": "TBA",
@@ -1865,7 +1883,7 @@
     {
         "match_id": 1000021462,
         "kickoff": 1795564800,
-        "fixture": "Dinamo Zagreb U19/Qarabağ FK U19 vs Benfica U19/Pafos FC U19",
+        "fixture": "Dinamo Zagreb U19 vs Benfica U19",
         "league_id": 9741,
         "league": "UEFA Youth League - 3rd Round",
         "venue": "TBA",
@@ -1874,7 +1892,7 @@
     {
         "match_id": 1000021463,
         "kickoff": 1795564800,
-        "fixture": "FC Sheriff U19/FCV Farul Constanța U19 vs Maccabi Tel Aviv U19",
+        "fixture": "FC Sheriff U19 vs Maccabi Tel Aviv U19",
         "league_id": 9741,
         "league": "UEFA Youth League - 3rd Round",
         "venue": "TBA",
@@ -1883,7 +1901,7 @@
     {
         "match_id": 1000023070,
         "kickoff": 1795564800,
-        "fixture": "Chelsea U19/Flora Tallinn U19 vs St. Patrick's Athletic U19/Žalgiris Vilnius U19",
+        "fixture": "Flora Tallinn U19 vs St. Patrick's Athletic U19",
         "league_id": 9741,
         "league": "UEFA Youth League - 3rd Round",
         "venue": "TBA",
@@ -1892,7 +1910,7 @@
     {
         "match_id": 1000023072,
         "kickoff": 1795564800,
-        "fixture": "HJK U19/Žilina U19 vs Cardiff Met FC U19/Stabæk U19",
+        "fixture": "HJK U19 vs Stabæk U19",
         "league_id": 9741,
         "league": "UEFA Youth League - 3rd Round",
         "venue": "TBA",
@@ -1901,7 +1919,7 @@
     {
         "match_id": 1000023074,
         "kickoff": 1795564800,
-        "fixture": "Hradec Králové U19/Partizani U19 vs Kairat Almaty U19/MTK Budapest U19",
+        "fixture": "Hradec Králové U19 vs Kairat Almaty U19",
         "league_id": 9741,
         "league": "UEFA Youth League - 3rd Round",
         "venue": "TBA",
@@ -1910,7 +1928,7 @@
     {
         "match_id": 1000023076,
         "kickoff": 1795564800,
-        "fixture": "AP Brera Strumica U19/Hoffenheim U19 vs PAOK Thessaloniki FC U19/Zrinjski Mostar U19",
+        "fixture": "Hoffenheim U19 vs PAOK Thessaloniki FC U19",
         "league_id": 9741,
         "league": "UEFA Youth League - 3rd Round",
         "venue": "TBA",
@@ -2030,60 +2048,6 @@
         "fixture": "Žilina vs Ružomberok",
         "league_id": 177,
         "league": "FA Cup",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5897674,
-        "kickoff": 1795622400,
-        "fixture": "FC Chelyabinsk vs Veles Moscow",
-        "league_id": 338,
-        "league": "First League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5897675,
-        "kickoff": 1795622400,
-        "fixture": "KamAZ vs FC Yenisey Krasnoyarsk",
-        "league_id": 338,
-        "league": "First League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5897677,
-        "kickoff": 1795622400,
-        "fixture": "Neftekhimik vs FC Rotor Volgograd",
-        "league_id": 338,
-        "league": "First League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5897678,
-        "kickoff": 1795622400,
-        "fixture": "Nizhny Novgorod vs Tekstilshchik",
-        "league_id": 338,
-        "league": "First League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5897679,
-        "kickoff": 1795622400,
-        "fixture": "PFC Sochi vs Shinnik Yaroslavl",
-        "league_id": 338,
-        "league": "First League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5897682,
-        "kickoff": 1795622400,
-        "fixture": "Ural vs Arsenal Tula",
-        "league_id": 338,
-        "league": "First League",
         "venue": "TBA",
         "tv_channels": []
     },
