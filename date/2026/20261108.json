@@ -1017,6 +1017,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 5875015,
+        "kickoff": 1794130200,
+        "fixture": "Voitsberg vs Kapfenberger SV",
+        "league_id": 119,
+        "league": "2. Liga",
+        "venue": "Munzer Bioindustrie Sportpark",
+        "tv_channels": []
+    },
+    {
         "match_id": 5905972,
         "kickoff": 1794065400,
         "fixture": "Preussen Münster vs MSV Duisburg",
@@ -1548,15 +1557,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5105046,
-        "kickoff": 1794063600,
-        "fixture": "Kristiansund vs Vålerenga",
-        "league_id": 59,
-        "league": "Eliteserien",
-        "venue": "Nordmøre stadion",
-        "tv_channels": []
-    },
-    {
         "match_id": 5105048,
         "kickoff": 1794070800,
         "fixture": "Rosenborg vs Start",
@@ -1805,6 +1805,33 @@
         "fixture": "Sollentuna FK vs FC Arlanda",
         "league_id": 169,
         "league": "Ettan Norra",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6567713,
+        "kickoff": 1794078000,
+        "fixture": "Douglas Haig vs Gimnasia y Esgrima de Chivilcoy",
+        "league_id": 9213,
+        "league": "Federal A Promotion Playoff",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6567720,
+        "kickoff": 1794168000,
+        "fixture": "Juventud Antoniana vs Club Cipolletti",
+        "league_id": 9213,
+        "league": "Federal A Promotion Playoff",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6567714,
+        "kickoff": 1794171600,
+        "fixture": "Sarmiento de La Banda vs CA Alvarado",
+        "league_id": 9213,
+        "league": "Federal A Promotion Playoff",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -3141,15 +3168,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5907674,
-        "kickoff": 1794063600,
-        "fixture": "Torquay United vs Dover",
-        "league_id": 8944,
-        "league": "National League South",
-        "venue": "Plainmoor Ground",
-        "tv_channels": []
-    },
-    {
         "match_id": 5907675,
         "kickoff": 1794063600,
         "fixture": "Weston Super Mare vs Braintree Town",
@@ -3709,7 +3727,7 @@
     },
     {
         "match_id": 5962475,
-        "kickoff": 1794092400,
+        "kickoff": 1794096000,
         "fixture": "Inter Santa Tecla vs Firpo",
         "league_id": 335,
         "league": "Primera Division - Apertura",
@@ -3718,7 +3736,7 @@
     },
     {
         "match_id": 5962476,
-        "kickoff": 1794101400,
+        "kickoff": 1794103200,
         "fixture": "Alianza FC vs CD Águila",
         "league_id": 335,
         "league": "Primera Division - Apertura",
@@ -4068,6 +4086,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 5874269,
+        "kickoff": 1794141000,
+        "fixture": "Spartak Pleven vs Dobrudzha Dobrich",
+        "league_id": 9096,
+        "league": "Second Professional League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5874270,
         "kickoff": 1794141000,
         "fixture": "Vihren Sandanski vs Lokomotiv Gorna Oryahovitsa",
@@ -4098,15 +4125,6 @@
         "match_id": 5874268,
         "kickoff": 1794148200,
         "fixture": "Ludogorets Razgrad II vs Nesebar",
-        "league_id": 9096,
-        "league": "Second Professional League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5874269,
-        "kickoff": 1794148200,
-        "fixture": "Spartak Pleven vs Dobrudzha Dobrich",
         "league_id": 9096,
         "league": "Second Professional League",
         "venue": "TBA",
@@ -6462,6 +6480,42 @@
         "tv_channels": []
     },
     {
+        "match_id": 1000022372,
+        "kickoff": 1794078000,
+        "fixture": "GV San José vs CDT Real Oruro",
+        "league_id": 144,
+        "league": "Primera División",
+        "venue": "Estadio Jesús Bermúdez",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000022373,
+        "kickoff": 1794086100,
+        "fixture": "Always Ready vs ABB",
+        "league_id": 144,
+        "league": "Primera División",
+        "venue": "Estadio Municipal El Alto",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000022374,
+        "kickoff": 1794094200,
+        "fixture": "Guabirá vs San Antonio Bulo Bulo",
+        "league_id": 144,
+        "league": "Primera División",
+        "venue": "Estadio Gilberto Parada",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000022375,
+        "kickoff": 1794164400,
+        "fixture": "Nacional Potosí vs Real Potosí",
+        "league_id": 144,
+        "league": "Primera División",
+        "venue": "Estadio Víctor Agustín Ugarte de Potosí",
+        "tv_channels": []
+    },
+    {
         "match_id": 1000013262,
         "kickoff": 1794074400,
         "fixture": "La Serena vs Palestino",
@@ -6525,42 +6579,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000022372,
-        "kickoff": 1794078000,
-        "fixture": "GV San José vs CDT Real Oruro",
-        "league_id": 144,
-        "league": "Primera División",
-        "venue": "Estadio Jesús Bermúdez",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000022373,
-        "kickoff": 1794086100,
-        "fixture": "Always Ready vs ABB",
-        "league_id": 144,
-        "league": "Primera División",
-        "venue": "Estadio Municipal El Alto",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000022374,
-        "kickoff": 1794094200,
-        "fixture": "Guabirá vs San Antonio Bulo Bulo",
-        "league_id": 144,
-        "league": "Primera División",
-        "venue": "Estadio Gilberto Parada",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000022375,
-        "kickoff": 1794164400,
-        "fixture": "Nacional Potosí vs Real Potosí",
-        "league_id": 144,
-        "league": "Primera División",
-        "venue": "Estadio Víctor Agustín Ugarte de Potosí",
-        "tv_channels": []
-    },
-    {
         "match_id": 1000022594,
         "kickoff": 1794087000,
         "fixture": "Monagas SC vs Deportivo Táchira",
@@ -6571,11 +6589,20 @@
     },
     {
         "match_id": 1000022595,
-        "kickoff": 1794094200,
+        "kickoff": 1794087000,
         "fixture": "Caracas vs Academia Puerto Cabello",
         "league_id": 339,
         "league": "Primera División",
         "venue": "Estadio Olímpico de la UCV",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000022584,
+        "kickoff": 1794171600,
+        "fixture": "Portuguesa FC vs Metropolitanos FC",
+        "league_id": 339,
+        "league": "Primera División",
+        "venue": "Estadio General José Antonio Páez",
         "tv_channels": []
     },
     {
@@ -7220,7 +7247,7 @@
     {
         "match_id": 1000022912,
         "kickoff": 1794153600,
-        "fixture": "Stellenbosch FC vs AmaZulu FC",
+        "fixture": "Stellenbosch FC vs AmaZulu",
         "league_id": 10708,
         "league": "League Cup",
         "venue": "Danie Craven Stadium",

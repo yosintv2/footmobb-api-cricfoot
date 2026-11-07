@@ -131,7 +131,7 @@
         "fixture": "Argentina vs Uruguay",
         "league_id": 114,
         "league": "Friendlies",
-        "venue": "TBA",
+        "venue": "Estadio Alberto José Armando",
         "tv_channels": []
     },
     {
@@ -720,26 +720,8 @@
         "tv_channels": []
     },
     {
-        "match_id": 5862751,
-        "kickoff": 1794668400,
-        "fixture": "Chojniczanka Chojnice vs Zawisza Bydgoszcz",
-        "league_id": 8935,
-        "league": "II Liga",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5862753,
-        "kickoff": 1794672000,
-        "fixture": "Legia Warszawa II vs Sandecja Nowy Sącz",
-        "league_id": 8935,
-        "league": "II Liga",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 5862754,
-        "kickoff": 1794672000,
+        "kickoff": 1794654000,
         "fixture": "Podhale Nowy Targ vs Avia Świdnik",
         "league_id": 8935,
         "league": "II Liga",
@@ -748,8 +730,17 @@
     },
     {
         "match_id": 5862757,
-        "kickoff": 1794672000,
+        "kickoff": 1794657600,
         "fixture": "Śląsk Wrocław ll vs Lechia Zielona Góra",
+        "league_id": 8935,
+        "league": "II Liga",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5862751,
+        "kickoff": 1794668400,
+        "fixture": "Chojniczanka Chojnice vs Zawisza Bydgoszcz",
         "league_id": 8935,
         "league": "II Liga",
         "venue": "TBA",
@@ -1023,6 +1014,15 @@
         "league_id": 129,
         "league": "Premiership",
         "venue": "Ballymena Showgrounds",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5847582,
+        "kickoff": 1794599100,
+        "fixture": "Carrick Rangers vs Crusaders",
+        "league_id": 129,
+        "league": "Premiership",
+        "venue": "Taylors Avenue",
         "tv_channels": []
     },
     {
@@ -2043,6 +2043,42 @@
         "tv_channels": []
     },
     {
+        "match_id": 1000016824,
+        "kickoff": 1794600000,
+        "fixture": "Gretna FC 2008 vs Dalbeattie Star",
+        "league_id": 9545,
+        "league": "Lowland League West",
+        "venue": "Raydale Park",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000016750,
+        "kickoff": 1794668400,
+        "fixture": "Beith Juniors vs Auchinleck Talbot",
+        "league_id": 9545,
+        "league": "Lowland League West",
+        "venue": "Bellsdale Park",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000016771,
+        "kickoff": 1794668400,
+        "fixture": "Kilwinning Rangers vs Cumnock Juniors",
+        "league_id": 9545,
+        "league": "Lowland League West",
+        "venue": "Kilwinning Sports Club",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000016784,
+        "kickoff": 1794668400,
+        "fixture": "Newton Stewart vs Renfrew FC",
+        "league_id": 9545,
+        "league": "Lowland League West",
+        "venue": "Blairmount Park",
+        "tv_channels": []
+    },
+    {
         "match_id": 1000016512,
         "kickoff": 1794665400,
         "fixture": "Heart of Midlothian (W) vs Hibernian LFC (W)",
@@ -2160,15 +2196,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5794364,
-        "kickoff": 1794668400,
-        "fixture": "Dunfermline Athletic vs Arbroath",
-        "league_id": 123,
-        "league": "Championship",
-        "venue": "KDM Group East End Park",
-        "tv_channels": []
-    },
-    {
         "match_id": 5794365,
         "kickoff": 1794668400,
         "fixture": "Livingston vs Greenock Morton",
@@ -2268,30 +2295,12 @@
         "tv_channels": []
     },
     {
-        "match_id": 5948167,
-        "kickoff": 1794668400,
-        "fixture": "Aveley vs Enfield Town",
-        "league_id": 8947,
-        "league": "Isthmian Premier Division",
-        "venue": "Parkside",
-        "tv_channels": []
-    },
-    {
         "match_id": 5948168,
         "kickoff": 1794668400,
         "fixture": "Brentwood Town vs Ramsgate",
         "league_id": 8947,
         "league": "Isthmian Premier Division",
         "venue": "Brentwood Centre Arena",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5948169,
-        "kickoff": 1794668400,
-        "fixture": "Burgess Hill Town vs Cray Wanderers",
-        "league_id": 8947,
-        "league": "Isthmian Premier Division",
-        "venue": "Leylands Park",
         "tv_channels": []
     },
     {
@@ -2790,15 +2799,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5953540,
-        "kickoff": 1794668400,
-        "fixture": "Halesowen Town FC vs Peterborough Sports",
-        "league_id": 8947,
-        "league": "Southern Premier Division Central",
-        "venue": "The Grove",
-        "tv_channels": []
-    },
-    {
         "match_id": 5953541,
         "kickoff": 1794668400,
         "fixture": "Leamington vs Leiston",
@@ -2823,15 +2823,6 @@
         "league_id": 8947,
         "league": "Southern Premier Division Central",
         "venue": "Bloomfields",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5953544,
-        "kickoff": 1794668400,
-        "fixture": "Real Bedford vs Kettering Town FC",
-        "league_id": 8947,
-        "league": "Southern Premier Division Central",
-        "venue": "McMullen Park",
         "tv_channels": []
     },
     {
@@ -3066,33 +3057,6 @@
         "league_id": 9545,
         "league": "Lowland League East",
         "venue": "Central Park",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000016750,
-        "kickoff": 1794668400,
-        "fixture": "Beith Juniors vs Auchinleck Talbot",
-        "league_id": 9545,
-        "league": "Lowland League West",
-        "venue": "Bellsdale Park",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000016771,
-        "kickoff": 1794668400,
-        "fixture": "Kilwinning Rangers vs Cumnock Juniors",
-        "league_id": 9545,
-        "league": "Lowland League West",
-        "venue": "Kilwinning Sports Club",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000016784,
-        "kickoff": 1794668400,
-        "fixture": "Newton Stewart vs Renfrew FC",
-        "league_id": 9545,
-        "league": "Lowland League West",
-        "venue": "Blairmount Park",
         "tv_channels": []
     },
     {

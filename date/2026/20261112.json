@@ -23,7 +23,7 @@
         "fixture": "Lithuania vs Suriname",
         "league_id": 114,
         "league": "Friendlies",
-        "venue": "TBA",
+        "venue": "S. Dariaus ir S. Girėno stadionas",
         "tv_channels": []
     },
     {
@@ -234,15 +234,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 6148583,
-        "kickoff": 1794419100,
-        "fixture": "Barcelona (W) vs Arsenal (W)",
-        "league_id": 9375,
-        "league": "Women's Champions League",
-        "venue": "Spotify Camp Nou",
-        "tv_channels": []
-    },
-    {
         "match_id": 6148621,
         "kickoff": 1794419100,
         "fixture": "Oud-Heverlee Leuven (W) vs HB Køge (W)",
@@ -267,6 +258,15 @@
         "league_id": 9375,
         "league": "Women's Champions League",
         "venue": "Estádio do Sport Lisboa e Benfica (da Luz)",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6148583,
+        "kickoff": 1794505500,
+        "fixture": "Barcelona (W) vs Arsenal (W)",
+        "league_id": 9375,
+        "league": "Women's Champions League",
+        "venue": "Spotify Camp Nou",
         "tv_channels": []
     },
     {
@@ -702,12 +702,57 @@
         "tv_channels": []
     },
     {
+        "match_id": 6387564,
+        "kickoff": 1794506400,
+        "fixture": "Osasuna (W) vs Logroño United (W)",
+        "league_id": 10651,
+        "league": "Copa de la Reina",
+        "venue": "Instalaciones Deportivas de Tajonar Campo H1",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6387568,
+        "kickoff": 1794510000,
+        "fixture": "CE Europa (W) vs Deportivo de A Coruña (W)",
+        "league_id": 10651,
+        "league": "Copa de la Reina",
+        "venue": "Camp Municipal de Fútbol Nou Sardenya",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6386074,
+        "kickoff": 1794504600,
+        "fixture": "CS Puertollano vs Albacete",
+        "league_id": 138,
+        "league": "Copa del Rey",
+        "venue": "Estadio Ciudad de Puertollano",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6386083,
+        "kickoff": 1794506400,
+        "fixture": "CD Tarancon vs Levante",
+        "league_id": 138,
+        "league": "Copa del Rey",
+        "venue": "Polideportivo Estadio Municipal Tarancón",
+        "tv_channels": []
+    },
+    {
         "match_id": 6386067,
         "kickoff": 1794506400,
         "fixture": "Navalcarnero vs Real Betis",
         "league_id": 138,
         "league": "Copa del Rey",
         "venue": "Estadio Municipal Santo Domingo",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6567715,
+        "kickoff": 1794506400,
+        "fixture": "Kimberley vs Olimpo",
+        "league_id": 9213,
+        "league": "Federal A Promotion Playoff",
+        "venue": "TBA",
         "tv_channels": []
     }
 ]
