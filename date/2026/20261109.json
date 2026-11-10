@@ -329,7 +329,7 @@
         "fixture": "ZED FC vs Samanod",
         "league_id": 9941,
         "league": "Cup",
-        "venue": "Petrosport Stadium",
+        "venue": "Borg El Arab Stadium",
         "tv_channels": []
     },
     {
@@ -549,15 +549,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5765958,
-        "kickoff": 1794157200,
-        "fixture": "NK Varaždin vs Dinamo Zagreb",
-        "league_id": 252,
-        "league": "HNL",
-        "venue": "Stadion Anđelko Herjavec",
-        "tv_channels": []
-    },
-    {
         "match_id": 5861979,
         "kickoff": 1794153600,
         "fixture": "Pogoń Siedlce vs Pogoń Grodzisk Mazowiecki",
@@ -612,21 +603,21 @@
         "tv_channels": []
     },
     {
-        "match_id": 5868533,
-        "kickoff": 1794159000,
-        "fixture": "Las Palmas vs Eldense",
-        "league_id": 140,
-        "league": "LaLiga2",
-        "venue": "Estadio de Gran Canaria",
-        "tv_channels": []
-    },
-    {
         "match_id": 5868535,
         "kickoff": 1794159000,
         "fixture": "Sporting Gijón vs Real Valladolid",
         "league_id": 140,
         "league": "LaLiga2",
         "venue": "Estadio Municipal El Molinón-Enrique Castro Quini",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5868533,
+        "kickoff": 1794252600,
+        "fixture": "Las Palmas vs Eldense",
+        "league_id": 140,
+        "league": "LaLiga2",
+        "venue": "Estadio de Gran Canaria",
         "tv_channels": []
     },
     {
@@ -842,33 +833,6 @@
         "fixture": "JS Saoura vs CS Constantine",
         "league_id": 516,
         "league": "Ligue 1",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5954379,
-        "kickoff": 1794171600,
-        "fixture": "CD Universitario vs Herrera FC",
-        "league_id": 9039,
-        "league": "LPF Apertura",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5954380,
-        "kickoff": 1794171600,
-        "fixture": "San Francisco FC vs Veraguas United",
-        "league_id": 9039,
-        "league": "LPF Apertura",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5954381,
-        "kickoff": 1794171600,
-        "fixture": "Union Cocle vs Independiente de La Chorrera",
-        "league_id": 9039,
-        "league": "LPF Apertura",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -1611,24 +1575,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5904796,
-        "kickoff": 1794151800,
-        "fixture": "Alanyaspor vs Trabzonspor",
-        "league_id": 71,
-        "league": "Super Lig",
-        "venue": "GAIN Park Stadium",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5904801,
-        "kickoff": 1794160800,
-        "fixture": "Beşiktaş vs Gençlerbirliği",
-        "league_id": 71,
-        "league": "Super Lig",
-        "venue": "Tüpraş Stadyumu",
-        "tv_channels": []
-    },
-    {
         "match_id": 5853544,
         "kickoff": 1794157200,
         "fixture": "CFR Cluj vs Universitatea Craiova",
@@ -1770,6 +1716,15 @@
         "league_id": 264,
         "league": "First Division B",
         "venue": "Daknamstadion",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5765958,
+        "kickoff": 1794157200,
+        "fixture": "NK Varaždin vs Dinamo Zagreb",
+        "league_id": 252,
+        "league": "HNL",
+        "venue": "Stadion Anđelko Herjavec",
         "tv_channels": []
     },
     {
@@ -2169,6 +2124,24 @@
         "tv_channels": []
     },
     {
+        "match_id": 5904796,
+        "kickoff": 1794151800,
+        "fixture": "Alanyaspor vs Trabzonspor",
+        "league_id": 71,
+        "league": "Süper Lig",
+        "venue": "GAIN Park Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5904801,
+        "kickoff": 1794160800,
+        "fixture": "Beşiktaş vs Gençlerbirliği",
+        "league_id": 71,
+        "league": "Süper Lig",
+        "venue": "Tüpraş Stadyumu",
+        "tv_channels": []
+    },
+    {
         "match_id": 1000015169,
         "kickoff": 1794153600,
         "fixture": "Partizan Beograd vs Mačva Šabac",
@@ -2233,7 +2206,7 @@
     },
     {
         "match_id": 6558680,
-        "kickoff": 1794244500,
+        "kickoff": 1794244800,
         "fixture": "Toma vs N5 FC",
         "league_id": 10844,
         "league": "Baller League",
@@ -2242,7 +2215,7 @@
     },
     {
         "match_id": 6558681,
-        "kickoff": 1794247500,
+        "kickoff": 1794248100,
         "fixture": "Prime FC vs P17 FC",
         "league_id": 10844,
         "league": "Baller League",
@@ -2251,7 +2224,7 @@
     },
     {
         "match_id": 6558682,
-        "kickoff": 1794250800,
+        "kickoff": 1794252000,
         "fixture": "Clutch FC vs Gold Devils",
         "league_id": 10844,
         "league": "Baller League",
@@ -2260,17 +2233,8 @@
     },
     {
         "match_id": 6558683,
-        "kickoff": 1794254700,
+        "kickoff": 1794256200,
         "fixture": "Deportrio vs VZN FC",
-        "league_id": 10844,
-        "league": "Baller League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6558684,
-        "kickoff": 1794258000,
-        "fixture": "NDL FC vs RTG FC",
         "league_id": 10844,
         "league": "Baller League",
         "venue": "TBA",
@@ -2364,6 +2328,15 @@
         "league_id": 9084,
         "league": "Premier League 2",
         "venue": "The Vest Construction Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6556309,
+        "kickoff": 1794256200,
+        "fixture": "Independiente Valle del Cauca vs Unión Magdalena",
+        "league_id": 9125,
+        "league": "Primera B",
+        "venue": "Estadio Francisco Rivera Escobar",
         "tv_channels": []
     }
 ]
