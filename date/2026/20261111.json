@@ -10,74 +10,11 @@
     },
     {
         "match_id": 5903860,
-        "kickoff": 1794333600,
+        "kickoff": 1794334500,
         "fixture": "FC Midtjylland (W) vs OB Q (W)",
         "league_id": 256,
         "league": "A-Liga",
         "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6386040,
-        "kickoff": 1794333600,
-        "fixture": "Anaitasuna FT vs Deportivo Alavés",
-        "league_id": 138,
-        "league": "Copa del Rey",
-        "venue": "Campo Txerloia",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6386069,
-        "kickoff": 1794333600,
-        "fixture": "Pamplona vs Eibar",
-        "league_id": 138,
-        "league": "Copa del Rey",
-        "venue": "Polideportivo Municipal Valle de Aranguren",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6386050,
-        "kickoff": 1794337200,
-        "fixture": "CD Badajoz vs Tenerife",
-        "league_id": 138,
-        "league": "Copa del Rey",
-        "venue": "Estadio Municipal Nuevo Vivero",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6386066,
-        "kickoff": 1794337200,
-        "fixture": "Mijas-Las Lagunas vs Real Jaén",
-        "league_id": 138,
-        "league": "Copa del Rey",
-        "venue": "Estadio Municipal Francisco Muñoz Pérez",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6386039,
-        "kickoff": 1794337200,
-        "fixture": "SD Amorebieta vs Logroñés",
-        "league_id": 138,
-        "league": "Copa del Rey",
-        "venue": "Campo Municipal de Urritxe",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6386086,
-        "kickoff": 1794337200,
-        "fixture": "Trival Valderas vs Leganés",
-        "league_id": 138,
-        "league": "Copa del Rey",
-        "venue": "Estadio Ontime Butarque",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6386084,
-        "kickoff": 1794340800,
-        "fixture": "Tavernes de la Valldigna vs Valencia",
-        "league_id": 138,
-        "league": "Copa del Rey",
-        "venue": "Estadio de Mestalla",
         "tv_channels": []
     },
     {
@@ -819,6 +756,60 @@
         "tv_channels": []
     },
     {
+        "match_id": 6386040,
+        "kickoff": 1794333600,
+        "fixture": "Anaitasuna FT vs Deportivo Alavés",
+        "league_id": 138,
+        "league": "Copa del Rey - 1st Round",
+        "venue": "Campo Txerloia",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6386069,
+        "kickoff": 1794333600,
+        "fixture": "Pamplona vs Eibar",
+        "league_id": 138,
+        "league": "Copa del Rey - 1st Round",
+        "venue": "Polideportivo Municipal Valle de Aranguren",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6386066,
+        "kickoff": 1794337200,
+        "fixture": "Mijas-Las Lagunas vs Real Jaén",
+        "league_id": 138,
+        "league": "Copa del Rey - 1st Round",
+        "venue": "Estadio Municipal Francisco Muñoz Pérez",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6386039,
+        "kickoff": 1794337200,
+        "fixture": "SD Amorebieta vs Logroñés",
+        "league_id": 138,
+        "league": "Copa del Rey - 1st Round",
+        "venue": "Campo Municipal de Urritxe",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6386086,
+        "kickoff": 1794337200,
+        "fixture": "Trival Valderas vs Leganés",
+        "league_id": 138,
+        "league": "Copa del Rey - 1st Round",
+        "venue": "Estadio Ontime Butarque",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6386084,
+        "kickoff": 1794340800,
+        "fixture": "Tavernes de la Valldigna vs Valencia",
+        "league_id": 138,
+        "league": "Copa del Rey - 1st Round",
+        "venue": "Estadio de Mestalla",
+        "tv_channels": []
+    },
+    {
         "match_id": 6556310,
         "kickoff": 1794342600,
         "fixture": "Envigado vs Boca Juniors de Cali",
@@ -846,15 +837,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000022283,
-        "kickoff": 1794416400,
-        "fixture": "Fenerbahçe (W) vs Real Sociedad (W)",
-        "league_id": 11129,
-        "league": "UEFA Women's Europa Cup - 8th Finals",
-        "venue": "Chobani Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi",
-        "tv_channels": []
-    },
-    {
         "match_id": 1000022284,
         "kickoff": 1794416400,
         "fixture": "Brøndby IF (W) vs Rosenborg BK (W)",
@@ -864,12 +846,30 @@
         "tv_channels": []
     },
     {
+        "match_id": 1000022283,
+        "kickoff": 1794416400,
+        "fixture": "Fenerbahçe (W) vs Real Sociedad (W)",
+        "league_id": 11129,
+        "league": "UEFA Women's Europa Cup - 8th Finals",
+        "venue": "Chobani Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi",
+        "tv_channels": []
+    },
+    {
         "match_id": 1000022289,
         "kickoff": 1794418200,
         "fixture": "Eintracht Frankfurt (W) vs PSV (W)",
         "league_id": 11129,
         "league": "UEFA Women's Europa Cup - 8th Finals",
         "venue": "Stadion am Brentanobad",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000022288,
+        "kickoff": 1794420000,
+        "fixture": "Hammarby IF (W) vs Spartak Myjava (W)",
+        "league_id": 11129,
+        "league": "UEFA Women's Europa Cup - 8th Finals",
+        "venue": "Hammarby IP",
         "tv_channels": []
     },
     {
@@ -888,15 +888,6 @@
         "league_id": 11129,
         "league": "UEFA Women's Europa Cup - 8th Finals",
         "venue": "Campo Manuel Marques",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000022288,
-        "kickoff": 1794420000,
-        "fixture": "Hammarby IF (W) vs Spartak Myjava (W)",
-        "league_id": 11129,
-        "league": "UEFA Women's Europa Cup - 8th Finals",
-        "venue": "Hammarby IP",
         "tv_channels": []
     },
     {
