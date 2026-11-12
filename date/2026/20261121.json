@@ -995,7 +995,7 @@
         "fixture": "Zagłębie Lubin vs Górnik Zabrze",
         "league_id": 196,
         "league": "Ekstraklasa",
-        "venue": "KGHM Zagłębie Arena",
+        "venue": "Synerise Arena - Stadion Miejski im. Henryka Reymana",
         "tv_channels": []
     },
     {
@@ -1072,7 +1072,7 @@
     },
     {
         "match_id": 6597274,
-        "kickoff": 1795269600,
+        "kickoff": 1795262400,
         "fixture": "Eskilsminne IF vs Skara FC",
         "league_id": 9634,
         "league": "Ettan Qualification",
@@ -1081,11 +1081,29 @@
     },
     {
         "match_id": 6597275,
-        "kickoff": 1795269600,
+        "kickoff": 1795262400,
         "fixture": "Vasalunds IF vs Enskede IK",
         "league_id": 9634,
         "league": "Ettan Qualification",
         "venue": "Skytteholms IP",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5897669,
+        "kickoff": 1795237200,
+        "fixture": "SKA-Khabarovsk vs FC Rotor Volgograd",
+        "league_id": 338,
+        "league": "First League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5897673,
+        "kickoff": 1795242600,
+        "fixture": "FC Yenisey Krasnoyarsk vs Volga Ulyanovsk",
+        "league_id": 338,
+        "league": "First League",
+        "venue": "TBA",
         "tv_channels": []
     },
     {
@@ -1098,26 +1116,8 @@
         "tv_channels": []
     },
     {
-        "match_id": 5897665,
-        "kickoff": 1795276800,
-        "fixture": "FC Chelyabinsk vs Leningradets",
-        "league_id": 338,
-        "league": "First League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5897673,
-        "kickoff": 1795276800,
-        "fixture": "FC Yenisey Krasnoyarsk vs Volga Ulyanovsk",
-        "league_id": 338,
-        "league": "First League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 5897666,
-        "kickoff": 1795276800,
+        "kickoff": 1795266000,
         "fixture": "KamAZ vs Spartak Kostroma",
         "league_id": 338,
         "league": "First League",
@@ -1125,8 +1125,17 @@
         "tv_channels": []
     },
     {
+        "match_id": 5897671,
+        "kickoff": 1795266000,
+        "fixture": "Tekstilshchik vs Arsenal Tula",
+        "league_id": 338,
+        "league": "First League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5897670,
-        "kickoff": 1795276800,
+        "kickoff": 1795269600,
         "fixture": "PFC Sochi vs Veles Moscow",
         "league_id": 338,
         "league": "First League",
@@ -1135,7 +1144,7 @@
     },
     {
         "match_id": 5897668,
-        "kickoff": 1795276800,
+        "kickoff": 1795269600,
         "fixture": "Shinnik Yaroslavl vs Neftekhimik",
         "league_id": 338,
         "league": "First League",
@@ -1143,18 +1152,9 @@
         "tv_channels": []
     },
     {
-        "match_id": 5897669,
+        "match_id": 5897665,
         "kickoff": 1795276800,
-        "fixture": "SKA-Khabarovsk vs FC Rotor Volgograd",
-        "league_id": 338,
-        "league": "First League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5897671,
-        "kickoff": 1795276800,
-        "fixture": "Tekstilshchik vs Arsenal Tula",
+        "fixture": "FC Chelyabinsk vs Leningradets",
         "league_id": 338,
         "league": "First League",
         "venue": "TBA",
@@ -3560,7 +3560,7 @@
         "fixture": "Enköping vs Örebro",
         "league_id": 172,
         "league": "Superettan Qualification",
-        "venue": "TBA",
+        "venue": "Enavallens IP",
         "tv_channels": []
     },
     {
@@ -3569,7 +3569,7 @@
         "fixture": "Lunds BK vs Norrby",
         "league_id": 172,
         "league": "Superettan Qualification",
-        "venue": "TBA",
+        "venue": "Klostergårdens IP",
         "tv_channels": []
     },
     {
@@ -3717,6 +3717,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 6506249,
+        "kickoff": 1795276800,
+        "fixture": "Estoril vs Felgueiras 1932",
+        "league_id": 186,
+        "league": "Taca de Portugal",
+        "venue": "Estádio António Coimbra da Mota",
+        "tv_channels": []
+    },
+    {
         "match_id": 6506255,
         "kickoff": 1795280400,
         "fixture": "Marítimo vs Chaves",
@@ -3732,15 +3741,6 @@
         "league_id": 186,
         "league": "Taca de Portugal",
         "venue": "Estádio José Alvalade",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6506249,
-        "kickoff": 1795291200,
-        "fixture": "Estoril vs Felgueiras 1932",
-        "league_id": 186,
-        "league": "Taca de Portugal",
-        "venue": "Estádio António Coimbra da Mota",
         "tv_channels": []
     },
     {
@@ -4033,7 +4033,7 @@
     },
     {
         "match_id": 1000020337,
-        "kickoff": 1795233600,
+        "kickoff": 1795219200,
         "fixture": "Newcastle Jets (W) vs Adelaide United (W)",
         "league_id": 9495,
         "league": "A-League Women",
@@ -5360,7 +5360,7 @@
         "fixture": "CS Sfaxien vs JS Omrane",
         "league_id": 544,
         "league": "Ligue I",
-        "venue": "TBA",
+        "venue": "Stade Taïeb Mhiri",
         "tv_channels": []
     },
     {
@@ -5387,7 +5387,7 @@
         "fixture": "Stade Tunisien vs CA Bizertin",
         "league_id": 544,
         "league": "Ligue I",
-        "venue": "TBA",
+        "venue": "Stade Hédi-Enneifer",
         "tv_channels": []
     },
     {
@@ -5396,7 +5396,7 @@
         "fixture": "US Monastir vs Etoile du Sahel",
         "league_id": 544,
         "league": "Ligue I",
-        "venue": "TBA",
+        "venue": "Stade Mustapha Ben Jannet",
         "tv_channels": []
     },
     {

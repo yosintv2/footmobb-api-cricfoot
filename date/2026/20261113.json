@@ -117,15 +117,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 6539342,
-        "kickoff": 1794578400,
-        "fixture": "Kuwait vs Syria",
-        "league_id": 114,
-        "league": "Friendlies",
-        "venue": "Al-Sadaqua Walsalam Stadium",
-        "tv_channels": []
-    },
-    {
         "match_id": 6539343,
         "kickoff": 1794580200,
         "fixture": "Saudi Arabia vs South Korea",
@@ -150,6 +141,15 @@
         "league_id": 114,
         "league": "Friendlies",
         "venue": "Mohammed Bin Zayed Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6539342,
+        "kickoff": 1794587400,
+        "fixture": "Kuwait vs Syria",
+        "league_id": 114,
+        "league": "Friendlies",
+        "venue": "Al-Sadaqua Walsalam Stadium",
         "tv_channels": []
     },
     {
@@ -243,6 +243,24 @@
         "tv_channels": []
     },
     {
+        "match_id": 6040277,
+        "kickoff": 1794510000,
+        "fixture": "Benin vs Central African Republic",
+        "league_id": 10608,
+        "league": "Africa Cup of Nations Qualification Grp. F",
+        "venue": "Stade Félix Houphouët-Boigny",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6040278,
+        "kickoff": 1794585600,
+        "fixture": "Burkina Faso vs Mauritania",
+        "league_id": 10608,
+        "league": "Africa Cup of Nations Qualification Grp. F",
+        "venue": "Stade du 4 Août",
+        "tv_channels": []
+    },
+    {
         "match_id": 6040336,
         "kickoff": 1794510000,
         "fixture": "Cameroon vs Namibia",
@@ -276,24 +294,6 @@
         "league_id": 10608,
         "league": "Africa Cup of Nations Qualification Grp. J",
         "venue": "Estádio Nacional do Zimpeto",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6040277,
-        "kickoff": 1794513600,
-        "fixture": "Benin vs Central African Republic",
-        "league_id": 10608,
-        "league": "Africa Cup of Nations Qualification Grp. F",
-        "venue": "Stade Félix Houphouët-Boigny",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6040278,
-        "kickoff": 1794585600,
-        "fixture": "Burkina Faso vs Mauritania",
-        "league_id": 10608,
-        "league": "Africa Cup of Nations Qualification Grp. F",
-        "venue": "Stade du 4 Août",
         "tv_channels": []
     },
     {
@@ -388,7 +388,7 @@
     },
     {
         "match_id": 6422180,
-        "kickoff": 1794510000,
+        "kickoff": 1794520800,
         "fixture": "Aruba vs Martinique",
         "league_id": 9821,
         "league": "CONCACAF Nations League Play-In",
@@ -428,6 +428,42 @@
         "fixture": "Kimberley vs Olimpo",
         "league_id": 9213,
         "league": "Federal A Promotion Playoff",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6629453,
+        "kickoff": 1794574800,
+        "fixture": "Montenegro U21 vs Bosnia and Herzegovina U21",
+        "league_id": 344,
+        "league": "Friendlies U21",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6551446,
+        "kickoff": 1794587400,
+        "fixture": "Poland U21 vs Norway U21",
+        "league_id": 344,
+        "league": "Friendlies U21",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6558214,
+        "kickoff": 1794591000,
+        "fixture": "France U21 vs Italy U21",
+        "league_id": 344,
+        "league": "Friendlies U21",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6558199,
+        "kickoff": 1794598200,
+        "fixture": "England U21 vs Portugal U21",
+        "league_id": 344,
+        "league": "Friendlies U21",
         "venue": "TBA",
         "tv_channels": []
     },
@@ -510,6 +546,15 @@
         "league_id": 9375,
         "league": "Women's Champions League",
         "venue": "Spotify Camp Nou",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6148594,
+        "kickoff": 1794513600,
+        "fixture": "Benfica (W) vs Austria Wien W (W)",
+        "league_id": 9375,
+        "league": "Women's Champions League",
+        "venue": "Estádio do Sport Lisboa e Benfica (da Luz)",
         "tv_channels": []
     },
     {
@@ -599,7 +644,7 @@
         "fixture": "Ponte Preta vs Operário-PR",
         "league_id": 8814,
         "league": "Série B",
-        "venue": "Estádio Moisés Lucarelli",
+        "venue": "Estádio Ítalo Mário Limongi",
         "tv_channels": []
     },
     {
@@ -618,6 +663,15 @@
         "league_id": 9381,
         "league": "Supercopa Argentina",
         "venue": "Estadio Julio César Villagra",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000022287,
+        "kickoff": 1794502800,
+        "fixture": "Torreense (W) vs Sparta Prague (W)",
+        "league_id": 11129,
+        "league": "UEFA Women's Europa Cup - 8th Finals",
+        "venue": "Campo Manuel Marques",
         "tv_channels": []
     },
     {
@@ -834,33 +888,6 @@
         "league_id": 9676,
         "league": "Frauen-Bundesliga",
         "venue": "Volksparkstadion",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6551446,
-        "kickoff": 1794587400,
-        "fixture": "Poland U21 vs Norway U21",
-        "league_id": 344,
-        "league": "Friendlies U21",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6558214,
-        "kickoff": 1794591000,
-        "fixture": "France U21 vs Italy U21",
-        "league_id": 344,
-        "league": "Friendlies U21",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6558199,
-        "kickoff": 1794598200,
-        "fixture": "England U21 vs Portugal U21",
-        "league_id": 344,
-        "league": "Friendlies U21",
-        "venue": "TBA",
         "tv_channels": []
     },
     {
