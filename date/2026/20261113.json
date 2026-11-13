@@ -135,6 +135,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 6633450,
+        "kickoff": 1794582000,
+        "fixture": "Iraq vs Lebanon",
+        "league_id": 114,
+        "league": "Friendlies",
+        "venue": "Basra International Stadium",
+        "tv_channels": []
+    },
+    {
         "match_id": 6539345,
         "kickoff": 1794586200,
         "fixture": "UAE vs Honduras",
@@ -162,21 +171,12 @@
         "tv_channels": []
     },
     {
-        "match_id": 5796390,
-        "kickoff": 1794571200,
-        "fixture": "Jezero vs Budućnost Podgorica",
-        "league_id": 232,
-        "league": "1. CFL",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 6040239,
         "kickoff": 1794495600,
         "fixture": "Ghana vs Somalia",
         "league_id": 10608,
         "league": "Africa Cup of Nations Qualification Grp. C",
-        "venue": "Accra Sports Stadium",
+        "venue": "Sekondi-Takoradi Stadium",
         "tv_channels": []
     },
     {
@@ -186,24 +186,6 @@
         "league_id": 10608,
         "league": "Africa Cup of Nations Qualification Grp. C",
         "venue": "Stade de Bouaké (Stade de la Paix)",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6040251,
-        "kickoff": 1794499200,
-        "fixture": "Guinea vs Eritrea",
-        "league_id": 10608,
-        "league": "Africa Cup of Nations Qualification Grp. D",
-        "venue": "Stade du 28 Septembre",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6040252,
-        "kickoff": 1794585600,
-        "fixture": "South Africa vs Kenya",
-        "league_id": 10608,
-        "league": "Africa Cup of Nations Qualification Grp. D",
-        "venue": "Orlando Amstel Arena",
         "tv_channels": []
     },
     {
@@ -240,6 +222,24 @@
         "league_id": 10608,
         "league": "Africa Cup of Nations Qualification Grp. L",
         "venue": "Godswill Akpabio International Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6040251,
+        "kickoff": 1794502800,
+        "fixture": "Guinea vs Eritrea",
+        "league_id": 10608,
+        "league": "Africa Cup of Nations Qualification Grp. D",
+        "venue": "Stade du 28 Septembre",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6040252,
+        "kickoff": 1794585600,
+        "fixture": "South Africa vs Kenya",
+        "league_id": 10608,
+        "league": "Africa Cup of Nations Qualification Grp. D",
+        "venue": "Orlando Amstel Arena",
         "tv_channels": []
     },
     {
@@ -324,6 +324,51 @@
         "tv_channels": []
     },
     {
+        "match_id": 6633102,
+        "kickoff": 1794495600,
+        "fixture": "Häcken vs Fredrikstad",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6633103,
+        "kickoff": 1794560400,
+        "fixture": "Västerås SK vs Brommapojkarna",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "Hitachi Energy Arena",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6633872,
+        "kickoff": 1794569400,
+        "fixture": "Bochum vs SC Verl",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6633984,
+        "kickoff": 1794571200,
+        "fixture": "Dynamo Dresden vs Dukla Praha",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "Walter-Fritzsch-Akademie Rasenplatz 1",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6633878,
+        "kickoff": 1794576600,
+        "fixture": "Raków Częstochowa vs Lechia Gdańsk",
+        "league_id": 489,
+        "league": "Club Friendlies",
+        "venue": "TBC (Poland)",
+        "tv_channels": []
+    },
+    {
         "match_id": 6375158,
         "kickoff": 1794510000,
         "fixture": "Cayman Islands vs Guyana",
@@ -361,7 +406,7 @@
     },
     {
         "match_id": 6375166,
-        "kickoff": 1794513600,
+        "kickoff": 1794510000,
         "fixture": "Bonaire vs Cuba",
         "league_id": 9821,
         "league": "CONCACAF Nations League B Grp. 3",
@@ -379,7 +424,7 @@
     },
     {
         "match_id": 6391959,
-        "kickoff": 1794528000,
+        "kickoff": 1794529800,
         "fixture": "Curacao vs Panama",
         "league_id": 9821,
         "league": "CONCACAF Nations League A Championship Playoff",
@@ -424,7 +469,7 @@
     },
     {
         "match_id": 6567715,
-        "kickoff": 1794506400,
+        "kickoff": 1794508200,
         "fixture": "Kimberley vs Olimpo",
         "league_id": 9213,
         "league": "Federal A Promotion Playoff",
@@ -450,9 +495,36 @@
         "tv_channels": []
     },
     {
+        "match_id": 6633479,
+        "kickoff": 1794589200,
+        "fixture": "Germany U21 vs Belgium U21",
+        "league_id": 344,
+        "league": "Friendlies U21",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 6558214,
         "kickoff": 1794591000,
         "fixture": "France U21 vs Italy U21",
+        "league_id": 344,
+        "league": "Friendlies U21",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6633483,
+        "kickoff": 1794592800,
+        "fixture": "Albania U21 vs Luxembourg U21",
+        "league_id": 344,
+        "league": "Friendlies U21",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6633481,
+        "kickoff": 1794592800,
+        "fixture": "Spain U21 vs Japan U21",
         "league_id": 344,
         "league": "Friendlies U21",
         "venue": "TBA",
@@ -613,7 +685,7 @@
     },
     {
         "match_id": 1000014235,
-        "kickoff": 1794520800,
+        "kickoff": 1794524400,
         "fixture": "Deportivo Pasto vs Junior FC",
         "league_id": 274,
         "league": "Primera A",
@@ -765,6 +837,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 5796390,
+        "kickoff": 1794582000,
+        "fixture": "Jezero vs Budućnost Podgorica",
+        "league_id": 232,
+        "league": "1. CFL",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5864747,
         "kickoff": 1794592800,
         "fixture": "FC Roskilde vs Nykøbing FC",
@@ -847,7 +928,7 @@
     },
     {
         "match_id": 6040217,
-        "kickoff": 1794600000,
+        "kickoff": 1794596400,
         "fixture": "Egypt vs Malawi",
         "league_id": 10608,
         "league": "Africa Cup of Nations Qualification Grp. B",
