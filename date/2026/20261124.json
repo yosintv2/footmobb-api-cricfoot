@@ -306,6 +306,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 5803322,
+        "kickoff": 1795463100,
+        "fixture": "Nantes vs Grenoble",
+        "league_id": 110,
+        "league": "Ligue 2",
+        "venue": "Stade de la Beaujoire - Louis Fonteneau",
+        "tv_channels": []
+    },
+    {
         "match_id": 5803325,
         "kickoff": 1795463100,
         "fixture": "Sochaux vs Dunkerque",
@@ -465,24 +474,6 @@
         "league_id": 193,
         "league": "Cup Grp. D",
         "venue": "Solidarnost Samara Arena",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5990950,
-        "kickoff": 1795462200,
-        "fixture": "Grosseto vs Guidonia Montecelio",
-        "league_id": 147,
-        "league": "Serie C Grp. B",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5990563,
-        "kickoff": 1795463100,
-        "fixture": "Lecco vs Lumezzane",
-        "league_id": 147,
-        "league": "Serie C Grp. A",
-        "venue": "Stadio Rigamonti Ceppi",
         "tv_channels": []
     },
     {
@@ -891,6 +882,24 @@
         "tv_channels": []
     },
     {
+        "match_id": 1000024199,
+        "kickoff": 1795462200,
+        "fixture": "Grosseto vs Monterosi",
+        "league_id": 147,
+        "league": "Serie C - Girone B",
+        "venue": "Stadio Olimpico Carlo Zecchini",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5990563,
+        "kickoff": 1795463100,
+        "fixture": "Lecco vs Lumezzane",
+        "league_id": 147,
+        "league": "Serie C - Girone A",
+        "venue": "Stadio Rigamonti Ceppi",
+        "tv_channels": []
+    },
+    {
         "match_id": 5904805,
         "kickoff": 1795453200,
         "fixture": "Başakşehir vs Çorum FK",
@@ -1149,42 +1158,6 @@
         "league_id": 179,
         "league": "Challenge Cup",
         "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6014409,
-        "kickoff": 1795546800,
-        "fixture": "Salford City vs Sunderland U21",
-        "league_id": 142,
-        "league": "EFL Trophy Northern Grp. A",
-        "venue": "AIG Stadium",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6015016,
-        "kickoff": 1795546800,
-        "fixture": "Tranmere Rovers vs Everton U21",
-        "league_id": 142,
-        "league": "EFL Trophy Northern Grp. E",
-        "venue": "Prenton Park",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6015575,
-        "kickoff": 1795546800,
-        "fixture": "Fleetwood Town vs Leeds United U21",
-        "league_id": 142,
-        "league": "EFL Trophy Northern Grp. G",
-        "venue": "Highbury Stadium",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6016271,
-        "kickoff": 1795546800,
-        "fixture": "Oxford United vs Tottenham Hotspur U21",
-        "league_id": 142,
-        "league": "EFL Trophy Southern Grp. A",
-        "venue": "The Kassam Stadium",
         "tv_channels": []
     },
     {
@@ -1548,60 +1521,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5967163,
-        "kickoff": 1795543200,
-        "fixture": "Juve Stabia vs Catanzaro",
-        "league_id": 86,
-        "league": "Serie B",
-        "venue": "Stadio Comunale Romeo Menti",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5967159,
-        "kickoff": 1795546800,
-        "fixture": "Benevento vs Empoli",
-        "league_id": 86,
-        "league": "Serie B",
-        "venue": "Stadio Ciro Vigorito",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5967160,
-        "kickoff": 1795546800,
-        "fixture": "Cesena vs Ascoli",
-        "league_id": 86,
-        "league": "Serie B",
-        "venue": "Orogel Stadium - Dino Manuzzi",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5967164,
-        "kickoff": 1795546800,
-        "fixture": "LR Vicenza vs Carrarese",
-        "league_id": 86,
-        "league": "Serie B",
-        "venue": "Stadio Romeo Menti, Vicenza",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5967167,
-        "kickoff": 1795546800,
-        "fixture": "Palermo vs Südtirol",
-        "league_id": 86,
-        "league": "Serie B",
-        "venue": "Stadio Renzo Barbera",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5967162,
-        "kickoff": 1795546800,
-        "fixture": "Virtus Entella vs Hellas Verona",
-        "league_id": 86,
-        "league": "Serie B",
-        "venue": "Stadio Enrico Sannazzari",
-        "tv_channels": []
-    },
-    {
         "match_id": 5953469,
         "kickoff": 1795549500,
         "fixture": "Anstey Nomads vs Redditch United",
@@ -1755,6 +1674,42 @@
         "tv_channels": []
     },
     {
+        "match_id": 6014409,
+        "kickoff": 1795546800,
+        "fixture": "Salford City vs Sunderland U21",
+        "league_id": 142,
+        "league": "EFL Trophy - Northern Group A",
+        "venue": "AIG Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6015016,
+        "kickoff": 1795546800,
+        "fixture": "Tranmere Rovers vs Everton U21",
+        "league_id": 142,
+        "league": "EFL Trophy - Northern Group E",
+        "venue": "Prenton Park",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6015575,
+        "kickoff": 1795546800,
+        "fixture": "Fleetwood Town vs Leeds United U21",
+        "league_id": 142,
+        "league": "EFL Trophy - Northern Group G",
+        "venue": "Highbury Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6016271,
+        "kickoff": 1795546800,
+        "fixture": "Oxford United vs Tottenham Hotspur U21",
+        "league_id": 142,
+        "league": "EFL Trophy - Southern Group A",
+        "venue": "The Kassam Stadium",
+        "tv_channels": []
+    },
+    {
         "match_id": 5837185,
         "kickoff": 1795549500,
         "fixture": "Blackpool vs Leicester City",
@@ -1824,6 +1779,60 @@
         "league_id": 537,
         "league": "Premier Soccer League",
         "venue": "Orlando Amstel Arena",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5967163,
+        "kickoff": 1795543200,
+        "fixture": "Juve Stabia vs Catanzaro",
+        "league_id": 86,
+        "league": "Serie B",
+        "venue": "Stadio Comunale Romeo Menti",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5967159,
+        "kickoff": 1795546800,
+        "fixture": "Benevento vs Empoli",
+        "league_id": 86,
+        "league": "Serie B",
+        "venue": "Stadio Ciro Vigorito",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5967160,
+        "kickoff": 1795546800,
+        "fixture": "Cesena vs Ascoli",
+        "league_id": 86,
+        "league": "Serie B",
+        "venue": "Orogel Stadium - Dino Manuzzi",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5967167,
+        "kickoff": 1795546800,
+        "fixture": "Palermo vs Südtirol",
+        "league_id": 86,
+        "league": "Serie B",
+        "venue": "Stadio Renzo Barbera",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000024310,
+        "kickoff": 1795546800,
+        "fixture": "Vicenza vs Carrarese",
+        "league_id": 86,
+        "league": "Serie B",
+        "venue": "Stadio Romeo Menti",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5967162,
+        "kickoff": 1795546800,
+        "fixture": "Virtus Entella vs Hellas Verona",
+        "league_id": 86,
+        "league": "Serie B",
+        "venue": "Stadio Enrico Sannazzari",
         "tv_channels": []
     }
 ]

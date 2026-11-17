@@ -72,15 +72,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 6040266,
-        "kickoff": 1794834000,
-        "fixture": "Zimbabwe vs Equatorial Guinea",
-        "league_id": 10608,
-        "league": "Africa Cup of Nations Qualification Grp. E",
-        "venue": "National Sports Stadium",
-        "tv_channels": []
-    },
-    {
         "match_id": 6040339,
         "kickoff": 1794834000,
         "fixture": "Namibia vs Cameroon",
@@ -96,6 +87,15 @@
         "league_id": 10608,
         "league": "Africa Cup of Nations Qualification Grp. J",
         "venue": "Juba Stadium",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6040266,
+        "kickoff": 1794835800,
+        "fixture": "Zimbabwe vs Equatorial Guinea",
+        "league_id": 10608,
+        "league": "Africa Cup of Nations Qualification Grp. E",
+        "venue": "National Sports Stadium",
         "tv_channels": []
     },
     {
@@ -117,15 +117,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 6533904,
-        "kickoff": 1794828600,
-        "fixture": "Havadar SC vs Mes Kerman",
-        "league_id": 9372,
-        "league": "Azadegan League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 6533905,
         "kickoff": 1794828600,
         "fixture": "Mes Rafsanjan vs Shahin Bandar Ameri",
@@ -136,7 +127,7 @@
     },
     {
         "match_id": 6533906,
-        "kickoff": 1794834000,
+        "kickoff": 1794830400,
         "fixture": "Naft Gachsaran vs Niroye Zamini",
         "league_id": 9372,
         "league": "Azadegan League",
@@ -900,78 +891,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5990550,
-        "kickoff": 1794760200,
-        "fixture": "Cittadella vs Folgore Caratese",
-        "league_id": 147,
-        "league": "Serie C Grp. A",
-        "venue": "Stadio Pier Cesare Tombolato",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5990551,
-        "kickoff": 1794760200,
-        "fixture": "Juventus Next Gen vs Treviso",
-        "league_id": 147,
-        "league": "Serie C Grp. A",
-        "venue": "Stadio Giuseppe Moccagatta",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5990555,
-        "kickoff": 1794760200,
-        "fixture": "Pergolettese vs Pro Vercelli",
-        "league_id": 147,
-        "league": "Serie C Grp. A",
-        "venue": "Stadio Comunale Giuseppe Voltini",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5990944,
-        "kickoff": 1794760200,
-        "fixture": "Ravenna vs Forlì",
-        "league_id": 147,
-        "league": "Serie C Grp. B",
-        "venue": "Stadio Comunale Bruno Benelli",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5990942,
-        "kickoff": 1794858300,
-        "fixture": "Perugia vs Torres",
-        "league_id": 147,
-        "league": "Serie C Grp. B",
-        "venue": "Stadio Renato Curi",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5991516,
-        "kickoff": 1794760200,
-        "fixture": "Barletta vs Team Altamura",
-        "league_id": 147,
-        "league": "Serie C Grp. C",
-        "venue": "Stadio Cosimo Puttilli",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5991519,
-        "kickoff": 1794760200,
-        "fixture": "Cosenza vs Casertana",
-        "league_id": 147,
-        "league": "Serie C Grp. C",
-        "venue": "Stadio San Vito-Luigi Marulla",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5991523,
-        "kickoff": 1794857400,
-        "fixture": "Sorrento vs Monopoli",
-        "league_id": 147,
-        "league": "Serie C Grp. C",
-        "venue": "Stadio Comunale Donato Curcio",
-        "tv_channels": []
-    },
-    {
         "match_id": 6140264,
         "kickoff": 1794830400,
         "fixture": "GS Marko vs Zakynthos APS",
@@ -1002,15 +921,6 @@
         "match_id": 5887386,
         "kickoff": 1794780000,
         "fixture": "Sporting JAX (W) vs DC Power FC (W)",
-        "league_id": 10699,
-        "league": "USL Super League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5887407,
-        "kickoff": 1794780000,
-        "fixture": "Tampa Bay Sun FC (W) vs Dallas Trinity FC (W)",
         "league_id": 10699,
         "league": "USL Super League",
         "venue": "TBA",
@@ -1206,6 +1116,87 @@
         "tv_channels": []
     },
     {
+        "match_id": 5990550,
+        "kickoff": 1794760200,
+        "fixture": "Cittadella vs Folgore Caratese",
+        "league_id": 147,
+        "league": "Serie C - Girone A",
+        "venue": "Stadio Pier Cesare Tombolato",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5990551,
+        "kickoff": 1794760200,
+        "fixture": "Juventus Next Gen vs Treviso",
+        "league_id": 147,
+        "league": "Serie C - Girone A",
+        "venue": "Stadio Giuseppe Moccagatta",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5990555,
+        "kickoff": 1794760200,
+        "fixture": "Pergolettese vs Pro Vercelli",
+        "league_id": 147,
+        "league": "Serie C - Girone A",
+        "venue": "Stadio Comunale Giuseppe Voltini",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5990942,
+        "kickoff": 1794858300,
+        "fixture": "Perugia vs Torres",
+        "league_id": 147,
+        "league": "Serie C - Girone A",
+        "venue": "Stadio Renato Curi",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5990944,
+        "kickoff": 1794760200,
+        "fixture": "Ravenna vs Forlì",
+        "league_id": 147,
+        "league": "Serie C - Girone B",
+        "venue": "Stadio Comunale Bruno Benelli",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5990942,
+        "kickoff": 1794858300,
+        "fixture": "Perugia vs Torres",
+        "league_id": 147,
+        "league": "Serie C - Girone B",
+        "venue": "Stadio Renato Curi",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5991516,
+        "kickoff": 1794760200,
+        "fixture": "Barletta vs Team Altamura",
+        "league_id": 147,
+        "league": "Serie C - Girone C",
+        "venue": "Stadio Cosimo Puttilli",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5991519,
+        "kickoff": 1794760200,
+        "fixture": "Cosenza vs Casertana",
+        "league_id": 147,
+        "league": "Serie C - Girone C",
+        "venue": "Stadio San Vito-Luigi Marulla",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5990942,
+        "kickoff": 1794858300,
+        "fixture": "Perugia vs Torres",
+        "league_id": 147,
+        "league": "Serie C - Girone C",
+        "venue": "Stadio Renato Curi",
+        "tv_channels": []
+    },
+    {
         "match_id": 1000016513,
         "kickoff": 1794758400,
         "fixture": "Partick Thistle (W) vs Spartans FC (W)",
@@ -1319,7 +1310,7 @@
         "fixture": "Eritrea vs Guinea",
         "league_id": 10608,
         "league": "Africa Cup of Nations Qualification Grp. D",
-        "venue": "Al Salam Stadium",
+        "venue": "Cairo International Stadium",
         "tv_channels": []
     },
     {
@@ -1332,35 +1323,8 @@
         "tv_channels": []
     },
     {
-        "match_id": 6625033,
-        "kickoff": 1794849300,
-        "fixture": "Deportrio vs N5 FC",
-        "league_id": 10844,
-        "league": "Baller League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6625034,
-        "kickoff": 1794852300,
-        "fixture": "RTG FC vs P17 FC",
-        "league_id": 10844,
-        "league": "Baller League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6625035,
-        "kickoff": 1794855600,
-        "fixture": "Wembley Rangers vs Gold Devils",
-        "league_id": 10844,
-        "league": "Baller League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 6625036,
-        "kickoff": 1794859500,
+        "kickoff": 1794849300,
         "fixture": "VZN FC vs Clutch FC",
         "league_id": 10844,
         "league": "Baller League",
@@ -1368,8 +1332,26 @@
         "tv_channels": []
     },
     {
+        "match_id": 6625038,
+        "kickoff": 1794852600,
+        "fixture": "NDL FC vs Toma",
+        "league_id": 10844,
+        "league": "Baller League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6625033,
+        "kickoff": 1794855900,
+        "fixture": "Deportrio vs N5 FC",
+        "league_id": 10844,
+        "league": "Baller League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 6625037,
-        "kickoff": 1794862800,
+        "kickoff": 1794859500,
         "fixture": "SDS FC vs Prime FC",
         "league_id": 10844,
         "league": "Baller League",
