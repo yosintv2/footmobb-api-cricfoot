@@ -297,15 +297,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 6505592,
-        "kickoff": 1795609800,
-        "fixture": "NK Bravo vs Odranci",
-        "league_id": 174,
-        "league": "Cup",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 6636429,
         "kickoff": 1795615200,
         "fixture": "AEK Larnaca vs Anorthosis",
@@ -1035,15 +1026,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5907692,
-        "kickoff": 1795549500,
-        "fixture": "Folkestone Invicta vs Dorking Wanderers",
-        "league_id": 8944,
-        "league": "National League South",
-        "venue": "The Alcaline Stadium",
-        "tv_channels": []
-    },
-    {
         "match_id": 5907693,
         "kickoff": 1795549500,
         "fixture": "Hampton & Richmond vs Dover",
@@ -1242,6 +1224,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 5954218,
+        "kickoff": 1795549500,
+        "fixture": "Bracknell Town vs Berkhamsted",
+        "league_id": 8947,
+        "league": "Southern Premier Division South",
+        "venue": "Larges Lane",
+        "tv_channels": []
+    },
+    {
         "match_id": 5953902,
         "kickoff": 1795549500,
         "fixture": "Chippenham Town vs Havant and Waterlooville",
@@ -1278,87 +1269,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 6139561,
-        "kickoff": 1795532400,
-        "fixture": "Brazil U17 vs Tanzania U17",
-        "league_id": 306,
-        "league": "World Cup U17 Grp. I",
-        "venue": "ASPIRE Academy Pitch 2",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6139574,
-        "kickoff": 1795534200,
-        "fixture": "Mexico U17 vs Cameroon U17",
-        "league_id": 306,
-        "league": "World Cup U17 Grp. K",
-        "venue": "ASPIRE Academy Pitch 5",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6139585,
-        "kickoff": 1795534200,
-        "fixture": "Honduras U17 vs Colombia U17",
-        "league_id": 306,
-        "league": "World Cup U17 Grp. L",
-        "venue": "Aspire Zone Pitch 8",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6139082,
-        "kickoff": 1795609800,
-        "fixture": "Ecuador U17 vs South Korea U17",
-        "league_id": 306,
-        "league": "World Cup U17 Grp. B",
-        "venue": "ASPIRE Academy Pitch 4",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6139083,
-        "kickoff": 1795609800,
-        "fixture": "Uganda U17 vs New Caledonia U17",
-        "league_id": 306,
-        "league": "World Cup U17 Grp. B",
-        "venue": "Aspire Zone Pitch 9",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6139107,
-        "kickoff": 1795613400,
-        "fixture": "Haiti U17 vs Saudi Arabia U17",
-        "league_id": 306,
-        "league": "World Cup U17 Grp. D",
-        "venue": "ASPIRE Academy Pitch 1",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6139106,
-        "kickoff": 1795613400,
-        "fixture": "Uruguay U17 vs France U17",
-        "league_id": 306,
-        "league": "World Cup U17 Grp. D",
-        "venue": "ASPIRE Academy Pitch 5",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6139076,
-        "kickoff": 1795617000,
-        "fixture": "Greece U17 vs Qatar U17",
-        "league_id": 306,
-        "league": "World Cup U17 Grp. A",
-        "venue": "ASPIRE Academy Pitch 2",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6139077,
-        "kickoff": 1795617000,
-        "fixture": "Panama U17 vs Egypt U17",
-        "league_id": 306,
-        "league": "World Cup U17 Grp. A",
-        "venue": "ASPIRE Academy Pitch 3",
-        "tv_channels": []
-    },
-    {
         "match_id": 6054517,
         "kickoff": 1795536000,
         "fixture": "Al-Seeb vs Al Shorta",
@@ -1382,7 +1292,7 @@
         "fixture": "Al-Taawoun vs Al-Nahda",
         "league_id": 9469,
         "league": "AFC Champions League Two - D",
-        "venue": "Al Taawoun Club Stadium",
+        "venue": "King Abdullah Sport City Stadium",
         "tv_channels": []
     },
     {
@@ -1418,7 +1328,7 @@
         "fixture": "Al-Taawoun vs Al-Nahda",
         "league_id": 9469,
         "league": "AFC Champions League Two - E",
-        "venue": "Al Taawoun Club Stadium",
+        "venue": "King Abdullah Sport City Stadium",
         "tv_channels": []
     },
     {
@@ -1445,7 +1355,7 @@
         "fixture": "Al-Taawoun vs Al-Nahda",
         "league_id": 9469,
         "league": "AFC Champions League Two - A",
-        "venue": "Al Taawoun Club Stadium",
+        "venue": "King Abdullah Sport City Stadium",
         "tv_channels": []
     },
     {
@@ -2295,12 +2205,210 @@
         "tv_channels": []
     },
     {
+        "match_id": 6139561,
+        "kickoff": 1795532400,
+        "fixture": "Brazil U17 vs Tanzania U17",
+        "league_id": 306,
+        "league": "World Cup U17 - I",
+        "venue": "ASPIRE Academy Pitch 2",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6139100,
+        "kickoff": 1795620600,
+        "fixture": "Australia U17 vs Mozambique U17",
+        "league_id": 306,
+        "league": "World Cup U17 - I",
+        "venue": "Aspire Zone Pitch 8",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6139099,
+        "kickoff": 1795620600,
+        "fixture": "Denmark U17 vs Argentina U17",
+        "league_id": 306,
+        "league": "World Cup U17 - I",
+        "venue": "ASPIRE Academy Pitch 7",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6139568,
+        "kickoff": 1795534200,
+        "fixture": "Algeria U17 vs Montenegro U17",
+        "league_id": 306,
+        "league": "World Cup U17 - J",
+        "venue": "ASPIRE Academy Pitch 7",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6139100,
+        "kickoff": 1795620600,
+        "fixture": "Australia U17 vs Mozambique U17",
+        "league_id": 306,
+        "league": "World Cup U17 - J",
+        "venue": "Aspire Zone Pitch 8",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6139099,
+        "kickoff": 1795620600,
+        "fixture": "Denmark U17 vs Argentina U17",
+        "league_id": 306,
+        "league": "World Cup U17 - J",
+        "venue": "ASPIRE Academy Pitch 7",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6139585,
+        "kickoff": 1795534200,
+        "fixture": "Honduras U17 vs Colombia U17",
+        "league_id": 306,
+        "league": "World Cup U17 - L",
+        "venue": "Aspire Zone Pitch 8",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6139100,
+        "kickoff": 1795620600,
+        "fixture": "Australia U17 vs Mozambique U17",
+        "league_id": 306,
+        "league": "World Cup U17 - L",
+        "venue": "Aspire Zone Pitch 8",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6139099,
+        "kickoff": 1795620600,
+        "fixture": "Denmark U17 vs Argentina U17",
+        "league_id": 306,
+        "league": "World Cup U17 - L",
+        "venue": "ASPIRE Academy Pitch 7",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6139082,
+        "kickoff": 1795609800,
+        "fixture": "Ecuador U17 vs South Korea U17",
+        "league_id": 306,
+        "league": "World Cup U17 - B",
+        "venue": "ASPIRE Academy Pitch 4",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6139083,
+        "kickoff": 1795609800,
+        "fixture": "Uganda U17 vs New Caledonia U17",
+        "league_id": 306,
+        "league": "World Cup U17 - B",
+        "venue": "Aspire Zone Pitch 9",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6139100,
+        "kickoff": 1795620600,
+        "fixture": "Australia U17 vs Mozambique U17",
+        "league_id": 306,
+        "league": "World Cup U17 - B",
+        "venue": "Aspire Zone Pitch 8",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6139099,
+        "kickoff": 1795620600,
+        "fixture": "Denmark U17 vs Argentina U17",
+        "league_id": 306,
+        "league": "World Cup U17 - B",
+        "venue": "ASPIRE Academy Pitch 7",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6139107,
+        "kickoff": 1795613400,
+        "fixture": "Haiti U17 vs Saudi Arabia U17",
+        "league_id": 306,
+        "league": "World Cup U17 - D",
+        "venue": "ASPIRE Academy Pitch 1",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6139106,
+        "kickoff": 1795613400,
+        "fixture": "Uruguay U17 vs France U17",
+        "league_id": 306,
+        "league": "World Cup U17 - D",
+        "venue": "ASPIRE Academy Pitch 5",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6139100,
+        "kickoff": 1795620600,
+        "fixture": "Australia U17 vs Mozambique U17",
+        "league_id": 306,
+        "league": "World Cup U17 - D",
+        "venue": "Aspire Zone Pitch 8",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6139099,
+        "kickoff": 1795620600,
+        "fixture": "Denmark U17 vs Argentina U17",
+        "league_id": 306,
+        "league": "World Cup U17 - D",
+        "venue": "ASPIRE Academy Pitch 7",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6139076,
+        "kickoff": 1795617000,
+        "fixture": "Greece U17 vs Qatar U17",
+        "league_id": 306,
+        "league": "World Cup U17 - A",
+        "venue": "ASPIRE Academy Pitch 2",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6139077,
+        "kickoff": 1795617000,
+        "fixture": "Panama U17 vs Egypt U17",
+        "league_id": 306,
+        "league": "World Cup U17 - A",
+        "venue": "ASPIRE Academy Pitch 3",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6139100,
+        "kickoff": 1795620600,
+        "fixture": "Australia U17 vs Mozambique U17",
+        "league_id": 306,
+        "league": "World Cup U17 - A",
+        "venue": "Aspire Zone Pitch 8",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6139099,
+        "kickoff": 1795620600,
+        "fixture": "Denmark U17 vs Argentina U17",
+        "league_id": 306,
+        "league": "World Cup U17 - A",
+        "venue": "ASPIRE Academy Pitch 7",
+        "tv_channels": []
+    },
+    {
         "match_id": 6387570,
         "kickoff": 1795629600,
         "fixture": "Huelva (W) vs Levante Badalona (W)",
         "league_id": 10651,
         "league": "Copa de la Reina",
         "venue": "Estadio Antonio Toledo Sánchez",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6505592,
+        "kickoff": 1795626000,
+        "fixture": "NK Bravo vs Odranci",
+        "league_id": 174,
+        "league": "Cup",
+        "venue": "TBA",
         "tv_channels": []
     },
     {
@@ -2400,24 +2508,6 @@
         "league_id": 9138,
         "league": "Segunda Federacion - Group 3",
         "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6139100,
-        "kickoff": 1795620600,
-        "fixture": "Australia U17 vs Mozambique U17",
-        "league_id": 306,
-        "league": "World Cup U17 Grp. C",
-        "venue": "Aspire Zone Pitch 8",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6139099,
-        "kickoff": 1795620600,
-        "fixture": "Denmark U17 vs Argentina U17",
-        "league_id": 306,
-        "league": "World Cup U17 Grp. C",
-        "venue": "ASPIRE Academy Pitch 7",
         "tv_channels": []
     }
 ]

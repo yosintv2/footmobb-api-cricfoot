@@ -90,6 +90,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 6505592,
+        "kickoff": 1795626000,
+        "fixture": "NK Bravo vs Odranci",
+        "league_id": 174,
+        "league": "Cup",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 6628833,
         "kickoff": 1795640400,
         "fixture": "Danubio vs Juventud de las Piedras",
@@ -315,60 +324,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 6139100,
-        "kickoff": 1795620600,
-        "fixture": "Australia U17 vs Mozambique U17",
-        "league_id": 306,
-        "league": "World Cup U17 Grp. C",
-        "venue": "Aspire Zone Pitch 8",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6139099,
-        "kickoff": 1795620600,
-        "fixture": "Denmark U17 vs Argentina U17",
-        "league_id": 306,
-        "league": "World Cup U17 Grp. C",
-        "venue": "ASPIRE Academy Pitch 7",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6139551,
-        "kickoff": 1795698000,
-        "fixture": "New Zealand U17 vs Belgium U17",
-        "league_id": 306,
-        "league": "World Cup U17 Grp. G",
-        "venue": "ASPIRE Academy Pitch 4",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6139550,
-        "kickoff": 1795698000,
-        "fixture": "Vietnam U17 vs Mali U17",
-        "league_id": 306,
-        "league": "World Cup U17 Grp. G",
-        "venue": "Aspire Zone Pitch 9",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6139116,
-        "kickoff": 1795701600,
-        "fixture": "Jamaica U17 vs Ivory Coast U17",
-        "league_id": 306,
-        "league": "World Cup U17 Grp. E",
-        "venue": "ASPIRE Academy Pitch 1",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6139115,
-        "kickoff": 1795701600,
-        "fixture": "Uzbekistan U17 vs Italy U17",
-        "league_id": 306,
-        "league": "World Cup U17 Grp. E",
-        "venue": "ASPIRE Academy Pitch 5",
-        "tv_channels": []
-    },
-    {
         "match_id": 6054381,
         "kickoff": 1795622400,
         "fixture": "Kuwait SC vs Al-Wahda",
@@ -410,7 +365,7 @@
         "fixture": "Al-Taawoun vs Al-Nahda",
         "league_id": 9469,
         "league": "AFC Champions League Two - C",
-        "venue": "Al Taawoun Club Stadium",
+        "venue": "King Abdullah Sport City Stadium",
         "tv_channels": []
     },
     {
@@ -792,6 +747,114 @@
         "tv_channels": []
     },
     {
+        "match_id": 6139100,
+        "kickoff": 1795620600,
+        "fixture": "Australia U17 vs Mozambique U17",
+        "league_id": 306,
+        "league": "World Cup U17 - C",
+        "venue": "Aspire Zone Pitch 8",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6139099,
+        "kickoff": 1795620600,
+        "fixture": "Denmark U17 vs Argentina U17",
+        "league_id": 306,
+        "league": "World Cup U17 - C",
+        "venue": "ASPIRE Academy Pitch 7",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6139535,
+        "kickoff": 1795708800,
+        "fixture": "Croatia U17 vs Cuba U17",
+        "league_id": 306,
+        "league": "World Cup U17 - C",
+        "venue": "Aspire Zone Pitch 8",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6139534,
+        "kickoff": 1795708800,
+        "fixture": "Tajikistan U17 vs Senegal U17",
+        "league_id": 306,
+        "league": "World Cup U17 - C",
+        "venue": "ASPIRE Academy Pitch 7",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6139551,
+        "kickoff": 1795698000,
+        "fixture": "New Zealand U17 vs Belgium U17",
+        "league_id": 306,
+        "league": "World Cup U17 - G",
+        "venue": "ASPIRE Academy Pitch 4",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6139550,
+        "kickoff": 1795698000,
+        "fixture": "Vietnam U17 vs Mali U17",
+        "league_id": 306,
+        "league": "World Cup U17 - G",
+        "venue": "Aspire Zone Pitch 9",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6139535,
+        "kickoff": 1795708800,
+        "fixture": "Croatia U17 vs Cuba U17",
+        "league_id": 306,
+        "league": "World Cup U17 - G",
+        "venue": "Aspire Zone Pitch 8",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6139534,
+        "kickoff": 1795708800,
+        "fixture": "Tajikistan U17 vs Senegal U17",
+        "league_id": 306,
+        "league": "World Cup U17 - G",
+        "venue": "ASPIRE Academy Pitch 7",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6139116,
+        "kickoff": 1795701600,
+        "fixture": "Jamaica U17 vs Ivory Coast U17",
+        "league_id": 306,
+        "league": "World Cup U17 - E",
+        "venue": "ASPIRE Academy Pitch 1",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6139115,
+        "kickoff": 1795701600,
+        "fixture": "Uzbekistan U17 vs Italy U17",
+        "league_id": 306,
+        "league": "World Cup U17 - E",
+        "venue": "ASPIRE Academy Pitch 5",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6139535,
+        "kickoff": 1795708800,
+        "fixture": "Croatia U17 vs Cuba U17",
+        "league_id": 306,
+        "league": "World Cup U17 - E",
+        "venue": "Aspire Zone Pitch 8",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6139534,
+        "kickoff": 1795708800,
+        "fixture": "Tajikistan U17 vs Senegal U17",
+        "league_id": 306,
+        "league": "World Cup U17 - E",
+        "venue": "ASPIRE Academy Pitch 7",
+        "tv_channels": []
+    },
+    {
         "match_id": 6112357,
         "kickoff": 1795715100,
         "fixture": "Beşiktaş vs Hapoel Beer Sheva",
@@ -1122,42 +1185,6 @@
         "league_id": 85,
         "league": "1. Division",
         "venue": "Aalborg Portland Park",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6139558,
-        "kickoff": 1795705200,
-        "fixture": "China U17 vs Fiji U17",
-        "league_id": 306,
-        "league": "World Cup U17 Grp. H",
-        "venue": "ASPIRE Academy Pitch 3",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6139557,
-        "kickoff": 1795705200,
-        "fixture": "Morocco U17 vs Spain U17",
-        "league_id": 306,
-        "league": "World Cup U17 Grp. H",
-        "venue": "ASPIRE Academy Pitch 2",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6139535,
-        "kickoff": 1795708800,
-        "fixture": "Croatia U17 vs Cuba U17",
-        "league_id": 306,
-        "league": "World Cup U17 Grp. F",
-        "venue": "Aspire Zone Pitch 8",
-        "tv_channels": []
-    },
-    {
-        "match_id": 6139534,
-        "kickoff": 1795708800,
-        "fixture": "Tajikistan U17 vs Senegal U17",
-        "league_id": 306,
-        "league": "World Cup U17 Grp. F",
-        "venue": "ASPIRE Academy Pitch 7",
         "tv_channels": []
     },
     {
