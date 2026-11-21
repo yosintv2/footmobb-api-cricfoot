@@ -164,7 +164,7 @@
     {
         "match_id": 6665006,
         "kickoff": 1795381200,
-        "fixture": "Nashville SC vs Orlando City/FC Cincinnati",
+        "fixture": "Nashville SC vs FC Cincinnati",
         "league_id": 130,
         "league": "Major League Soccer Playoff",
         "venue": "GEODIS Park",
@@ -1593,15 +1593,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 6690249,
-        "kickoff": 1795381200,
-        "fixture": "Tauro FC vs CD Plaza Amador",
-        "league_id": 9039,
-        "league": "LPF Apertura",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 6594718,
         "kickoff": 1795343400,
         "fixture": "Viimsi JK vs FC Kuressaare",
@@ -2097,15 +2088,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 6103188,
-        "kickoff": 1795273200,
-        "fixture": "Rivers United FC vs Niger Tornadoes",
-        "league_id": 533,
-        "league": "NPFL",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 6103189,
         "kickoff": 1795284000,
         "fixture": "Sporting Lagos vs Kwara United",
@@ -2169,12 +2151,30 @@
         "tv_channels": []
     },
     {
+        "match_id": 6103186,
+        "kickoff": 1795359600,
+        "fixture": "Ranchers Bees vs Plateau United",
+        "league_id": 533,
+        "league": "NPFL",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6103188,
+        "kickoff": 1795359600,
+        "fixture": "Rivers United FC vs Niger Tornadoes",
+        "league_id": 533,
+        "league": "NPFL",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 6663662,
         "kickoff": 1795309200,
-        "fixture": "Kansas City Current (W) vs Washington Spirit (W)",
+        "fixture": "Washington Spirit (W) vs Kansas City Current (W)",
         "league_id": 9134,
         "league": "NWSL Playoff",
-        "venue": "TBA",
+        "venue": "Audi Field",
         "tv_channels": []
     },
     {
@@ -2259,21 +2259,21 @@
         "tv_channels": []
     },
     {
-        "match_id": 5215581,
-        "kickoff": 1795345200,
-        "fixture": "Isloch vs Torpedo Zhodino",
-        "league_id": 263,
-        "league": "Premier League",
-        "venue": "FC Minsk Stadium",
-        "tv_channels": []
-    },
-    {
         "match_id": 5215577,
         "kickoff": 1795356000,
         "fixture": "Dinamo Minsk vs FC Minsk",
         "league_id": 263,
         "league": "Premier League",
         "venue": "Dinamo Stadion, Minsk",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5215581,
+        "kickoff": 1795356000,
+        "fixture": "Isloch vs Torpedo Zhodino",
+        "league_id": 263,
+        "league": "Premier League",
+        "venue": "FC Minsk Stadium",
         "tv_channels": []
     },
     {
@@ -2903,7 +2903,7 @@
         "fixture": "Ciudad de Bolívar vs Atlanta",
         "league_id": 8965,
         "league": "Primera Nacional Promotion Playoff",
-        "venue": "TBA",
+        "venue": "Estadio Municipal Eva Perón",
         "tv_channels": []
     },
     {
@@ -2912,7 +2912,16 @@
         "fixture": "Colón vs Deportivo Morón",
         "league_id": 8965,
         "league": "Primera Nacional Promotion Playoff",
-        "venue": "TBA",
+        "venue": "Estadio Brigadier General Estanislao López",
+        "tv_channels": []
+    },
+    {
+        "match_id": 6702465,
+        "kickoff": 1795307400,
+        "fixture": "Gimnasia Jujuy vs Deportivo Madryn",
+        "league_id": 8965,
+        "league": "Primera Nacional Promotion Playoff",
+        "venue": "Estadio 23 de Agosto",
         "tv_channels": []
     },
     {
@@ -3852,18 +3861,18 @@
         "tv_channels": []
     },
     {
-        "match_id": 6140271,
-        "kickoff": 1795352400,
-        "fixture": "Olympiacos B vs Kalamaria",
+        "match_id": 6140275,
+        "kickoff": 1795348800,
+        "fixture": "Zakynthos APS vs Panserraikos FC",
         "league_id": 8815,
         "league": "Super League 2",
         "venue": "TBA",
         "tv_channels": []
     },
     {
-        "match_id": 6140275,
+        "match_id": 6140271,
         "kickoff": 1795352400,
-        "fixture": "Zakynthos APS vs Panserraikos FC",
+        "fixture": "Olympiacos B vs Kalamaria",
         "league_id": 8815,
         "league": "Super League 2",
         "venue": "TBA",
@@ -5158,7 +5167,7 @@
     },
     {
         "match_id": 1000024444,
-        "kickoff": 1795303800,
+        "kickoff": 1795305600,
         "fixture": "Deportes Copiapó vs Antofagasta",
         "league_id": 9126,
         "league": "Primera B - Promotion Play-offs - 1st Round",
@@ -5253,6 +5262,15 @@
         "league_id": 144,
         "league": "Primera División",
         "venue": "Estadio Víctor Agustín Ugarte de Potosí",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000022587,
+        "kickoff": 1795296600,
+        "fixture": "Carabobo FC vs Portuguesa FC",
+        "league_id": 339,
+        "league": "Primera División",
+        "venue": "Estadio Polideportivo Misael Delgado",
         "tv_channels": []
     },
     {
@@ -5643,15 +5661,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 1000022417,
-        "kickoff": 1795305600,
-        "fixture": "Rossvale FC (W) vs Gartcairn (W)",
-        "league_id": 11020,
-        "league": "SWF Scottish Cup - 3rd Round",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 1000022408,
         "kickoff": 1795348800,
         "fixture": "Dunipace (W) vs Montrose (W)",
@@ -5748,6 +5757,15 @@
         "league_id": 11020,
         "league": "SWF Scottish Cup - 3rd Round",
         "venue": "Ochilview Park",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000022417,
+        "kickoff": 1795356900,
+        "fixture": "Rossvale FC (W) vs Gartcairn (W)",
+        "league_id": 11020,
+        "league": "SWF Scottish Cup - 3rd Round",
+        "venue": "Huntershill Sports Hub",
         "tv_channels": []
     },
     {
@@ -5986,7 +6004,7 @@
     },
     {
         "match_id": 6683956,
-        "kickoff": 1795370400,
+        "kickoff": 1795377600,
         "fixture": "Douglas Haig vs Olimpo",
         "league_id": 9213,
         "league": "Federal A Promotion Playoff",

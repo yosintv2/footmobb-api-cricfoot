@@ -173,10 +173,10 @@
     {
         "match_id": 6665009,
         "kickoff": 1795908600,
-        "fixture": "Orlando City/FC Cincinnati vs Nashville SC",
+        "fixture": "FC Cincinnati vs Nashville SC",
         "league_id": 130,
         "league": "Major League Soccer Playoff",
-        "venue": "TBA",
+        "venue": "TQL Stadium",
         "tv_channels": []
     },
     {
@@ -599,7 +599,7 @@
         "fixture": "Petro Atlético vs FC Nouadhibou",
         "league_id": 526,
         "league": "CAF Champions League Grp. A",
-        "venue": "TBA",
+        "venue": "Estádio 11 de Novembro",
         "tv_channels": []
     },
     {
@@ -626,7 +626,7 @@
         "fixture": "Al Hilal Omdurman vs Horoya AC",
         "league_id": 526,
         "league": "CAF Champions League Grp. D",
-        "venue": "TBA",
+        "venue": "Stade Amahoro",
         "tv_channels": []
     },
     {
@@ -644,7 +644,7 @@
         "fixture": "Simba SC vs Orlando Pirates",
         "league_id": 526,
         "league": "CAF Champions League Grp. C",
-        "venue": "TBA",
+        "venue": "Uhuru Stadium",
         "tv_channels": []
     },
     {
@@ -1062,15 +1062,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5897684,
-        "kickoff": 1795881600,
-        "fixture": "Leningradets vs Volga Ulyanovsk",
-        "league_id": 338,
-        "league": "First League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 5897689,
         "kickoff": 1795881600,
         "fixture": "Tekstilshchik vs FC Yenisey Krasnoyarsk",
@@ -1080,9 +1071,27 @@
         "tv_channels": []
     },
     {
+        "match_id": 5897684,
+        "kickoff": 1795950000,
+        "fixture": "Leningradets vs Volga Ulyanovsk",
+        "league_id": 338,
+        "league": "First League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5897691,
-        "kickoff": 1795881600,
+        "kickoff": 1795950000,
         "fixture": "Veles Moscow vs FC Ufa",
+        "league_id": 338,
+        "league": "First League",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5897686,
+        "kickoff": 1795953600,
+        "fixture": "FC Rotor Volgograd vs KamAZ",
         "league_id": 338,
         "league": "First League",
         "venue": "TBA",
@@ -1092,15 +1101,6 @@
         "match_id": 5897685,
         "kickoff": 1795953600,
         "fixture": "Neftekhimik vs Nizhny Novgorod",
-        "league_id": 338,
-        "league": "First League",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5897686,
-        "kickoff": 1795957200,
-        "fixture": "FC Rotor Volgograd vs KamAZ",
         "league_id": 338,
         "league": "First League",
         "venue": "TBA",
@@ -3168,6 +3168,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 6702466,
+        "kickoff": 1795899600,
+        "fixture": "Deportivo Madryn vs Gimnasia Jujuy",
+        "league_id": 8965,
+        "league": "Primera Nacional Promotion Playoff",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 6672244,
         "kickoff": 1795899600,
         "fixture": "Deportivo Morón vs Colón",
@@ -3501,6 +3510,15 @@
         "tv_channels": []
     },
     {
+        "match_id": 5884586,
+        "kickoff": 1795881600,
+        "fixture": "Arnedo vs Reus",
+        "league_id": 9138,
+        "league": "Segunda Federacion - Group 2",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 5884589,
         "kickoff": 1795883400,
         "fixture": "Barça Atlètic vs Terrassa",
@@ -3537,15 +3555,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 5884586,
-        "kickoff": 1795966200,
-        "fixture": "Arnedo vs Reus",
-        "league_id": 9138,
-        "league": "Segunda Federacion - Group 2",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 5884587,
         "kickoff": 1795968000,
         "fixture": "CE Manresa vs Girona B",
@@ -3576,6 +3585,15 @@
         "match_id": 6147379,
         "kickoff": 1795878000,
         "fixture": "Murcia B vs Castellón B",
+        "league_id": 9138,
+        "league": "Segunda Federacion - Group 3",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
+        "match_id": 5884926,
+        "kickoff": 1795883400,
+        "fixture": "Poblense vs Mallorca B",
         "league_id": 9138,
         "league": "Segunda Federacion - Group 3",
         "venue": "TBA",
@@ -3639,15 +3657,6 @@
         "match_id": 5884912,
         "kickoff": 1795949100,
         "fixture": "Castellonense vs Elche Ilicitano",
-        "league_id": 9138,
-        "league": "Segunda Federacion - Group 3",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 5884926,
-        "kickoff": 1795950000,
-        "fixture": "Poblense vs Mallorca B",
         "league_id": 9138,
         "league": "Segunda Federacion - Group 3",
         "venue": "TBA",
@@ -4532,7 +4541,7 @@
         "fixture": "Muğlaspor vs Mardin 1969 Spor",
         "league_id": 165,
         "league": "1. Lig",
-        "venue": "Muğla Atatürk Stadyumu",
+        "venue": "TBA",
         "tv_channels": []
     },
     {
@@ -4956,6 +4965,15 @@
         "league_id": 9545,
         "league": "Highland League",
         "venue": "Princess Royal Park",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000012698,
+        "kickoff": 1795878000,
+        "fixture": "Rothes vs Strathspey Thistle",
+        "league_id": 9545,
+        "league": "Highland League",
+        "venue": "MacKessack Park",
         "tv_channels": []
     },
     {
@@ -5495,7 +5513,16 @@
         "fixture": "Santa Fe vs Atlético Nacional",
         "league_id": 274,
         "league": "Primera A",
-        "venue": "TBA",
+        "venue": "Estadio Nemesio Camacho El Campín",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000024631,
+        "kickoff": 1795901400,
+        "fixture": "Deportes Quindío vs Boca Juniors de Cali",
+        "league_id": 9125,
+        "league": "Primera B - Clausura - Final",
+        "venue": "Estadio Centenario de Armenia",
         "tv_channels": []
     },
     {
@@ -5505,42 +5532,6 @@
         "league_id": 9126,
         "league": "Primera B - Promotion Play-offs - 1st Round",
         "venue": "Estadio Municipal Luis Navarro Avilés",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000022397,
-        "kickoff": 1795892400,
-        "fixture": "GV San José vs Real Potosí",
-        "league_id": 144,
-        "league": "Primera División",
-        "venue": "Estadio Jesús Bermúdez",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000022398,
-        "kickoff": 1795900500,
-        "fixture": "Guabirá vs Universitario de Vinto",
-        "league_id": 144,
-        "league": "Primera División",
-        "venue": "Estadio Gilberto Parada",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000022399,
-        "kickoff": 1795908600,
-        "fixture": "Nacional Potosí vs Oriente Petrolero",
-        "league_id": 144,
-        "league": "Primera División",
-        "venue": "Estadio Víctor Agustín Ugarte de Potosí",
-        "tv_channels": []
-    },
-    {
-        "match_id": 1000022400,
-        "kickoff": 1795978800,
-        "fixture": "Aurora vs The Strongest",
-        "league_id": 144,
-        "league": "Primera División",
-        "venue": "Estadio Félix Capriles",
         "tv_channels": []
     },
     {
@@ -5577,6 +5568,42 @@
         "league_id": 273,
         "league": "Primera División",
         "venue": "Claro Arena",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000022397,
+        "kickoff": 1795892400,
+        "fixture": "GV San José vs Real Potosí",
+        "league_id": 144,
+        "league": "Primera División",
+        "venue": "Estadio Jesús Bermúdez",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000022398,
+        "kickoff": 1795900500,
+        "fixture": "Guabirá vs Universitario de Vinto",
+        "league_id": 144,
+        "league": "Primera División",
+        "venue": "Estadio Gilberto Parada",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000022399,
+        "kickoff": 1795908600,
+        "fixture": "Nacional Potosí vs Oriente Petrolero",
+        "league_id": 144,
+        "league": "Primera División",
+        "venue": "Estadio Víctor Agustín Ugarte de Potosí",
+        "tv_channels": []
+    },
+    {
+        "match_id": 1000022400,
+        "kickoff": 1795978800,
+        "fixture": "Aurora vs The Strongest",
+        "league_id": 144,
+        "league": "Primera División",
+        "venue": "Estadio Félix Capriles",
         "tv_channels": []
     },
     {
@@ -6103,7 +6130,7 @@
     },
     {
         "match_id": 5975113,
-        "kickoff": 1795966200,
+        "kickoff": 1795964400,
         "fixture": "Aduana Stars vs Dreams FC",
         "league_id": 522,
         "league": "Premier League",
@@ -6112,7 +6139,7 @@
     },
     {
         "match_id": 5975120,
-        "kickoff": 1795966200,
+        "kickoff": 1795964400,
         "fixture": "All Blacks vs Bechem United",
         "league_id": 522,
         "league": "Premier League",
@@ -6121,7 +6148,7 @@
     },
     {
         "match_id": 5975114,
-        "kickoff": 1795966200,
+        "kickoff": 1795964400,
         "fixture": "Asante Kotoko SC vs Hearts of Oak",
         "league_id": 522,
         "league": "Premier League",
@@ -6130,7 +6157,7 @@
     },
     {
         "match_id": 5975115,
-        "kickoff": 1795966200,
+        "kickoff": 1795964400,
         "fixture": "Ashanti Gold vs Berekum Chelsea",
         "league_id": 522,
         "league": "Premier League",
@@ -6139,7 +6166,7 @@
     },
     {
         "match_id": 5975116,
-        "kickoff": 1795966200,
+        "kickoff": 1795964400,
         "fixture": "Debibi vs Holy Stars",
         "league_id": 522,
         "league": "Premier League",
@@ -6148,7 +6175,7 @@
     },
     {
         "match_id": 5975117,
-        "kickoff": 1795966200,
+        "kickoff": 1795964400,
         "fixture": "Heart of Lions vs Vision FC",
         "league_id": 522,
         "league": "Premier League",
@@ -6157,7 +6184,7 @@
     },
     {
         "match_id": 5975118,
-        "kickoff": 1795966200,
+        "kickoff": 1795964400,
         "fixture": "Medeama SC vs Karela United",
         "league_id": 522,
         "league": "Premier League",
@@ -6166,7 +6193,7 @@
     },
     {
         "match_id": 5975119,
-        "kickoff": 1795966200,
+        "kickoff": 1795964400,
         "fixture": "Samartex vs Port City",
         "league_id": 522,
         "league": "Premier League",
@@ -6175,7 +6202,7 @@
     },
     {
         "match_id": 5975121,
-        "kickoff": 1795966200,
+        "kickoff": 1795964400,
         "fixture": "Young Apostles vs Bibiani Gold Stars",
         "league_id": 522,
         "league": "Premier League",
